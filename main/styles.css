@@ -1,0 +1,186 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f0f4f8;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: fill;
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card-content h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.card-content h2 {
+  margin: 10px 0;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background-color: #fff;
+  margin: 15% auto;
+  padding: 2rem;
+  border-radius: 10px;
+  width: 50%;
+  position: relative;
+  text-align: center;
+}
+
+.close-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+#category {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.option-button {
+  background-color: #4caf50; /* Green */
+  color: white;
+  border: 2px solid #388e3c;
+  padding: 12px 24px;
+  margin: 10px 0;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 12px 11px 6px rgba(110, 2, 2, 0.2);
+  transition: all 0.3s ease;
+  width: 70%; /* Make buttons a little wide */
+  max-width: 300px; /* but not too wide */
+  text-align: center;
+}
+
+.option-button:hover {
+  background-color: #45a049;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+}
+
+#questions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#questions .answer-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  background-color: #4c5caf; /* Green */
+  color: white;
+  border: 2px solid #3d3973;
+  padding: 12px 24px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 12px 11px 6px rgba(51, 106, 137, 0.2);
+  transition: all 0.3s ease;
+  width: 70%; /* Make buttons a little wide */
+  max-width: 300px; /* but not too wide */
+  text-align: center;
+}
+
+#questions .nav-buttons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#questions .nav-buttons .previous-button{
+  margin: 20px;
+  background-color: #18c1d4; /* Green */
+  color: white;
+  border: 2px solid #3d3973;
+  padding: 12px 24px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 12px 11px 6px rgba(51, 106, 137, 0.2);
+  transition: all 0.3s ease;
+  width: 70%; /* Make buttons a little wide */
+  max-width: 300px; /* but not too wide */
+  text-align: center;
+}
+
+#questions .nav-buttons .next-button{
+  margin: 20px;
+  background-color: #18c1d4; /* Green */
+  color: white;
+  border: 2px solid #3d3973;
+  padding: 12px 24px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 12px 11px 6px rgba(51, 106, 137, 0.2);
+  transition: all 0.3s ease;
+  width: 70%; /* Make buttons a little wide */
+  max-width: 300px; /* but not too wide */
+  text-align: center;
+}
+
+.question{
+  font-size: x-large;
+  font-family:cursive;
+}

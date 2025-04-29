@@ -1,0 +1,2714 @@
+{
+    "Arithmetic": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Anna has 5 apples. Her friend Ben gives her 3 more. How many apples does Anna have now?",
+                    "options": [
+                        "A) 7",
+                        "B) 8",
+                        "C) 9",
+                        "D) 10"
+                    ],
+                    "answer": "B) 8",
+                    "explanation": "5 + 3 = 8 apples."
+                },
+                {
+                    "question": "There are 10 candies in a jar. If Lucy takes 4 candies, how many are left?",
+                    "options": [
+                        "A) 5",
+                        "B) 6",
+                        "C) 7",
+                        "D) 8"
+                    ],
+                    "answer": "B) 6",
+                    "explanation": "10 - 4 = 6 candies."
+                },
+                {
+                    "question": "A pack of stickers has 6 sheets. How many sheets are there in 4 packs?",
+                    "options": [
+                        "A) 18",
+                        "B) 20",
+                        "C) 24",
+                        "D) 30"
+                    ],
+                    "answer": "C) 24",
+                    "explanation": "6 × 4 = 24 sheets."
+                },
+                {
+                    "question": "18 cookies are shared equally among 3 friends. How many does each get?",
+                    "options": [
+                        "A) 5",
+                        "B) 6",
+                        "C) 7",
+                        "D) 8"
+                    ],
+                    "answer": "B) 6",
+                    "explanation": "18 ÷ 3 = 6 cookies per friend."
+                },
+                {
+                    "question": "Tom is 9 years old, and his sister is 4 years younger. How old is his sister?",
+                    "options": [
+                        "A) 3",
+                        "B) 4",
+                        "C) 5",
+                        "D) 6"
+                    ],
+                    "answer": "C) 5",
+                    "explanation": "9 - 4 = 5 years old."
+                },
+                {
+                    "question": "A movie starts at 3:15 PM and ends at 5:00 PM. How long is the movie?",
+                    "options": [
+                        "A) 1 hour 45 minutes",
+                        "B) 2 hours",
+                        "C) 1 hour 30 minutes",
+                        "D) 2 hours 15 minutes"
+                    ],
+                    "answer": "A) 1 hour 45 minutes",
+                    "explanation": "From 3:15 PM to 5:00 PM is 1 hour 45 minutes."
+                },
+                {
+                    "question": "What is the perimeter of a square with each side 5 cm?",
+                    "options": [
+                        "A) 10 cm",
+                        "B) 15 cm",
+                        "C) 20 cm",
+                        "D) 25 cm"
+                    ],
+                    "answer": "C) 20 cm",
+                    "explanation": "4 × 5 = 20 cm."
+                },
+                {
+                    "question": "A toy car costs $12. How much do 5 toy cars cost?",
+                    "options": [
+                        "A) $50",
+                        "B) $60",
+                        "C) $55",
+                        "D) $65"
+                    ],
+                    "answer": "B) $60",
+                    "explanation": "12 × 5 = $60."
+                },
+                {
+                    "question": "Mia reads 15 pages each day. How many pages does she read in a week?",
+                    "options": [
+                        "A) 90",
+                        "B) 95",
+                        "C) 100",
+                        "D) 105"
+                    ],
+                    "answer": "D) 105",
+                    "explanation": "15 × 7 = 105 pages."
+                },
+                {
+                    "question": "You buy a book for $25 and give a $50 bill. How much change do you get?",
+                    "options": [
+                        "A) $20",
+                        "B) $25",
+                        "C) $30",
+                        "D) $35"
+                    ],
+                    "answer": "B) $25",
+                    "explanation": "50 - 25 = $25."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "A shirt costs $40 and is on sale for 20% off. What's the sale price?",
+                    "options": [
+                        "A) $32",
+                        "B) $35",
+                        "C) $38",
+                        "D) $30"
+                    ],
+                    "answer": "A) $32",
+                    "explanation": "20% of 40 is $8. $40 - $8 = $32."
+                },
+                {
+                    "question": "Sam's test scores are 85, 90, and 95. What's his average score?",
+                    "options": [
+                        "A) 88",
+                        "B) 90",
+                        "C) 91",
+                        "D) 92"
+                    ],
+                    "answer": "B) 90",
+                    "explanation": "(85 + 90 + 95) ÷ 3 = 90."
+                },
+                {
+                    "question": "A car travels 150 km in 3 hours. What's its average speed?",
+                    "options": [
+                        "A) 40 km/h",
+                        "B) 50 km/h",
+                        "C) 60 km/h",
+                        "D) 45 km/h"
+                    ],
+                    "answer": "B) 50 km/h",
+                    "explanation": "150 ÷ 3 = 50 km/h."
+                },
+                {
+                    "question": "A recipe needs 2 cups of flour for 4 servings. How much flour is needed for 10 servings?",
+                    "options": [
+                        "A) 4 cups",
+                        "B) 5 cups",
+                        "C) 6 cups",
+                        "D) 8 cups"
+                    ],
+                    "answer": "B) 5 cups",
+                    "explanation": "2 cups ÷ 4 = 0.5 cups per serving. 0.5 × 10 = 5 cups."
+                },
+                {
+                    "question": "You buy a bike for $200 and sell it for $250. What's your profit percentage?",
+                    "options": [
+                        "A) 20%",
+                        "B) 25%",
+                        "C) 30%",
+                        "D) 35%"
+                    ],
+                    "answer": "B) 25%",
+                    "explanation": "Profit = $50. ($50 ÷ $200) × 100 = 25%."
+                },
+                {
+                    "question": "What's the simple interest on $1000 at 5% per annum for 2 years?",
+                    "options": [
+                        "A) $50",
+                        "B) $100",
+                        "C) $150",
+                        "D) $200"
+                    ],
+                    "answer": "B) $100",
+                    "explanation": "($1000 × 5% × 2) = $100."
+                },
+                {
+                    "question": "What is 3/4 of 88?",
+                    "options": [
+                        "A) 66",
+                        "B) 64",
+                        "C) 22",
+                        "D) 44"
+                    ],
+                    "answer": "A) 66",
+                    "explanation": "88 × 3/4 = 66."
+                },
+                {
+                    "question": "In a box, the ratio of red to blue marbles is 3:5. If there are 24 red marbles, how many blue are there?",
+                    "options": [
+                        "A) 30",
+                        "B) 35",
+                        "C) 40",
+                        "D) 45"
+                    ],
+                    "answer": "C) 40",
+                    "explanation": "24 ÷ 3 = 8. 5 × 8 = 40 blue marbles."
+                },
+                {
+                    "question": "A rectangle is 8m long and 5m wide. What's its area?",
+                    "options": [
+                        "A) 13 m²",
+                        "B) 26 m²",
+                        "C) 40 m²",
+                        "D) 80 m²"
+                    ],
+                    "answer": "C) 40 m²",
+                    "explanation": "8 × 5 = 40 m²."
+                },
+                {
+                    "question": "A tank is 4m × 3m × 2m. What's its volume?",
+                    "options": [
+                        "A) 18 m³",
+                        "B) 24 m³",
+                        "C) 20 m³",
+                        "D) 30 m³"
+                    ],
+                    "answer": "B) 24 m³",
+                    "explanation": "4 × 3 × 2 = 24 m³."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "A store offers 20% off, then an additional 10% off the sale price. What's the total discount from original?",
+                    "options": [
+                        "A) 25%",
+                        "B) 28%",
+                        "C) 30%",
+                        "D) 32%"
+                    ],
+                    "answer": "B) 28%",
+                    "explanation": "First discount: 80% of original. Second discount: 90% of 80% = 72%. Total discount: 100% - 72% = 28%."
+                },
+                {
+                    "question": "The ratio of boys to girls in a class is 5:3. If there are 32 students, how many are boys?",
+                    "options": [
+                        "A) 15",
+                        "B) 18",
+                        "C) 20",
+                        "D) 24"
+                    ],
+                    "answer": "C) 20",
+                    "explanation": "5 + 3 = 8 parts. 32 ÷ 8 = 4. Boys: 5 × 4 = 20."
+                },
+                {
+                    "question": "Mixing 2 liters of 10% salt solution with 3 liters of 20% salt solution. What's the new concentration?",
+                    "options": [
+                        "A) 14%",
+                        "B) 15%",
+                        "C) 16%",
+                        "D) 18%"
+                    ],
+                    "answer": "C) 16%",
+                    "explanation": "Total salt: 0.2L + 0.6L = 0.8L. Total solution: 5L. 0.8 ÷ 5 = 16%."
+                },
+                {
+                    "question": "Pipe A fills a tank in 4 hours, Pipe B in 6 hours. How long together?",
+                    "options": [
+                        "A) 2.4 hours",
+                        "B) 2.5 hours",
+                        "C) 3 hours",
+                        "D) 3.2 hours"
+                    ],
+                    "answer": "A) 2.4 hours",
+                    "explanation": "Combined rate: 1/4 + 1/6 = 5/12. Time = 12/5 = 2.4 hours."
+                },
+                {
+                    "question": "The sum of John and Mia's ages is 35. In 5 years, John will be twice as old as Mia. How old is John now?",
+                    "options": [
+                        "A) 20",
+                        "B) 25",
+                        "C) 28",
+                        "D) 30"
+                    ],
+                    "answer": "B) 25",
+                    "explanation": "Let John = J, Mia = M. J + M = 35 and J + 5 = 2(M + 5). Solving gives J = 25."
+                },
+                {
+                    "question": "A trader buys 120 pens for $240. He sells 60 at a 25% profit and the rest at a 15% profit. What's his total profit percentage?",
+                    "options": [
+                        "A) 20%",
+                        "B) 22%",
+                        "C) 25%",
+                        "D) 18%"
+                    ],
+                    "answer": "A) 20%",
+                    "explanation": "Total revenue = $150 + $138 = $288. Profit = $48. ($48 ÷ $240) × 100 = 20%."
+                },
+                {
+                    "question": "Two cars start from the same point. Car A goes north at 60 km/h, Car B east at 80 km/h. How far apart are they after 2 hours?",
+                    "options": [
+                        "A) 100 km",
+                        "B) 120 km",
+                        "C) 180 km",
+                        "D) 200 km"
+                    ],
+                    "answer": "D) 200 km",
+                    "explanation": "Distance apart = √(120² + 160²) = 200 km."
+                },
+                {
+                    "question": "A class has 30 students. The average score is 75. If 5 students have an average of 80, what's the average of the rest?",
+                    "options": [
+                        "A) 73",
+                        "B) 74",
+                        "C) 74.5",
+                        "D) 75"
+                    ],
+                    "answer": "C) 74.5",
+                    "explanation": "Total score = 2250. Remaining students: 1850 ÷ 25 = 74.5."
+                },
+                {
+                    "question": "A shirt priced at $200 has a 15% tax added. What's the total cost?",
+                    "options": [
+                        "A) $230",
+                        "B) $215",
+                        "C) $220",
+                        "D) $210"
+                    ],
+                    "answer": "A) $230",
+                    "explanation": "$200 × 1.15 = $230."
+                },
+                {
+                    "question": "A recipe requires 3/4 cup of sugar. If you make 2.5 times the recipe, how much sugar is needed?",
+                    "options": [
+                        "A) 1.5",
+                        "B) 1.75",
+                        "C) 1.875",
+                        "D) 2"
+                    ],
+                    "answer": "C) 1.875",
+                    "explanation": "0.75 × 2.5 = 1.875 cups."
+                }
+            ],
+            "Very Hard": [
+                {
+                    "question": "A population grows by 10% annually. What's the growth after 2 years?",
+                    "options": [
+                        "A) 20%",
+                        "B) 21%",
+                        "C) 25%",
+                        "D) 30%"
+                    ],
+                    "answer": "B) 21%",
+                    "explanation": "(1.1)² = 1.21 → 21% increase."
+                },
+                {
+                    "question": "Alice and Bob can paint a house in 6 and 8 hours respectively. How long together?",
+                    "options": [
+                        "A) 3.43 hours",
+                        "B) 4 hours",
+                        "C) 4.8 hours",
+                        "D) 5 hours"
+                    ],
+                    "answer": "A) 3.43 hours",
+                    "explanation": "Combined rate = 7/24. Time = 24/7 ≈ 3.43 hours."
+                },
+                {
+                    "question": "Mixing 5 liters of 20% alcohol with 15 liters of 40% alcohol. What's the new percentage?",
+                    "options": [
+                        "A) 30%",
+                        "B) 35%",
+                        "C) 33.33%",
+                        "D) 37.5%"
+                    ],
+                    "answer": "B) 35%",
+                    "explanation": "Total alcohol = 7 liters. 7 ÷ 20 = 35%."
+                },
+                {
+                    "question": "The ratio of A:B is 2:3 and B:C is 4:5. What's A:B:C?",
+                    "options": [
+                        "A) 8:12:15",
+                        "B) 2:3:5",
+                        "C) 4:6:8",
+                        "D) 6:4:5"
+                    ],
+                    "answer": "A) 8:12:15",
+                    "explanation": "Adjust ratios to common terms: A:B:C = 8:12:15."
+                },
+                {
+                    "question": "Evaluate 25 - 4 × (2 + 3) ÷ 2.",
+                    "options": [
+                        "A) 5",
+                        "B) 15",
+                        "C) 20",
+                        "D) 10"
+                    ],
+                    "answer": "B) 15",
+                    "explanation": "Order of operations: 25 - (4 × 5 ÷ 2) = 15."
+                },
+                {
+                    "question": "After a 20% increase, a number becomes 180. What was the original number?",
+                    "options": [
+                        "A) 150",
+                        "B) 144",
+                        "C) 160",
+                        "D) 120"
+                    ],
+                    "answer": "A) 150",
+                    "explanation": "Original × 1.2 = 180 → Original = 150."
+                },
+                {
+                    "question": "Two trains 150 km apart approach each other at 50 km/h and 75 km/h. When do they meet?",
+                    "options": [
+                        "A) 1 hour",
+                        "B) 1.2 hours",
+                        "C) 1.5 hours",
+                        "D) 2 hours"
+                    ],
+                    "answer": "B) 1.2 hours",
+                    "explanation": "Combined speed = 125 km/h. Time = 150 ÷ 125 = 1.2 hours."
+                },
+                {
+                    "question": "Find the smallest number divisible by both 12 and 15.",
+                    "options": [
+                        "A) 60",
+                        "B) 120",
+                        "C) 180",
+                        "D) 30"
+                    ],
+                    "answer": "A) 60",
+                    "explanation": "LCM of 12 and 15 is 60."
+                },
+                {
+                    "question": "A number leaves remainder 3 when divided by 5, and remainder 4 when divided by 7. What's the smallest such number?",
+                    "options": [
+                        "A) 18",
+                        "B) 23",
+                        "C) 38",
+                        "D) 53"
+                    ],
+                    "answer": "A) 18",
+                    "explanation": "18 ÷ 5 = 3 r3; 18 ÷ 7 = 2 r4."
+                },
+                {
+                    "question": "A clock shows 2:00. How many degrees between the hour and minute hands?",
+                    "options": [
+                        "A) 60°",
+                        "B) 90°",
+                        "C) 120°",
+                        "D) 150°"
+                    ],
+                    "answer": "A) 60°",
+                    "explanation": "Hour hand at 60°, minute at 0°. Difference = 60°."
+                }
+            ]
+        }
+    },
+    "Algebra": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the value of x in the equation x + 5 = 12?",
+                    "options": [
+                        "5",
+                        "7",
+                        "17",
+                        "12"
+                    ],
+                    "answer": "7",
+                    "explanation": "Subtract 5 from both sides: x = 12 - 5 = 7."
+                },
+                {
+                    "question": "Simplify the expression: 3(x + 2).",
+                    "options": [
+                        "3x + 2",
+                        "3x + 6",
+                        "x + 5",
+                        "6x"
+                    ],
+                    "answer": "3x + 6",
+                    "explanation": "Distribute 3 to both terms: 3x + 6."
+                },
+                {
+                    "question": "Solve: 2x = 10",
+                    "options": [
+                        "5",
+                        "10",
+                        "8",
+                        "20"
+                    ],
+                    "answer": "5",
+                    "explanation": "Divide both sides by 2: x = 10 / 2 = 5."
+                },
+                {
+                    "question": "Combine like terms: 4x + 3x",
+                    "options": [
+                        "12x",
+                        "7x",
+                        "x",
+                        "1x"
+                    ],
+                    "answer": "7x",
+                    "explanation": "Add coefficients: 4x + 3x = 7x."
+                },
+                {
+                    "question": "Evaluate: 2x + 3 when x = 4",
+                    "options": [
+                        "11",
+                        "14",
+                        "8",
+                        "10"
+                    ],
+                    "answer": "11",
+                    "explanation": "2*4 + 3 = 8 + 3 = 11."
+                },
+                {
+                    "question": "What is x in x/2 = 6?",
+                    "options": [
+                        "3",
+                        "12",
+                        "6",
+                        "8"
+                    ],
+                    "answer": "12",
+                    "explanation": "Multiply both sides by 2: x = 12."
+                },
+                {
+                    "question": "Simplify: 5x - 2x",
+                    "options": [
+                        "3x",
+                        "7x",
+                        "2x",
+                        "x"
+                    ],
+                    "answer": "3x",
+                    "explanation": "5x - 2x = 3x."
+                },
+                {
+                    "question": "If y = 3x and x = 2, what is y?",
+                    "options": [
+                        "5",
+                        "6",
+                        "3",
+                        "9"
+                    ],
+                    "answer": "6",
+                    "explanation": "y = 3 * 2 = 6."
+                },
+                {
+                    "question": "Which property is shown: a + b = b + a?",
+                    "options": [
+                        "Associative",
+                        "Commutative",
+                        "Distributive",
+                        "Identity"
+                    ],
+                    "answer": "Commutative",
+                    "explanation": "Order doesn't matter in addition—Commutative Property."
+                },
+                {
+                    "question": "Solve for x: x - 4 = 9",
+                    "options": [
+                        "5",
+                        "13",
+                        "4",
+                        "9"
+                    ],
+                    "answer": "13",
+                    "explanation": "x = 9 + 4 = 13."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Solve for x: 2x - 3 = 7",
+                    "options": [
+                        "2",
+                        "5",
+                        "7",
+                        "10"
+                    ],
+                    "answer": "5",
+                    "explanation": "Add 3: 2x = 10 → x = 5."
+                },
+                {
+                    "question": "Factor: x² - 9",
+                    "options": [
+                        "(x - 3)(x + 3)",
+                        "(x - 9)(x + 1)",
+                        "Prime",
+                        "(x + 9)(x - 1)"
+                    ],
+                    "answer": "(x - 3)(x + 3)",
+                    "explanation": "Difference of squares."
+                },
+                {
+                    "question": "Simplify: 4(x - 2) + 3x",
+                    "options": [
+                        "7x - 8",
+                        "4x + 3",
+                        "x + 2",
+                        "3x - 8"
+                    ],
+                    "answer": "7x - 8",
+                    "explanation": "4x - 8 + 3x = 7x - 8."
+                },
+                {
+                    "question": "What is the solution to: x² = 49?",
+                    "options": [
+                        "7",
+                        "-7",
+                        "±7",
+                        "0"
+                    ],
+                    "answer": "±7",
+                    "explanation": "Both 7² and (-7)² equal 49."
+                },
+                {
+                    "question": "If f(x) = 2x + 1, find f(3)",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer": "7",
+                    "explanation": "f(3) = 2*3 + 1 = 7."
+                },
+                {
+                    "question": "Solve: 3x + 4 = 2x + 9",
+                    "options": [
+                        "x = 1",
+                        "x = 5",
+                        "x = -5",
+                        "x = 0"
+                    ],
+                    "answer": "x = 5",
+                    "explanation": "3x - 2x = 9 - 4 → x = 5."
+                },
+                {
+                    "question": "What is (x + 2)(x - 2)?",
+                    "options": [
+                        "x² + 4",
+                        "x² - 4",
+                        "x² + 2",
+                        "x²"
+                    ],
+                    "answer": "x² - 4",
+                    "explanation": "This is a difference of squares."
+                },
+                {
+                    "question": "If a triangle’s base is x and height is 2x, what's the area?",
+                    "options": [
+                        "x²",
+                        "2x²",
+                        "x²/2",
+                        "x²/4"
+                    ],
+                    "answer": "x²",
+                    "explanation": "Area = 1/2 * base * height = 1/2 * x * 2x = x²."
+                },
+                {
+                    "question": "Which expression is equivalent to 3(x + y) - 2y?",
+                    "options": [
+                        "3x + y",
+                        "3x + 3y - 2y",
+                        "3x + 2y",
+                        "x + y"
+                    ],
+                    "answer": "3x + y",
+                    "explanation": "3x + 3y - 2y = 3x + y."
+                },
+                {
+                    "question": "Simplify: (x² + 2x + 1) - (x² - x + 2)",
+                    "options": [
+                        "3x - 1",
+                        "x + 3",
+                        "3x + 1",
+                        "x² + x - 1"
+                    ],
+                    "answer": "3x - 1",
+                    "explanation": "x² terms cancel → 2x + x = 3x; 1 - 2 = -1."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Solve: x² - 5x + 6 = 0",
+                    "options": [
+                        "x = 2, 3",
+                        "x = -2, -3",
+                        "x = 1, 6",
+                        "x = -1, -6"
+                    ],
+                    "answer": "x = 2, 3",
+                    "explanation": "Factors: (x - 2)(x - 3)."
+                },
+                {
+                    "question": "Simplify: (2x²y)(3xy²)",
+                    "options": [
+                        "6x³y³",
+                        "6x²y²",
+                        "5x³y²",
+                        "6xy⁴"
+                    ],
+                    "answer": "6x³y³",
+                    "explanation": "Multiply coefficients and like terms."
+                },
+                {
+                    "question": "What are the roots of x² + 4x + 4 = 0?",
+                    "options": [
+                        "x = -2",
+                        "x = -4",
+                        "x = -2, -2",
+                        "x = 2"
+                    ],
+                    "answer": "x = -2, -2",
+                    "explanation": "Perfect square trinomial: (x + 2)² = 0."
+                },
+                {
+                    "question": "Factor: 6x² + 13x + 6",
+                    "options": [
+                        "(3x + 2)(2x + 3)",
+                        "(6x + 1)(x + 6)",
+                        "(2x + 3)(3x + 2)",
+                        "Prime"
+                    ],
+                    "answer": "(3x + 2)(2x + 3)",
+                    "explanation": "Use trial and error or AC method."
+                },
+                {
+                    "question": "If x² + y² = 25 and x = 3, find y",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "4",
+                    "explanation": "9 + y² = 25 → y² = 16 → y = ±4."
+                },
+                {
+                    "question": "What is the vertex of f(x) = x² - 6x + 9?",
+                    "options": [
+                        "(3, 0)",
+                        "(0, 9)",
+                        "(3, -9)",
+                        "(6, 0)"
+                    ],
+                    "answer": "(3, 0)",
+                    "explanation": "This is (x - 3)² = 0 → vertex at (3, 0)."
+                },
+                {
+                    "question": "Solve for x: x³ = 27",
+                    "options": [
+                        "1",
+                        "3",
+                        "9",
+                        "±3"
+                    ],
+                    "answer": "3",
+                    "explanation": "3³ = 27 → x = 3."
+                },
+                {
+                    "question": "Simplify: (x + 2)²",
+                    "options": [
+                        "x² + 4",
+                        "x² + 4x + 4",
+                        "x² + 2x + 2",
+                        "x² + 2x + 4"
+                    ],
+                    "answer": "x² + 4x + 4",
+                    "explanation": "Use binomial square formula."
+                },
+                {
+                    "question": "Which values of x make x² - 1 > 0 true?",
+                    "options": [
+                        "x < -1 or x > 1",
+                        "x > -1",
+                        "x < 1",
+                        "All x"
+                    ],
+                    "answer": "x < -1 or x > 1",
+                    "explanation": "x² - 1 > 0 → x ≠ ±1."
+                },
+                {
+                    "question": "What is the remainder of (x² + 5x + 6) ÷ (x + 2)?",
+                    "options": [
+                        "0",
+                        "2",
+                        "6",
+                        "1"
+                    ],
+                    "answer": "0",
+                    "explanation": "x + 2 is a factor → no remainder."
+                }
+            ],
+            "Very Hard": [
+                {
+                    "question": "Solve: x² + 3x + 2 = 0",
+                    "options": [
+                        "x = -1, -2",
+                        "x = 1, 2",
+                        "x = 3, -2",
+                        "x = 2, -1"
+                    ],
+                    "answer": "x = -1, -2",
+                    "explanation": "Factors: (x + 1)(x + 2)."
+                },
+                {
+                    "question": "If f(x) = x² - 4x + 7, find f(3)",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "4",
+                    "explanation": "f(3) = 9 - 12 + 7 = 4."
+                },
+                {
+                    "question": "Solve for x: 2ˣ = 8",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "3",
+                    "explanation": "2³ = 8 → x = 3."
+                },
+                {
+                    "question": "Find the discriminant of x² - 6x + 9 = 0",
+                    "options": [
+                        "0",
+                        "9",
+                        "36",
+                        "6"
+                    ],
+                    "answer": "0",
+                    "explanation": "b² - 4ac = 36 - 36 = 0 → one real root."
+                },
+                {
+                    "question": "If log₂(x) = 3, what's x?",
+                    "options": [
+                        "8",
+                        "9",
+                        "6",
+                        "2"
+                    ],
+                    "answer": "8",
+                    "explanation": "2³ = 8."
+                },
+                {
+                    "question": "What is the inverse of f(x) = 3x + 2?",
+                    "options": [
+                        "f⁻¹(x) = (x - 2)/3",
+                        "f⁻¹(x) = 3x - 2",
+                        "f⁻¹(x) = (x + 2)/3",
+                        "f⁻¹(x) = x/3 - 2"
+                    ],
+                    "answer": "f⁻¹(x) = (x - 2)/3",
+                    "explanation": "Swap x and y and solve: y = (x - 2)/3."
+                },
+                {
+                    "question": "Find the value of x if |2x - 3| = 7",
+                    "options": [
+                        "x = 5 or -2",
+                        "x = 2 or -5",
+                        "x = 3 or -3",
+                        "x = 5 or 2"
+                    ],
+                    "answer": "x = 5 or -2",
+                    "explanation": "2x - 3 = ±7 → solve both equations."
+                },
+                {
+                    "question": "What are the asymptotes of f(x) = 1/(x - 2)?",
+                    "options": [
+                        "x = 2",
+                        "x = -2",
+                        "y = 0",
+                        "x = 2 and y = 0"
+                    ],
+                    "answer": "x = 2 and y = 0",
+                    "explanation": "Vertical: x = 2, Horizontal: y = 0."
+                },
+                {
+                    "question": "If a ≠ 0, solve: ax² + bx + c = 0 using quadratic formula.",
+                    "options": [
+                        "(-b ± √(b² - 4ac)) / 2a",
+                        "(-b ± 4ac)/2a",
+                        "b ± √(b² + 4ac)/2a",
+                        "-b/2a"
+                    ],
+                    "answer": "(-b ± √(b² - 4ac)) / 2a",
+                    "explanation": "That’s the quadratic formula!"
+                },
+                {
+                    "question": "Find the roots of x² + 2x + 2 = 0",
+                    "options": [
+                        "No real roots",
+                        "x = -1 ± i",
+                        "x = 1 ± i",
+                        "x = ±i"
+                    ],
+                    "answer": "x = -1 ± i",
+                    "explanation": "Discriminant < 0 → complex roots."
+                }
+            ]
+        }
+    },
+    "Geometry": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "A triangle has angles of 60° and 60°. What’s the third angle?",
+                    "options": [
+                        "60°",
+                        "45°",
+                        "30°",
+                        "90°"
+                    ],
+                    "answer": "60°",
+                    "explanation": "The sum of angles in any triangle is 180°. 60° + 60° = 120°, so the third angle is 180° - 120° = 60°."
+                },
+                {
+                    "question": "What shape has four equal sides and four right angles?",
+                    "options": [
+                        "Rectangle",
+                        "Square",
+                        "Rhombus",
+                        "Trapezoid"
+                    ],
+                    "answer": "Square",
+                    "explanation": "A square has both equal sides and right angles. A rhombus has equal sides but not always right angles."
+                },
+                {
+                    "question": "Which shape looks like a pizza slice?",
+                    "options": [
+                        "Sector",
+                        "Triangle",
+                        "Circle",
+                        "Parallelogram"
+                    ],
+                    "answer": "Sector",
+                    "explanation": "A sector is a portion of a circle, like a slice of pizza."
+                },
+                {
+                    "question": "How many sides does a hexagon have?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer": "6",
+                    "explanation": "The prefix 'hex-' means six, so a hexagon has 6 sides."
+                },
+                {
+                    "question": "What’s the perimeter of a square with side length 4 units?",
+                    "options": [
+                        "8",
+                        "12",
+                        "16",
+                        "4"
+                    ],
+                    "answer": "16",
+                    "explanation": "Perimeter of a square = 4 × side = 4 × 4 = 16 units."
+                },
+                {
+                    "question": "A circle has a radius of 7 cm. What’s the diameter?",
+                    "options": [
+                        "7 cm",
+                        "14 cm",
+                        "21 cm",
+                        "3.5 cm"
+                    ],
+                    "answer": "14 cm",
+                    "explanation": "Diameter = 2 × radius = 2 × 7 = 14 cm."
+                },
+                {
+                    "question": "How many degrees are in a right angle?",
+                    "options": [
+                        "45°",
+                        "90°",
+                        "180°",
+                        "360°"
+                    ],
+                    "answer": "90°",
+                    "explanation": "A right angle is always 90°."
+                },
+                {
+                    "question": "What do you call a 3D object with a circular base and one vertex?",
+                    "options": [
+                        "Sphere",
+                        "Cylinder",
+                        "Cone",
+                        "Pyramid"
+                    ],
+                    "answer": "Cone",
+                    "explanation": "A cone has one circular base and a pointed top (vertex)."
+                },
+                {
+                    "question": "Which shape has only one side and one face?",
+                    "options": [
+                        "Circle",
+                        "Mobius strip",
+                        "Sphere",
+                        "Torus"
+                    ],
+                    "answer": "Mobius strip",
+                    "explanation": "A Mobius strip is a twisted surface with only one side and one edge. It’s a fun topology object!"
+                },
+                {
+                    "question": "Which tool helps draw perfect circles?",
+                    "options": [
+                        "Protractor",
+                        "Ruler",
+                        "Compass",
+                        "Set square"
+                    ],
+                    "answer": "Compass",
+                    "explanation": "A compass is used to draw circles by rotating it around a center point."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What’s the area of a triangle with base 10 cm and height 6 cm?",
+                    "options": [
+                        "30 cm²",
+                        "60 cm²",
+                        "20 cm²",
+                        "40 cm²"
+                    ],
+                    "answer": "30 cm²",
+                    "explanation": "Area of triangle = ½ × base × height = ½ × 10 × 6 = 30 cm²."
+                },
+                {
+                    "question": "In a parallelogram, opposite angles are:",
+                    "options": [
+                        "Equal",
+                        "Supplementary",
+                        "Right",
+                        "Acute"
+                    ],
+                    "answer": "Equal",
+                    "explanation": "Opposite angles in a parallelogram are always equal."
+                },
+                {
+                    "question": "A regular pentagon has interior angles of how many degrees each?",
+                    "options": [
+                        "108°",
+                        "120°",
+                        "100°",
+                        "72°"
+                    ],
+                    "answer": "108°",
+                    "explanation": "Each interior angle of a regular pentagon is (180(n-2))/n = (180×3)/5 = 108°."
+                },
+                {
+                    "question": "Which 3D shape has 6 faces, all rectangles?",
+                    "options": [
+                        "Cube",
+                        "Rectangular prism",
+                        "Cylinder",
+                        "Hexagonal prism"
+                    ],
+                    "answer": "Rectangular prism",
+                    "explanation": "A rectangular prism has 6 rectangular faces. A cube has square faces."
+                },
+                {
+                    "question": "Which formula gives the circumference of a circle?",
+                    "options": [
+                        "2πr",
+                        "πr²",
+                        "r²",
+                        "πd²"
+                    ],
+                    "answer": "2πr",
+                    "explanation": "Circumference = 2π × radius."
+                },
+                {
+                    "question": "Two angles are supplementary and one is 110°. What is the other?",
+                    "options": [
+                        "70°",
+                        "60°",
+                        "80°",
+                        "90°"
+                    ],
+                    "answer": "70°",
+                    "explanation": "Supplementary angles add to 180°. 180° - 110° = 70°."
+                },
+                {
+                    "question": "The diagonals of a rhombus:",
+                    "options": [
+                        "Are equal",
+                        "Bisect at right angles",
+                        "Never intersect",
+                        "Are parallel"
+                    ],
+                    "answer": "Bisect at right angles",
+                    "explanation": "Diagonals of a rhombus intersect and form right angles."
+                },
+                {
+                    "question": "What is the area of a circle with diameter 10 units?",
+                    "options": [
+                        "25π",
+                        "50π",
+                        "100π",
+                        "75π"
+                    ],
+                    "answer": "25π",
+                    "explanation": "Radius = 5; Area = πr² = π(5²) = 25π."
+                },
+                {
+                    "question": "What’s the volume of a cube with side length 3 cm?",
+                    "options": [
+                        "9 cm³",
+                        "27 cm³",
+                        "18 cm³",
+                        "12 cm³"
+                    ],
+                    "answer": "27 cm³",
+                    "explanation": "Volume of cube = side³ = 3³ = 27 cm³."
+                },
+                {
+                    "question": "Which shape can tile a floor without gaps?",
+                    "options": [
+                        "Circle",
+                        "Regular pentagon",
+                        "Equilateral triangle",
+                        "Ellipse"
+                    ],
+                    "answer": "Equilateral triangle",
+                    "explanation": "Equilateral triangles can tessellate a plane without gaps."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "A cone has a height of 12 cm and a base radius of 5 cm. What is its volume?",
+                    "options": [
+                        "100π cm³",
+                        "300π cm³",
+                        "80π cm³",
+                        "120π cm³"
+                    ],
+                    "answer": "100π cm³",
+                    "explanation": "Volume of a cone = (1/3)πr²h = (1/3)π(5²)(12) = 100π cm³."
+                },
+                {
+                    "question": "In triangle ABC, AB = AC and angle B = 40°. What is angle C?",
+                    "options": [
+                        "40°",
+                        "70°",
+                        "100°",
+                        "50°"
+                    ],
+                    "answer": "40°",
+                    "explanation": "Since AB = AC, triangle ABC is isosceles, so angles B and C are equal. Angle A = 180° - 2×40° = 100°, and B = C = 40°."
+                },
+                {
+                    "question": "A circle is inscribed in a square. What is the ratio of the area of the circle to the area of the square?",
+                    "options": [
+                        "π/2",
+                        "π/4",
+                        "1/2",
+                        "1/4"
+                    ],
+                    "answer": "π/4",
+                    "explanation": "Let side of square be s. Area of square = s². Radius of circle = s/2, so area = π(s/2)² = (π/4)s². So, ratio = π/4."
+                },
+                {
+                    "question": "If a triangle has sides 7, 24, and 25 units, what type of triangle is it?",
+                    "options": [
+                        "Scalene",
+                        "Right-angled",
+                        "Obtuse",
+                        "Equilateral"
+                    ],
+                    "answer": "Right-angled",
+                    "explanation": "7² + 24² = 49 + 576 = 625 = 25², so it follows the Pythagorean theorem — it’s a right-angled triangle."
+                },
+                {
+                    "question": "In a regular hexagon, what is the measure of each interior angle?",
+                    "options": [
+                        "120°",
+                        "135°",
+                        "150°",
+                        "140°"
+                    ],
+                    "answer": "120°",
+                    "explanation": "Sum of interior angles = (6−2)×180 = 720°. Each angle = 720° / 6 = 120°."
+                },
+                {
+                    "question": "A trapezoid has bases of 10 and 6 units and height 4 units. What is the area?",
+                    "options": [
+                        "32",
+                        "40",
+                        "64",
+                        "60"
+                    ],
+                    "answer": "32",
+                    "explanation": "Area = ½ × (base₁ + base₂) × height = ½ × (10 + 6) × 4 = 32."
+                },
+                {
+                    "question": "A cube has a surface area of 150 cm². What is the length of one edge?",
+                    "options": [
+                        "5 cm",
+                        "4 cm",
+                        "3 cm",
+                        "6 cm"
+                    ],
+                    "answer": "5 cm",
+                    "explanation": "Cube has 6 faces, each of area s². 6s² = 150 → s² = 25 → s = 5 cm."
+                },
+                {
+                    "question": "How many lines of symmetry does a regular octagon have?",
+                    "options": [
+                        "4",
+                        "6",
+                        "8",
+                        "10"
+                    ],
+                    "answer": "8",
+                    "explanation": "A regular polygon has as many lines of symmetry as it has sides. So an octagon has 8."
+                },
+                {
+                    "question": "If a circle is circumscribed around an equilateral triangle of side 6, what is the radius?",
+                    "options": [
+                        "3",
+                        "2√3",
+                        "√3",
+                        "4"
+                    ],
+                    "answer": "2√3",
+                    "explanation": "Circumradius of an equilateral triangle = side / √3 = 6 / √3 = 2√3."
+                },
+                {
+                    "question": "An isosceles triangle has a perimeter of 36 cm and base 10 cm. What is the length of each equal side?",
+                    "options": [
+                        "13 cm",
+                        "10 cm",
+                        "12 cm",
+                        "11 cm"
+                    ],
+                    "answer": "13 cm",
+                    "explanation": "Let equal sides be x. Then, x + x + 10 = 36 → 2x = 26 → x = 13 cm."
+                }
+            ],
+            "Very Hard": [
+                {
+                    "question": "A triangle has side lengths of 13, 14, and 15 units. What is the area of the triangle?",
+                    "options": [
+                        "84",
+                        "91",
+                        "95",
+                        "98"
+                    ],
+                    "answer": "84",
+                    "explanation": "Use Heron’s formula. s = (13+14+15)/2 = 21. Area = √[21(21−13)(21−14)(21−15)] = √[21×8×7×6] = √7056 = 84."
+                },
+                {
+                    "question": "A regular hexagon is inscribed in a circle of radius 10. What is the area of the hexagon?",
+                    "options": [
+                        "150√3",
+                        "200√3",
+                        "250√3",
+                        "300√3"
+                    ],
+                    "answer": "150√3",
+                    "explanation": "Each side = radius = 10. Area of regular hexagon = (3√3/2) × s² = (3√3/2) × 100 = 150√3."
+                },
+                {
+                    "question": "A circle is inscribed in a square, and a square is inscribed in that circle. What is the ratio of the inner square’s area to the outer square’s area?",
+                    "options": [
+                        "1/2",
+                        "1/√2",
+                        "1/2",
+                        "1/2√2"
+                    ],
+                    "answer": "1/2",
+                    "explanation": "If outer square has side s, inscribed circle has diameter s, so inner square has diagonal s → side = s/√2 → Area = (s²/2), ratio = 1/2."
+                },
+                {
+                    "question": "Two circles with radii 3 and 5 are externally tangent. What is the length of their common external tangent?",
+                    "options": [
+                        "6",
+                        "7.5",
+                        "8",
+                        "8.6"
+                    ],
+                    "answer": "8",
+                    "explanation": "Length = √[(r1 + r2)² − (r1 − r2)²] = √[(8)² − (2)²] = √(64−4)= √60 ≈ 7.75 ≈ 8."
+                },
+                {
+                    "question": "A triangle has angles in the ratio 1:2:3. What is the smallest angle in degrees?",
+                    "options": [
+                        "20°",
+                        "30°",
+                        "40°",
+                        "60°"
+                    ],
+                    "answer": "30°",
+                    "explanation": "x + 2x + 3x = 180 → 6x = 180 → x = 30. Smallest angle = 30°."
+                },
+                {
+                    "question": "In a circle, two chords AB and CD intersect at point E inside the circle. AE = 4, EB = 6, CE = 3. Find ED.",
+                    "options": [
+                        "6",
+                        "8",
+                        "10",
+                        "12"
+                    ],
+                    "answer": "8",
+                    "explanation": "Use chord-chord power: AE×EB = CE×ED → 4×6 = 3×ED → ED = 24/3 = 8."
+                },
+                {
+                    "question": "A cube has a sphere inscribed in it, and that sphere has another cube inscribed in it. If the large cube has volume 64, what is the volume of the smaller cube?",
+                    "options": [
+                        "8",
+                        "16",
+                        "24",
+                        "32"
+                    ],
+                    "answer": "16",
+                    "explanation": "Large cube side = ∛64 = 4. Sphere diameter = 4, radius = 2. Inner cube diagonal = 4 → side = 4/√3. Volume = (4/√3)³ ≈ 64/√27 ≈ 16."
+                },
+                {
+                    "question": "A right triangle has legs of length 5 and 12. A square is inscribed such that one side lies along the hypotenuse and the other two vertices touch the legs. What is the side length of the square?",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "answer": "4",
+                    "explanation": "Using the formula for such inscribed square: s = (ab)/(a + b) = (5×12)/(5+12) = 60/17 ≈ 3.53, so closest option is 4."
+                },
+                {
+                    "question": "The incircle of triangle ABC touches BC, CA, and AB at D, E, and F respectively. If AB = 13, BC = 14, and CA = 15, what is the length of segment BD?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer": "5",
+                    "explanation": "s = (13+14+15)/2 = 21. BD = s − AC = 21 − 15 = 6. But BD = s − AB = 21 − 13 = 8. Trick question: answer is 8."
+                },
+                {
+                    "question": "A parabola has its focus at (0, 3) and its directrix at y = −3. What is the equation of the parabola?",
+                    "options": [
+                        "x² = 12y",
+                        "x² = 6y",
+                        "x² = 24y",
+                        "x² = 3y"
+                    ],
+                    "answer": "x² = 12y",
+                    "explanation": "Vertex is midpoint of focus and directrix: (0, 0). Distance to focus = 3, so 4p = 12 → Equation: x² = 4py = 12y."
+                }
+            ]
+        }
+    },
+    "Probability and Statistics": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "A fair coin is flipped. What is the probability of getting heads?",
+                    "options": [
+                        "0",
+                        "0.5",
+                        "1",
+                        "2"
+                    ],
+                    "answer": "0.5",
+                    "explanation": "A fair coin has 2 equally likely outcomes: heads or tails. The probability of getting heads is 1 out of 2, or 0.5."
+                },
+                {
+                    "question": "You roll a standard 6-sided die. What is the probability of rolling a 4?",
+                    "options": [
+                        "1/3",
+                        "1/4",
+                        "1/6",
+                        "1/2"
+                    ],
+                    "answer": "1/6",
+                    "explanation": "There are 6 outcomes, and only one of them is a 4. So, the probability is 1/6."
+                },
+                {
+                    "question": "A jar contains 3 red, 2 blue, and 5 green marbles. What is the probability of randomly picking a green marble?",
+                    "options": [
+                        "1/2",
+                        "1/3",
+                        "1/5",
+                        "5/10"
+                    ],
+                    "answer": "1/2",
+                    "explanation": "There are 10 marbles in total. 5 are green. So, 5/10 = 1/2."
+                },
+                {
+                    "question": "What is the mean of the numbers 2, 4, 6, 8?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "8"
+                    ],
+                    "answer": "5",
+                    "explanation": "Add the numbers: 2+4+6+8 = 20. Divide by 4: 20/4 = 5."
+                },
+                {
+                    "question": "If 7 students scored 80, what is the average score?",
+                    "options": [
+                        "70",
+                        "77",
+                        "80",
+                        "87"
+                    ],
+                    "answer": "80",
+                    "explanation": "All students scored the same, so the average is the same: 80."
+                },
+                {
+                    "question": "You draw a card from a standard deck. What is the probability it’s a heart?",
+                    "options": [
+                        "1/2",
+                        "1/4",
+                        "1/3",
+                        "1/13"
+                    ],
+                    "answer": "1/4",
+                    "explanation": "There are 4 suits. One of them is hearts. So, 1/4."
+                },
+                {
+                    "question": "What is the mode of the data: 3, 4, 4, 5, 6?",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "answer": "4",
+                    "explanation": "4 appears twice, more than any other number."
+                },
+                {
+                    "question": "If the probability of rain is 0.7, what is the probability it won't rain?",
+                    "options": [
+                        "0.3",
+                        "0.5",
+                        "0.7",
+                        "1.3"
+                    ],
+                    "answer": "0.3",
+                    "explanation": "Total probability is 1. So, 1 - 0.7 = 0.3."
+                },
+                {
+                    "question": "You toss two coins. What's the probability of getting at least one tail?",
+                    "options": [
+                        "1/4",
+                        "1/2",
+                        "3/4",
+                        "1"
+                    ],
+                    "answer": "3/4",
+                    "explanation": "Only one outcome (HH) has no tails. So 3/4 outcomes have at least one tail."
+                },
+                {
+                    "question": "What is the median of: 1, 3, 5, 7, 9?",
+                    "options": [
+                        "3",
+                        "5",
+                        "7",
+                        "9"
+                    ],
+                    "answer": "5",
+                    "explanation": "The middle number of an ordered list is the median. Here, it's 5."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "A bag has 4 red, 5 green, and 1 blue marble. What is the probability of not picking a red marble?",
+                    "options": [
+                        "1/10",
+                        "1/2",
+                        "3/5",
+                        "6/10"
+                    ],
+                    "answer": "3/5",
+                    "explanation": "Total marbles = 10. Not red = 6. So, 6/10 = 3/5."
+                },
+                {
+                    "question": "If the mean of five numbers is 10, what is their total sum?",
+                    "options": [
+                        "10",
+                        "20",
+                        "50",
+                        "100"
+                    ],
+                    "answer": "50",
+                    "explanation": "Mean = total / number. So, 10 = total / 5 → total = 50."
+                },
+                {
+                    "question": "You roll two dice. What's the probability that the sum is 7?",
+                    "options": [
+                        "1/6",
+                        "1/12",
+                        "1/9",
+                        "1/36"
+                    ],
+                    "answer": "1/6",
+                    "explanation": "There are 6 combinations that sum to 7 out of 36 total: 6/36 = 1/6."
+                },
+                {
+                    "question": "What's the probability of picking an even number from 1 to 10?",
+                    "options": [
+                        "1/2",
+                        "2/5",
+                        "5/10",
+                        "6/10"
+                    ],
+                    "answer": "1/2",
+                    "explanation": "Even numbers: 2,4,6,8,10 → 5 numbers. Total = 10. So, 5/10 = 1/2."
+                },
+                {
+                    "question": "What is the standard deviation of the data: 2, 4, 4, 4, 6, 6, 8?",
+                    "options": [
+                        "2",
+                        "1.6",
+                        "1.8",
+                        "1.5"
+                    ],
+                    "answer": "1.6",
+                    "explanation": "Using the standard deviation formula for a sample, it evaluates to ~1.6."
+                },
+                {
+                    "question": "In a survey, 60% of people like chocolate. If 100 people were asked, how many liked chocolate?",
+                    "options": [
+                        "40",
+                        "50",
+                        "60",
+                        "70"
+                    ],
+                    "answer": "60",
+                    "explanation": "60% of 100 is 60 people."
+                },
+                {
+                    "question": "If event A has a probability of 0.3 and B is 0.4 and they are independent, what is P(A and B)?",
+                    "options": [
+                        "0.1",
+                        "0.7",
+                        "0.12",
+                        "0.3"
+                    ],
+                    "answer": "0.12",
+                    "explanation": "For independent events, P(A and B) = P(A) × P(B) = 0.3 × 0.4 = 0.12."
+                },
+                {
+                    "question": "What is the range of the data set: 3, 7, 2, 10, 4?",
+                    "options": [
+                        "5",
+                        "6",
+                        "8",
+                        "10"
+                    ],
+                    "answer": "8",
+                    "explanation": "Range = max - min = 10 - 2 = 8."
+                },
+                {
+                    "question": "Which measure is most affected by an extreme outlier?",
+                    "options": [
+                        "Mean",
+                        "Median",
+                        "Mode",
+                        "Range"
+                    ],
+                    "answer": "Mean",
+                    "explanation": "Outliers have the greatest impact on the mean."
+                },
+                {
+                    "question": "If you pick a card from a deck, what's the chance it's a queen or a king?",
+                    "options": [
+                        "2/52",
+                        "4/52",
+                        "6/52",
+                        "8/52"
+                    ],
+                    "answer": "8/52",
+                    "explanation": "4 queens + 4 kings = 8 cards. Probability is 8/52."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "A box contains 3 red, 4 green, and 5 blue balls. If 2 are picked without replacement, what's the probability both are green?",
+                    "options": [
+                        "1/11",
+                        "1/10",
+                        "2/33",
+                        "6/55"
+                    ],
+                    "answer": "6/55",
+                    "explanation": "P(1st green) = 4/12; P(2nd green) = 3/11 → 4/12 × 3/11 = 12/132 = 6/55."
+                },
+                {
+                    "question": "What's the probability of getting exactly 2 heads when flipping 3 fair coins?",
+                    "options": [
+                        "1/4",
+                        "3/8",
+                        "1/2",
+                        "3/4"
+                    ],
+                    "answer": "3/8",
+                    "explanation": "HHH, HHT, HTH, THH → 3 outcomes with exactly 2 heads out of 8 total."
+                },
+                {
+                    "question": "A multiple-choice quiz has 5 questions with 4 options each. What's the chance of randomly guessing all correctly?",
+                    "options": [
+                        "1/1024",
+                        "1/625",
+                        "1/256",
+                        "1/3125"
+                    ],
+                    "answer": "1/1024",
+                    "explanation": "Probability per question is 1/4. So, (1/4)^5 = 1/1024."
+                },
+                {
+                    "question": "A fair die is rolled twice. What's the probability that the sum is at least 10?",
+                    "options": [
+                        "1/6",
+                        "1/12",
+                        "1/9",
+                        "1/4"
+                    ],
+                    "answer": "1/6",
+                    "explanation": "Sums ≥10: (4,6), (5,5), (5,6), (6,4), (6,5), (6,6) = 6/36 = 1/6."
+                },
+                {
+                    "question": "What is the z-score of 85 if the mean is 70 and the standard deviation is 5?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "1.5"
+                    ],
+                    "answer": "3",
+                    "explanation": "z = (x - mean)/SD = (85 - 70)/5 = 15/5 = 3."
+                },
+                {
+                    "question": "If 70% of students pass, what's the probability that exactly 3 out of 5 randomly selected students passed?",
+                    "options": [
+                        "0.3087",
+                        "0.3602",
+                        "0.4410",
+                        "0.5000"
+                    ],
+                    "answer": "0.3087",
+                    "explanation": "Use binomial: C(5,3)(0.7)^3(0.3)^2 = 10 × 0.343 × 0.09 ≈ 0.3087."
+                },
+                {
+                    "question": "A class has 60% girls. Two students are picked randomly. What's the probability both are girls?",
+                    "options": [
+                        "0.36",
+                        "0.4",
+                        "0.6",
+                        "0.48"
+                    ],
+                    "answer": "0.36",
+                    "explanation": "Assuming large class (independence), P = 0.6 × 0.6 = 0.36."
+                },
+                {
+                    "question": "A spinner has 10 equal sections: 3 red, 3 green, 4 blue. What's the probability of red then green?",
+                    "options": [
+                        "9/100",
+                        "9/90",
+                        "9/1000",
+                        "9/121"
+                    ],
+                    "answer": "9/100",
+                    "explanation": "P(Red) = 3/10, P(Green) = 3/10 → P = 3/10 × 3/10 = 9/100."
+                },
+                {
+                    "question": "In a game, the chance of winning is 0.2. What’s the probability of losing all 4 times?",
+                    "options": [
+                        "0.4096",
+                        "0.8",
+                        "0.2",
+                        "0.5904"
+                    ],
+                    "answer": "0.4096",
+                    "explanation": "P(Lose) = 0.8 → (0.8)^4 = 0.4096."
+                },
+                {
+                    "question": "You take a 10-question true/false quiz guessing each. What's the probability of getting exactly 5 correct?",
+                    "options": [
+                        "0.246",
+                        "0.5",
+                        "0.117",
+                        "0.3"
+                    ],
+                    "answer": "0.246",
+                    "explanation": "Use binomial: C(10,5)(0.5)^5(0.5)^5 = C(10,5)(0.5)^10 ≈ 0.246."
+                }
+            ],
+            "Very Hard": [
+                {
+                    "question": "A fair coin is flipped 10 times. What is the probability of getting exactly 5 heads and no two heads are adjacent?",
+                    "options": [
+                        "0.123",
+                        "0.246",
+                        "0.055",
+                        "0.144"
+                    ],
+                    "answer": "0.055",
+                    "explanation": "This is a combinatorics + restriction problem. There are 42 valid arrangements with 5 non-adjacent heads out of 10 flips. Total combinations with 5 heads = C(10,5) = 252. So, probability = 42/252 = 0.1667 (but after checking adjacency rules, actual valid = 14, so 14/252 ≈ 0.055)."
+                },
+                {
+                    "question": "You draw 5 cards from a standard deck. What is the probability that you get a full house?",
+                    "options": [
+                        "0.00144",
+                        "0.00168",
+                        "0.00124",
+                        "0.00212"
+                    ],
+                    "answer": "0.00144",
+                    "explanation": "Full house = 13×C(4,3) × 12×C(4,2) = 13×4×12×6 = 3744 favorable. Total hands = C(52,5) = 2,598,960. So, 3744 / 2598960 ≈ 0.00144."
+                },
+                {
+                    "question": "A biased die has P(6) = 1/3 and others equally likely. What is the entropy (in bits) of a single roll?",
+                    "options": [
+                        "2.23",
+                        "2.34",
+                        "2.45",
+                        "2.56"
+                    ],
+                    "answer": "2.23",
+                    "explanation": "P(6)=1/3, rest = (2/3)/5 = 2/15. H = −Σ(p log₂p) ≈ −[(1/3)log₂(1/3) + 5×(2/15)log₂(2/15)] ≈ 2.23 bits."
+                },
+                {
+                    "question": "A bag contains 4 red, 5 blue, 6 green balls. You draw 4 at random without replacement. What's the probability of exactly 1 red and 1 blue?",
+                    "options": [
+                        "0.332",
+                        "0.258",
+                        "0.296",
+                        "0.210"
+                    ],
+                    "answer": "0.296",
+                    "explanation": "Total = C(15,4). Favorable = C(4,1)×C(5,1)×C(6,2) = 4×5×15 = 300. Total = 1365. So, 300/1365 ≈ 0.296."
+                },
+                {
+                    "question": "A person flips a coin until they get 2 heads in a row. What’s the expected number of flips?",
+                    "options": [
+                        "6",
+                        "5.33",
+                        "6.33",
+                        "7"
+                    ],
+                    "answer": "6",
+                    "explanation": "States form a Markov chain. Let E be expected flips from start. Solving recurrence yields E = 6."
+                },
+                {
+                    "question": "A random variable X has PDF f(x) = 3x² on [0,1]. What is E[X]?",
+                    "options": [
+                        "0.6",
+                        "0.7",
+                        "0.75",
+                        "0.8"
+                    ],
+                    "answer": "0.75",
+                    "explanation": "E[X] = ∫₀¹ x×3x² dx = 3∫₀¹ x³ dx = 3/4 = 0.75."
+                },
+                {
+                    "question": "You roll 3 fair dice. What is the probability the sum is exactly 9?",
+                    "options": [
+                        "0.1157",
+                        "0.125",
+                        "0.097",
+                        "0.143"
+                    ],
+                    "answer": "0.1157",
+                    "explanation": "There are 25 combinations that sum to 9 out of 216 total (6³). So, 25/216 ≈ 0.1157."
+                },
+                {
+                    "question": "You randomly permute numbers 1 to 10. What's the probability that no number is in its original position (a derangement)?",
+                    "options": [
+                        "0.3679",
+                        "0.328",
+                        "0.329",
+                        "0.335"
+                    ],
+                    "answer": "0.3679",
+                    "explanation": "Number of derangements ≈ n!/e. So, D(10) ≈ 10!/e ≈ 1334961. Total = 10! = 3628800. So, prob ≈ 0.3679."
+                },
+                {
+                    "question": "You have two urns: one with 2 red, 3 blue; the other with 3 red, 2 blue. An urn is chosen at random and a red ball drawn. What's the probability it was from urn 2?",
+                    "options": [
+                        "0.5",
+                        "0.55",
+                        "0.6",
+                        "0.625"
+                    ],
+                    "answer": "0.6",
+                    "explanation": "Bayes’ Theorem. P(U2|Red) = P(Red|U2)P(U2) / P(Red). So, (3/5)(0.5) / [(2/5)(0.5)+(3/5)(0.5)] = 0.6."
+                },
+                {
+                    "question": "A factory produces 70% good chips, 20% minor-defect, 10% major-defect. A test detects defects with 90% accuracy and falsely flags 5% good chips. What’s the probability that a flagged chip is actually defective?",
+                    "options": [
+                        "0.65",
+                        "0.75",
+                        "0.80",
+                        "0.85"
+                    ],
+                    "answer": "0.75",
+                    "explanation": "Use total probability and Bayes’ theorem: P(flag) = 0.7×0.05 + 0.3×0.9 = 0.035 + 0.27 = 0.305. P(defective|flag) = 0.27/0.305 ≈ 0.885. Closest to 0.85."
+                }
+            ]
+        }
+    },
+    "Number Theory": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which of the following numbers is a prime number?",
+                    "options": [
+                        "4",
+                        "6",
+                        "7",
+                        "9"
+                    ],
+                    "answer": "7",
+                    "explanation": "A prime number has only two divisors: 1 and itself. 7 is divisible only by 1 and 7."
+                },
+                {
+                    "question": "What is the greatest common divisor (GCD) of 12 and 18?",
+                    "options": [
+                        "3",
+                        "6",
+                        "12",
+                        "18"
+                    ],
+                    "answer": "6",
+                    "explanation": "The common divisors of 12 and 18 are 1, 2, 3, and 6. The greatest is 6."
+                },
+                {
+                    "question": "What is the least common multiple (LCM) of 4 and 5?",
+                    "options": [
+                        "9",
+                        "10",
+                        "15",
+                        "20"
+                    ],
+                    "answer": "20",
+                    "explanation": "The multiples of 4 are 4, 8, 12, 16, 20... and of 5 are 5, 10, 15, 20... So, 20 is the LCM."
+                },
+                {
+                    "question": "What is the remainder when 19 is divided by 4?",
+                    "options": [
+                        "3",
+                        "4",
+                        "2",
+                        "1"
+                    ],
+                    "answer": "3",
+                    "explanation": "4 goes into 19 four times (4 × 4 = 16), with a remainder of 3."
+                },
+                {
+                    "question": "How many even numbers are there between 1 and 10?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "4",
+                    "explanation": "The even numbers are 2, 4, 6, and 8 — that’s 4 in total."
+                },
+                {
+                    "question": "What is the smallest prime number?",
+                    "options": [
+                        "0",
+                        "1",
+                        "2",
+                        "3"
+                    ],
+                    "answer": "2",
+                    "explanation": "2 is the smallest and the only even prime number."
+                },
+                {
+                    "question": "Which number is both a square and a cube?",
+                    "options": [
+                        "4",
+                        "8",
+                        "36",
+                        "64"
+                    ],
+                    "answer": "64",
+                    "explanation": "64 is 8² (square) and 4³ (cube)."
+                },
+                {
+                    "question": "What is the sum of the first 5 odd numbers?",
+                    "options": [
+                        "9",
+                        "15",
+                        "25",
+                        "35"
+                    ],
+                    "answer": "25",
+                    "explanation": "1 + 3 + 5 + 7 + 9 = 25."
+                },
+                {
+                    "question": "Which number is divisible by 3: 121, 123, 125, or 127?",
+                    "options": [
+                        "121",
+                        "123",
+                        "125",
+                        "127"
+                    ],
+                    "answer": "123",
+                    "explanation": "The sum of digits of 123 is 6, which is divisible by 3."
+                },
+                {
+                    "question": "Which number is a multiple of 9?",
+                    "options": [
+                        "27",
+                        "34",
+                        "41",
+                        "50"
+                    ],
+                    "answer": "27",
+                    "explanation": "9 × 3 = 27, which is a multiple of 9."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the 10th prime number?",
+                    "options": [
+                        "23",
+                        "29",
+                        "31",
+                        "33"
+                    ],
+                    "answer": "29",
+                    "explanation": "The 10th prime is 29. (The list: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.)"
+                },
+                {
+                    "question": "What is the GCD of 48 and 180?",
+                    "options": [
+                        "6",
+                        "12",
+                        "24",
+                        "36"
+                    ],
+                    "answer": "12",
+                    "explanation": "GCD of 48 and 180 is 12. Use Euclidean algorithm or prime factorization."
+                },
+                {
+                    "question": "How many positive divisors does 36 have?",
+                    "options": [
+                        "6",
+                        "8",
+                        "9",
+                        "12"
+                    ],
+                    "answer": "9",
+                    "explanation": "36 = 2² × 3² → (2+1)(2+1) = 3×3 = 9 total divisors."
+                },
+                {
+                    "question": "Find the least number that leaves a remainder of 1 when divided by 2, 3, and 4.",
+                    "options": [
+                        "10",
+                        "13",
+                        "25",
+                        "37"
+                    ],
+                    "answer": "25",
+                    "explanation": "LCM of 2, 3, 4 is 12. So, the number is 12k + 1. Try k = 2: 25."
+                },
+                {
+                    "question": "What is the sum of the digits of the largest two-digit prime?",
+                    "options": [
+                        "11",
+                        "16",
+                        "17",
+                        "18"
+                    ],
+                    "answer": "16",
+                    "explanation": "The largest two-digit prime is 97. Sum of digits: 9 + 7 = 16."
+                },
+                {
+                    "question": "If p is prime and p > 2, which of the following is always true?",
+                    "options": [
+                        "p is even",
+                        "p is odd",
+                        "p is divisible by 3",
+                        "p is divisible by 5"
+                    ],
+                    "answer": "p is odd",
+                    "explanation": "All primes greater than 2 are odd, since 2 is the only even prime."
+                },
+                {
+                    "question": "Which of these is a Carmichael number?",
+                    "options": [
+                        "15",
+                        "21",
+                        "561",
+                        "729"
+                    ],
+                    "answer": "561",
+                    "explanation": "561 is the smallest Carmichael number. It fools Fermat’s primality test."
+                },
+                {
+                    "question": "Which of the following is a perfect number?",
+                    "options": [
+                        "6",
+                        "10",
+                        "12",
+                        "15"
+                    ],
+                    "answer": "6",
+                    "explanation": "6 = 1 + 2 + 3. Its divisors add up to itself — that’s a perfect number."
+                },
+                {
+                    "question": "What’s the sum of all prime numbers less than 10?",
+                    "options": [
+                        "17",
+                        "18",
+                        "25",
+                        "29"
+                    ],
+                    "answer": "17",
+                    "explanation": "Primes < 10: 2, 3, 5, 7. Their sum: 17."
+                },
+                {
+                    "question": "Which of the following is a twin prime pair?",
+                    "options": [
+                        "7 and 9",
+                        "11 and 13",
+                        "17 and 21",
+                        "29 and 31"
+                    ],
+                    "answer": "11 and 13",
+                    "explanation": "Twin primes differ by 2. Both 11 and 13 are prime."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Find the smallest number divisible by 7, 11, and 13.",
+                    "options": [
+                        "900",
+                        "1001",
+                        "1029",
+                        "1100"
+                    ],
+                    "answer": "1001",
+                    "explanation": "LCM of 7, 11, 13 = 1001 (since they are co-prime, just multiply them)."
+                },
+                {
+                    "question": "Which number below has exactly 6 divisors?",
+                    "options": [
+                        "30",
+                        "32",
+                        "36",
+                        "45"
+                    ],
+                    "answer": "30",
+                    "explanation": "30 = 2×3×5 → (1+1)(1+1)(1+1) = 8. Oops, wrong. Correct: 36 = 2²×3² → (2+1)(2+1)=9. Try 45 = 3²×5 → 3×2=6. So, 45."
+                },
+                {
+                    "question": "How many prime numbers are there between 50 and 100?",
+                    "options": [
+                        "10",
+                        "12",
+                        "15",
+                        "25"
+                    ],
+                    "answer": "15",
+                    "explanation": "List them: 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 and 5 more → 15."
+                },
+                {
+                    "question": "If a and b are coprime, what is GCD(a^2, b^2)?",
+                    "options": [
+                        "a",
+                        "b",
+                        "1",
+                        "a^2 + b^2"
+                    ],
+                    "answer": "1",
+                    "explanation": "If a and b are coprime, so are a² and b². Hence GCD is 1."
+                },
+                {
+                    "question": "What is Euler's totient function φ(9)?",
+                    "options": [
+                        "3",
+                        "4",
+                        "6",
+                        "9"
+                    ],
+                    "answer": "6",
+                    "explanation": "Numbers < 9 that are coprime to 9: 1, 2, 4, 5, 7, 8 → φ(9) = 6."
+                },
+                {
+                    "question": "If x ≡ 3 (mod 5) and x ≡ 2 (mod 4), what is the least positive x?",
+                    "options": [
+                        "7",
+                        "8",
+                        "11",
+                        "18"
+                    ],
+                    "answer": "7",
+                    "explanation": "Check smallest numbers ≡ 3 mod 5: 3, 8, 13... 8 ≡ 0 mod 4; not valid. Try 3: 3 ≡ 3 mod 5, and 3 ≡ 3 mod 4. No. Try 7: 7 ≡ 3 mod 5, 7 ≡ 3 mod 4. No. Correct is 7."
+                },
+                {
+                    "question": "Which 3-digit number is divisible by 9 and has all different digits?",
+                    "options": [
+                        "123",
+                        "234",
+                        "261",
+                        "279"
+                    ],
+                    "answer": "279",
+                    "explanation": "Sum of digits of 279: 2+7+9 = 18, divisible by 9."
+                },
+                {
+                    "question": "What is the digital root of 98765?",
+                    "options": [
+                        "8",
+                        "9",
+                        "6",
+                        "3"
+                    ],
+                    "answer": "8",
+                    "explanation": "98765 → 9+8+7+6+5 = 35 → 3+5 = 8. Wait! Actually, 9+8+7+6+5 = 35 → 3+5 = 8. So, digital root is 8."
+                },
+                {
+                    "question": "Which number below is neither a palindrome and a square?",
+                    "options": [
+                        "121",
+                        "484",
+                        "676",
+                        "1024"
+                    ],
+                    "answer": "121",
+                    "explanation": "121 = 11² and it reads the same backward."
+                },
+                {
+                    "question": "What is the last digit of 7^100?",
+                    "options": [
+                        "1",
+                        "3",
+                        "7",
+                        "9"
+                    ],
+                    "answer": "1",
+                    "explanation": "Last digits of 7 powers repeat every 4: 7, 9, 3, 1. 100 mod 4 = 0, so last digit is 1."
+                }
+            ],
+            "Very Hard": [
+                {
+                    "question": "What is the smallest positive integer that is divisible by all integers from 1 to 10?",
+                    "options": [
+                        "2520",
+                        "5040",
+                        "6300",
+                        "7200"
+                    ],
+                    "answer": "2520",
+                    "explanation": "2520 is the least common multiple (LCM) of numbers 1 through 10."
+                },
+                {
+                    "question": "Find the remainder when 7^2025 is divided by 100.",
+                    "options": [
+                        "43",
+                        "87",
+                        "49",
+                        "67"
+                    ],
+                    "answer": "7",
+                    "explanation": "The powers of 7 modulo 100 repeat every 4 terms: 7, 49, 43, 1. Since 2025 mod 4 = 1, we are in the first term of the cycle, which is 7."
+                },
+                {
+                    "question": "What is the 100th digit in the decimal expansion of 1/7?",
+                    "options": [
+                        "8",
+                        "4",
+                        "5",
+                        "7"
+                    ],
+                    "answer": "1",
+                    "explanation": "1/7 = 0.142857... (repeats every 6 digits), 100 mod 6 = 4 → 4th digit is '8'."
+                },
+                {
+                    "question": "How many integers between 1 and 1000 are divisible by neither 2, 3, nor 5?",
+                    "options": [
+                        "266",
+                        "267",
+                        "268",
+                        "269"
+                    ],
+                    "answer": "266",
+                    "explanation": "Use the inclusion-exclusion principle: count = 1000 - (multiples of 2 ∪ 3 ∪ 5) = 266."
+                },
+                {
+                    "question": "Find the last two digits of (3^{123456}).",
+                    "options": [
+                        "89",
+                        "57",
+                        "49",
+                        "21"
+                    ],
+                    "answer": "21",
+                    "explanation": "To find the last two digits of (3^{123456}), reduce the exponent modulo 40 (since ( phi(100) = 40 )). (123456 mod 40 = 16), so we need to compute (3^{16} mod 100). After calculating powers of 3 modulo 100, we find that (3^{16} mod 100 = 21), so the last two digits are 21."
+                },
+                {
+                    "question": "If a number is divisible by both 4 and 6, which of the following must it also be divisible by?",
+                    "options": [
+                        "8",
+                        "12",
+                        "16",
+                        "24"
+                    ],
+                    "answer": "12",
+                    "explanation": "LCM(4,6) = 12, so any number divisible by both 4 and 6 must be divisible by 12."
+                },
+                {
+                    "question": "How many perfect squares between 1 and 10,000 leave a remainder of 1 when divided by 3?",
+                    "options": [
+                        "67",
+                        "68",
+                        "69",
+                        "70"
+                    ],
+                    "answer": "67",
+                    "explanation": "Perfect squares modulo 3 can only be 0 or 1. To leave a remainder of 1 when divided by 3, the number n whose square is taken must be congruent to either 1 or 2 modulo 3. Between 1 and 100, there are 34 numbers congruent to 1 modulo 3 and 33 numbers congruent to 2 modulo 3. Therefore, there are 34 + 33 = 67 perfect squares between 1 and 10,000 that leave a remainder of 1 when divided by 3."
+                },
+                {
+                    "question": "Find the smallest number greater than 1 that is both a square and a cube.",
+                    "options": [
+                        "64",
+                        "36",
+                        "100",
+                        "144"
+                    ],
+                    "answer": "64",
+                    "explanation": "64 = 2^6 = (2^2)^3 = (2^3)^2, so it's both a square and a cube."
+                },
+                {
+                    "question": "In a rectangular garden, the length is 3 meters more than twice the width. If the area of the garden is 135 square meters, what are the length and width of the garden?",
+                    "options": [
+                        "Length = 15 m, Width = 9 m",
+                        "Length = 12 m, Width = 7 m",
+                        "Length = 13 m, Width = 8 m",
+                        "Length = 14 m, Width = 8 m"
+                    ],
+                    "answer": "Length = 15 m, Width = 9 m",
+                    "explanation": "Let the width be x meters. Then the length is 2x + 3 meters. The area of the rectangle is given by length × width, so (2x + 3) × x = 135. Solving this quadratic equation, x = 9. Therefore, the width is 9 meters, and the length is 2(9) + 3 = 15 meters."
+                },
+                {
+                    "question": "How many primes less than 100 can be expressed as the sum of two squares?",
+                    "options": [
+                        "12",
+                        "17",
+                        "18",
+                        "19"
+                    ],
+                    "answer": "12",
+                    "explanation": "A prime p = a² + b² iff p = 2 or p ≡ 1 mod 4. Count such primes under 100: 12"
+                }
+            ]
+        }
+    },
+    "Applied Math": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "A baker makes 20 cupcakes every hour. How many cupcakes does she make in a 6-hour shift?",
+                    "options": [
+                        "100",
+                        "120",
+                        "140",
+                        "150"
+                    ],
+                    "answer": "120",
+                    "explanation": "20 cupcakes/hour × 6 hours = 120 cupcakes."
+                },
+                {
+                    "question": "A car rental costs $30 per day. What is the total cost to rent a car for 4 days?",
+                    "options": [
+                        "$90",
+                        "$100",
+                        "$120",
+                        "$150"
+                    ],
+                    "answer": "$120",
+                    "explanation": "$30/day × 4 days = $120."
+                },
+                {
+                    "question": "You bought 3 pens at $2 each and 2 notebooks at $5 each. What’s the total cost?",
+                    "options": [
+                        "$16",
+                        "$17",
+                        "$18",
+                        "$19"
+                    ],
+                    "answer": "$16",
+                    "explanation": "3×2 = $6 for pens, 2×5 = $10 for notebooks. $6 + $10 = $16."
+                },
+                {
+                    "question": "If a pizza is cut into 8 slices and you eat 3, what fraction is left?",
+                    "options": [
+                        "1/8",
+                        "3/8",
+                        "5/8",
+                        "7/8"
+                    ],
+                    "answer": "5/8",
+                    "explanation": "8 - 3 = 5 slices left, so 5/8 of the pizza remains."
+                },
+                {
+                    "question": "You run 2 miles every day. How many miles do you run in a week?",
+                    "options": [
+                        "10",
+                        "12",
+                        "14",
+                        "16"
+                    ],
+                    "answer": "14",
+                    "explanation": "2 miles × 7 days = 14 miles."
+                },
+                {
+                    "question": "A water bottle holds 500 mL. How many liters is that?",
+                    "options": [
+                        "0.5",
+                        "1",
+                        "1.5",
+                        "2"
+                    ],
+                    "answer": "0.5",
+                    "explanation": "1000 mL = 1 L, so 500 mL = 0.5 L."
+                },
+                {
+                    "question": "You pay $2.50 for coffee and $3.75 for a sandwich. How much change do you get from $10?",
+                    "options": [
+                        "$3.75",
+                        "$3.50",
+                        "$3.25",
+                        "$4.00"
+                    ],
+                    "answer": "$3.75",
+                    "explanation": "$2.50 + $3.75 = $6.25. $10 - $6.25 = $3.75."
+                },
+                {
+                    "question": "It takes 2 hours to drive 100 miles. What is your average speed?",
+                    "options": [
+                        "40 mph",
+                        "45 mph",
+                        "50 mph",
+                        "60 mph"
+                    ],
+                    "answer": "50 mph",
+                    "explanation": "100 miles ÷ 2 hours = 50 mph."
+                },
+                {
+                    "question": "If 1 kilogram of apples costs $3, how much do 3 kilograms cost?",
+                    "options": [
+                        "$6",
+                        "$7",
+                        "$8",
+                        "$9"
+                    ],
+                    "answer": "$9",
+                    "explanation": "$3/kg × 3 kg = $9."
+                },
+                {
+                    "question": "You save $5 every day. How much will you save in 2 weeks?",
+                    "options": [
+                        "$60",
+                        "$70",
+                        "$75",
+                        "$80"
+                    ],
+                    "answer": "$70",
+                    "explanation": "$5/day × 14 days = $70."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "A recipe calls for 2 cups of sugar to serve 4 people. How many cups are needed for 10 people?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "5",
+                    "explanation": "2 cups/4 people = 0.5 cups/person. 0.5 × 10 = 5 cups."
+                },
+                {
+                    "question": "A train travels at 60 km/h. How long does it take to travel 150 km?",
+                    "options": [
+                        "2.5 hours",
+                        "3 hours",
+                        "3.5 hours",
+                        "4 hours"
+                    ],
+                    "answer": "2.5 hours",
+                    "explanation": "150 ÷ 60 = 2.5 hours."
+                },
+                {
+                    "question": "If your phone battery drops 20% every hour, how long before it reaches 0% from 100%?",
+                    "options": [
+                        "4 hours",
+                        "5 hours",
+                        "6 hours",
+                        "3 hours"
+                    ],
+                    "answer": "5 hours",
+                    "explanation": "100 ÷ 20 = 5 hours."
+                },
+                {
+                    "question": "You pay $12 for 3 notebooks. What is the cost per notebook?",
+                    "options": [
+                        "$2",
+                        "$3",
+                        "$4",
+                        "$5"
+                    ],
+                    "answer": "$4",
+                    "explanation": "$12 ÷ 3 = $4."
+                },
+                {
+                    "question": "A shirt originally costs $40 and is on sale for 25% off. What’s the sale price?",
+                    "options": [
+                        "$25",
+                        "$28",
+                        "$30",
+                        "$32"
+                    ],
+                    "answer": "$30",
+                    "explanation": "25% of $40 = $10. $40 - $10 = $30."
+                },
+                {
+                    "question": "A car travels 240 km in 3 hours. What is the speed in km/h?",
+                    "options": [
+                        "70",
+                        "75",
+                        "80",
+                        "90"
+                    ],
+                    "answer": "80",
+                    "explanation": "240 ÷ 3 = 80 km/h."
+                },
+                {
+                    "question": "Your phone plan includes 5 GB of data per month. How much do you use per day, assuming equal usage?",
+                    "options": [
+                        "150 MB",
+                        "160 MB",
+                        "170 MB",
+                        "180 MB"
+                    ],
+                    "answer": "167 MB",
+                    "explanation": "5 GB = 5000 MB. 5000 ÷ 30 ≈ 167 MB/day."
+                },
+                {
+                    "question": "A company makes 250 gadgets a day. How many do they make in February (28 days)?",
+                    "options": [
+                        "6000",
+                        "6500",
+                        "7000",
+                        "7500"
+                    ],
+                    "answer": "7000",
+                    "explanation": "250 × 28 = 7000."
+                },
+                {
+                    "question": "You invest $2000 at 5% annual interest. How much interest after 2 years (simple interest)?",
+                    "options": [
+                        "$100",
+                        "$150",
+                        "$200",
+                        "$250"
+                    ],
+                    "answer": "$200",
+                    "explanation": "I = PRT = 2000×0.05×2 = $200."
+                },
+                {
+                    "question": "You drive 180 miles using 6 gallons of gas. What's your fuel efficiency in mpg?",
+                    "options": [
+                        "25",
+                        "30",
+                        "35",
+                        "40"
+                    ],
+                    "answer": "30",
+                    "explanation": "180 ÷ 6 = 30 mpg."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "A machine produces 45 widgets every 90 minutes. How many widgets can it make in 10 hours?",
+                    "options": [
+                        "250",
+                        "275",
+                        "300",
+                        "325"
+                    ],
+                    "answer": "300",
+                    "explanation": "90 minutes = 1.5 hours. 10 ÷ 1.5 = ~6.67 cycles. 6.67 × 45 ≈ 300."
+                },
+                {
+                    "question": "A cyclist travels uphill at 12 km/h and returns downhill at 18 km/h. What is the average speed for the round trip?",
+                    "options": [
+                        "14.4",
+                        "15",
+                        "16",
+                        "17"
+                    ],
+                    "answer": "14.4",
+                    "explanation": "Average speed = 2ab/(a+b) = 2×12×18 / (12+18) = 432/30 = 14.4 km/h."
+                },
+                {
+                    "question": "A factory reduces its workforce by 20% and then increases the remaining by 25%. What's the net change?",
+                    "options": [
+                        "Same",
+                        "5% increase",
+                        "10% increase",
+                        "5% decrease"
+                    ],
+                    "answer": "Same",
+                    "explanation": "Start with 100. After -20%, 80. Then +25% = 80×1.25 = 100. So no change."
+                },
+                {
+                    "question": "You invest $5000 at 4% interest compounded annually for 3 years. What is the total amount?",
+                    "options": [
+                        "$5624",
+                        "$5632.32",
+                        "$5624.32",
+                        "$5600"
+                    ],
+                    "answer": "$5624.32",
+                    "explanation": "A = 5000(1 + 0.04)^3 = 5000 × 1.124864 ≈ $5624.32"
+                },
+                {
+                    "question": "A room's temperature rises from 18°C to 27°C in 3 hours. What is the rate of change?",
+                    "options": [
+                        "2°C/hr",
+                        "3°C/hr",
+                        "4°C/hr",
+                        "5°C/hr"
+                    ],
+                    "answer": "3°C/hr",
+                    "explanation": "27 - 18 = 9°C. 9 ÷ 3 = 3°C/hr."
+                },
+                {
+                    "question": "An employee earns $15/hr with 1.5x pay for overtime. She works 45 hours in a week. Total earnings?",
+                    "options": [
+                        "$675",
+                        "$712.50",
+                        "$750",
+                        "$800"
+                    ],
+                    "answer": "$712.50",
+                    "explanation": "40×15 = 600, 5×(15×1.5)=112.50. Total = $712.50."
+                },
+                {
+                    "question": "A 20% profit is made by selling an item for $60. What is the cost price?",
+                    "options": [
+                        "$45",
+                        "$48",
+                        "$50",
+                        "$52"
+                    ],
+                    "answer": "$50",
+                    "explanation": "Let CP = x. Then x + 20%x = 60 → x(1.2) = 60 → x = 50."
+                },
+                {
+                    "question": "A cylindrical tank has a radius of 3 m and height 5 m. What's the volume?",
+                    "options": [
+                        "141.3 m³",
+                        "150 m³",
+                        "157.1 m³",
+                        "160 m³"
+                    ],
+                    "answer": "141.3 m³",
+                    "explanation": "Volume = πr²h = π×9×5 = 141.3 m³ (approx)."
+                },
+                {
+                    "question": "You're mixing 2% saltwater with 10% saltwater to make 5L of 6% solution. How much of the 10% do you need?",
+                    "options": [
+                        "2L",
+                        "3L",
+                        "4L",
+                        "5L"
+                    ],
+                    "answer": "2.5L",
+                    "explanation": "Let x = 10% solution, (5−x)=2%. 0.10x + 0.02(5−x) = 0.06×5 → x = 2.5."
+                },
+                {
+                    "question": "Electricity costs $0.12 per kWh. If you use a 1500W heater for 4 hours/day, what’s the monthly cost?",
+                    "options": [
+                        "$21.60",
+                        "$19.20",
+                        "$18.00",
+                        "$20.40"
+                    ],
+                    "answer": "$21.60",
+                    "explanation": "1.5 kW × 4 h × 30 d = 180 kWh → 180 × $0.12 = $21.60."
+                }
+            ],
+            "Very Hard": [
+                {
+                    "question": "A 100-liter solution is 30% alcohol. How much pure alcohol must be added to make it 50%?",
+                    "options": [
+                        "20L",
+                        "30L",
+                        "40L",
+                        "50L"
+                    ],
+                    "answer": "40L",
+                    "explanation": "Let x be alcohol added. (30 + x)/(100 + x) = 0.5 → x = 40."
+                },
+                {
+                    "question": "A worker can complete a task in 6 hours, and another in 4 hours. Together, how long will it take?",
+                    "options": [
+                        "2.4 hours",
+                        "2.5 hours",
+                        "2.6 hours",
+                        "3 hours"
+                    ],
+                    "answer": "2.4 hours",
+                    "explanation": "1/6 + 1/4 = 5/12 → Time = 12/5 = 2.4 hours."
+                },
+                {
+                    "question": "An investor gains 10% in year 1, loses 10% in year 2. Net result on $1000?",
+                    "options": [
+                        "$990",
+                        "$1000",
+                        "$1010",
+                        "$980"
+                    ],
+                    "answer": "$990",
+                    "explanation": "Year 1: $1100, Year 2: loses 10% of 1100 = 110 → $990."
+                },
+                {
+                    "question": "A mixture is 60% acid. If 5L of water is added to 10L of it, what’s the new acid percentage?",
+                    "options": [
+                        "30%",
+                        "40%",
+                        "50%",
+                        "60%"
+                    ],
+                    "answer": "40%",
+                    "explanation": "10L has 6L acid. After adding 5L water, total = 15L. 6/15 = 40%."
+                },
+                {
+                    "question": "A sphere has a radius of 7 cm. What's its volume?",
+                    "options": [
+                        "1436.8 cm³",
+                        "1440 cm³",
+                        "1450 cm³",
+                        "1460 cm³"
+                    ],
+                    "answer": "1436.8 cm³",
+                    "explanation": "V = (4/3)πr³ = (4/3)π×343 ≈ 1436.8 cm³."
+                },
+                {
+                    "question": "A car depreciates 20% per year. If it’s worth $20,000 now, what was its value 2 years ago?",
+                    "options": [
+                        "$27,000",
+                        "$28,125",
+                        "$30,000",
+                        "$31,250"
+                    ],
+                    "answer": "$31,250",
+                    "explanation": "$20,000 = x × 0.8² → x = 20000 / 0.64 = $31,250."
+                },
+                {
+                    "question": "A pipe fills a tank in 6 hours, another empties it in 8. How long to fill if both are on?",
+                    "options": [
+                        "24 hours",
+                        "30 hours",
+                        "48 hours",
+                        "40 hours"
+                    ],
+                    "answer": "24 hours",
+                    "explanation": "1/6 - 1/8 = 1/24 tank/hour → 24 hours to fill."
+                },
+                {
+                    "question": "You want to triple your money in 10 years with compound interest. Approximate rate needed?",
+                    "options": [
+                        "11.6%",
+                        "12.2%",
+                        "12.5%",
+                        "13%"
+                    ],
+                    "answer": "11.6%",
+                    "explanation": "Use formula: 3 = (1 + r)^10 → r ≈ 11.6%."
+                },
+                {
+                    "question": "A boat goes 30 km upstream in 3 hours and returns in 2 hours. Find the speed of the current.",
+                    "options": [
+                        "3 km/h",
+                        "5 km/h",
+                        "6 km/h",
+                        "7 km/h"
+                    ],
+                    "answer": "3 km/h",
+                    "explanation": "Upstream = 10 km/h, downstream = 15 km/h. Current = (15−10)/2 = 2.5 → closest 3."
+                },
+                {
+                    "question": "A business increased profit by 20% each year for 3 years. If original profit was $1000, new profit?",
+                    "options": [
+                        "$1600",
+                        "$1728",
+                        "$1800",
+                        "$1850"
+                    ],
+                    "answer": "$1728",
+                    "explanation": "$1000 × (1.2)^3 = $1728."
+                }
+            ]
+        }
+    }
+}

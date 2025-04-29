@@ -1,0 +1,1702 @@
+{
+    "Place": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "What is the main language spoken in Brazil?",
+                    "options": [
+                        "Spanish",
+                        "Portuguese",
+                        "French",
+                        "English"
+                    ],
+                    "answer": "Portuguese",
+                    "fun_fact": "Brazil is the only Portuguese-speaking country in the Americas due to colonization by Portugal in 1500!"
+                },
+                {
+                    "question": "Which desert is the largest in the world by area?",
+                    "options": [
+                        "Sahara",
+                        "Gobi",
+                        "Arabian",
+                        "Antarctic"
+                    ],
+                    "answer": "Antarctic",
+                    "fun_fact": "Antarctica is technically a desert because it receives less than 2 inches of precipitation per year!"
+                },
+                {
+                    "question": "What is the currency of Japan?",
+                    "options": [
+                        "Won",
+                        "Yen",
+                        "Yuan",
+                        "Ringgit"
+                    ],
+                    "answer": "Yen",
+                    "fun_fact": "The word 'yen' means 'round object,' named after the round silver coins used in ancient China!"
+                },
+                {
+                    "question": "Which country is known as the 'Land of the Rising Sun'?",
+                    "options": [
+                        "China",
+                        "Japan",
+                        "South Korea",
+                        "Thailand"
+                    ],
+                    "answer": "Japan",
+                    "fun_fact": "Japan's name in Japanese (Nihon) literally means 'origin of the sun,' reflecting its position east of China!"
+                },
+                {
+                    "question": "What type of climate does a tropical rainforest have?",
+                    "options": [
+                        "Dry",
+                        "Tropical",
+                        "Polar",
+                        "Temperate"
+                    ],
+                    "answer": "Tropical",
+                    "fun_fact": "The Amazon Rainforest produces about 20% of the world's oxygen and is home to 10% of known species!"
+                },
+                {
+                    "question": "Which mountain range runs through the western United States?",
+                    "options": [
+                        "Appalachians",
+                        "Rockies",
+                        "Andes",
+                        "Alps"
+                    ],
+                    "answer": "Rockies",
+                    "fun_fact": "The Rocky Mountains stretch over 3,000 miles from Canada to New Mexico!"
+                },
+                {
+                    "question": "What is the Great Barrier Reef made of?",
+                    "options": [
+                        "Volcanic rock",
+                        "Coral",
+                        "Sandstone",
+                        "Limestone"
+                    ],
+                    "answer": "Coral",
+                    "fun_fact": "The Great Barrier Reef is the world's largest living structure and can be seen from space!"
+                },
+                {
+                    "question": "Which country has the most natural lakes?",
+                    "options": [
+                        "USA",
+                        "Canada",
+                        "Russia",
+                        "Finland"
+                    ],
+                    "answer": "Canada",
+                    "fun_fact": "Canada has over 2 million lakes, which is more than the rest of the world's lakes combined!"
+                },
+                {
+                    "question": "What is the official religion of Saudi Arabia?",
+                    "options": [
+                        "Christianity",
+                        "Islam",
+                        "Judaism",
+                        "Hinduism"
+                    ],
+                    "answer": "Islam",
+                    "fun_fact": "Saudi Arabia is home to Mecca, the holiest city in Islam, which all able Muslims must visit once in their lifetime!"
+                },
+                {
+                    "question": "Which famous landmark is located in Australia?",
+                    "options": [
+                        "Eiffel Tower",
+                        "Uluru",
+                        "Statue of Liberty",
+                        "Big Ben"
+                    ],
+                    "answer": "Uluru",
+                    "fun_fact": "Uluru, also known as Ayers Rock, is a sacred sandstone monolith that changes color at sunrise and sunset!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "What are the main physical features of the Scandinavian Peninsula?",
+                    "options": [
+                        "Alps mountains",
+                        "Fjords and boreal forests",
+                        "Deserts",
+                        "Tropical beaches"
+                    ],
+                    "answer": "Fjords and boreal forests",
+                    "fun_fact": "Norway's fjords were carved by glaciers during the last Ice Age and can be over 1,000 feet deep!"
+                },
+                {
+                    "question": "How does the Amazon Rainforest influence global weather patterns?",
+                    "options": [
+                        "Absorbs CO2",
+                        "Creates hurricanes",
+                        "Causes droughts",
+                        "Blocks sunlight"
+                    ],
+                    "answer": "Absorbs CO2",
+                    "fun_fact": "The Amazon stores 90-140 billion tons of carbon, making it crucial for fighting climate change!"
+                },
+                {
+                    "question": "Why is Iceland called the 'Land of Fire and Ice'?",
+                    "options": [
+                        "Volcanoes and glaciers",
+                        "Hot summers and cold winters",
+                        "Mythological reasons",
+                        "Northern Lights"
+                    ],
+                    "answer": "Volcanoes and glaciers",
+                    "fun_fact": "Iceland has 130 volcanoes and 11% of its land is covered by glaciers, including Europe's largest glacier, Vatnajökull!"
+                },
+                {
+                    "question": "What makes the Dead Sea unique?",
+                    "options": [
+                        "Highest salinity",
+                        "Deepest lake",
+                        "Freshwater",
+                        "Tidal waves"
+                    ],
+                    "answer": "Highest salinity",
+                    "fun_fact": "The Dead Sea is 10 times saltier than the ocean, making it impossible to sink in its waters!"
+                },
+                {
+                    "question": "How do traditional Inuit homes differ from urban Canadian houses?",
+                    "options": [
+                        "Igloos vs. skyscrapers",
+                        "Treehouses vs. apartments",
+                        "Caves vs. suburbs",
+                        "Tents vs. log cabins"
+                    ],
+                    "answer": "Igloos vs. skyscrapers",
+                    "fun_fact": "Igloos can reach 60°F (16°C) inside even when it's -50°F (-46°C) outside due to body heat and insulation!"
+                },
+                {
+                    "question": "What are the major religions practiced in India?",
+                    "options": [
+                        "Hinduism, Islam",
+                        "Christianity, Buddhism",
+                        "Judaism, Sikhism",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "India has the world's largest Hindu, Sikh, and Jain populations, and is the birthplace of Buddhism!"
+                },
+                {
+                    "question": "How does Japan's geography influence its food production?",
+                    "options": [
+                        "Lots of farmland",
+                        "Reliance on seafood",
+                        "Desert crops",
+                        "Imports everything"
+                    ],
+                    "answer": "Reliance on seafood",
+                    "fun_fact": "Japan consumes about 7.5 million tons of seafood annually—10% of the global catch!"
+                },
+                {
+                    "question": "What is the difference between a savanna and a grassland?",
+                    "options": [
+                        "Trees",
+                        "Rainfall",
+                        "Animals",
+                        "Soil type"
+                    ],
+                    "answer": "Trees",
+                    "fun_fact": "Savannas have scattered trees, while grasslands have almost none, making them ideal for grazing animals!"
+                },
+                {
+                    "question": "Why is Venice, Italy, considered a unique place?",
+                    "options": [
+                        "Floating city",
+                        "Underground tunnels",
+                        "Highest elevation",
+                        "No roads"
+                    ],
+                    "answer": "Floating city",
+                    "fun_fact": "Venice is built on 118 small islands connected by 400 bridges and 150 canals!"
+                },
+                {
+                    "question": "What cultural characteristics define the Middle East?",
+                    "options": [
+                        "Arabic language",
+                        "Islam",
+                        "Oil reserves",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Middle East has 60% of the world's oil reserves and is the birthplace of three major religions: Islam, Christianity, and Judaism!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "How does Bhutan measure its national success differently from GDP?",
+                    "options": [
+                        "Gross National Happiness",
+                        "Environmental Sustainability Index",
+                        "Cultural Heritage Score",
+                        "Peace Index"
+                    ],
+                    "answer": "Gross National Happiness",
+                    "fun_fact": "Bhutan's king invented Gross National Happiness in 1972 to prioritize well-being over economic growth!"
+                },
+                {
+                    "question": "What cultural factors led to the creation of the Silk Road?",
+                    "options": [
+                        "Trade of silk and spices",
+                        "Spread of religions",
+                        "Mongol Empire",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Silk Road stretched 4,000 miles from China to the Mediterranean and helped spread Buddhism, Islam, and technologies like paper!"
+                },
+                {
+                    "question": "How does Switzerland's geography influence its political neutrality?",
+                    "options": [
+                        "Alps as barriers",
+                        "No coastline",
+                        "Central location",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Switzerland hasn't fought a war since 1815—its mountains made invasions difficult, encouraging neutrality!"
+                },
+                {
+                    "question": "Why is the Atacama Desert one of the driest places on Earth?",
+                    "options": [
+                        "Rain shadow effect",
+                        "Cold ocean currents",
+                        "High elevation",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Some parts of the Atacama Desert haven't seen rain in over 400 years, making it drier than most of Mars!"
+                },
+                {
+                    "question": "What makes the Galápagos Islands ecologically significant?",
+                    "options": [
+                        "Endemic species",
+                        "Volcanic origin",
+                        "Ocean currents",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Galápagos inspired Charles Darwin's theory of evolution—giant tortoises here can live over 100 years!"
+                },
+                {
+                    "question": "How did Ancient Egypt's geography shape its civilization?",
+                    "options": [
+                        "Nile floods",
+                        "Desert protection",
+                        "Trade routes",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Nile's predictable floods allowed farming in a desert, making Egypt the 'Gift of the Nile'!"
+                },
+                {
+                    "question": "How does permafrost affect infrastructure in Siberia?",
+                    "options": [
+                        "Destroys roads",
+                        "Traps methane",
+                        "Thaws buildings",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Permafrost covers 65% of Russia—its thawing is releasing methane, a greenhouse gas 25x stronger than CO2!"
+                },
+                {
+                    "question": "How do monsoons impact South Asian economies?",
+                    "options": [
+                        "Floods",
+                        "Agriculture",
+                        "Power outages",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "India gets 80% of its yearly rain in just 4 monsoon months, crucial for farming but often causing floods!"
+                },
+                {
+                    "question": "Why is Madagascar's biodiversity so unique?",
+                    "options": [
+                        "Isolation",
+                        "Climate",
+                        "No predators",
+                        "All of the above"
+                    ],
+                    "answer": "Isolation",
+                    "fun_fact": "90% of Madagascar's wildlife (like lemurs) is found nowhere else due to 88 million years of isolation!"
+                },
+                {
+                    "question": "What role does the Mekong River play in Southeast Asian cultures?",
+                    "options": [
+                        "Fishing",
+                        "Transport",
+                        "Agriculture",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Mekong River feeds 60 million people and is called the 'Mother of Water' in Cambodia and Laos!"
+                }
+            ]
+        }
+    },
+    "Region": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "Which continent is Egypt in?",
+                    "options": [
+                        "Europe",
+                        "Asia",
+                        "Africa",
+                        "South America"
+                    ],
+                    "answer": "Africa",
+                    "fun_fact": "Egypt is home to the only remaining Ancient Wonder of the World - the Great Pyramid of Giza!"
+                },
+                {
+                    "question": "What countries make up North America?",
+                    "options": [
+                        "USA, Canada, Mexico",
+                        "USA, Brazil, Argentina",
+                        "Canada, Russia, China",
+                        "Mexico, Spain, Portugal"
+                    ],
+                    "answer": "USA, Canada, Mexico",
+                    "fun_fact": "North America has the world's largest freshwater lake - Lake Superior!"
+                },
+                {
+                    "question": "What is the European Union?",
+                    "options": [
+                        "A military alliance",
+                        "A group of European countries sharing laws and currency",
+                        "A sports league",
+                        "A mountain range"
+                    ],
+                    "answer": "A group of European countries sharing laws and currency",
+                    "fun_fact": "The EU started in 1957 with just 6 countries and now has 27 member states!"
+                },
+                {
+                    "question": "Which country is in the Middle East?",
+                    "options": [
+                        "Japan",
+                        "Saudi Arabia",
+                        "Brazil",
+                        "Germany"
+                    ],
+                    "answer": "Saudi Arabia",
+                    "fun_fact": "The Middle East is the birthplace of three major world religions: Judaism, Christianity, and Islam!"
+                },
+                {
+                    "question": "What is the largest desert in Africa?",
+                    "options": [
+                        "Gobi",
+                        "Sahara",
+                        "Kalahari",
+                        "Atacama"
+                    ],
+                    "answer": "Sahara",
+                    "fun_fact": "The Sahara is so big that the entire United States could fit inside it!"
+                },
+                {
+                    "question": "Which U.S. region is known for hurricanes?",
+                    "options": [
+                        "Midwest",
+                        "Southwest",
+                        "Southeast",
+                        "Pacific Northwest"
+                    ],
+                    "answer": "Southeast",
+                    "fun_fact": "Florida gets hit by more hurricanes than any other U.S. state!"
+                },
+                {
+                    "question": "What is the main language spoken in Latin America?",
+                    "options": [
+                        "English",
+                        "French",
+                        "Spanish",
+                        "German"
+                    ],
+                    "answer": "Spanish",
+                    "fun_fact": "Brazil is the only country in Latin America that speaks Portuguese instead of Spanish!"
+                },
+                {
+                    "question": "Which region is called the 'Horn of Africa'?",
+                    "options": [
+                        "Southern Africa",
+                        "Somalia, Djibouti, Eritrea, Ethiopia",
+                        "North Africa",
+                        "West Africa"
+                    ],
+                    "answer": "Somalia, Djibouti, Eritrea, Ethiopia",
+                    "fun_fact": "The Horn of Africa gets its name from its horn-like shape sticking out into the Indian Ocean!"
+                },
+                {
+                    "question": "What are the Scandinavian countries?",
+                    "options": [
+                        "France, Spain, Italy",
+                        "Norway, Sweden, Denmark",
+                        "Russia, China, India",
+                        "Egypt, Libya, Tunisia"
+                    ],
+                    "answer": "Norway, Sweden, Denmark",
+                    "fun_fact": "Scandinavia has the northernmost point in Europe - Nordkapp in Norway!"
+                },
+                {
+                    "question": "Which region has the Amazon Rainforest?",
+                    "options": [
+                        "Central America",
+                        "South America",
+                        "Southeast Asia",
+                        "Africa"
+                    ],
+                    "answer": "South America",
+                    "fun_fact": "The Amazon produces 20% of the world's oxygen and is home to 10% of all known species!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "What defines a 'Balkan' country?",
+                    "options": [
+                        "Location in Southeast Europe",
+                        "Being an island nation",
+                        "Having Arctic climate",
+                        "Being in the Middle East"
+                    ],
+                    "answer": "Location in Southeast Europe",
+                    "fun_fact": "The term 'Balkan' comes from a Turkish word meaning 'mountain' - perfect for this rugged region!"
+                },
+                {
+                    "question": "How is the Middle East different from North Africa?",
+                    "options": [
+                        "Different languages",
+                        "Different religions",
+                        "Different geography",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Middle East and North Africa are often grouped together as 'MENA' despite their differences!"
+                },
+                {
+                    "question": "What are economic differences between Western and Eastern Europe?",
+                    "options": [
+                        "Western Europe is generally wealthier",
+                        "Eastern Europe has more industry",
+                        "No differences exist",
+                        "Eastern Europe is wealthier"
+                    ],
+                    "answer": "Western Europe is generally wealthier",
+                    "fun_fact": "The Iron Curtain that divided Europe during the Cold War still affects economic differences today!"
+                },
+                {
+                    "question": "Why is Southeast Asia a biodiversity hotspot?",
+                    "options": [
+                        "Tropical climate and islands",
+                        "Desert environment",
+                        "Arctic conditions",
+                        "Mountainous terrain"
+                    ],
+                    "answer": "Tropical climate and islands",
+                    "fun_fact": "A single hectare in Borneo's rainforest can have more tree species than all of North America!"
+                },
+                {
+                    "question": "What are political boundaries of the Arctic region?",
+                    "options": [
+                        "Clearly defined",
+                        "Disputed between countries",
+                        "No boundaries exist",
+                        "Only Russia claims it"
+                    ],
+                    "answer": "Disputed between countries",
+                    "fun_fact": "The Arctic could contain 30% of the world's undiscovered natural gas - that's why countries want it!"
+                },
+                {
+                    "question": "How does the Sahel region face environmental challenges?",
+                    "options": [
+                        "Desertification",
+                        "Flooding",
+                        "Earthquakes",
+                        "Volcanoes"
+                    ],
+                    "answer": "Desertification",
+                    "fun_fact": "The Sahel is the 'shore' of the Sahara Desert, and it's expanding south by about 1 mile per year!"
+                },
+                {
+                    "question": "What makes Pacific Islands unique?",
+                    "options": [
+                        "Remote location",
+                        "Many languages",
+                        "Island cultures",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "There are over 20,000 islands in the Pacific - more than anywhere else on Earth!"
+                },
+                {
+                    "question": "Why is the Caucasus region geopolitically important?",
+                    "options": [
+                        "Oil resources",
+                        "Mountain passes",
+                        "Between Europe and Asia",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Caucasus Mountains are so high they create their own weather systems!"
+                },
+                {
+                    "question": "What are cultural similarities in Central America?",
+                    "options": [
+                        "Spanish language",
+                        "Catholic religion",
+                        "Mesoamerican history",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Central America is smaller than Texas but has 7 countries and over 40 million people!"
+                },
+                {
+                    "question": "Why is the Indian subcontinent a distinct region?",
+                    "options": [
+                        "Himalayan barrier",
+                        "Monsoon climate",
+                        "Unique cultures",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Indian tectonic plate is still pushing into Asia, making the Himalayas grow about 1 inch per year!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "How does the Schengen Area affect European movement?",
+                    "options": [
+                        "No passport controls",
+                        "Common currency",
+                        "Same laws everywhere",
+                        "No borders at all"
+                    ],
+                    "answer": "No passport controls",
+                    "fun_fact": "The Schengen Zone covers 4.3 million sq km - you could travel from Portugal to Finland without showing a passport!"
+                },
+                {
+                    "question": "What are geopolitical conflicts in the South China Sea?",
+                    "options": [
+                        "Island disputes",
+                        "Fishing rights",
+                        "Oil reserves",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Over $3 trillion in ship-borne trade passes through the South China Sea each year - that's 1/3 of global shipping!"
+                },
+                {
+                    "question": "How does the African Union promote regional cooperation?",
+                    "options": [
+                        "Peacekeeping",
+                        "Free trade area",
+                        "Single currency",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The African Union has 55 members - that's every African country plus Western Sahara!"
+                },
+                {
+                    "question": "What defines a 'failed state' in political geography?",
+                    "options": [
+                        "No government control",
+                        "Economic collapse",
+                        "Human rights abuses",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Somalia was considered a failed state for 20 years before beginning recovery in 2012!"
+                },
+                {
+                    "question": "How does 'Eurasia' challenge traditional continent divisions?",
+                    "options": [
+                        "Shows Europe and Asia as one landmass",
+                        "Includes Africa",
+                        "Excludes Russia",
+                        "Adds new continents"
+                    ],
+                    "answer": "Shows Europe and Asia as one landmass",
+                    "fun_fact": "Eurasia is the world's largest landmass at 55 million sq km - that's 36% of all land on Earth!"
+                },
+                {
+                    "question": "What are economic disparities within ASEAN?",
+                    "options": [
+                        "Singapore vs. Laos GDP",
+                        "Different currencies",
+                        "Trade imbalances",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Singapore's GDP per capita is 50 times higher than Cambodia's - but they're in the same trade bloc!"
+                },
+                {
+                    "question": "How does the Antarctic Treaty govern international claims?",
+                    "options": [
+                        "Freezes territorial disputes",
+                        "Bans all human activity",
+                        "Divides continent equally",
+                        "Gives control to UN"
+                    ],
+                    "answer": "Freezes territorial disputes",
+                    "fun_fact": "7 countries claim parts of Antarctica, but the treaty says these claims are 'on ice' (pun intended)!"
+                },
+                {
+                    "question": "What role does OPEC play in global oil markets?",
+                    "options": [
+                        "Sets oil prices",
+                        "Controls production",
+                        "Stabilizes supply",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "OPEC countries control about 80% of the world's proven oil reserves - that's a lot of power!"
+                },
+                {
+                    "question": "Why is the Arctic becoming a contested geopolitical region?",
+                    "options": [
+                        "Melting ice opens shipping",
+                        "Oil/gas reserves",
+                        "Military positioning",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Arctic could be ice-free in summer by 2050 - opening new trade routes and resource wars!"
+                },
+                {
+                    "question": "What are challenges in defining the Middle East?",
+                    "options": [
+                        "Cultural diversity",
+                        "Changing borders",
+                        "Outside perceptions",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The term 'Middle East' was invented in 1902 by an American naval officer - locals never called it that!"
+                }
+            ]
+        }
+    },
+    "Movement": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "How do airplanes help in global trade?",
+                    "options": [
+                        "By carrying large quantities of goods quickly",
+                        "By transporting only passengers",
+                        "By moving goods underground",
+                        "By sailing across oceans"
+                    ],
+                    "answer": "By carrying large quantities of goods quickly",
+                    "fun_fact": "The world's largest cargo plane, the Antonov An-225, can carry up to 640 tons—equivalent to 10 school buses!"
+                },
+                {
+                    "question": "What is migration?",
+                    "options": [
+                        "The movement of people from one place to another",
+                        "The growth of plants",
+                        "The change of seasons",
+                        "The rotation of the Earth"
+                    ],
+                    "answer": "The movement of people from one place to another",
+                    "fun_fact": "The Great Migration in the U.S. (1916–1970) saw 6 million African Americans move from the South to Northern cities!"
+                },
+                {
+                    "question": "Why do people move from rural areas to cities?",
+                    "options": [
+                        "For better jobs and education",
+                        "To escape technology",
+                        "To live closer to forests",
+                        "Because cities are colder"
+                    ],
+                    "answer": "For better jobs and education",
+                    "fun_fact": "By 2050, 68% of the world's population will live in cities—up from 30% in 1950!"
+                },
+                {
+                    "question": "How does the internet help spread ideas?",
+                    "options": [
+                        "By allowing instant communication worldwide",
+                        "By printing newspapers",
+                        "Through smoke signals",
+                        "By carrier pigeons"
+                    ],
+                    "answer": "By allowing instant communication worldwide",
+                    "fun_fact": "Over 5 billion people (63% of the world) use the internet—that’s more than those who use toilets (60%)!"
+                },
+                {
+                    "question": "What is the purpose of highways?",
+                    "options": [
+                        "To connect cities for efficient travel",
+                        "To block traffic",
+                        "To create parking spaces",
+                        "To grow crops"
+                    ],
+                    "answer": "To connect cities for efficient travel",
+                    "fun_fact": "The U.S. Interstate Highway System is 48,000 miles long—enough to circle the Earth twice!"
+                },
+                {
+                    "question": "Which country exports the most oil?",
+                    "options": [
+                        "USA",
+                        "Russia",
+                        "Saudi Arabia",
+                        "Canada"
+                    ],
+                    "answer": "Saudi Arabia",
+                    "fun_fact": "Saudi Arabia has enough oil reserves to fill 4.5 million Olympic-sized swimming pools!"
+                },
+                {
+                    "question": "How do ships transport goods across oceans?",
+                    "options": [
+                        "Using cargo containers",
+                        "By flying",
+                        "Through underground tunnels",
+                        "On horseback"
+                    ],
+                    "answer": "Using cargo containers",
+                    "fun_fact": "A single cargo ship can carry 24,000 containers—stacked end-to-end, they’d stretch 89 miles!"
+                },
+                {
+                    "question": "What is tourism, and why is it important?",
+                    "options": [
+                        "Travel for leisure, boosting economies",
+                        "A type of farming",
+                        "A scientific experiment",
+                        "A form of taxation"
+                    ],
+                    "answer": "Travel for leisure, boosting economies",
+                    "fun_fact": "Before COVID-19, tourism generated $8.8 trillion yearly—more than the GDP of every country except the U.S. and China!"
+                },
+                {
+                    "question": "How do trains help in transportation?",
+                    "options": [
+                        "By moving large numbers of people/goods on rails",
+                        "By flying",
+                        "By swimming",
+                        "By digging tunnels"
+                    ],
+                    "answer": "By moving large numbers of people/goods on rails",
+                    "fun_fact": "Japan’s Shinkansen (bullet train) has never had a fatal accident in 50+ years of operation!"
+                },
+                {
+                    "question": "Why do some animals migrate?",
+                    "options": [
+                        "For food, breeding, or better climate",
+                        "To build cities",
+                        "To avoid walking",
+                        "Because they’re bored"
+                    ],
+                    "answer": "For food, breeding, or better climate",
+                    "fun_fact": "The Arctic tern migrates 44,000 miles yearly—the longest journey of any animal!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "How does globalization affect local cultures?",
+                    "options": [
+                        "By blending traditions with global influences",
+                        "By erasing all local customs",
+                        "By stopping trade",
+                        "By making everyone wear the same clothes"
+                    ],
+                    "answer": "By blending traditions with global influences",
+                    "fun_fact": "McDonald’s serves McFalafel in Egypt and McSpaghetti in the Philippines—adapting menus to local tastes!"
+                },
+                {
+                    "question": "What are the benefits of free trade agreements?",
+                    "options": [
+                        "Lower prices and more product choices",
+                        "Fewer jobs",
+                        "Higher taxes",
+                        "Less transportation"
+                    ],
+                    "answer": "Lower prices and more product choices",
+                    "fun_fact": "The USMCA (U.S.-Mexico-Canada trade deal) covers $1.3 trillion in annual trade—enough to buy 650 billion pizzas!"
+                },
+                {
+                    "question": "How do refugees impact host countries?",
+                    "options": [
+                        "By adding cultural diversity and labor",
+                        "By taking all the jobs",
+                        "By building walls",
+                        "By stopping all movement"
+                    ],
+                    "answer": "By adding cultural diversity and labor",
+                    "fun_fact": "Uganda hosts 1.4 million refugees—the most in Africa—and gives them land to farm!"
+                },
+                {
+                    "question": "What role do ports play in the global economy?",
+                    "options": [
+                        "They handle 90% of world trade",
+                        "They produce electricity",
+                        "They grow food",
+                        "They block ships"
+                    ],
+                    "answer": "They handle 90% of world trade",
+                    "fun_fact": "The Port of Shanghai moves 43 million shipping containers yearly—that’s 1 container every 2 seconds!"
+                },
+                {
+                    "question": "How has air travel changed over the last century?",
+                    "options": [
+                        "From propeller planes to jets carrying 500+ people",
+                        "From cars to submarines",
+                        "From balloons to rockets only",
+                        "From walking to teleportation"
+                    ],
+                    "answer": "From propeller planes to jets carrying 500+ people",
+                    "fun_fact": "The first commercial flight in 1914 carried 1 passenger. Today, a single Airbus A380 can carry 853!"
+                },
+                {
+                    "question": "What are remittances?",
+                    "options": [
+                        "Money sent home by migrants",
+                        "New types of trains",
+                        "Ocean currents",
+                        "Government taxes"
+                    ],
+                    "answer": "Money sent home by migrants",
+                    "fun_fact": "Remittances to poor countries total $600 billion yearly—3x more than foreign aid!"
+                },
+                {
+                    "question": "How do trade routes influence politics?",
+                    "options": [
+                        "Countries compete to control key routes",
+                        "They have no impact",
+                        "They only affect animals",
+                        "They replace governments"
+                    ],
+                    "answer": "Countries compete to control key routes",
+                    "fun_fact": "The Strait of Hormuz handles 20% of global oil shipments—making it a geopolitical hotspot!"
+                },
+                {
+                    "question": "What is the 'digital divide'?",
+                    "options": [
+                        "The gap in internet access between rich and poor",
+                        "A new smartphone",
+                        "A type of bridge",
+                        "A computer virus"
+                    ],
+                    "answer": "The gap in internet access between rich and poor",
+                    "fun_fact": "3 billion people lack internet access—90% of them live in developing countries!"
+                },
+                {
+                    "question": "How do supply chains work in global manufacturing?",
+                    "options": [
+                        "Parts are made in multiple countries and assembled elsewhere",
+                        "Everything is made in one factory",
+                        "Robots do all the work",
+                        "No transportation is needed"
+                    ],
+                    "answer": "Parts are made in multiple countries and assembled elsewhere",
+                    "fun_fact": "An iPhone’s parts come from 43 countries across 6 continents before assembly in China!"
+                },
+                {
+                    "question": "Why do some countries restrict immigration?",
+                    "options": [
+                        "To protect jobs or culture",
+                        "Because they hate movement",
+                        "To stop all trade",
+                        "To make airplanes useless"
+                    ],
+                    "answer": "To protect jobs or culture",
+                    "fun_fact": "Japan accepts just 1% of asylum seekers—one of the lowest rates in the world!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "How does the Belt and Road Initiative impact global trade?",
+                    "options": [
+                        "By building infrastructure across 70+ countries",
+                        "By banning all imports",
+                        "By destroying old roads",
+                        "By stopping migration"
+                    ],
+                    "answer": "By building infrastructure across 70+ countries",
+                    "fun_fact": "China’s $1 trillion project includes a port in Greece and a railway in Kenya—spanning 3 continents!"
+                },
+                {
+                    "question": "What were the geopolitical effects of the 2021 Suez Canal blockage?",
+                    "options": [
+                        "Global trade delays costing $10 billion/day",
+                        "Faster shipping worldwide",
+                        "No impact",
+                        "New islands formed"
+                    ],
+                    "answer": "Global trade delays costing $10 billion/day",
+                    "fun_fact": "The stuck ship, Ever Given, was as long as the Empire State Building is tall (1,300 ft)!"
+                },
+                {
+                    "question": "How do transnational corporations influence labor movement?",
+                    "options": [
+                        "By outsourcing jobs to cheaper countries",
+                        "By keeping all jobs local",
+                        "By banning workers",
+                        "By using only robots"
+                    ],
+                    "answer": "By outsourcing jobs to cheaper countries",
+                    "fun_fact": "Apple employs 1.5 million workers in China—more than the population of Philadelphia!"
+                },
+                {
+                    "question": "What role does the WTO play in trade disputes?",
+                    "options": [
+                        "It mediates conflicts between countries",
+                        "It builds airports",
+                        "It bans all trade",
+                        "It controls the internet"
+                    ],
+                    "answer": "It mediates conflicts between countries",
+                    "fun_fact": "The WTO has resolved 600+ trade fights since 1995, like the U.S.-EU banana war!"
+                },
+                {
+                    "question": "How does human migration affect genetic diversity?",
+                    "options": [
+                        "It mixes DNA across populations",
+                        "It makes everyone identical",
+                        "It stops evolution",
+                        "It creates new species instantly"
+                    ],
+                    "answer": "It mixes DNA across populations",
+                    "fun_fact": "All non-Africans today share 2-4% Neanderthal DNA—proof of ancient migrations!"
+                },
+                {
+                    "question": "What is 'brain drain'?",
+                    "options": [
+                        "Skilled workers leaving poor countries",
+                        "A medical condition",
+                        "A type of plumbing",
+                        "A new technology"
+                    ],
+                    "answer": "Skilled workers leaving poor countries",
+                    "fun_fact": "Africa loses $2 billion yearly training doctors who move to rich countries!"
+                },
+                {
+                    "question": "How do sanctions restrict movement of goods?",
+                    "options": [
+                        "By banning trade with targeted countries",
+                        "By making everything free",
+                        "By speeding up ships",
+                        "By inventing new products"
+                    ],
+                    "answer": "By banning trade with targeted countries",
+                    "fun_fact": "U.S. sanctions on Iran cut its oil exports by 80%—from 2.5 million barrels/day to 500,000!"
+                },
+                {
+                    "question": "What is cryptocurrency's role in global finance?",
+                    "options": [
+                        "It allows borderless digital payments",
+                        "It replaces all banks",
+                        "It is only used for gaming",
+                        "It stops inflation"
+                    ],
+                    "answer": "It allows borderless digital payments",
+                    "fun_fact": "El Salvador became the first country to make Bitcoin legal tender in 2021!"
+                },
+                {
+                    "question": "How does climate migration reshape populations?",
+                    "options": [
+                        "People flee rising seas or droughts",
+                        "Everyone moves to Antarctica",
+                        "No one moves anymore",
+                        "Cities become empty"
+                    ],
+                    "answer": "People flee rising seas or droughts",
+                    "fun_fact": "By 2050, 200 million people may migrate due to climate change—equal to 5% of humanity!"
+                },
+                {
+                    "question": "What are future trends in supply chains?",
+                    "options": [
+                        "More automation and local production",
+                        "No more ships",
+                        "Everything made in space",
+                        "No more factories"
+                    ],
+                    "answer": "More automation and local production",
+                    "fun_fact": "3D printing could let companies make products anywhere—cutting shipping needs by 50%!"
+                }
+            ]
+        }
+    },
+    "Human-Environment_Interaction": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "Why do people in the Netherlands build dikes?",
+                    "options": [
+                        "For farming",
+                        "To prevent flooding",
+                        "As tourist attractions",
+                        "For wind energy"
+                    ],
+                    "answer": "To prevent flooding",
+                    "fun_fact": "About 26% of the Netherlands is below sea level—dikes have been used since the Middle Ages to reclaim land from the sea!"
+                },
+                {
+                    "question": "What is the main purpose of irrigation?",
+                    "options": [
+                        "To water crops in dry areas",
+                        "To generate electricity",
+                        "To create swimming pools",
+                        "To water houseplants"
+                    ],
+                    "answer": "To water crops in dry areas",
+                    "fun_fact": "The earliest known irrigation systems were built in Mesopotamia around 6000 BCE!"
+                },
+                {
+                    "question": "What is deforestation?",
+                    "options": [
+                        "Planting new trees",
+                        "Cutting down large areas of forests",
+                        "Building cities",
+                        "Creating national parks"
+                    ],
+                    "answer": "Cutting down large areas of forests",
+                    "fun_fact": "Every minute, forests the size of 20 football fields are cut down—that's about 10 million hectares per year!"
+                },
+                {
+                    "question": "Why do people build dams on rivers?",
+                    "options": [
+                        "To create lakes for fishing",
+                        "To generate hydroelectric power",
+                        "To stop fish from migrating",
+                        "All of the above"
+                    ],
+                    "answer": "To generate hydroelectric power",
+                    "fun_fact": "The Three Gorges Dam in China is the world's largest power station—it can power 15 million homes!"
+                },
+                {
+                    "question": "How do cities reduce air pollution?",
+                    "options": [
+                        "By planting more trees",
+                        "By promoting public transportation",
+                        "By using cleaner energy sources",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "A single tree can absorb up to 48 pounds of carbon dioxide per year!"
+                },
+                {
+                    "question": "What is recycling?",
+                    "options": [
+                        "Throwing everything in the trash",
+                        "Turning waste materials into new products",
+                        "Burying garbage underground",
+                        "Burning trash for energy"
+                    ],
+                    "answer": "Turning waste materials into new products",
+                    "fun_fact": "Recycling one aluminum can saves enough energy to power a TV for 3 hours!"
+                },
+                {
+                    "question": "Why are some houses in Japan earthquake-resistant?",
+                    "options": [
+                        "To withstand typhoons",
+                        "To survive earthquakes",
+                        "To look modern",
+                        "To block noise"
+                    ],
+                    "answer": "To survive earthquakes",
+                    "fun_fact": "Japan experiences about 1,500 earthquakes every year—that's why buildings have flexible foundations!"
+                },
+                {
+                    "question": "What are fossil fuels?",
+                    "options": [
+                        "Energy sources from ancient plants and animals",
+                        "Energy from the sun",
+                        "Energy from wind",
+                        "Energy from water"
+                    ],
+                    "answer": "Energy sources from ancient plants and animals",
+                    "fun_fact": "Fossil fuels like coal and oil took millions of years to form—we're using them up much faster than they can regenerate!"
+                },
+                {
+                    "question": "Why do some countries import food instead of growing it?",
+                    "options": [
+                        "They lack farmland or good climate",
+                        "It's cheaper to import",
+                        "They specialize in other industries",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Singapore imports over 90% of its food because it has very little farmland!"
+                },
+                {
+                    "question": "How do wind turbines help the environment?",
+                    "options": [
+                        "By generating clean energy",
+                        "By scaring away birds",
+                        "By creating shade",
+                        "By making noise"
+                    ],
+                    "answer": "By generating clean energy",
+                    "fun_fact": "One wind turbine can power 1,500 homes for a year without producing greenhouse gases!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "How does terrace farming help in mountainous regions?",
+                    "options": [
+                        "By creating flat areas to grow crops",
+                        "By preventing soil erosion",
+                        "By collecting rainwater",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The rice terraces of the Philippine Cordilleras are over 2,000 years old and are a UNESCO World Heritage Site!"
+                },
+                {
+                    "question": "What are the environmental impacts of urbanization?",
+                    "options": [
+                        "Loss of natural habitats",
+                        "Increased air pollution",
+                        "Higher temperatures in cities",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Cities can be up to 10°F (5.5°C) hotter than surrounding rural areas due to the 'urban heat island' effect!"
+                },
+                {
+                    "question": "Why is the Aral Sea shrinking?",
+                    "options": [
+                        "Climate change",
+                        "Overfishing",
+                        "Diverting rivers for irrigation",
+                        "Earthquakes"
+                    ],
+                    "answer": "Diverting rivers for irrigation",
+                    "fun_fact": "The Aral Sea was once the 4th-largest lake in the world—now it's less than 10% of its original size due to cotton farming!"
+                },
+                {
+                    "question": "What are the benefits and drawbacks of building canals?",
+                    "options": [
+                        "Improves trade but disrupts ecosystems",
+                        "Creates jobs but is expensive",
+                        "Provides water but can cause flooding",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Panama Canal saves ships a 8,000-mile trip around South America—it handles about 14,000 ships per year!"
+                },
+                {
+                    "question": "How does overfishing affect marine ecosystems?",
+                    "options": [
+                        "It disrupts food chains",
+                        "It causes some species to go extinct",
+                        "It damages coral reefs",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "90% of large fish like tuna and sharks have disappeared from the oceans due to overfishing!"
+                },
+                {
+                    "question": "Why do some countries have water scarcity issues?",
+                    "options": [
+                        "Drought and climate change",
+                        "Pollution of water sources",
+                        "Overuse of groundwater",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "By 2025, two-thirds of the world's population may face water shortages!"
+                },
+                {
+                    "question": "How does tourism impact natural landmarks?",
+                    "options": [
+                        "It provides funding for conservation",
+                        "It causes pollution and erosion",
+                        "It leads to overcrowding",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Machu Picchu limits visitors to 2,500 per day to prevent damage to the ancient Inca ruins!"
+                },
+                {
+                    "question": "What are the effects of mining on the environment?",
+                    "options": [
+                        "Deforestation",
+                        "Water pollution",
+                        "Soil erosion",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "It takes about 2.5 tons of ore to extract just 1 gram of gold!"
+                },
+                {
+                    "question": "How do wildfires influence forest ecosystems?",
+                    "options": [
+                        "They destroy habitats",
+                        "They help some plants reproduce",
+                        "They renew soil nutrients",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Some pine cones only release their seeds when heated by fire—nature's way of ensuring regeneration!"
+                },
+                {
+                    "question": "What is desertification?",
+                    "options": [
+                        "The expansion of deserts due to human activity",
+                        "The creation of new deserts",
+                        "The study of deserts",
+                        "The planting of trees in deserts"
+                    ],
+                    "answer": "The expansion of deserts due to human activity",
+                    "fun_fact": "Every year, an area the size of Lebanon turns into desert due to overgrazing and poor farming practices!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "How does climate change affect indigenous Arctic communities?",
+                    "options": [
+                        "Melting permafrost destroys infrastructure",
+                        "Hunting patterns are disrupted",
+                        "Traditional food sources become scarce",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Some Arctic villages are relocating entirely because thawing ground makes buildings collapse!"
+                },
+                {
+                    "question": "What are the geopolitical implications of melting polar ice caps?",
+                    "options": [
+                        "New shipping routes open",
+                        "Countries compete for oil and gas reserves",
+                        "Sea levels rise, threatening coastal cities",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Northwest Passage could become ice-free in summer by 2050, cutting shipping time between Europe and Asia by 40%!"
+                },
+                {
+                    "question": "How does desertification impact food security in Africa?",
+                    "options": [
+                        "Reduces farmland",
+                        "Forces farmers to migrate",
+                        "Increases conflicts over resources",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Sahara Desert expands southward by about 30 miles per year due to climate change and overgrazing!"
+                },
+                {
+                    "question": "What are the long-term effects of the Three Gorges Dam in China?",
+                    "options": [
+                        "Displaced 1.4 million people",
+                        "Altered ecosystems",
+                        "Increased earthquake risk",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The dam's reservoir is so massive it slowed Earth's rotation slightly by shifting water weight!"
+                },
+                {
+                    "question": "How do rising sea levels threaten small island nations?",
+                    "options": [
+                        "Loss of freshwater sources",
+                        "Erosion of coastlines",
+                        "Entire countries could disappear",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Kiribati bought land in Fiji as a potential new home for its citizens—it may be the first climate refugees!"
+                },
+                {
+                    "question": "What role does deforestation play in global carbon emissions?",
+                    "options": [
+                        "It releases stored carbon",
+                        "It reduces Earth's oxygen supply",
+                        "It contributes 15% of global emissions",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Amazon Rainforest stores 90-140 billion tons of carbon—losing it would accelerate climate change dramatically!"
+                },
+                {
+                    "question": "How does the Panama Canal influence global trade routes?",
+                    "options": [
+                        "Saves ships thousands of miles",
+                        "Handles 5% of world trade",
+                        "Generates $2 billion annually",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "A single trip through the canal uses 52 million gallons of freshwater—enough to fill 78 Olympic pools!"
+                },
+                {
+                    "question": "What are the challenges of sustainable agriculture in arid regions?",
+                    "options": [
+                        "Water scarcity",
+                        "Soil salinity",
+                        "High temperatures",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Israel recycles 90% of its wastewater for agriculture—the highest rate in the world!"
+                },
+                {
+                    "question": "How do urban heat islands form?",
+                    "options": [
+                        "Concrete and asphalt absorb heat",
+                        "Lack of vegetation",
+                        "Waste heat from vehicles and buildings",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Phoenix, Arizona, can be 15°F (8°C) hotter at night than surrounding desert due to stored heat in pavement!"
+                },
+                {
+                    "question": "What strategies combat soil erosion in farming?",
+                    "options": [
+                        "Terracing",
+                        "Cover crops",
+                        "No-till agriculture",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "The Dust Bowl of the 1930s taught us that plowing grasslands could turn fertile soil into blowing dust—modern techniques prevent this!"
+                }
+            ]
+        }
+    },
+    "Location": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the capital of France?",
+                    "options": [
+                        "Berlin",
+                        "Madrid",
+                        "Paris",
+                        "Rome"
+                    ],
+                    "answer": "Paris",
+                    "fun_fact": "Paris is nicknamed the 'City of Light' because it was a pioneer in street lighting in the 19th century!"
+                },
+                {
+                    "question": "Which ocean is between Africa and Australia?",
+                    "options": [
+                        "Atlantic",
+                        "Indian",
+                        "Pacific",
+                        "Arctic"
+                    ],
+                    "answer": "Indian",
+                    "fun_fact": "The Indian Ocean is the warmest ocean, with temperatures often above 82°F (28°C)!"
+                },
+                {
+                    "question": "What imaginary line divides Earth into Northern and Southern Hemispheres?",
+                    "options": [
+                        "Prime Meridian",
+                        "Equator",
+                        "Tropic of Cancer",
+                        "Antarctic Circle"
+                    ],
+                    "answer": "Equator",
+                    "fun_fact": "At the Equator, you weigh about 0.5% less due to centrifugal force from Earth's rotation!"
+                },
+                {
+                    "question": "Which country is both in Europe and Asia?",
+                    "options": [
+                        "Egypt",
+                        "Turkey",
+                        "Greece",
+                        "India"
+                    ],
+                    "answer": "Turkey",
+                    "fun_fact": "Istanbul is the only major city spanning two continents, divided by the Bosphorus Strait!"
+                },
+                {
+                    "question": "What is the closest planet to the Sun?",
+                    "options": [
+                        "Venus",
+                        "Earth",
+                        "Mars",
+                        "Mercury"
+                    ],
+                    "answer": "Mercury",
+                    "fun_fact": "Mercury's surface temperature swings from -290°F (-180°C) at night to 800°F (430°C) during the day!"
+                },
+                {
+                    "question": "Which U.S. state is known as the 'Sunshine State'?",
+                    "options": [
+                        "California",
+                        "Texas",
+                        "Florida",
+                        "Hawaii"
+                    ],
+                    "answer": "Florida",
+                    "fun_fact": "Florida gets an average of 230 sunny days per year—more than most U.S. states!"
+                },
+                {
+                    "question": "Which river is the longest in the world?",
+                    "options": [
+                        "Amazon",
+                        "Nile",
+                        "Yangtze",
+                        "Mississippi"
+                    ],
+                    "answer": "Nile",
+                    "fun_fact": "The Nile flows northward for 4,132 miles and was the lifeline of ancient Egyptian civilization!"
+                },
+                {
+                    "question": "What is the tallest mountain on Earth?",
+                    "options": [
+                        "K2",
+                        "Mount Everest",
+                        "Kangchenjunga",
+                        "Lhotse"
+                    ],
+                    "answer": "Mount Everest",
+                    "fun_fact": "Everest grows about 4mm taller each year due to tectonic plate movement!"
+                },
+                {
+                    "question": "Which country has the most people?",
+                    "options": [
+                        "India",
+                        "USA",
+                        "China",
+                        "Indonesia"
+                    ],
+                    "answer": "China",
+                    "fun_fact": "China's population (1.4 billion) is roughly equal to the combined populations of Europe, the U.S., and Brazil!"
+                },
+                {
+                    "question": "What is the smallest country by land area?",
+                    "options": [
+                        "Monaco",
+                        "Vatican City",
+                        "San Marino",
+                        "Liechtenstein"
+                    ],
+                    "answer": "Vatican City",
+                    "fun_fact": "Vatican City is only 0.17 square miles—smaller than New York's Central Park!"
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which city is located at 34°S, 58°W?",
+                    "options": [
+                        "Rio de Janeiro",
+                        "Buenos Aires",
+                        "Santiago",
+                        "Lima"
+                    ],
+                    "answer": "Buenos Aires",
+                    "fun_fact": "Buenos Aires means 'Good Airs' in Spanish, named by 16th-century sailors for its fresh winds!"
+                },
+                {
+                    "question": "What are the coordinates of the Great Pyramid of Giza?",
+                    "options": [
+                        "29°N, 31°E",
+                        "30°N, 31°E",
+                        "29°N, 32°E",
+                        "30°N, 32°E"
+                    ],
+                    "answer": "29°N, 31°E",
+                    "fun_fact": "The pyramid's sides align almost perfectly with true north—a feat achieved 4,500 years ago!"
+                },
+                {
+                    "question": "Which country is at the southernmost tip of Africa?",
+                    "options": [
+                        "Namibia",
+                        "South Africa",
+                        "Angola",
+                        "Mozambique"
+                    ],
+                    "answer": "South Africa",
+                    "fun_fact": "Cape Agulhas (not the Cape of Good Hope) is Africa's true southernmost point, where two oceans meet!"
+                },
+                {
+                    "question": "What is the relative location of Canada to the U.S.?",
+                    "options": [
+                        "East",
+                        "South",
+                        "North",
+                        "West"
+                    ],
+                    "answer": "North",
+                    "fun_fact": "The U.S.-Canada border is the world's longest international land border at 5,525 miles (8,891 km)!"
+                },
+                {
+                    "question": "Which two countries does the Equator NOT pass through?",
+                    "options": [
+                        "Brazil & Kenya",
+                        "Colombia & Indonesia",
+                        "Ecuador & Somalia",
+                        "Chile & Vietnam"
+                    ],
+                    "answer": "Chile & Vietnam",
+                    "fun_fact": "Ecuador is the only country named after the Equator—it runs just north of its capital, Quito!"
+                },
+                {
+                    "question": "Which U.S. state is farthest west?",
+                    "options": [
+                        "Hawaii",
+                        "Alaska",
+                        "California",
+                        "Washington"
+                    ],
+                    "answer": "Alaska",
+                    "fun_fact": "Alaska's Aleutian Islands stretch so far west, they cross into the Eastern Hemisphere!"
+                },
+                {
+                    "question": "What is the latitude of the Arctic Circle?",
+                    "options": [
+                        "60°N",
+                        "66.5°N",
+                        "70°N",
+                        "75°N"
+                    ],
+                    "answer": "66.5°N",
+                    "fun_fact": "Inside the Arctic Circle, the sun doesn’t set for at least one day in summer (Midnight Sun)!"
+                },
+                {
+                    "question": "Which continent has no deserts?",
+                    "options": [
+                        "Australia",
+                        "Africa",
+                        "Europe",
+                        "South America"
+                    ],
+                    "answer": "Europe",
+                    "fun_fact": "Europe's only desert-like area is Spain's Tabernas Desert, spanning just 11 square miles!"
+                },
+                {
+                    "question": "Which country spans the most time zones?",
+                    "options": [
+                        "USA",
+                        "Russia",
+                        "China",
+                        "Canada"
+                    ],
+                    "answer": "France",
+                    "fun_fact": "France has 12 time zones due to overseas territories like French Polynesia—more than any other country!"
+                },
+                {
+                    "question": "What is the northernmost capital city?",
+                    "options": [
+                        "Oslo",
+                        "Reykjavik",
+                        "Helsinki",
+                        "Stockholm"
+                    ],
+                    "answer": "Reykjavik",
+                    "fun_fact": "Reykjavik (Iceland) is so far north, it gets only 4 hours of daylight in December!"
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the antipode (opposite location) of New Zealand?",
+                    "options": [
+                        "Spain",
+                        "Chile",
+                        "South Africa",
+                        "Antarctica"
+                    ],
+                    "answer": "Spain",
+                    "fun_fact": "Only 3% of Earth's land has its antipode on land—most are in the middle of oceans!"
+                },
+                {
+                    "question": "Which city lies at 0°N, 0°E?",
+                    "options": [
+                        "Accra",
+                        "Kinshasa",
+                        "São Tomé",
+                        "Null Island"
+                    ],
+                    "answer": "Null Island",
+                    "fun_fact": "Null Island is a fictional spot in the Atlantic Ocean used to flag GPS errors—it 'exists' only in digital maps!"
+                },
+                {
+                    "question": "What is the most remote inhabited island group?",
+                    "options": [
+                        "Galápagos",
+                        "Pitcairn Islands",
+                        "Tristan da Cunha",
+                        "Easter Island"
+                    ],
+                    "answer": "Tristan da Cunha",
+                    "fun_fact": "Tristan da Cunha is 1,500 miles from the nearest mainland (South Africa) and has just 250 residents!"
+                },
+                {
+                    "question": "Which river crosses the Equator twice?",
+                    "options": [
+                        "Amazon",
+                        "Congo",
+                        "Nile",
+                        "Orinoco"
+                    ],
+                    "answer": "Congo",
+                    "fun_fact": "The Congo River is the world's deepest (720 ft) and flows through Africa's second-largest rainforest!"
+                },
+                {
+                    "question": "Which country has the southernmost point of land on Earth?",
+                    "options": [
+                        "Argentina",
+                        "Chile",
+                        "South Africa",
+                        "Antarctica"
+                    ],
+                    "answer": "Antarctica",
+                    "fun_fact": "The South Pole sits on a 9,000-foot-thick ice sheet—no permanent land underneath!"
+                },
+                {
+                    "question": "What is the only U.S. state north and east of Canada?",
+                    "options": [
+                        "Alaska",
+                        "Maine",
+                        "Minnesota",
+                        "Washington"
+                    ],
+                    "answer": "Alaska",
+                    "fun_fact": "Alaska's Little Diomede Island is just 2.4 miles from Russia's Big Diomede—they're separated by the International Date Line!"
+                },
+                {
+                    "question": "Which two countries share the longest international border?",
+                    "options": [
+                        "USA-Canada",
+                        "Russia-Kazakhstan",
+                        "Argentina-Chile",
+                        "China-India"
+                    ],
+                    "answer": "USA-Canada",
+                    "fun_fact": "The U.S.-Canada border includes a 1,538-mile gap (Alaska-Yukon) with no fences or patrols!"
+                },
+                {
+                    "question": "Which capital city is on two continents?",
+                    "options": [
+                        "Istanbul",
+                        "Moscow",
+                        "Ankara",
+                        "Cairo"
+                    ],
+                    "answer": "Istanbul",
+                    "fun_fact": "Istanbul's European side has 2/3 of its population, but Asia is just a 15-minute ferry ride away!"
+                },
+                {
+                    "question": "What is the only country without a rectangular flag?",
+                    "options": [
+                        "Nepal",
+                        "Switzerland",
+                        "Bhutan",
+                        "Greece"
+                    ],
+                    "answer": "Nepal",
+                    "fun_fact": "Nepal's flag is two stacked triangles representing the Himalayas and Hinduism/Buddhism!"
+                },
+                {
+                    "question": "Which country has the most natural lakes?",
+                    "options": [
+                        "USA",
+                        "Russia",
+                        "Canada",
+                        "Finland"
+                    ],
+                    "answer": "Canada",
+                    "fun_fact": "Canada has over 2 million lakes—more than the rest of the world's lakes combined!"
+                }
+            ]
+        }
+    }
+}

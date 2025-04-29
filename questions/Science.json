@@ -1,0 +1,1702 @@
+{
+    "Photosynthesis": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "What is the main purpose of photosynthesis?",
+                    "options": [
+                        "To make food for the plant",
+                        "To give plants their color",
+                        "To help plants grow tall",
+                        "To attract insects"
+                    ],
+                    "answer": "To make food for the plant",
+                    "fun_fact": "Photosynthesis produces about 130-140 billion metric tons of carbohydrates per year globally!"
+                },
+                {
+                    "question": "What gas do plants absorb during photosynthesis?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer": "Carbon dioxide",
+                    "fun_fact": "A single tree can absorb about 48 pounds of CO2 per year!"
+                },
+                {
+                    "question": "What do plants release during photosynthesis?",
+                    "options": [
+                        "Carbon dioxide",
+                        "Oxygen",
+                        "Nitrogen",
+                        "Water vapor"
+                    ],
+                    "answer": "Oxygen",
+                    "fun_fact": "Rainforests produce about 20% of Earth's oxygen!"
+                },
+                {
+                    "question": "What gives leaves their green color?",
+                    "options": [
+                        "Chlorophyll",
+                        "Xanthophyll",
+                        "Carotene",
+                        "Anthocyanin"
+                    ],
+                    "answer": "Chlorophyll",
+                    "fun_fact": "Chlorophyll absorbs blue and red light best, which is why it reflects green light!"
+                },
+                {
+                    "question": "What energy source do plants use for photosynthesis?",
+                    "options": [
+                        "Moonlight",
+                        "Sunlight",
+                        "Heat from soil",
+                        "Electricity"
+                    ],
+                    "answer": "Sunlight",
+                    "fun_fact": "Plants use only about 1-2% of the sunlight that reaches them for photosynthesis!"
+                },
+                {
+                    "question": "Where in the plant does photosynthesis mainly occur?",
+                    "options": [
+                        "Roots",
+                        "Flowers",
+                        "Leaves",
+                        "Stem"
+                    ],
+                    "answer": "Leaves",
+                    "fun_fact": "A leaf's flat shape helps it capture maximum sunlight!"
+                },
+                {
+                    "question": "What simple sugar do plants make during photosynthesis?",
+                    "options": [
+                        "Sucrose",
+                        "Fructose",
+                        "Glucose",
+                        "Lactose"
+                    ],
+                    "answer": "Glucose",
+                    "fun_fact": "Plants use glucose for energy and to build cellulose for their cell walls!"
+                },
+                {
+                    "question": "What liquid do plants need for photosynthesis?",
+                    "options": [
+                        "Juice",
+                        "Water",
+                        "Milk",
+                        "Oil"
+                    ],
+                    "answer": "Water",
+                    "fun_fact": "Plants release about 97% of the water they absorb back into the air!"
+                },
+                {
+                    "question": "What season do most plants stop photosynthesizing?",
+                    "options": [
+                        "Spring",
+                        "Summer",
+                        "Fall",
+                        "Winter"
+                    ],
+                    "answer": "Winter",
+                    "fun_fact": "Evergreen trees have special adaptations to photosynthesize year-round!"
+                },
+                {
+                    "question": "What would happen if plants couldn't photosynthesize?",
+                    "options": [
+                        "They would grow faster",
+                        "They would starve",
+                        "They would change color",
+                        "Nothing would change"
+                    ],
+                    "answer": "They would starve",
+                    "fun_fact": "No photosynthesis = no food for plants AND no oxygen for us!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "What are the two main stages of photosynthesis?",
+                    "options": [
+                        "Day and night",
+                        "Light and dark reactions",
+                        "Wet and dry",
+                        "Hot and cold"
+                    ],
+                    "answer": "Light and dark reactions",
+                    "fun_fact": "The light reactions need sunlight, but the Calvin cycle (dark reactions) can happen in the dark!"
+                },
+                {
+                    "question": "Where in plant cells does photosynthesis occur?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Chloroplasts",
+                        "Vacuoles"
+                    ],
+                    "answer": "Chloroplasts",
+                    "fun_fact": "A single leaf cell might contain 40-50 chloroplasts!"
+                },
+                {
+                    "question": "What is the chemical equation for photosynthesis?",
+                    "options": [
+                        "H2O + CO2 → O2 + C6H12O6",
+                        "6CO2 + 6H2O → C6H12O6 + 6O2",
+                        "O2 + C6H12O6 → CO2 + H2O",
+                        "C6H12O6 + 6O2 → 6CO2 + 6H2O"
+                    ],
+                    "answer": "6CO2 + 6H2O → C6H12O6 + 6O2",
+                    "fun_fact": "This equation is essentially the reverse of cellular respiration!"
+                },
+                {
+                    "question": "What molecule is split to release oxygen during photosynthesis?",
+                    "options": [
+                        "CO2",
+                        "C6H12O6",
+                        "H2O",
+                        "ATP"
+                    ],
+                    "answer": "H2O",
+                    "fun_fact": "The oxygen we breathe comes from water molecules, not carbon dioxide!"
+                },
+                {
+                    "question": "What energy-carrying molecule is made during the light reactions?",
+                    "options": [
+                        "DNA",
+                        "RNA",
+                        "ATP",
+                        "Protein"
+                    ],
+                    "answer": "ATP",
+                    "fun_fact": "ATP stands for adenosine triphosphate - it's like cellular energy currency!"
+                },
+                {
+                    "question": "What is the Calvin cycle also known as?",
+                    "options": [
+                        "Light reactions",
+                        "Dark reactions",
+                        "Electron transport",
+                        "Glycolysis"
+                    ],
+                    "answer": "Dark reactions",
+                    "fun_fact": "Melvin Calvin won a Nobel Prize for discovering this cycle in 1961!"
+                },
+                {
+                    "question": "What environmental factor affects photosynthesis the most?",
+                    "options": [
+                        "Wind speed",
+                        "Light intensity",
+                        "Soil type",
+                        "Atmospheric pressure"
+                    ],
+                    "answer": "Light intensity",
+                    "fun_fact": "Photosynthesis increases with light up to a point, then levels off!"
+                },
+                {
+                    "question": "What adaptation helps desert plants photosynthesize with less water?",
+                    "options": [
+                        "Large leaves",
+                        "CAM photosynthesis",
+                        "More stomata",
+                        "No roots"
+                    ],
+                    "answer": "CAM photosynthesis",
+                    "fun_fact": "CAM plants open their stomata at night to reduce water loss!"
+                },
+                {
+                    "question": "What happens to most of the sunlight that hits a leaf?",
+                    "options": [
+                        "Used for photosynthesis",
+                        "Reflected or turned to heat",
+                        "Stored as energy",
+                        "Converted to electricity"
+                    ],
+                    "answer": "Reflected or turned to heat",
+                    "fun_fact": "Only about 1-2% of sunlight is actually used for photosynthesis!"
+                },
+                {
+                    "question": "What color of light is least useful for photosynthesis?",
+                    "options": [
+                        "Red",
+                        "Blue",
+                        "Green",
+                        "Yellow"
+                    ],
+                    "answer": "Green",
+                    "fun_fact": "Plants reflect green light, which is why they appear green to us!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "What is the name of the enzyme that fixes CO2 in the Calvin cycle?",
+                    "options": [
+                        "ATP synthase",
+                        "Rubisco",
+                        "PEP carboxylase",
+                        "Hexokinase"
+                    ],
+                    "answer": "Rubisco",
+                    "fun_fact": "Rubisco is probably the most abundant protein on Earth!"
+                },
+                {
+                    "question": "What is photorespiration?",
+                    "options": [
+                        "Plant breathing at night",
+                        "Oxygen competing with CO2 in Rubisco",
+                        "Light production by plants",
+                        "Water loss through leaves"
+                    ],
+                    "answer": "Oxygen competing with CO2 in Rubisco",
+                    "fun_fact": "Photorespiration can reduce photosynthesis efficiency by up to 25%!"
+                },
+                {
+                    "question": "What are the sac-like membranes in chloroplasts called?",
+                    "options": [
+                        "Cristae",
+                        "Thylakoids",
+                        "Stroma",
+                        "Granum"
+                    ],
+                    "answer": "Thylakoids",
+                    "fun_fact": "Thylakoid membranes contain the chlorophyll and are stacked like pancakes (grana)!"
+                },
+                {
+                    "question": "What is the primary electron acceptor in photosystem II?",
+                    "options": [
+                        "NADP+",
+                        "Pheophytin",
+                        "Plastoquinone",
+                        "Ferredoxin"
+                    ],
+                    "answer": "Pheophytin",
+                    "fun_fact": "This is the first step in converting light energy to chemical energy!"
+                },
+                {
+                    "question": "What is the difference between C3 and C4 plants?",
+                    "options": [
+                        "Number of chloroplasts",
+                        "CO2 fixation method",
+                        "Type of chlorophyll",
+                        "Leaf structure"
+                    ],
+                    "answer": "CO2 fixation method",
+                    "fun_fact": "C4 plants like corn are more efficient in hot, dry climates than C3 plants!"
+                },
+                {
+                    "question": "What is the Z-scheme in photosynthesis?",
+                    "options": [
+                        "Leaf arrangement pattern",
+                        "Path of electron transport",
+                        "Shape of chloroplasts",
+                        "Root growth direction"
+                    ],
+                    "answer": "Path of electron transport",
+                    "fun_fact": "It's called the Z-scheme because the energy diagram looks like a sideways Z!"
+                },
+                {
+                    "question": "What is cyclic electron flow?",
+                    "options": [
+                        "Electrons cycling in the Calvin cycle",
+                        "Alternative electron path making only ATP",
+                        "Movement of water in xylem",
+                        "Seasonal leaf growth pattern"
+                    ],
+                    "answer": "Alternative electron path making only ATP",
+                    "fun_fact": "This helps balance ATP and NADPH production for the Calvin cycle!"
+                },
+                {
+                    "question": "What is the chemiosmotic hypothesis in photosynthesis?",
+                    "options": [
+                        "ATP synthesis driven by proton gradient",
+                        "CO2 movement through stomata",
+                        "Water splitting mechanism",
+                        "Pigment excitation theory"
+                    ],
+                    "answer": "ATP synthesis driven by proton gradient",
+                    "fun_fact": "Peter Mitchell won a Nobel Prize for this theory that applies to both photosynthesis and respiration!"
+                },
+                {
+                    "question": "What is the significance of the P680 and P700 pigments?",
+                    "options": [
+                        "They reflect different colors",
+                        "They are reaction center chlorophylls",
+                        "They protect against UV light",
+                        "They store glucose"
+                    ],
+                    "answer": "They are reaction center chlorophylls",
+                    "fun_fact": "The numbers refer to the wavelength (in nm) they absorb best - 680nm (red) and 700nm (far red)!"
+                },
+                {
+                    "question": "How does the C4 pathway minimize photorespiration?",
+                    "options": [
+                        "By separating reactions in different cells",
+                        "By using different chlorophyll",
+                        "By working only at night",
+                        "By absorbing more oxygen"
+                    ],
+                    "answer": "By separating reactions in different cells",
+                    "fun_fact": "C4 plants concentrate CO2 in bundle sheath cells where the Calvin cycle occurs!"
+                }
+            ]
+        }
+    },
+    "Gravity": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "What force makes objects fall to the ground?",
+                    "options": [
+                        "Magnetism",
+                        "Gravity",
+                        "Electricity",
+                        "Friction"
+                    ],
+                    "answer": "Gravity",
+                    "fun_fact": "Gravity is why Earth orbits the Sun! Without it, we'd drift into space."
+                },
+                {
+                    "question": "Which planet has the strongest gravity in our solar system?",
+                    "options": [
+                        "Earth",
+                        "Mars",
+                        "Jupiter",
+                        "Saturn"
+                    ],
+                    "answer": "Jupiter",
+                    "fun_fact": "Jupiter's gravity is 2.5x stronger than Earth's - you'd weigh way more there!"
+                },
+                {
+                    "question": "What happens when you drop a ball?",
+                    "options": [
+                        "It floats",
+                        "It falls down",
+                        "It disappears",
+                        "It spins"
+                    ],
+                    "answer": "It falls down",
+                    "fun_fact": "Galileo proved all objects fall at the same speed (ignoring air resistance)!"
+                },
+                {
+                    "question": "Where would you weigh less than on Earth?",
+                    "options": [
+                        "Jupiter",
+                        "The Moon",
+                        "Saturn",
+                        "The Sun"
+                    ],
+                    "answer": "The Moon",
+                    "fun_fact": "The Moon's gravity is 1/6th of Earth's - you could jump 6x higher there!"
+                },
+                {
+                    "question": "What keeps the planets orbiting the Sun?",
+                    "options": [
+                        "Magnetism",
+                        "Gravity",
+                        "Solar wind",
+                        "Inertia"
+                    ],
+                    "answer": "Gravity",
+                    "fun_fact": "The Sun's gravity holds our entire solar system together!"
+                },
+                {
+                    "question": "What would happen if Earth had no gravity?",
+                    "options": [
+                        "We'd float away",
+                        "Nothing would change",
+                        "We'd get heavier",
+                        "Days would get longer"
+                    ],
+                    "answer": "We'd float away",
+                    "fun_fact": "Without gravity, Earth's atmosphere and oceans would escape into space!"
+                },
+                {
+                    "question": "Who is famous for discovering gravity?",
+                    "options": [
+                        "Albert Einstein",
+                        "Isaac Newton",
+                        "Galileo",
+                        "Stephen Hawking"
+                    ],
+                    "answer": "Isaac Newton",
+                    "fun_fact": "Newton developed his theory of gravity in 1666 when he was just 23 years old!"
+                },
+                {
+                    "question": "What do we call the path Earth takes around the Sun?",
+                    "options": [
+                        "A circle",
+                        "An ellipse",
+                        "A spiral",
+                        "A zigzag"
+                    ],
+                    "answer": "An ellipse",
+                    "fun_fact": "Earth's orbit isn't a perfect circle - it's slightly oval-shaped!"
+                },
+                {
+                    "question": "Why don't we float away from Earth?",
+                    "options": [
+                        "Because of gravity",
+                        "Because of air pressure",
+                        "Because we're too heavy",
+                        "Because of magnetism"
+                    ],
+                    "answer": "Because of gravity",
+                    "fun_fact": "Earth's gravity pulls everything toward its center at 9.8 m/s²!"
+                },
+                {
+                    "question": "What would happen if you dropped a feather and a hammer on the Moon?",
+                    "options": [
+                        "The hammer would fall faster",
+                        "The feather would fall faster",
+                        "They'd float away",
+                        "They'd fall at the same speed"
+                    ],
+                    "answer": "They'd fall at the same speed",
+                    "fun_fact": "Astronaut David Scott proved this on the Moon in 1971 during Apollo 15!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "What two factors determine the strength of gravity?",
+                    "options": [
+                        "Mass and distance",
+                        "Speed and time",
+                        "Color and shape",
+                        "Temperature and pressure"
+                    ],
+                    "answer": "Mass and distance",
+                    "fun_fact": "Black holes have gravity so strong that not even light can escape them!"
+                },
+                {
+                    "question": "Why do astronauts float in space?",
+                    "options": [
+                        "There's no gravity",
+                        "They're falling around Earth",
+                        "They're weightless",
+                        "Space pushes them up"
+                    ],
+                    "answer": "They're falling around Earth",
+                    "fun_fact": "Astronauts in orbit are actually in freefall - like a rollercoaster dropping forever!"
+                },
+                {
+                    "question": "How does gravity affect time?",
+                    "options": [
+                        "Speeds it up",
+                        "Slows it down",
+                        "Reverses it",
+                        "Has no effect"
+                    ],
+                    "answer": "Slows it down",
+                    "fun_fact": "Clocks on GPS satellites run faster than on Earth because of weaker gravity in space!"
+                },
+                {
+                    "question": "What is the acceleration due to gravity on Earth?",
+                    "options": [
+                        "5.8 m/s²",
+                        "9.8 m/s²",
+                        "12.2 m/s²",
+                        "15.0 m/s²"
+                    ],
+                    "answer": "9.8 m/s²",
+                    "fun_fact": "This value varies slightly depending on where you are on Earth!"
+                },
+                {
+                    "question": "What keeps the Moon orbiting Earth?",
+                    "options": [
+                        "Earth's gravity",
+                        "The Sun's gravity",
+                        "Magnetic fields",
+                        "Solar wind"
+                    ],
+                    "answer": "Earth's gravity",
+                    "fun_fact": "The Moon is slowly moving away from Earth at about 3.8 cm per year!"
+                },
+                {
+                    "question": "What would happen if the Sun's gravity suddenly disappeared?",
+                    "options": [
+                        "Earth would float away",
+                        "Nothing would change",
+                        "Earth would crash into the Sun",
+                        "The solar system would collapse"
+                    ],
+                    "answer": "Earth would float away",
+                    "fun_fact": "It takes 8 minutes for the Sun's gravity to reach Earth - the same as light!"
+                },
+                {
+                    "question": "What is microgravity?",
+                    "options": [
+                        "Zero gravity",
+                        "Very weak gravity",
+                        "Artificial gravity",
+                        "Negative gravity"
+                    ],
+                    "answer": "Very weak gravity",
+                    "fun_fact": "The ISS experiences about 90% of Earth's gravity - astronauts float because they're in freefall!"
+                },
+                {
+                    "question": "How does gravity create tides?",
+                    "options": [
+                        "Earth's rotation causes them",
+                        "The Moon's gravity pulls on oceans",
+                        "The Sun's heat evaporates water",
+                        "Wind pushes the water"
+                    ],
+                    "answer": "The Moon's gravity pulls on oceans",
+                    "fun_fact": "The Moon's gravity creates two tidal bulges on Earth - that's why there are two high tides each day!"
+                },
+                {
+                    "question": "What is weightlessness?",
+                    "options": [
+                        "Having no mass",
+                        "Being in freefall",
+                        "Being in space",
+                        "Having zero gravity"
+                    ],
+                    "answer": "Being in freefall",
+                    "fun_fact": "You can experience weightlessness briefly on a rollercoaster drop or in a falling elevator!"
+                },
+                {
+                    "question": "Why don't planets crash into the Sun?",
+                    "options": [
+                        "They're too far away",
+                        "They're moving sideways",
+                        "The Sun repels them",
+                        "Magnetic fields protect them"
+                    ],
+                    "answer": "They're moving sideways",
+                    "fun_fact": "Planets orbit because they're constantly falling toward the Sun but moving fast enough to miss it!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "What does Einstein's theory say about gravity and spacetime?",
+                    "options": [
+                        "Gravity is a force between masses",
+                        "Gravity bends spacetime",
+                        "Gravity only works on Earth",
+                        "Gravity is an illusion"
+                    ],
+                    "answer": "Gravity bends spacetime",
+                    "fun_fact": "Massive objects like stars warp spacetime like a bowling ball on a trampoline!"
+                },
+                {
+                    "question": "What is 'escape velocity'?",
+                    "options": [
+                        "Speed to orbit Earth",
+                        "Speed to leave Earth's gravity",
+                        "Speed of light",
+                        "Speed of sound"
+                    ],
+                    "answer": "Speed to leave Earth's gravity",
+                    "fun_fact": "Earth's escape velocity is 11.2 km/s - that's 25,000 mph!"
+                },
+                {
+                    "question": "What are gravitational waves?",
+                    "options": [
+                        "Ocean waves caused by gravity",
+                        "Ripples in spacetime",
+                        "Magnetic waves from planets",
+                        "Solar wind particles"
+                    ],
+                    "answer": "Ripples in spacetime",
+                    "fun_fact": "These waves were first detected in 2015 from two black holes colliding 1.3 billion light-years away!"
+                },
+                {
+                    "question": "What is a geostationary orbit?",
+                    "options": [
+                        "An orbit matching Earth's rotation",
+                        "An orbit around the equator",
+                        "An orbit with zero gravity",
+                        "An orbit that escapes gravity"
+                    ],
+                    "answer": "An orbit matching Earth's rotation",
+                    "fun_fact": "Satellites in geostationary orbit stay over the same spot on Earth - perfect for weather satellites!"
+                },
+                {
+                    "question": "How does general relativity explain gravity?",
+                    "options": [
+                        "As a force between masses",
+                        "As curvature of spacetime",
+                        "As a quantum field",
+                        "As an electromagnetic effect"
+                    ],
+                    "answer": "As curvature of spacetime",
+                    "fun_fact": "Einstein's theory predicted black holes before they were discovered!"
+                },
+                {
+                    "question": "What is tidal locking?",
+                    "options": [
+                        "When tides stop moving",
+                        "When a moon faces one side to its planet",
+                        "When gravity disappears",
+                        "When oceans freeze"
+                    ],
+                    "answer": "When a moon faces one side to its planet",
+                    "fun_fact": "Our Moon is tidally locked - that's why we only see one side of it from Earth!"
+                },
+                {
+                    "question": "What is the equivalence principle?",
+                    "options": [
+                        "Gravity affects everything equally",
+                        "Acceleration feels like gravity",
+                        "All planets have equal gravity",
+                        "Mass and energy are equivalent"
+                    ],
+                    "answer": "Acceleration feels like gravity",
+                    "fun_fact": "This principle led Einstein to realize gravity and acceleration are equivalent - the foundation of general relativity!"
+                },
+                {
+                    "question": "What is a gravitational lens?",
+                    "options": [
+                        "A telescope that uses gravity",
+                        "When gravity bends light",
+                        "A black hole's surface",
+                        "A device to measure gravity"
+                    ],
+                    "answer": "When gravity bends light",
+                    "fun_fact": "Massive galaxies can bend light from objects behind them, acting like cosmic magnifying glasses!"
+                },
+                {
+                    "question": "What would happen to time near a black hole?",
+                    "options": [
+                        "It would speed up",
+                        "It would slow down",
+                        "It would stop",
+                        "It would reverse"
+                    ],
+                    "answer": "It would slow down",
+                    "fun_fact": "To an outside observer, someone falling into a black hole would appear to freeze in time!"
+                },
+                {
+                    "question": "What is dark matter's relationship to gravity?",
+                    "options": [
+                        "It has no gravity",
+                        "It has anti-gravity",
+                        "It's detected through gravitational effects",
+                        "It cancels out gravity"
+                    ],
+                    "answer": "It's detected through gravitational effects",
+                    "fun_fact": "Dark matter makes up about 27% of the universe - we only know it exists because of its gravity!"
+                }
+            ]
+        }
+    },
+    "Electric Circuits": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "What is needed to make a simple circuit work?",
+                    "options": [
+                        "Battery, wire, bulb",
+                        "Magnet, spring, wheel",
+                        "Water, pipe, pump",
+                        "Air, balloon, string"
+                    ],
+                    "answer": "Battery, wire, bulb",
+                    "fun_fact": "The first electric circuit was invented by Alessandro Volta in 1800 using his voltaic pile (early battery)!"
+                },
+                {
+                    "question": "What flows through wires in a circuit?",
+                    "options": [
+                        "Water",
+                        "Air",
+                        "Electrons",
+                        "Light"
+                    ],
+                    "answer": "Electrons",
+                    "fun_fact": "Electrons actually move very slowly - about 1 mm per second in a typical wire!"
+                },
+                {
+                    "question": "What does a switch do in a circuit?",
+                    "options": [
+                        "Makes electricity",
+                        "Stops and starts the flow",
+                        "Changes wire color",
+                        "Makes electricity stronger"
+                    ],
+                    "answer": "Stops and starts the flow",
+                    "fun_fact": "The first light switches were invented in the 1880s and were operated by pulling a cord!"
+                },
+                {
+                    "question": "Which material is the best conductor of electricity?",
+                    "options": [
+                        "Rubber",
+                        "Wood",
+                        "Copper",
+                        "Plastic"
+                    ],
+                    "answer": "Copper",
+                    "fun_fact": "Copper is used in wires because just 1 gram of it can be stretched into a wire 2 kilometers long!"
+                },
+                {
+                    "question": "What happens if you disconnect a wire in a circuit?",
+                    "options": [
+                        "The light gets brighter",
+                        "The current stops",
+                        "The battery explodes",
+                        "The wire changes color"
+                    ],
+                    "answer": "The current stops",
+                    "fun_fact": "This is called an 'open circuit' - like when you turn off a light switch!"
+                },
+                {
+                    "question": "What protects homes from electrical overloads?",
+                    "options": [
+                        "Circuit breakers",
+                        "Light bulbs",
+                        "Batteries",
+                        "Switches"
+                    ],
+                    "answer": "Circuit breakers",
+                    "fun_fact": "The first circuit breaker was invented in 1879 by Thomas Edison!"
+                },
+                {
+                    "question": "What does a battery do in a circuit?",
+                    "options": [
+                        "Stores electricity",
+                        "Makes electrons move",
+                        "Both of these",
+                        "Neither of these"
+                    ],
+                    "answer": "Both of these",
+                    "fun_fact": "The Baghdad Battery (2000 years old) may be the world's oldest known battery!"
+                },
+                {
+                    "question": "Why are wires covered in plastic or rubber?",
+                    "options": [
+                        "To look pretty",
+                        "To conduct better",
+                        "To prevent shocks",
+                        "To make them heavier"
+                    ],
+                    "answer": "To prevent shocks",
+                    "fun_fact": "Rubber became the standard insulator after electric streetcars needed safe overhead wires in the 1880s!"
+                },
+                {
+                    "question": "What happens if you add more batteries to a simple circuit?",
+                    "options": [
+                        "The bulb gets dimmer",
+                        "The bulb gets brighter",
+                        "Nothing changes",
+                        "The wire melts"
+                    ],
+                    "answer": "The bulb gets brighter",
+                    "fun_fact": "But too many batteries can burn out the bulb - this is why flashlights have battery limits!"
+                },
+                {
+                    "question": "What do we call a circular path electricity flows through?",
+                    "options": [
+                        "A loop",
+                        "A circuit",
+                        "A roundabout",
+                        "A wheel"
+                    ],
+                    "answer": "A circuit",
+                    "fun_fact": "The word 'circuit' comes from Latin 'circuire' meaning 'to go around'!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "What is the difference between series and parallel circuits?",
+                    "options": [
+                        "Series has one path, parallel has multiple",
+                        "Series is brighter, parallel is dimmer",
+                        "Series uses AC, parallel uses DC",
+                        "Series is safer, parallel is dangerous"
+                    ],
+                    "answer": "Series has one path, parallel has multiple",
+                    "fun_fact": "Holiday lights used to be all series - if one bulb burned out, the whole string went dark!"
+                },
+                {
+                    "question": "Why do parallel circuits have advantages in homes?",
+                    "options": [
+                        "If one device fails, others keep working",
+                        "They use less wiring",
+                        "They're easier to install",
+                        "They make lights brighter"
+                    ],
+                    "answer": "If one device fails, others keep working",
+                    "fun_fact": "Thomas Edison's first power station in 1882 used parallel circuits for this reason!"
+                },
+                {
+                    "question": "What does a resistor do in a circuit?",
+                    "options": [
+                        "Stops all electricity",
+                        "Slows down electron flow",
+                        "Makes electricity faster",
+                        "Creates new electrons"
+                    ],
+                    "answer": "Slows down electron flow",
+                    "fun_fact": "The human body acts as a resistor - that's why we can get shocked by electricity!"
+                },
+                {
+                    "question": "What happens if you add too many devices to one circuit?",
+                    "options": [
+                        "The devices share power equally",
+                        "The circuit breaker trips",
+                        "The wires get colder",
+                        "The electricity speeds up"
+                    ],
+                    "answer": "The circuit breaker trips",
+                    "fun_fact": "This safety feature prevents wires from overheating and causing fires!"
+                },
+                {
+                    "question": "What is the purpose of a fuse?",
+                    "options": [
+                        "To make circuits work faster",
+                        "To protect against overloads",
+                        "To connect wires together",
+                        "To store electricity"
+                    ],
+                    "answer": "To protect against overloads",
+                    "fun_fact": "The first fuses were simple wires that would melt and break the circuit when overloaded!"
+                },
+                {
+                    "question": "What does DC stand for in electricity?",
+                    "options": [
+                        "Double Current",
+                        "Direct Current",
+                        "Dual Circuit",
+                        "Dynamic Charge"
+                    ],
+                    "answer": "Direct Current",
+                    "fun_fact": "Thomas Edison wanted all power to be DC, but Nikola Tesla's AC system won because it could travel farther!"
+                },
+                {
+                    "question": "Why do some devices have three-prong plugs?",
+                    "options": [
+                        "For extra power",
+                        "For better stability",
+                        "For grounding safety",
+                        "For color coding"
+                    ],
+                    "answer": "For grounding safety",
+                    "fun_fact": "The third prong can save your life by giving electricity a safe path if something goes wrong!"
+                },
+                {
+                    "question": "What is short circuit?",
+                    "options": [
+                        "A very brief circuit",
+                        "A circuit with no load",
+                        "A direct path with little resistance",
+                        "A circuit with extra switches"
+                    ],
+                    "answer": "A direct path with little resistance",
+                    "fun_fact": "Short circuits can make wires heat up rapidly - that's why they're dangerous!"
+                },
+                {
+                    "question": "What material is commonly used for making resistors?",
+                    "options": [
+                        "Gold",
+                        "Carbon",
+                        "Aluminum",
+                        "Glass"
+                    ],
+                    "answer": "Carbon",
+                    "fun_fact": "Carbon resistors were invented in the early 1900s and are still widely used today!"
+                },
+                {
+                    "question": "Why do LEDs (light bulbs) use less energy than old incandescent bulbs?",
+                    "options": [
+                        "They're smaller",
+                        "They don't get as hot",
+                        "They use AC instead of DC",
+                        "They have built-in batteries"
+                    ],
+                    "answer": "They don't get as hot",
+                    "fun_fact": "Old incandescent bulbs waste 90% of their energy as heat - LEDs are much more efficient!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "What is the purpose of a capacitor in a circuit?",
+                    "options": [
+                        "To store electric charge",
+                        "To increase voltage",
+                        "To create resistance",
+                        "To generate light"
+                    ],
+                    "answer": "To store electric charge",
+                    "fun_fact": "The first capacitor was the Leyden jar, invented in 1745 - it could give quite a shock!"
+                },
+                {
+                    "question": "What does a diode do?",
+                    "options": [
+                        "Makes electricity flow both ways",
+                        "Only allows one-way current",
+                        "Stores electricity",
+                        "Changes AC to DC"
+                    ],
+                    "answer": "Only allows one-way current",
+                    "fun_fact": "Diodes are like electrical check valves - they were first used in crystal radios in the early 1900s!"
+                },
+                {
+                    "question": "What is the difference between AC and DC current?",
+                    "options": [
+                        "AC flows one way, DC alternates",
+                        "DC flows one way, AC alternates",
+                        "AC is safer, DC is dangerous",
+                        "DC is for homes, AC is for industry"
+                    ],
+                    "answer": "DC flows one way, AC alternates",
+                    "fun_fact": "The 'War of Currents' between Edison (DC) and Tesla (AC) was one of history's biggest tech battles!"
+                },
+                {
+                    "question": "What is grounding in electrical systems?",
+                    "options": [
+                        "Burying wires underground",
+                        "A safety path for excess electricity",
+                        "Making circuits work harder",
+                        "A type of insulation"
+                    ],
+                    "answer": "A safety path for excess electricity",
+                    "fun_fact": "Lightning rods are the most dramatic example of grounding - they protect buildings by directing lightning safely to the ground!"
+                },
+                {
+                    "question": "What does a transistor do?",
+                    "options": [
+                        "Stores electricity",
+                        "Amplifies or switches signals",
+                        "Creates light",
+                        "Measures current"
+                    ],
+                    "answer": "Amplifies or switches signals",
+                    "fun_fact": "The transistor, invented in 1947, revolutionized electronics - modern chips contain billions of them!"
+                },
+                {
+                    "question": "Why do superconductors have zero resistance?",
+                    "options": [
+                        "They're extremely cold",
+                        "They're made of gold",
+                        "They're very thick",
+                        "They use AC current"
+                    ],
+                    "answer": "They're extremely cold",
+                    "fun_fact": "The first superconductor was discovered in 1911 using mercury cooled to -452°F (-269°C)!"
+                },
+                {
+                    "question": "What is electromagnetic induction?",
+                    "options": [
+                        "Creating magnets with electricity",
+                        "Creating electricity with magnets",
+                        "Stopping electricity flow",
+                        "Measuring circuit resistance"
+                    ],
+                    "answer": "Creating electricity with magnets",
+                    "fun_fact": "Michael Faraday discovered this in 1831 - it's how generators at power plants work!"
+                },
+                {
+                    "question": "What is the purpose of a rectifier?",
+                    "options": [
+                        "Convert AC to DC",
+                        "Convert DC to AC",
+                        "Increase voltage",
+                        "Store electricity"
+                    ],
+                    "answer": "Convert AC to DC",
+                    "fun_fact": "Your phone charger has a rectifier - it converts wall outlet AC to the DC your phone needs!"
+                },
+                {
+                    "question": "What is a relay used for?",
+                    "options": [
+                        "To make circuits shorter",
+                        "To control high power with low power",
+                        "To store electricity",
+                        "To measure current"
+                    ],
+                    "answer": "To control high power with low power",
+                    "fun_fact": "Early relays were used in telegraph systems - they helped signals travel long distances!"
+                },
+                {
+                    "question": "What is the main advantage of integrated circuits?",
+                    "options": [
+                        "They're bigger",
+                        "They combine many components in one chip",
+                        "They work without electricity",
+                        "They're made of wood"
+                    ],
+                    "answer": "They combine many components in one chip",
+                    "fun_fact": "The first integrated circuit (1958) had just one transistor - modern CPUs have over 10 billion!"
+                }
+            ]
+        }
+    },
+    "States of Matter": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "How many main states of matter are there?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "3",
+                    "fun_fact": "The three main states are solid, liquid, and gas - but there are actually 5 known states in total!"
+                },
+                {
+                    "question": "Which state of matter has a fixed shape?",
+                    "options": [
+                        "Solid",
+                        "Liquid",
+                        "Gas",
+                        "Plasma"
+                    ],
+                    "answer": "Solid",
+                    "fun_fact": "Solids keep their shape because their particles vibrate in place instead of moving around freely!"
+                },
+                {
+                    "question": "What happens to water when it freezes?",
+                    "options": [
+                        "It becomes a gas",
+                        "It becomes a solid",
+                        "It disappears",
+                        "It becomes a liquid"
+                    ],
+                    "answer": "It becomes a solid",
+                    "fun_fact": "Water is unusual because it expands when freezing - that's why ice floats in your drink!"
+                },
+                {
+                    "question": "Which state of matter takes the shape of its container?",
+                    "options": [
+                        "Solid",
+                        "Liquid",
+                        "Gas",
+                        "Both liquid and gas"
+                    ],
+                    "answer": "Both liquid and gas",
+                    "fun_fact": "Liquids take the container's shape but keep the same volume, while gases expand to fill all available space!"
+                },
+                {
+                    "question": "What do we call it when a solid turns into a liquid?",
+                    "options": [
+                        "Freezing",
+                        "Melting",
+                        "Evaporating",
+                        "Condensing"
+                    ],
+                    "answer": "Melting",
+                    "fun_fact": "The melting point of ice is exactly 0°C (32°F) at normal Earth air pressure!"
+                },
+                {
+                    "question": "Which of these is an example of a gas?",
+                    "options": [
+                        "Rock",
+                        "Water",
+                        "Oxygen",
+                        "Ice"
+                    ],
+                    "answer": "Oxygen",
+                    "fun_fact": "The air we breathe is about 21% oxygen gas - the rest is mostly nitrogen!"
+                },
+                {
+                    "question": "What happens to particles when matter is heated?",
+                    "options": [
+                        "They slow down",
+                        "They speed up",
+                        "They disappear",
+                        "They change color"
+                    ],
+                    "answer": "They speed up",
+                    "fun_fact": "Heat gives particles energy to move faster - that's why most things expand when heated!"
+                },
+                {
+                    "question": "What state is rain?",
+                    "options": [
+                        "Solid",
+                        "Liquid",
+                        "Gas",
+                        "Plasma"
+                    ],
+                    "answer": "Liquid",
+                    "fun_fact": "Raindrops are actually shaped like hamburger buns, not teardrops as often drawn!"
+                },
+                {
+                    "question": "Which state of matter is steam?",
+                    "options": [
+                        "Solid",
+                        "Liquid",
+                        "Gas",
+                        "Plasma"
+                    ],
+                    "answer": "Gas",
+                    "fun_fact": "The 'steam' you see from boiling water is actually tiny liquid water droplets - the real steam is invisible!"
+                },
+                {
+                    "question": "What do we call it when a liquid turns into a gas?",
+                    "options": [
+                        "Freezing",
+                        "Melting",
+                        "Evaporation",
+                        "Condensation"
+                    ],
+                    "answer": "Evaporation",
+                    "fun_fact": "Even cold water evaporates - that's how puddles disappear without boiling!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "What is the fourth state of matter?",
+                    "options": [
+                        "Jelly",
+                        "Plasma",
+                        "Oobleck",
+                        "Crystal"
+                    ],
+                    "answer": "Plasma",
+                    "fun_fact": "Plasma is the most common state of matter in the universe - stars like our Sun are made of it!"
+                },
+                {
+                    "question": "What happens during sublimation?",
+                    "options": [
+                        "Solid → Liquid",
+                        "Liquid → Gas",
+                        "Solid → Gas",
+                        "Gas → Plasma"
+                    ],
+                    "answer": "Solid → Gas",
+                    "fun_fact": "Dry ice (solid CO₂) sublimates at room temperature - that's why it seems to 'disappear' without melting!"
+                },
+                {
+                    "question": "What is deposition in science?",
+                    "options": [
+                        "Gas → Solid",
+                        "Liquid → Solid",
+                        "Gas → Liquid",
+                        "Solid → Liquid"
+                    ],
+                    "answer": "Gas → Solid",
+                    "fun_fact": "Frost forms this way when water vapor turns directly into ice crystals on cold surfaces!"
+                },
+                {
+                    "question": "Why can gases be compressed but solids can't?",
+                    "options": [
+                        "Gas particles are sticky",
+                        "Gas particles are far apart",
+                        "Solids are too heavy",
+                        "It's just magic"
+                    ],
+                    "answer": "Gas particles are far apart",
+                    "fun_fact": "The air in a scuba tank is compressed to about 1/200th of its normal volume!"
+                },
+                {
+                    "question": "What is viscosity?",
+                    "options": [
+                        "How sweet a liquid is",
+                        "How thick or thin a liquid is",
+                        "How shiny a solid is",
+                        "How smelly a gas is"
+                    ],
+                    "answer": "How thick or thin a liquid is",
+                    "fun_fact": "Honey has high viscosity, while water has low viscosity - but viscosity can change with temperature!"
+                },
+                {
+                    "question": "What state is fire?",
+                    "options": [
+                        "Solid",
+                        "Liquid",
+                        "Gas",
+                        "Plasma"
+                    ],
+                    "answer": "Plasma",
+                    "fun_fact": "Flames contain ionized gases (plasma), which is why they can conduct electricity!"
+                },
+                {
+                    "question": "What happens at absolute zero (-273.15°C)?",
+                    "options": [
+                        "Particles stop moving",
+                        "Particles move fastest",
+                        "Matter disappears",
+                        "Time stops"
+                    ],
+                    "answer": "Particles stop moving",
+                    "fun_fact": "Absolute zero can never actually be reached - it's a theoretical limit scientists can only get very close to!"
+                },
+                {
+                    "question": "What is a non-Newtonian fluid?",
+                    "options": [
+                        "A liquid that never freezes",
+                        "A liquid that changes viscosity under pressure",
+                        "A gas that turns solid when heated",
+                        "A solid that evaporates instantly"
+                    ],
+                    "answer": "A liquid that changes viscosity under pressure",
+                    "fun_fact": "Oobleck (cornstarch + water) is a non-Newtonian fluid - it acts solid when you hit it but liquid when you pour it!"
+                },
+                {
+                    "question": "What causes surface tension in liquids?",
+                    "options": [
+                        "Magnetic fields",
+                        "Particles sticking together",
+                        "Air pressure",
+                        "Gravity"
+                    ],
+                    "answer": "Particles sticking together",
+                    "fun_fact": "Water striders can walk on water thanks to surface tension - their weight isn't enough to break the 'skin' of the water!"
+                },
+                {
+                    "question": "What is the Bose-Einstein condensate?",
+                    "options": [
+                        "A super-hot plasma",
+                        "A fifth state of matter",
+                        "A type of crystal",
+                        "A super-viscous liquid"
+                    ],
+                    "answer": "A fifth state of matter",
+                    "fun_fact": "This exotic state only forms near absolute zero, where atoms clump into a 'super atom' with quantum properties!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "What is supercritical fluid?",
+                    "options": [
+                        "A gas cooled below its boiling point",
+                        "A liquid heated above its critical temperature",
+                        "A solid under extreme pressure",
+                        "Plasma in a magnetic field"
+                    ],
+                    "answer": "A liquid heated above its critical temperature",
+                    "fun_fact": "Supercritical CO₂ is used to decaffeinate coffee - it acts like both a gas and liquid simultaneously!"
+                },
+                {
+                    "question": "What is quantum superfluidity?",
+                    "options": [
+                        "When a liquid flows uphill",
+                        "When a liquid flows with zero friction",
+                        "When a gas becomes solid instantly",
+                        "When plasma conducts light"
+                    ],
+                    "answer": "When a liquid flows with zero friction",
+                    "fun_fact": "Liquid helium becomes superfluid near absolute zero - it can climb walls and escape containers!"
+                },
+                {
+                    "question": "What is a time crystal?",
+                    "options": [
+                        "A fictional time-travel device",
+                        "A crystal that changes shape over time",
+                        "A new state of matter with repeating time patterns",
+                        "A diamond formed over millions of years"
+                    ],
+                    "answer": "A new state of matter with repeating time patterns",
+                    "fun_fact": "Time crystals were first created in 2016 - they're structures that repeat in time rather than just space!"
+                },
+                {
+                    "question": "What is electron-degenerate matter?",
+                    "options": [
+                        "Matter in particle accelerators",
+                        "The state of matter in white dwarf stars",
+                        "Plasma in lightning",
+                        "Superconducting materials"
+                    ],
+                    "answer": "The state of matter in white dwarf stars",
+                    "fun_fact": "A teaspoon of this ultra-dense matter would weigh about 5 tons on Earth!"
+                },
+                {
+                    "question": "What is the triple point of a substance?",
+                    "options": [
+                        "When it becomes radioactive",
+                        "When solid, liquid and gas exist simultaneously",
+                        "When it changes color",
+                        "When it reaches maximum density"
+                    ],
+                    "answer": "When solid, liquid and gas exist simultaneously",
+                    "fun_fact": "Water reaches its triple point at exactly 0.01°C and 611 Pa - a precise balance of all three states!"
+                },
+                {
+                    "question": "What is quark-gluon plasma?",
+                    "options": [
+                        "A state of matter in neutron stars",
+                        "A theoretical state of light",
+                        "What the early universe was made of",
+                        "A component of black holes"
+                    ],
+                    "answer": "What the early universe was made of",
+                    "fun_fact": "Scientists recreate this primordial soup in particle colliders - it existed just microseconds after the Big Bang!"
+                },
+                {
+                    "question": "What is a supersolid?",
+                    "options": [
+                        "A solid that can flow like a liquid",
+                        "A gas compressed to solid density",
+                        "A plasma crystal",
+                        "A frozen supercritical fluid"
+                    ],
+                    "answer": "A solid that can flow like a liquid",
+                    "fun_fact": "Supersolids were first created in 2017 - they maintain crystal structure while flowing without friction!"
+                },
+                {
+                    "question": "What is the critical point in phase diagrams?",
+                    "options": [
+                        "Where all states become indistinguishable",
+                        "Where matter becomes unstable",
+                        "Where quantum effects appear",
+                        "Where chemical bonds break"
+                    ],
+                    "answer": "Where all states become indistinguishable",
+                    "fun_fact": "Above the critical point, you can't tell liquid and gas apart - it becomes a supercritical fluid!"
+                },
+                {
+                    "question": "What is Rydberg polaron matter?",
+                    "options": [
+                        "A state of light",
+                        "A quantum state with atoms inside atoms",
+                        "A new plasma state",
+                        "A magnetic fluid"
+                    ],
+                    "answer": "A quantum state with atoms inside atoms",
+                    "fun_fact": "This exotic 2018 discovery involves electrons orbiting so far out that other atoms fit inside their orbits!"
+                },
+                {
+                    "question": "What is strange matter?",
+                    "options": [
+                        "Matter with unusual color",
+                        "A hypothetical quark-based state",
+                        "Matter that defies gravity",
+                        "Plasma with reversed charges"
+                    ],
+                    "answer": "A hypothetical quark-based state",
+                    "fun_fact": "Some theories suggest neutron stars might contain strange matter - and that it could convert normal matter on contact!"
+                }
+            ]
+        }
+    },
+    "The Water Cycle": {
+        "levels": {
+            "easy": [
+                {
+                    "question": "What is the process when water turns into vapor?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Precipitation",
+                        "Collection"
+                    ],
+                    "answer": "Evaporation",
+                    "fun_fact": "The sun evaporates about 1,000,000,000,000 (a trillion) tons of water every day!"
+                },
+                {
+                    "question": "What do we call water falling from clouds?",
+                    "options": [
+                        "Evaporation",
+                        "Condensation",
+                        "Precipitation",
+                        "Transpiration"
+                    ],
+                    "answer": "Precipitation",
+                    "fun_fact": "Raindrops are actually shaped like hamburger buns, not teardrops!"
+                },
+                {
+                    "question": "Where does most evaporation happen on Earth?",
+                    "options": [
+                        "Mountains",
+                        "Deserts",
+                        "Oceans",
+                        "Forests"
+                    ],
+                    "answer": "Oceans",
+                    "fun_fact": "Oceans cover 71% of Earth and provide about 90% of evaporated water!"
+                },
+                {
+                    "question": "What forms when water vapor cools in the air?",
+                    "options": [
+                        "Rain",
+                        "Clouds",
+                        "Snow",
+                        "Dew"
+                    ],
+                    "answer": "Clouds",
+                    "fun_fact": "A single cumulus cloud weighs about as much as 100 elephants!"
+                },
+                {
+                    "question": "What is the water cycle also called?",
+                    "options": [
+                        "H2O Circle",
+                        "Hydro Loop",
+                        "Hydrologic Cycle",
+                        "Aqua Circuit"
+                    ],
+                    "answer": "Hydrologic Cycle",
+                    "fun_fact": "The water you drink today may have been dinosaur pee millions of years ago!"
+                },
+                {
+                    "question": "What happens to water after it rains?",
+                    "options": [
+                        "Disappears",
+                        "Evaporates immediately",
+                        "Collects in rivers/oceans",
+                        "Turns to air"
+                    ],
+                    "answer": "Collects in rivers/oceans",
+                    "fun_fact": "Water can spend over 3,000 years in the ocean before evaporating again!"
+                },
+                {
+                    "question": "What temperature does water freeze at?",
+                    "options": [
+                        "0°C (32°F)",
+                        "10°C (50°F)",
+                        "-10°C (14°F)",
+                        "100°C (212°F)"
+                    ],
+                    "answer": "0°C (32°F)",
+                    "fun_fact": "Some clouds contain 'supercooled' water that stays liquid below freezing!"
+                },
+                {
+                    "question": "What is water doing when it forms morning dew?",
+                    "options": [
+                        "Evaporating",
+                        "Condensing",
+                        "Precipitating",
+                        "Transpiring"
+                    ],
+                    "answer": "Condensing",
+                    "fun_fact": "Dew provides up to 50% of water for some desert plants!"
+                },
+                {
+                    "question": "How do plants contribute to the water cycle?",
+                    "options": [
+                        "By absorbing clouds",
+                        "Through transpiration",
+                        "By creating rain",
+                        "By storing water forever"
+                    ],
+                    "answer": "Through transpiration",
+                    "fun_fact": "A large oak tree can transpire 40,000 gallons of water per year!"
+                },
+                {
+                    "question": "What is the main energy source for the water cycle?",
+                    "options": [
+                        "Wind",
+                        "The Moon",
+                        "The Sun",
+                        "Earth's core"
+                    ],
+                    "answer": "The Sun",
+                    "fun_fact": "The sun evaporates enough water each year to cover the entire Earth 1 meter deep!"
+                }
+            ],
+            "medium": [
+                {
+                    "question": "What percentage of Earth's water is freshwater?",
+                    "options": [
+                        "3%",
+                        "25%",
+                        "50%",
+                        "97%"
+                    ],
+                    "answer": "3%",
+                    "fun_fact": "Only 0.5% of Earth's water is available liquid freshwater for humans to use!"
+                },
+                {
+                    "question": "What is sublimation in the water cycle?",
+                    "options": [
+                        "Ice turning directly to vapor",
+                        "Vapor turning to liquid",
+                        "Water soaking into soil",
+                        "Plants absorbing water"
+                    ],
+                    "answer": "Ice turning directly to vapor",
+                    "fun_fact": "Snow can disappear in dry air without melting through sublimation!"
+                },
+                {
+                    "question": "What determines whether precipitation falls as rain or snow?",
+                    "options": [
+                        "Cloud color",
+                        "Air temperature",
+                        "Wind speed",
+                        "Time of day"
+                    ],
+                    "answer": "Air temperature",
+                    "fun_fact": "Snowflakes can take up to an hour to fall from clouds to ground!"
+                },
+                {
+                    "question": "Where is most freshwater stored on Earth?",
+                    "options": [
+                        "Rivers",
+                        "Lakes",
+                        "Glaciers/Ice caps",
+                        "Underground"
+                    ],
+                    "answer": "Glaciers/Ice caps",
+                    "fun_fact": "Antarctica holds about 90% of Earth's ice and 70% of its freshwater!"
+                },
+                {
+                    "question": "What is infiltration in the water cycle?",
+                    "options": [
+                        "Water evaporating from leaves",
+                        "Water soaking into the ground",
+                        "Water freezing in clouds",
+                        "Rain forming in clouds"
+                    ],
+                    "answer": "Water soaking into the ground",
+                    "fun_fact": "Some groundwater can stay underground for thousands of years before resurfacing!"
+                },
+                {
+                    "question": "What creates the different shapes of clouds?",
+                    "options": [
+                        "Altitude and temperature",
+                        "Wind direction only",
+                        "Amount of pollution",
+                        "Time of day"
+                    ],
+                    "answer": "Altitude and temperature",
+                    "fun_fact": "The highest clouds (cirrus) are made of ice crystals and can be 20,000 feet up!"
+                },
+                {
+                    "question": "How long does a water molecule stay in the atmosphere?",
+                    "options": [
+                        "About 9 days",
+                        "1 month",
+                        "1 year",
+                        "10 years"
+                    ],
+                    "answer": "About 9 days",
+                    "fun_fact": "Water molecules travel hundreds of miles while in the atmosphere!"
+                },
+                {
+                    "question": "What is a watershed?",
+                    "options": [
+                        "A type of cloud",
+                        "An area that drains to a water body",
+                        "A man-made reservoir",
+                        "A measurement of rainfall"
+                    ],
+                    "answer": "An area that drains to a water body",
+                    "fun_fact": "The Mississippi River watershed covers about 40% of the continental U.S.!"
+                },
+                {
+                    "question": "What is the largest reservoir in the water cycle?",
+                    "options": [
+                        "Rivers",
+                        "Lakes",
+                        "Oceans",
+                        "Glaciers"
+                    ],
+                    "answer": "Oceans",
+                    "fun_fact": "The oceans hold about 96.5% of all Earth's water!"
+                },
+                {
+                    "question": "What human activity most affects the water cycle?",
+                    "options": [
+                        "Driving cars",
+                        "Flying planes",
+                        "Agriculture",
+                        "Using computers"
+                    ],
+                    "answer": "Agriculture",
+                    "fun_fact": "Agriculture uses about 70% of the world's freshwater!"
+                }
+            ],
+            "hard": [
+                {
+                    "question": "What is the residence time of water in the atmosphere?",
+                    "options": [
+                        "9-10 days",
+                        "1 month",
+                        "1 year",
+                        "10 years"
+                    ],
+                    "answer": "9-10 days",
+                    "fun_fact": "Despite this short time, the atmosphere moves enormous amounts of water globally!"
+                },
+                {
+                    "question": "What is evapotranspiration?",
+                    "options": [
+                        "Evaporation from plants only",
+                        "Combined evaporation and transpiration",
+                        "Rain formation",
+                        "Ocean water movement"
+                    ],
+                    "answer": "Combined evaporation and transpiration",
+                    "fun_fact": "The Amazon rainforest recycles 50-80% of its rainfall through evapotranspiration!"
+                },
+                {
+                    "question": "What is the main driver of deep ocean water circulation?",
+                    "options": [
+                        "Wind",
+                        "Tides",
+                        "Differences in water density",
+                        "Earth's rotation"
+                    ],
+                    "answer": "Differences in water density",
+                    "fun_fact": "This 'thermohaline circulation' can take 1,000 years to complete a full cycle!"
+                },
+                {
+                    "question": "What percentage of Earth's water is in groundwater?",
+                    "options": [
+                        "0.01%",
+                        "0.6%",
+                        "30%",
+                        "50%"
+                    ],
+                    "answer": "0.6%",
+                    "fun_fact": "Groundwater is 30x more abundant than all freshwater lakes and rivers combined!"
+                },
+                {
+                    "question": "What is the water table?",
+                    "options": [
+                        "A chart of water quality",
+                        "The top of groundwater",
+                        "A measurement of rainfall",
+                        "Ocean surface level"
+                    ],
+                    "answer": "The top of groundwater",
+                    "fun_fact": "The water table can rise and fall by several meters between wet and dry seasons!"
+                },
+                {
+                    "question": "What is the primary cause of acid rain?",
+                    "options": [
+                        "Carbon dioxide in water",
+                        "Sulfur and nitrogen compounds",
+                        "Salt from oceans",
+                        "Volcanic ash"
+                    ],
+                    "answer": "Sulfur and nitrogen compounds",
+                    "fun_fact": "Normal rain is slightly acidic (pH 5.6) even without pollution!"
+                },
+                {
+                    "question": "What is the role of aerosols in precipitation?",
+                    "options": [
+                        "They prevent rain",
+                        "They provide surfaces for water droplets to form",
+                        "They make rain acidic",
+                        "They stop evaporation"
+                    ],
+                    "answer": "They provide surfaces for water droplets to form",
+                    "fun_fact": "Some clouds won't produce rain without enough aerosols as 'condensation nuclei'!"
+                },
+                {
+                    "question": "What is the primary difference between weather and climate in water cycle terms?",
+                    "options": [
+                        "Amount of evaporation",
+                        "Timescale",
+                        "Types of clouds",
+                        "Ocean currents"
+                    ],
+                    "answer": "Timescale",
+                    "fun_fact": "Climate is the long-term average of weather (including water cycle processes) over 30+ years!"
+                },
+                {
+                    "question": "How does urbanization affect the water cycle?",
+                    "options": [
+                        "Increases infiltration",
+                        "Decreases runoff",
+                        "Increases evaporation",
+                        "Increases runoff and decreases infiltration"
+                    ],
+                    "answer": "Increases runoff and decreases infiltration",
+                    "fun_fact": "Urban areas can have 5-6x more runoff than natural areas due to impervious surfaces!"
+                },
+                {
+                    "question": "What is the energy equivalent of the global water cycle?",
+                    "options": [
+                        "About 1% of solar energy",
+                        "About 10% of solar energy",
+                        "About 25% of solar energy",
+                        "About 50% of solar energy"
+                    ],
+                    "answer": "About 25% of solar energy",
+                    "fun_fact": "The water cycle moves about 40,000 cubic miles of water annually using solar power!"
+                }
+            ]
+        }
+    }
+}
