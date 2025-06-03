@@ -1,0 +1,1702 @@
+{
+    "Shakespearean Plays": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which play features the characters Romeo and Juliet?",
+                    "options": [
+                        "Macbeth",
+                        "Hamlet",
+                        "Romeo and Juliet",
+                        "Othello"
+                    ],
+                    "answer": "Romeo and Juliet",
+                    "fun_fact": "Romeo and Juliet was based on real Italian families: the Montecchi and Capuleti."
+                },
+                {
+                    "question": "How many sonnets did Shakespeare write?",
+                    "options": [
+                        "50",
+                        "100",
+                        "154",
+                        "200"
+                    ],
+                    "answer": "154",
+                    "fun_fact": "Sonnet 18 ('Shall I compare thee to a summer's day?') is the most famous."
+                },
+                {
+                    "question": "Which of these is NOT a Shakespearean tragedy?",
+                    "options": [
+                        "King Lear",
+                        "The Tempest",
+                        "Macbeth",
+                        "Othello"
+                    ],
+                    "answer": "The Tempest",
+                    "fun_fact": "The Tempest is considered a romance or tragicomedy."
+                },
+                {
+                    "question": "Who says 'To be or not to be' in Hamlet?",
+                    "options": [
+                        "Ophelia",
+                        "Claudius",
+                        "Hamlet",
+                        "Polonius"
+                    ],
+                    "answer": "Hamlet",
+                    "fun_fact": "This is one of the most quoted lines in English literature."
+                },
+                {
+                    "question": "Which character is known as the 'Scottish Play' in theater superstition?",
+                    "options": [
+                        "Hamlet",
+                        "Macbeth",
+                        "Julius Caesar",
+                        "Richard III"
+                    ],
+                    "answer": "Macbeth",
+                    "fun_fact": "Actors believe saying 'Macbeth' in a theater brings bad luck."
+                },
+                {
+                    "question": "In which play would you find the character Iago?",
+                    "options": [
+                        "Othello",
+                        "King Lear",
+                        "The Merchant of Venice",
+                        "Much Ado About Nothing"
+                    ],
+                    "answer": "Othello",
+                    "fun_fact": "Iago is considered one of Shakespeare's most evil villains."
+                },
+                {
+                    "question": "What was the name of Shakespeare's theater?",
+                    "options": [
+                        "The Rose",
+                        "The Swan",
+                        "The Globe",
+                        "The Curtain"
+                    ],
+                    "answer": "The Globe",
+                    "fun_fact": "The original Globe burned down during a performance of Henry VIII."
+                },
+                {
+                    "question": "Which play features the character Portia?",
+                    "options": [
+                        "The Merchant of Venice",
+                        "Twelfth Night",
+                        "As You Like It",
+                        "A Midsummer Night's Dream"
+                    ],
+                    "answer": "The Merchant of Venice",
+                    "fun_fact": "Portia disguises herself as a male lawyer in the famous courtroom scene."
+                },
+                {
+                    "question": "Which comedy features the characters Beatrice and Benedick?",
+                    "options": [
+                        "Much Ado About Nothing",
+                        "The Taming of the Shrew",
+                        "A Midsummer Night's Dream",
+                        "As You Like It"
+                    ],
+                    "answer": "Much Ado About Nothing",
+                    "fun_fact": "Their 'merry war' of wits inspired the term 'battle of the sexes'."
+                },
+                {
+                    "question": "Which historical figure is the subject of Shakespeare's play 'The Tragedy of Julius Caesar'?",
+                    "options": [
+                        "Alexander the Great",
+                        "Julius Caesar",
+                        "Augustus Caesar",
+                        "Mark Antony"
+                    ],
+                    "answer": "Julius Caesar",
+                    "fun_fact": "The famous line 'Et tu, Brute?' was likely never said by the real Caesar."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "In 'Macbeth', who tells Macbeth 'none of woman born shall harm Macbeth'?",
+                    "options": [
+                        "The Three Witches",
+                        "Lady Macbeth",
+                        "Banquo's ghost",
+                        "Macduff"
+                    ],
+                    "answer": "The Three Witches",
+                    "fun_fact": "This prophecy proves misleading as Macduff was 'from his mother's womb untimely ripped' (born by Caesarean)."
+                },
+                {
+                    "question": "Which Shakespeare play features the character Malvolio?",
+                    "options": [
+                        "Twelfth Night",
+                        "The Merchant of Venice",
+                        "Measure for Measure",
+                        "The Winter's Tale"
+                    ],
+                    "answer": "Twelfth Night",
+                    "fun_fact": "Malvolio's name means 'ill will' in Italian, reflecting his character."
+                },
+                {
+                    "question": "What is the name of the fairy who causes mischief in 'A Midsummer Night's Dream'?",
+                    "options": [
+                        "Titania",
+                        "Peaseblossom",
+                        "Puck",
+                        "Oberon"
+                    ],
+                    "answer": "Puck",
+                    "fun_fact": "Puck's famous line is 'Lord, what fools these mortals be!'"
+                },
+                {
+                    "question": "Which of these phrases did NOT originate from Shakespeare?",
+                    "options": [
+                        "Wild goose chase",
+                        "Method to my madness",
+                        "The naked truth",
+                        "Break the ice"
+                    ],
+                    "answer": "The naked truth",
+                    "fun_fact": "'The naked truth' comes from a Latin proverb, not Shakespeare."
+                },
+                {
+                    "question": "In 'Henry V', what famous battle does the king win against the French?",
+                    "options": [
+                        "Battle of Crecy",
+                        "Battle of Poitiers",
+                        "Battle of Agincourt",
+                        "Battle of Hastings"
+                    ],
+                    "answer": "Battle of Agincourt",
+                    "fun_fact": "The English were outnumbered nearly 5 to 1 but won due to their longbows."
+                },
+                {
+                    "question": "Which Shakespeare play features a 'play within a play' called 'The Mousetrap'?",
+                    "options": [
+                        "A Midsummer Night's Dream",
+                        "Hamlet",
+                        "The Tempest",
+                        "Love's Labour's Lost"
+                    ],
+                    "answer": "Hamlet",
+                    "fun_fact": "Hamlet uses this play to confirm Claudius's guilt by watching his reaction."
+                },
+                {
+                    "question": "What is the name of Shylock's daughter in 'The Merchant of Venice'?",
+                    "options": [
+                        "Portia",
+                        "Jessica",
+                        "Nerissa",
+                        "Bianca"
+                    ],
+                    "answer": "Jessica",
+                    "fun_fact": "Jessica elopes with Lorenzo, converting to Christianity and taking her father's money."
+                },
+                {
+                    "question": "Which of these characters does NOT appear in 'King Lear'?",
+                    "options": [
+                        "Goneril",
+                        "Cordelia",
+                        "Regan",
+                        "Desdemona"
+                    ],
+                    "answer": "Desdemona",
+                    "fun_fact": "Desdemona is from 'Othello', making her the correct answer here."
+                },
+                {
+                    "question": "What is the setting of 'The Tempest'?",
+                    "options": [
+                        "Venice",
+                        "A magical island",
+                        "The Scottish highlands",
+                        "Ancient Rome"
+                    ],
+                    "answer": "A magical island",
+                    "fun_fact": "Many scholars believe the island was inspired by Bermuda, where a shipwreck occurred in 1609."
+                },
+                {
+                    "question": "Which character speaks the famous 'All the world's a stage' monologue?",
+                    "options": [
+                        "Hamlet",
+                        "Jaques",
+                        "Falstaff",
+                        "Prospero"
+                    ],
+                    "answer": "Jaques",
+                    "fun_fact": "This speech from 'As You Like It' describes the seven ages of man."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "In which play does a character say 'The lady doth protest too much, methinks'?",
+                    "options": [
+                        "Macbeth",
+                        "Hamlet",
+                        "Othello",
+                        "King Lear"
+                    ],
+                    "answer": "Hamlet",
+                    "fun_fact": "Queen Gertrude says this during the play-within-a-play in Act III, Scene II."
+                },
+                {
+                    "question": "Which Shakespeare play features the characters Trinculo and Stephano?",
+                    "options": [
+                        "The Tempest",
+                        "Twelfth Night",
+                        "The Comedy of Errors",
+                        "Pericles"
+                    ],
+                    "answer": "The Tempest",
+                    "fun_fact": "These comic characters plot with Caliban to kill Prospero."
+                },
+                {
+                    "question": "What is the name of the forest in 'As You Like It'?",
+                    "options": [
+                        "Sherwood Forest",
+                        "Forest of Arden",
+                        "Elsinore Woods",
+                        "Birnam Wood"
+                    ],
+                    "answer": "Forest of Arden",
+                    "fun_fact": "The forest may be named after Shakespeare's mother's family home in Warwickshire."
+                },
+                {
+                    "question": "Which of these plays is NOT one of Shakespeare's 'problem plays'?",
+                    "options": [
+                        "Measure for Measure",
+                        "Troilus and Cressida",
+                        "All's Well That Ends Well",
+                        "The Winter's Tale"
+                    ],
+                    "answer": "The Winter's Tale",
+                    "fun_fact": "Problem plays are so called because they don't fit neatly into comedy or tragedy categories."
+                },
+                {
+                    "question": "In 'Antony and Cleopatra', how does Cleopatra die?",
+                    "options": [
+                        "Poison",
+                        "Dagger",
+                        "Asp bite",
+                        "Drowning"
+                    ],
+                    "answer": "Asp bite",
+                    "fun_fact": "The asp was a symbol of divine royalty in Egyptian mythology."
+                },
+                {
+                    "question": "Which Shakespeare play features the line 'Uneasy lies the head that wears a crown'?",
+                    "options": [
+                        "Richard II",
+                        "Henry IV Part 2",
+                        "Henry V",
+                        "Richard III"
+                    ],
+                    "answer": "Henry IV Part 2",
+                    "fun_fact": "King Henry IV says this about the burdens of kingship in Act III, Scene I."
+                },
+                {
+                    "question": "What is the name of the ghost in 'Hamlet'?",
+                    "options": [
+                        "King Claudius",
+                        "King Hamlet",
+                        "Prince Fortinbras",
+                        "Polonius"
+                    ],
+                    "answer": "King Hamlet",
+                    "fun_fact": "The ghost claims to be Hamlet's father, murdered by Claudius."
+                },
+                {
+                    "question": "Which Shakespeare play is written mostly in verse, with over 90% of its lines in iambic pentameter?",
+                    "options": [
+                        "Richard II",
+                        "Julius Caesar",
+                        "The Tempest",
+                        "Much Ado About Nothing"
+                    ],
+                    "answer": "Richard II",
+                    "fun_fact": "This high percentage reflects the play's lyrical and poetic nature."
+                },
+                {
+                    "question": "In 'Coriolanus', what is the protagonist's full name?",
+                    "options": [
+                        "Caius Martius Coriolanus",
+                        "Titus Andronicus Coriolanus",
+                        "Lucius Junius Coriolanus",
+                        "Marcus Aurelius Coriolanus"
+                    ],
+                    "answer": "Caius Martius Coriolanus",
+                    "fun_fact": "He earns the name Coriolanus after his military victory at Corioli."
+                },
+                {
+                    "question": "Which of these characters appears in three different Shakespeare plays?",
+                    "options": [
+                        "Falstaff",
+                        "Puck",
+                        "Iago",
+                        "Macbeth"
+                    ],
+                    "answer": "Falstaff",
+                    "fun_fact": "Falstaff appears in 'Henry IV Part 1', 'Henry IV Part 2', and 'The Merry Wives of Windsor'."
+                }
+            ]
+        }
+    },
+    "19th Century Novels": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who wrote 'Pride and Prejudice'?",
+                    "options": [
+                        "Charlotte Brontë",
+                        "Jane Austen",
+                        "Emily Brontë",
+                        "George Eliot"
+                    ],
+                    "answer": "Jane Austen",
+                    "fun_fact": "Austen originally titled the novel 'First Impressions' before revising it."
+                },
+                {
+                    "question": "What is the name of Captain Ahab's ship in 'Moby-Dick'?",
+                    "options": [
+                        "The Nautilus",
+                        "The Pequod",
+                        "The Hispaniola",
+                        "The Black Pearl"
+                    ],
+                    "answer": "The Pequod",
+                    "fun_fact": "The Pequod is named after a Native American tribe that went extinct."
+                },
+                {
+                    "question": "Which novel begins with 'It was the best of times, it was the worst of times'?",
+                    "options": [
+                        "Great Expectations",
+                        "A Tale of Two Cities",
+                        "Oliver Twist",
+                        "David Copperfield"
+                    ],
+                    "answer": "A Tale of Two Cities",
+                    "fun_fact": "This is one of the most famous opening lines in literature."
+                },
+                {
+                    "question": "Who is the author of 'Frankenstein'?",
+                    "options": [
+                        "Bram Stoker",
+                        "Mary Shelley",
+                        "Edgar Allan Poe",
+                        "H.G. Wells"
+                    ],
+                    "answer": "Mary Shelley",
+                    "fun_fact": "Shelley wrote 'Frankenstein' when she was only 18 years old."
+                },
+                {
+                    "question": "What is the real name of the Count of Monte Cristo?",
+                    "options": [
+                        "Edmond Dantès",
+                        "Jean Valjean",
+                        "Rodolphe de Gerolstein",
+                        "Julien Sorel"
+                    ],
+                    "answer": "Edmond Dantès",
+                    "fun_fact": "Dantès spends 14 years imprisoned before his escape and revenge."
+                },
+                {
+                    "question": "Which Brontë sister wrote 'Wuthering Heights'?",
+                    "options": [
+                        "Charlotte",
+                        "Emily",
+                        "Anne",
+                        "Branwell"
+                    ],
+                    "answer": "Emily",
+                    "fun_fact": "Emily Brontë published under the pen name Ellis Bell."
+                },
+                {
+                    "question": "In 'Les Misérables', what is Jean Valjean's prisoner number?",
+                    "options": [
+                        "24601",
+                        "1066",
+                        "221B",
+                        "90210"
+                    ],
+                    "answer": "24601",
+                    "fun_fact": "This number became iconic through the musical adaptation."
+                },
+                {
+                    "question": "Which novel features the character Ebenezer Scrooge?",
+                    "options": [
+                        "Great Expectations",
+                        "A Christmas Carol",
+                        "Oliver Twist",
+                        "David Copperfield"
+                    ],
+                    "answer": "A Christmas Carol",
+                    "fun_fact": "Scrooge's name has entered the language as a term for a miser."
+                },
+                {
+                    "question": "Who wrote 'War and Peace'?",
+                    "options": [
+                        "Fyodor Dostoevsky",
+                        "Leo Tolstoy",
+                        "Ivan Turgenev",
+                        "Nikolai Gogol"
+                    ],
+                    "answer": "Leo Tolstoy",
+                    "fun_fact": "The novel contains over 500 characters, many based on real historical figures."
+                },
+                {
+                    "question": "What is the name of the governess in 'Jane Eyre'?",
+                    "options": [
+                        "Jane Eyre",
+                        "Bertha Mason",
+                        "Blanche Ingram",
+                        "Grace Poole"
+                    ],
+                    "answer": "Jane Eyre",
+                    "fun_fact": "The novel was groundbreaking for being written from a female first-person perspective."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "In 'Great Expectations', who is Pip's benefactor?",
+                    "options": [
+                        "Miss Havisham",
+                        "Joe Gargery",
+                        "Abel Magwitch",
+                        "Mr. Jaggers"
+                    ],
+                    "answer": "Abel Magwitch",
+                    "fun_fact": "This revelation shatters Pip's assumption that Miss Havisham was his benefactor."
+                },
+                {
+                    "question": "Which novel features the character Raskolnikov?",
+                    "options": [
+                        "The Brothers Karamazov",
+                        "Crime and Punishment",
+                        "The Idiot",
+                        "Demons"
+                    ],
+                    "answer": "Crime and Punishment",
+                    "fun_fact": "Raskolnikov's name comes from the Russian word 'raskol' meaning 'schism' or 'split'."
+                },
+                {
+                    "question": "What is the name of Huckleberry Finn's companion in 'Adventures of Huckleberry Finn'?",
+                    "options": [
+                        "Tom Sawyer",
+                        "Jim",
+                        "Becky Thatcher",
+                        "Injun Joe"
+                    ],
+                    "answer": "Jim",
+                    "fun_fact": "Jim is one of the first dignified black characters in American literature."
+                },
+                {
+                    "question": "Which novel features the character Uriah Heep?",
+                    "options": [
+                        "Oliver Twist",
+                        "David Copperfield",
+                        "Bleak House",
+                        "Little Dorrit"
+                    ],
+                    "answer": "David Copperfield",
+                    "fun_fact": "Uriah Heep's name has become synonymous with obsequiousness and false humility."
+                },
+                {
+                    "question": "In 'Anna Karenina', how does Anna meet her end?",
+                    "options": [
+                        "Poison",
+                        "Drowning",
+                        "Throws herself under a train",
+                        "Gunshot"
+                    ],
+                    "answer": "Throws herself under a train",
+                    "fun_fact": "Tolstoy was inspired by a real incident where a woman threw herself under a train."
+                },
+                {
+                    "question": "Which novel features the character Bartleby, who 'prefers not to'?",
+                    "options": [
+                        "Moby-Dick",
+                        "Bartleby, the Scrivener",
+                        "Billy Budd",
+                        "Typee"
+                    ],
+                    "answer": "Bartleby, the Scrivener",
+                    "fun_fact": "Bartleby's passive resistance has made him an icon of existential literature."
+                },
+                {
+                    "question": "What is the name of Dorian Gray's portrait painter in 'The Picture of Dorian Gray'?",
+                    "options": [
+                        "Lord Henry Wotton",
+                        "Basil Hallward",
+                        "Alan Campbell",
+                        "James Vane"
+                    ],
+                    "answer": "Basil Hallward",
+                    "fun_fact": "Basil's murder by Dorian represents the destruction of artistic purity."
+                },
+                {
+                    "question": "Which novel by George Eliot features the character Dorothea Brooke?",
+                    "options": [
+                        "The Mill on the Floss",
+                        "Silas Marner",
+                        "Middlemarch",
+                        "Daniel Deronda"
+                    ],
+                    "answer": "Middlemarch",
+                    "fun_fact": "Virginia Woolf called Middlemarch 'one of the few English novels written for grown-up people'."
+                },
+                {
+                    "question": "In 'Dracula', what profession is Jonathan Harker?",
+                    "options": [
+                        "Doctor",
+                        "Lawyer",
+                        "Teacher",
+                        "Journalist"
+                    ],
+                    "answer": "Lawyer",
+                    "fun_fact": "Harker travels to Transylvania to help Count Dracula with a real estate transaction in England."
+                },
+                {
+                    "question": "Which novel features the character Nelly Dean as its primary narrator?",
+                    "options": [
+                        "Jane Eyre",
+                        "Wuthering Heights",
+                        "The Tenant of Wildfell Hall",
+                        "Agnes Grey"
+                    ],
+                    "answer": "Wuthering Heights",
+                    "fun_fact": "Nelly Dean's dual role as participant and narrator makes her reliability questionable."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "In 'The Portrait of a Lady', what country does Gilbert Osmond primarily live in?",
+                    "options": [
+                        "England",
+                        "France",
+                        "Italy",
+                        "United States"
+                    ],
+                    "answer": "Italy",
+                    "fun_fact": "Henry James uses Italy's aesthetic beauty to contrast with Osmond's moral corruption."
+                },
+                {
+                    "question": "Which novel features the character Stepan Trofimovich Verkhovensky?",
+                    "options": [
+                        "The Idiot",
+                        "Demons",
+                        "The Brothers Karamazov",
+                        "Notes from Underground"
+                    ],
+                    "answer": "Demons",
+                    "fun_fact": "Verkhovensky is based partly on the Russian liberal Timofey Granovsky."
+                },
+                {
+                    "question": "In 'The Way We Live Now', what is Augustus Melmotte's profession?",
+                    "options": [
+                        "Banker",
+                        "Railroad financier",
+                        "Politician",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Melmotte is based on real fraudulent financiers of Trollope's time."
+                },
+                {
+                    "question": "Which novel features the character Gervaise Macquart?",
+                    "options": [
+                        "Nana",
+                        "Germinal",
+                        "L'Assommoir",
+                        "Thérèse Raquin"
+                    ],
+                    "answer": "L'Assommoir",
+                    "fun_fact": "This novel is part of Zola's 20-novel Rougon-Macquart series about French society."
+                },
+                {
+                    "question": "In 'The Moonstone', who is actually the thief of the diamond?",
+                    "options": [
+                        "Franklin Blake",
+                        "Godfrey Ablewhite",
+                        "Rosanna Spearman",
+                        "Dr. Candy"
+                    ],
+                    "answer": "Franklin Blake",
+                    "fun_fact": "Blake unknowingly took the diamond while under the influence of opium."
+                },
+                {
+                    "question": "Which novel by Thomas Hardy features the character Jude Fawley?",
+                    "options": [
+                        "Far from the Madding Crowd",
+                        "The Mayor of Casterbridge",
+                        "Jude the Obscure",
+                        "Tess of the d'Urbervilles"
+                    ],
+                    "answer": "Jude the Obscure",
+                    "fun_fact": "The novel's controversial treatment of marriage and religion damaged Hardy's reputation."
+                },
+                {
+                    "question": "In 'The Woman in White', what is the secret that Anne Catherick knows?",
+                    "options": [
+                        "Sir Percival's illegitimacy",
+                        "Laura's true parentage",
+                        "Count Fosco's criminal past",
+                        "Marian's secret love"
+                    ],
+                    "answer": "Sir Percival's illegitimacy",
+                    "fun_fact": "This secret threatens Sir Percival's inheritance and social standing."
+                },
+                {
+                    "question": "Which novel by George Gissing features the character Marian Yule?",
+                    "options": [
+                        "New Grub Street",
+                        "The Odd Women",
+                        "Born in Exile",
+                        "Demos"
+                    ],
+                    "answer": "New Grub Street",
+                    "fun_fact": "The novel portrays the harsh realities of literary life in late Victorian London."
+                },
+                {
+                    "question": "In 'The Brothers Karamazov', which brother actually kills Fyodor Pavlovich?",
+                    "options": [
+                        "Dmitri",
+                        "Ivan",
+                        "Alyosha",
+                        "Smerdyakov"
+                    ],
+                    "answer": "Smerdyakov",
+                    "fun_fact": "Though Smerdyakov commits the act, Ivan's philosophical nihilism bears moral responsibility."
+                },
+                {
+                    "question": "Which novel features the character Captain Nemo?",
+                    "options": [
+                        "20,000 Leagues Under the Sea",
+                        "The Mysterious Island",
+                        "Journey to the Center of the Earth",
+                        "Both 20,000 Leagues and The Mysterious Island"
+                    ],
+                    "answer": "Both 20,000 Leagues and The Mysterious Island",
+                    "fun_fact": "Nemo's backstory as an Indian prince seeking revenge on Britain is revealed in 'The Mysterious Island'."
+                }
+            ]
+        }
+    },
+    "Poetry": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who wrote 'The Raven'?",
+                    "options": [
+                        "Walt Whitman",
+                        "Emily Dickinson",
+                        "Edgar Allan Poe",
+                        "Robert Frost"
+                    ],
+                    "answer": "Edgar Allan Poe",
+                    "fun_fact": "Poe earned only $9 from the initial publication of 'The Raven'."
+                },
+                {
+                    "question": "Which poet wrote 'I Wandered Lonely as a Cloud'?",
+                    "options": [
+                        "John Keats",
+                        "William Wordsworth",
+                        "Samuel Taylor Coleridge",
+                        "Lord Byron"
+                    ],
+                    "answer": "William Wordsworth",
+                    "fun_fact": "The poem was inspired by Wordsworth seeing a field of daffodils with his sister Dorothy."
+                },
+                {
+                    "question": "What is the rhyme scheme of a Shakespearean sonnet?",
+                    "options": [
+                        "ABAB CDCD EFEF GG",
+                        "ABBA ABBA CDE CDE",
+                        "AABB CCDD EEFF GG",
+                        "ABAB BCBC CDCD EE"
+                    ],
+                    "answer": "ABAB CDCD EFEF GG",
+                    "fun_fact": "The final couplet (GG) often provides a surprising twist or conclusion."
+                },
+                {
+                    "question": "Who wrote the poem 'Ozymandias'?",
+                    "options": [
+                        "John Keats",
+                        "Percy Bysshe Shelley",
+                        "William Blake",
+                        "Lord Byron"
+                    ],
+                    "answer": "Percy Bysshe Shelley",
+                    "fun_fact": "The poem was written in competition with friend Horace Smith, who wrote a sonnet on the same subject."
+                },
+                {
+                    "question": "Which poet wrote 'The Road Not Taken'?",
+                    "options": [
+                        "T.S. Eliot",
+                        "Robert Frost",
+                        "Wallace Stevens",
+                        "Ezra Pound"
+                    ],
+                    "answer": "Robert Frost",
+                    "fun_fact": "Frost called this 'a tricky poem' about the tendency to romanticize decisions."
+                },
+                {
+                    "question": "What is the opening line of Dante's 'Divine Comedy'?",
+                    "options": [
+                        "In the midway of this our mortal life",
+                        "Abandon all hope, ye who enter here",
+                        "Inferno is the first part of the journey",
+                        "Midway upon the journey of our life"
+                    ],
+                    "answer": "Midway upon the journey of our life",
+                    "fun_fact": "The original Italian 'Nel mezzo del cammin di nostra vita' is among the most famous lines in literature."
+                },
+                {
+                    "question": "Which poet wrote 'Howl'?",
+                    "options": [
+                        "Jack Kerouac",
+                        "Allen Ginsberg",
+                        "William S. Burroughs",
+                        "Lawrence Ferlinghetti"
+                    ],
+                    "answer": "Allen Ginsberg",
+                    "fun_fact": "The poem's publisher was tried for obscenity, helping to break censorship laws."
+                },
+                {
+                    "question": "What form is Sylvia Plath's 'Daddy' written in?",
+                    "options": [
+                        "Free verse",
+                        "Villanelle",
+                        "Ballad meter",
+                        "Sestina"
+                    ],
+                    "answer": "Ballad meter",
+                    "fun_fact": "Plath uses nursery rhyme rhythms to contrast with the poem's dark content."
+                },
+                {
+                    "question": "Who wrote the epic poem 'Paradise Lost'?",
+                    "options": [
+                        "John Donne",
+                        "John Milton",
+                        "Geoffrey Chaucer",
+                        "Edmund Spenser"
+                    ],
+                    "answer": "John Milton",
+                    "fun_fact": "Milton was blind when he composed the poem, dictating it to aides."
+                },
+                {
+                    "question": "Which poet wrote 'Do Not Go Gentle Into That Good Night'?",
+                    "options": [
+                        "W.H. Auden",
+                        "Dylan Thomas",
+                        "Philip Larkin",
+                        "Ted Hughes"
+                    ],
+                    "answer": "Dylan Thomas",
+                    "fun_fact": "Thomas wrote this villanelle for his dying father, though he couldn't bring himself to read it to him."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which poet wrote 'The Love Song of J. Alfred Prufrock'?",
+                    "options": [
+                        "Ezra Pound",
+                        "T.S. Eliot",
+                        "Wallace Stevens",
+                        "William Carlos Williams"
+                    ],
+                    "answer": "T.S. Eliot",
+                    "fun_fact": "Eliot began writing this in 1910 at age 22 but didn't publish it until 1915 after encouragement from Pound."
+                },
+                {
+                    "question": "What is the meter of Shakespeare's 'Shall I compare thee to a summer's day'?",
+                    "options": [
+                        "Trochaic pentameter",
+                        "Iambic pentameter",
+                        "Dactylic hexameter",
+                        "Anapestic tetrameter"
+                    ],
+                    "answer": "Iambic pentameter",
+                    "fun_fact": "This meter mimics natural English speech patterns, with five iambs (unstressed-stressed pairs) per line."
+                },
+                {
+                    "question": "Which poet wrote 'Kubla Khan' after an opium-induced dream?",
+                    "options": [
+                        "William Blake",
+                        "Samuel Taylor Coleridge",
+                        "John Keats",
+                        "Percy Bysshe Shelley"
+                    ],
+                    "answer": "Samuel Taylor Coleridge",
+                    "fun_fact": "Coleridge claimed he was interrupted during writing by a 'person from Porlock', causing him to forget the rest."
+                },
+                {
+                    "question": "In 'The Waste Land', what does the phrase 'April is the cruellest month' refer to?",
+                    "options": [
+                        "The pain of rebirth",
+                        "The start of war",
+                        "Tax season",
+                        "The anniversary of a death"
+                    ],
+                    "answer": "The pain of rebirth",
+                    "fun_fact": "This inverts Chaucer's cheerful opening to 'The Canterbury Tales' about April's sweet showers."
+                },
+                {
+                    "question": "Which poet wrote 'My Last Duchess'?",
+                    "options": [
+                        "Alfred, Lord Tennyson",
+                        "Robert Browning",
+                        "Matthew Arnold",
+                        "Gerard Manley Hopkins"
+                    ],
+                    "answer": "Robert Browning",
+                    "fun_fact": "The poem is a dramatic monologue based on Alfonso II, Duke of Ferrara, whose young wife died under suspicious circumstances."
+                },
+                {
+                    "question": "What is the name of the poetic form used in 'Sailing to Byzantium'?",
+                    "options": [
+                        "Sonnet",
+                        "Villanelle",
+                        "Ottava rima",
+                        "Terza rima"
+                    ],
+                    "answer": "Ottava rima",
+                    "fun_fact": "Yeats uses this Italian form (ABABABCC) to give the poem its meditative, rolling quality."
+                },
+                {
+                    "question": "Which poet wrote 'The Second Coming' with its famous 'rough beast' imagery?",
+                    "options": [
+                        "T.S. Eliot",
+                        "W.B. Yeats",
+                        "Ezra Pound",
+                        "Wallace Stevens"
+                    ],
+                    "answer": "W.B. Yeats",
+                    "fun_fact": "Yeats wrote this in 1919, reflecting his apocalyptic fears after WWI and the Russian Revolution."
+                },
+                {
+                    "question": "What is the primary theme of Langston Hughes' 'Harlem' (also known as 'A Dream Deferred')?",
+                    "options": [
+                        "The beauty of African culture",
+                        "The consequences of postponed dreams",
+                        "The excitement of city life",
+                        "The pain of lost love"
+                    ],
+                    "answer": "The consequences of postponed dreams",
+                    "fun_fact": "The poem's series of vivid similes ('Does it dry up like a raisin in the sun?') inspired Lorraine Hansberry's play title."
+                },
+                {
+                    "question": "Which poet wrote 'Fern Hill' about childhood memories?",
+                    "options": [
+                        "Dylan Thomas",
+                        "Philip Larkin",
+                        "Ted Hughes",
+                        "Seamus Heaney"
+                    ],
+                    "answer": "Dylan Thomas",
+                    "fun_fact": "Thomas based the poem on his aunt's farm where he spent summers as a child in Wales."
+                },
+                {
+                    "question": "In 'The Rime of the Ancient Mariner', what crime does the mariner commit?",
+                    "options": [
+                        "Killing an albatross",
+                        "Stealing from his crew",
+                        "Abandoning ship",
+                        "Consorting with pirates"
+                    ],
+                    "answer": "Killing an albatross",
+                    "fun_fact": "The phrase 'albatross around one's neck' comes from this poem's symbolism."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which poet wrote 'The Idea of Order at Key West'?",
+                    "options": [
+                        "Wallace Stevens",
+                        "William Carlos Williams",
+                        "Marianne Moore",
+                        "Hart Crane"
+                    ],
+                    "answer": "Wallace Stevens",
+                    "fun_fact": "The poem explores the relationship between imagination and reality through a woman singing by the sea."
+                },
+                {
+                    "question": "What is the name of the poetic form used in 'One Art' by Elizabeth Bishop?",
+                    "options": [
+                        "Sonnet",
+                        "Villanelle",
+                        "Sestina",
+                        "Pantoum"
+                    ],
+                    "answer": "Villanelle",
+                    "fun_fact": "Bishop subtly modifies the strict villanelle form to enhance the poem's emotional impact."
+                },
+                {
+                    "question": "Which poet wrote 'Asphodel, That Greeny Flower' as a late-life love poem?",
+                    "options": [
+                        "Ezra Pound",
+                        "William Carlos Williams",
+                        "H.D.",
+                        "E.E. Cummings"
+                    ],
+                    "answer": "William Carlos Williams",
+                    "fun_fact": "Williams wrote this while recovering from a stroke, incorporating medical terminology into the love poem."
+                },
+                {
+                    "question": "In 'Four Quartets', which element does Eliot associate with 'Burnt Norton'?",
+                    "options": [
+                        "Air",
+                        "Earth",
+                        "Fire",
+                        "Water"
+                    ],
+                    "answer": "Air",
+                    "fun_fact": "Each quartet is loosely associated with an element: air (Burnt Norton), earth (East Coker), water (The Dry Salvages), and fire (Little Gidding)."
+                },
+                {
+                    "question": "Which poet wrote 'The Shield of Achilles' as a response to Homer's Iliad?",
+                    "options": [
+                        "W.H. Auden",
+                        "Robert Lowell",
+                        "Randall Jarrell",
+                        "Theodore Roethke"
+                    ],
+                    "answer": "W.H. Auden",
+                    "fun_fact": "Auden contrasts Homer's glorious depiction of war with the bleak modern reality."
+                },
+                {
+                    "question": "What is the meter of Gerard Manley Hopkins' 'The Windhover'?",
+                    "options": [
+                        "Iambic pentameter",
+                        "Sprung rhythm",
+                        "Free verse",
+                        "Dactylic hexameter"
+                    ],
+                    "answer": "Sprung rhythm",
+                    "fun_fact": "Hopkins developed this innovative meter, with a fixed number of stressed syllables but varying unstressed ones."
+                },
+                {
+                    "question": "Which poet wrote 'An Arundel Tomb' with its famous line 'What will survive of us is love'?",
+                    "options": [
+                        "Philip Larkin",
+                        "Ted Hughes",
+                        "John Betjeman",
+                        "Stevie Smith"
+                    ],
+                    "answer": "Philip Larkin",
+                    "fun_fact": "The poem was inspired by a medieval tomb in Chichester Cathedral showing an earl and countess holding hands."
+                },
+                {
+                    "question": "In 'The Prelude', what childhood experience does Wordsworth describe as 'spots of time'?",
+                    "options": [
+                        "Epiphanic moments of transcendence",
+                        "Punishments from his teachers",
+                        "Visits to London",
+                        "Games with his sister"
+                    ],
+                    "answer": "Epiphanic moments of transcendence",
+                    "fun_fact": "These moments form what Wordsworth called 'the hiding-places of my power' that sustain him in adulthood."
+                },
+                {
+                    "question": "Which poet wrote 'The Emperor of Ice-Cream'?",
+                    "options": [
+                        "Wallace Stevens",
+                        "William Carlos Williams",
+                        "E.E. Cummings",
+                        "Marianne Moore"
+                    ],
+                    "answer": "Wallace Stevens",
+                    "fun_fact": "The seemingly light title contrasts with the poem's serious meditation on death and poverty."
+                },
+                {
+                    "question": "What is the name of the poetic sequence that includes 'The Love Song of J. Alfred Prufrock'?",
+                    "options": [
+                        "Prufrock and Other Observations",
+                        "The Waste Land and Other Poems",
+                        "Four Quartets",
+                        "Ariel"
+                    ],
+                    "answer": "Prufrock and Other Observations",
+                    "fun_fact": "This was Eliot's first book of poetry, published in 1917 when he was 29."
+                }
+            ]
+        }
+    },
+    "Modern Literature": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who wrote 'To Kill a Mockingbird'?",
+                    "options": [
+                        "Truman Capote",
+                        "Harper Lee",
+                        "Flannery O'Connor",
+                        "Eudora Welty"
+                    ],
+                    "answer": "Harper Lee",
+                    "fun_fact": "Lee based the character Dill on her childhood friend Truman Capote."
+                },
+                {
+                    "question": "Which novel features the character Holden Caulfield?",
+                    "options": [
+                        "The Bell Jar",
+                        "The Catcher in the Rye",
+                        "On the Road",
+                        "A Separate Peace"
+                    ],
+                    "answer": "The Catcher in the Rye",
+                    "fun_fact": "Salinger's novel has been both frequently banned and widely taught in schools."
+                },
+                {
+                    "question": "Who wrote '1984'?",
+                    "options": [
+                        "Aldous Huxley",
+                        "George Orwell",
+                        "Ray Bradbury",
+                        "H.G. Wells"
+                    ],
+                    "answer": "George Orwell",
+                    "fun_fact": "Orwell wrote the novel while suffering from tuberculosis on the Scottish island of Jura."
+                },
+                {
+                    "question": "Which novel features the character Big Brother?",
+                    "options": [
+                        "Brave New World",
+                        "Fahrenheit 451",
+                        "1984",
+                        "We"
+                    ],
+                    "answer": "1984",
+                    "fun_fact": "The phrase 'Big Brother is watching you' has entered common usage to describe surveillance states."
+                },
+                {
+                    "question": "Who wrote 'The Great Gatsby'?",
+                    "options": [
+                        "Ernest Hemingway",
+                        "F. Scott Fitzgerald",
+                        "John Steinbeck",
+                        "William Faulkner"
+                    ],
+                    "answer": "F. Scott Fitzgerald",
+                    "fun_fact": "Fitzgerald died believing the novel was a failure; it only gained recognition after WWII."
+                },
+                {
+                    "question": "Which novel features the character Atticus Finch?",
+                    "options": [
+                        "To Kill a Mockingbird",
+                        "The Sound and the Fury",
+                        "All the King's Men",
+                        "Native Son"
+                    ],
+                    "answer": "To Kill a Mockingbird",
+                    "fun_fact": "Atticus was based on Lee's father, a lawyer who defended black clients in 1930s Alabama."
+                },
+                {
+                    "question": "Who wrote 'The Old Man and the Sea'?",
+                    "options": [
+                        "John Steinbeck",
+                        "William Faulkner",
+                        "Ernest Hemingway",
+                        "Jack London"
+                    ],
+                    "answer": "Ernest Hemingway",
+                    "fun_fact": "This novel helped Hemingway win the Nobel Prize in Literature in 1954."
+                },
+                {
+                    "question": "Which dystopian novel features 'the Ministry of Truth'?",
+                    "options": [
+                        "Brave New World",
+                        "1984",
+                        "Fahrenheit 451",
+                        "We"
+                    ],
+                    "answer": "1984",
+                    "fun_fact": "The Ministry of Truth actually produces lies, showing the regime's inversion of language."
+                },
+                {
+                    "question": "Who wrote 'Beloved'?",
+                    "options": [
+                        "Alice Walker",
+                        "Toni Morrison",
+                        "Maya Angelou",
+                        "Zora Neale Hurston"
+                    ],
+                    "answer": "Toni Morrison",
+                    "fun_fact": "Morrison based the novel on the true story of Margaret Garner, a fugitive slave."
+                },
+                {
+                    "question": "Which novel features the character Jay Gatsby?",
+                    "options": [
+                        "The Sun Also Rises",
+                        "The Great Gatsby",
+                        "Tender Is the Night",
+                        "This Side of Paradise"
+                    ],
+                    "answer": "The Great Gatsby",
+                    "fun_fact": "Fitzgerald considered several titles including 'Among the Ash Heaps and Millionaires' before choosing 'The Great Gatsby'."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "In 'Catch-22', what is the catch?",
+                    "options": [
+                        "You can only leave the army if you're insane, but wanting to leave proves you're sane",
+                        "You must follow contradictory orders",
+                        "You can't be promoted unless you refuse promotion",
+                        "You must fight until you win, but can't win until you stop fighting"
+                    ],
+                    "answer": "You can only leave the army if you're insane, but wanting to leave proves you're sane",
+                    "fun_fact": "The term 'Catch-22' has entered the language to describe no-win situations."
+                },
+                {
+                    "question": "Which novel features the character Meursault?",
+                    "options": [
+                        "Nausea",
+                        "The Stranger",
+                        "The Plague",
+                        "The Fall"
+                    ],
+                    "answer": "The Stranger",
+                    "fun_fact": "Camus' opening line ('Mother died today') sets the tone for Meursault's emotional detachment."
+                },
+                {
+                    "question": "Who wrote 'The Sound and the Fury'?",
+                    "options": [
+                        "John Steinbeck",
+                        "Ernest Hemingway",
+                        "William Faulkner",
+                        "F. Scott Fitzgerald"
+                    ],
+                    "answer": "William Faulkner",
+                    "fun_fact": "The novel's first section is narrated by Benjy, a character with severe intellectual disability."
+                },
+                {
+                    "question": "In 'One Hundred Years of Solitude', what is the name of the founding family?",
+                    "options": [
+                        "Buendía",
+                        "Márquez",
+                        "García",
+                        "Aureliano"
+                    ],
+                    "answer": "Buendía",
+                    "fun_fact": "Gabriel García Márquez based Macondo on his own childhood hometown in Colombia."
+                },
+                {
+                    "question": "Which novel features the character Septimus Smith?",
+                    "options": [
+                        "To the Lighthouse",
+                        "Mrs Dalloway",
+                        "The Waves",
+                        "Orlando"
+                    ],
+                    "answer": "Mrs Dalloway",
+                    "fun_fact": "Septimus, a shell-shocked WWI veteran, represents the novel's exploration of mental illness."
+                },
+                {
+                    "question": "Who wrote 'Invisible Man' (about an unnamed black protagonist)?",
+                    "options": [
+                        "James Baldwin",
+                        "Ralph Ellison",
+                        "Richard Wright",
+                        "Langston Hughes"
+                    ],
+                    "answer": "Ralph Ellison",
+                    "fun_fact": "Ellison worked on the novel for seven years, with initial sections published as short stories."
+                },
+                {
+                    "question": "In 'Slaughterhouse-Five', why is the protagonist 'unstuck in time'?",
+                    "options": [
+                        "He has Alzheimer's disease",
+                        "He was abducted by aliens",
+                        "He suffers from PTSD",
+                        "He discovered time travel"
+                    ],
+                    "answer": "He was abducted by aliens",
+                    "fun_fact": "Vonnegut's experience as a POW in Dresden inspired the novel's firebombing scenes."
+                },
+                {
+                    "question": "Which novel features the character Sethe?",
+                    "options": [
+                        "The Color Purple",
+                        "Beloved",
+                        "Song of Solomon",
+                        "Sula"
+                    ],
+                    "answer": "Beloved",
+                    "fun_fact": "Sethe is based on Margaret Garner, who killed her child rather than see her returned to slavery."
+                },
+                {
+                    "question": "Who wrote 'The Unbearable Lightness of Being'?",
+                    "options": [
+                        "Milan Kundera",
+                        "Václav Havel",
+                        "Bohumil Hrabal",
+                        "Ivan Klíma"
+                    ],
+                    "answer": "Milan Kundera",
+                    "fun_fact": "Kundera originally wrote the novel in Czech but later authorized a French version himself."
+                },
+                {
+                    "question": "Which novel features the character Hazel Motes?",
+                    "options": [
+                        "Wise Blood",
+                        "The Violent Bear It Away",
+                        "Everything That Rises Must Converge",
+                        "A Good Man Is Hard to Find"
+                    ],
+                    "answer": "Wise Blood",
+                    "fun_fact": "Flannery O'Connor called Hazel's story 'a comic novel about a Christian malgré lui' (despite himself)."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "In 'Pale Fire', what is the relationship between Charles Kinbote and John Shade?",
+                    "options": [
+                        "Kinbote is Shade's editor and unreliable narrator",
+                        "They are the same person",
+                        "Kinbote murdered Shade",
+                        "They are brothers"
+                    ],
+                    "answer": "Kinbote is Shade's editor and unreliable narrator",
+                    "fun_fact": "Nabokov structured the novel as a 999-line poem with Kinbote's eccentric commentary."
+                },
+                {
+                    "question": "Which novel features the character Molly Bloom?",
+                    "options": [
+                        "Dubliners",
+                        "A Portrait of the Artist as a Young Man",
+                        "Ulysses",
+                        "Finnegans Wake"
+                    ],
+                    "answer": "Ulysses",
+                    "fun_fact": "Her stream-of-consciousness monologue comprises the novel's famous final chapter, without punctuation."
+                },
+                {
+                    "question": "Who wrote 'The Man Without Qualities'?",
+                    "options": [
+                        "Franz Kafka",
+                        "Robert Musil",
+                        "Hermann Broch",
+                        "Thomas Mann"
+                    ],
+                    "answer": "Robert Musil",
+                    "fun_fact": "This massive unfinished novel (1,700+ pages) is considered a landmark of modernist literature."
+                },
+                {
+                    "question": "In 'The Recognitions', what art form is Wyatt Gwyon involved with?",
+                    "options": [
+                        "Painting",
+                        "Sculpture",
+                        "Forgery",
+                        "All of the above"
+                    ],
+                    "answer": "Forgery",
+                    "fun_fact": "Gaddis's dense novel about authenticity in art took seven years to write and was initially poorly received."
+                },
+                {
+                    "question": "Which novel features the character Tyrone Slothrop?",
+                    "options": [
+                        "The Crying of Lot 49",
+                        "Gravity's Rainbow",
+                        "Vineland",
+                        "Mason & Dixon"
+                    ],
+                    "answer": "Gravity's Rainbow",
+                    "fun_fact": "Slothrop's sexual encounters predict V-2 rocket strikes, linking eros and thanatos in WWII London."
+                },
+                {
+                    "question": "Who wrote 'The Book of Disquiet'?",
+                    "options": [
+                        "Fernando Pessoa",
+                        "José Saramago",
+                        "Jorge Luis Borges",
+                        "Julio Cortázar"
+                    ],
+                    "answer": "Fernando Pessoa",
+                    "fun_fact": "Pessoa wrote this 'autobiography without facts' under the heteronym Bernardo Soares."
+                },
+                {
+                    "question": "In 'Hopscotch', how many chapters are 'expendable' according to Cortázar?",
+                    "options": [
+                        "None",
+                        "26",
+                        "56",
+                        "99"
+                    ],
+                    "answer": "56",
+                    "fun_fact": "The novel can be read linearly (Chapters 1-56) or by 'hopscotching' through all 155 chapters as directed."
+                },
+                {
+                    "question": "Which novel features the character Humbert Humbert?",
+                    "options": [
+                        "Pnin",
+                        "Pale Fire",
+                        "Lolita",
+                        "Ada or Ardor"
+                    ],
+                    "answer": "Lolita",
+                    "fun_fact": "Nabokov nearly burned the manuscript, deterred by its controversial subject matter."
+                },
+                {
+                    "question": "Who wrote 'The Making of Americans'?",
+                    "options": [
+                        "Gertrude Stein",
+                        "Sherwood Anderson",
+                        "Sinclair Lewis",
+                        "Djuna Barnes"
+                    ],
+                    "answer": "Gertrude Stein",
+                    "fun_fact": "This 900-page experimental novel took Stein eight years to write and was called 'unreadable' by many."
+                },
+                {
+                    "question": "In 'JR', how is most of the dialogue presented?",
+                    "options": [
+                        "Through letters",
+                        "Without attribution",
+                        "In verse",
+                        "As newspaper clippings"
+                    ],
+                    "answer": "Without attribution",
+                    "fun_fact": "Gaddis's novel about American capitalism contains over 400 pages of unattributed dialogue in a dense, challenging style."
+                }
+            ]
+        }
+    },
+    "World Literature": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who wrote 'Don Quixote'?",
+                    "options": [
+                        "Miguel de Cervantes",
+                        "Federico García Lorca",
+                        "Pablo Neruda",
+                        "Gabriel García Márquez"
+                    ],
+                    "answer": "Miguel de Cervantes",
+                    "fun_fact": "Cervantes wrote parts of the novel while imprisoned for financial irregularities."
+                },
+                {
+                    "question": "Which ancient epic features the character Gilgamesh?",
+                    "options": [
+                        "The Iliad",
+                        "The Odyssey",
+                        "The Epic of Gilgamesh",
+                        "The Aeneid"
+                    ],
+                    "answer": "The Epic of Gilgamesh",
+                    "fun_fact": "This is the oldest known epic poem, dating back to 2100 BCE in Mesopotamia."
+                },
+                {
+                    "question": "Who wrote 'The Divine Comedy'?",
+                    "options": [
+                        "Petrarch",
+                        "Dante Alighieri",
+                        "Boccaccio",
+                        "Machiavelli"
+                    ],
+                    "answer": "Dante Alighieri",
+                    "fun_fact": "Dante invented the terza rima rhyme scheme (ABA BCB CDC) specifically for this work."
+                },
+                {
+                    "question": "Which Russian author wrote 'Crime and Punishment'?",
+                    "options": [
+                        "Leo Tolstoy",
+                        "Fyodor Dostoevsky",
+                        "Anton Chekhov",
+                        "Ivan Turgenev"
+                    ],
+                    "answer": "Fyodor Dostoevsky",
+                    "fun_fact": "Dostoevsky wrote this while facing financial ruin and deadlines for another novel."
+                },
+                {
+                    "question": "Which novel features the character Jean Valjean?",
+                    "options": [
+                        "The Count of Monte Cristo",
+                        "Les Misérables",
+                        "Madame Bovary",
+                        "The Hunchback of Notre-Dame"
+                    ],
+                    "answer": "Les Misérables",
+                    "fun_fact": "Hugo based Valjean partly on Eugène François Vidocq, a criminal-turned-crimefighter."
+                },
+                {
+                    "question": "Who wrote 'The Odyssey'?",
+                    "options": [
+                        "Virgil",
+                        "Homer",
+                        "Sophocles",
+                        "Aeschylus"
+                    ],
+                    "answer": "Homer",
+                    "fun_fact": "The Odyssey may have been composed orally centuries before being written down."
+                },
+                {
+                    "question": "Which Indian epic features the Bhagavad Gita?",
+                    "options": [
+                        "The Ramayana",
+                        "The Mahabharata",
+                        "The Upanishads",
+                        "The Vedas"
+                    ],
+                    "answer": "The Mahabharata",
+                    "fun_fact": "The Gita is a 700-verse dialogue between Prince Arjuna and Lord Krishna."
+                },
+                {
+                    "question": "Who wrote 'The Tale of Genji'?",
+                    "options": [
+                        "Murasaki Shikibu",
+                        "Sei Shōnagon",
+                        "Bashō",
+                        "Yoshida Kenkō"
+                    ],
+                    "answer": "Murasaki Shikibu",
+                    "fun_fact": "Written around 1000 AD, this is often called the world's first novel."
+                },
+                {
+                    "question": "Which French author wrote 'The Stranger'?",
+                    "options": [
+                        "Jean-Paul Sartre",
+                        "Albert Camus",
+                        "Gustave Flaubert",
+                        "Victor Hugo"
+                    ],
+                    "answer": "Albert Camus",
+                    "fun_fact": "Camus' philosophy of the absurd is embodied in Meursault's indifferent response to his mother's death."
+                },
+                {
+                    "question": "Which novel features the character Raskolnikov?",
+                    "options": [
+                        "War and Peace",
+                        "Crime and Punishment",
+                        "The Brothers Karamazov",
+                        "Anna Karenina"
+                    ],
+                    "answer": "Crime and Punishment",
+                    "fun_fact": "Raskolnikov's name comes from the Russian 'raskol' meaning 'schism', reflecting his divided self."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "In 'The Metamorphosis', what does Gregor Samsa transform into?",
+                    "options": [
+                        "A rat",
+                        "A cockroach",
+                        "A giant insect",
+                        "A bird"
+                    ],
+                    "answer": "A giant insect",
+                    "fun_fact": "Kafka never specifies the exact insect, leaving it to readers' imaginations."
+                },
+                {
+                    "question": "Which Japanese author wrote 'Rashomon'?",
+                    "options": [
+                        "Yukio Mishima",
+                        "Jun'ichirō Tanizaki",
+                        "Ryūnosuke Akutagawa",
+                        "Kōbō Abe"
+                    ],
+                    "answer": "Ryūnosuke Akutagawa",
+                    "fun_fact": "The film 'Rashomon' actually combines two Akutagawa stories: 'Rashomon' and 'In a Grove'."
+                },
+                {
+                    "question": "Who wrote 'The Brothers Karamazov'?",
+                    "options": [
+                        "Leo Tolstoy",
+                        "Fyodor Dostoevsky",
+                        "Anton Chekhov",
+                        "Nikolai Gogol"
+                    ],
+                    "answer": "Fyodor Dostoevsky",
+                    "fun_fact": "Dostoevsky died less than four months after publishing this, his final novel."
+                },
+                {
+                    "question": "Which African novel features the character Okonkwo?",
+                    "options": [
+                        "Things Fall Apart",
+                        "Half of a Yellow Sun",
+                        "Weep Not, Child",
+                        "Arrow of God"
+                    ],
+                    "answer": "Things Fall Apart",
+                    "fun_fact": "Achebe took his title from Yeats' poem 'The Second Coming', reflecting colonialism's impact."
+                },
+                {
+                    "question": "In 'One Hundred Years of Solitude', what is the curse of the Buendía family?",
+                    "options": [
+                        "To repeat their ancestors' mistakes",
+                        "To bear children with pig tails",
+                        "To never find true love",
+                        "To always be poor"
+                    ],
+                    "answer": "To bear children with pig tails",
+                    "fun_fact": "This incest motif recurs through the novel until the final Buendía is born with the tail."
+                },
+                {
+                    "question": "Who wrote 'The Pillow Book'?",
+                    "options": [
+                        "Murasaki Shikibu",
+                        "Sei Shōnagon",
+                        "Izumi Shikibu",
+                        "Ono no Komachi"
+                    ],
+                    "answer": "Sei Shōnagon",
+                    "fun_fact": "This 10th-century collection of observations and lists offers rare insight into Heian court life."
+                },
+                {
+                    "question": "Which Latin American author wrote 'The Aleph'?",
+                    "options": [
+                        "Gabriel García Márquez",
+                        "Julio Cortázar",
+                        "Jorge Luis Borges",
+                        "Mario Vargas Llosa"
+                    ],
+                    "answer": "Jorge Luis Borges",
+                    "fun_fact": "Borges' fictional Aleph is a point containing all other points in the universe simultaneously."
+                },
+                {
+                    "question": "In 'The Tin Drum', why does Oskar Matzerath refuse to grow?",
+                    "options": [
+                        "To protest adult hypocrisy",
+                        "Because of a physical condition",
+                        "To avoid military service",
+                        "To preserve his singing voice"
+                    ],
+                    "answer": "To protest adult hypocrisy",
+                    "fun_fact": "Grass's magical realist novel uses Oskar's perspective to critique 20th-century German history."
+                },
+                {
+                    "question": "Who wrote 'The Labyrinth of Solitude'?",
+                    "options": [
+                        "Carlos Fuentes",
+                        "Octavio Paz",
+                        "Juan Rulfo",
+                        "Mario Vargas Llosa"
+                    ],
+                    "answer": "Octavio Paz",
+                    "fun_fact": "This influential essay explores Mexican identity through concepts like the 'pachuco' and Day of the Dead."
+                },
+                {
+                    "question": "Which novel features the character Saleem Sinai?",
+                    "options": [
+                        "The Satanic Verses",
+                        "Midnight's Children",
+                        "Shame",
+                        "The Moor's Last Sigh"
+                    ],
+                    "answer": "Midnight's Children",
+                    "fun_fact": "Saleem is one of 1,001 children born at India's independence midnight, each gifted with special powers."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "In 'Pedro Páramo', how does the narrative structure reflect its themes?",
+                    "options": [
+                        "It alternates between past and present",
+                        "It combines living and dead voices",
+                        "It uses multiple unreliable narrators",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Rulfo's novel pioneered magical realism by blending time, memory, and the supernatural in revolutionary ways."
+                },
+                {
+                    "question": "Which Chinese novel is considered one of the Four Great Classical Novels?",
+                    "options": [
+                        "The Dream of the Red Chamber",
+                        "The True Story of Ah Q",
+                        "Raise the Red Lantern",
+                        "Wild Swans"
+                    ],
+                    "answer": "The Dream of the Red Chamber",
+                    "fun_fact": "Also called 'The Story of the Stone', this 18th-century novel contains 400+ characters and detailed Qing dynasty life."
+                },
+                {
+                    "question": "Who wrote 'The Book of the City of Ladies'?",
+                    "options": [
+                        "Christine de Pizan",
+                        "Marie de France",
+                        "Hildegard von Bingen",
+                        "Marguerite de Navarre"
+                    ],
+                    "answer": "Christine de Pizan",
+                    "fun_fact": "Written in 1405, this early feminist text imagines a city populated by great women from history."
+                },
+                {
+                    "question": "In 'Season of Migration to the North', what is Mustafa Sa'eed's fate?",
+                    "options": [
+                        "He returns to England",
+                        "He drowns himself",
+                        "He becomes a government official",
+                        "He murders his wife"
+                    ],
+                    "answer": "He drowns himself",
+                    "fun_fact": "Tayeb Salih's novel reverses colonial narratives by having an African man exploit English women."
+                },
+                {
+                    "question": "Which Arabic work features the character Scheherazade?",
+                    "options": [
+                        "The Rubaiyat of Omar Khayyam",
+                        "One Thousand and One Nights",
+                        "The Conference of the Birds",
+                        "The Muqaddimah"
+                    ],
+                    "answer": "One Thousand and One Nights",
+                    "fun_fact": "Scheherazade saves her life by telling cliffhanger stories to King Shahryar for 1,001 nights."
+                },
+                {
+                    "question": "Who wrote 'The Ravishing of Lol Stein'?",
+                    "options": [
+                        "Simone de Beauvoir",
+                        "Marguerite Duras",
+                        "Nathalie Sarraute",
+                        "Annie Ernaux"
+                    ],
+                    "answer": "Marguerite Duras",
+                    "fun_fact": "This novel about trauma and memory influenced feminist and psychoanalytic literary theory."
+                },
+                {
+                    "question": "In 'The Temple of the Golden Pavilion', what does Mizoguchi do?",
+                    "options": [
+                        "Becomes a monk",
+                        "Burns down the temple",
+                        "Murders his mentor",
+                        "All of the above"
+                    ],
+                    "answer": "Burns down the temple",
+                    "fun_fact": "Mishima based his novel on the real 1950 arson of Kyoto's Kinkaku-ji by a disturbed acolyte."
+                },
+                {
+                    "question": "Which African epic features Sundiata Keita?",
+                    "options": [
+                        "The Epic of Sundiata",
+                        "Things Fall Apart",
+                        "God's Bits of Wood",
+                        "So Long a Letter"
+                    ],
+                    "answer": "The Epic of Sundiata",
+                    "fun_fact": "This oral epic about Mali's 13th-century founder has been passed down by griots for generations."
+                },
+                {
+                    "question": "Who wrote 'The Notebooks of Malte Laurids Brigge'?",
+                    "options": [
+                        "Hermann Hesse",
+                        "Rainer Maria Rilke",
+                        "Thomas Mann",
+                        "Stefan Zweig"
+                    ],
+                    "answer": "Rainer Maria Rilke",
+                    "fun_fact": "This semi-autobiographical novel was Rilke's only longer prose work, bridging his poetry periods."
+                },
+                {
+                    "question": "In 'The Sailor Who Fell from Grace with the Sea', what happens to Ryuji?",
+                    "options": [
+                        "He abandons the sea for love",
+                        "He is killed by a gang",
+                        "He is ritually murdered by boys",
+                        "He returns to his ship"
+                    ],
+                    "answer": "He is ritually murdered by boys",
+                    "fun_fact": "Mishima's novel explores his fascinations with death, purity, and corrupted innocence."
+                }
+            ]
+        }
+    }
+}

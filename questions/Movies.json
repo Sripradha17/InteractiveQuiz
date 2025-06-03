@@ -1,0 +1,1702 @@
+{
+    "Hollywood Classics": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who played the role of Forrest Gump in the 1994 film?",
+                    "options": [
+                        "Tom Hanks",
+                        "Brad Pitt",
+                        "Leonardo DiCaprio",
+                        "Johnny Depp"
+                    ],
+                    "answer": "Tom Hanks",
+                    "fun_fact": "Tom Hanks won his second consecutive Best Actor Oscar for this role."
+                },
+                {
+                    "question": "Which movie features the famous line 'Here's looking at you, kid'?",
+                    "options": [
+                        "Gone with the Wind",
+                        "Casablanca",
+                        "The Godfather",
+                        "Citizen Kane"
+                    ],
+                    "answer": "Casablanca",
+                    "fun_fact": "The line was ad-libbed by Humphrey Bogart and wasn't in the original script."
+                },
+                {
+                    "question": "What year was 'The Wizard of Oz' released?",
+                    "options": [
+                        "1937",
+                        "1939",
+                        "1941",
+                        "1945"
+                    ],
+                    "answer": "1939",
+                    "fun_fact": "The film's iconic ruby slippers were actually silver in the original book."
+                },
+                {
+                    "question": "Who directed 'Psycho' (1960)?",
+                    "options": [
+                        "Alfred Hitchcock",
+                        "Stanley Kubrick",
+                        "Orson Welles",
+                        "Billy Wilder"
+                    ],
+                    "answer": "Alfred Hitchcock",
+                    "fun_fact": "Hitchcock bought all available copies of the novel to keep the ending secret."
+                },
+                {
+                    "question": "Which actor played Jack Dawson in 'Titanic'?",
+                    "options": [
+                        "Brad Pitt",
+                        "Leonardo DiCaprio",
+                        "Matt Damon",
+                        "Ben Affleck"
+                    ],
+                    "answer": "Leonardo DiCaprio",
+                    "fun_fact": "DiCaprio almost drowned during filming when his coat got caught on part of the set."
+                },
+                {
+                    "question": "What is the name of the hobbit played by Elijah Wood in 'The Lord of the Rings'?",
+                    "options": [
+                        "Samwise Gamgee",
+                        "Frodo Baggins",
+                        "Bilbo Baggins",
+                        "Peregrin Took"
+                    ],
+                    "answer": "Frodo Baggins",
+                    "fun_fact": "Elijah Wood's blue contact lenses were so uncomfortable he could only wear them for short periods."
+                },
+                {
+                    "question": "Which movie features the song 'My Heart Will Go On'?",
+                    "options": [
+                        "The Bodyguard",
+                        "Titanic",
+                        "Ghost",
+                        "Dirty Dancing"
+                    ],
+                    "answer": "Titanic",
+                    "fun_fact": "Celine Dion initially didn't want to record this song but was convinced by her husband."
+                },
+                {
+                    "question": "Who played the Joker in 'The Dark Knight' (2008)?",
+                    "options": [
+                        "Jared Leto",
+                        "Jack Nicholson",
+                        "Heath Ledger",
+                        "Joaquin Phoenix"
+                    ],
+                    "answer": "Heath Ledger",
+                    "fun_fact": "Ledger kept a diary in character as the Joker during preparation for the role."
+                },
+                {
+                    "question": "What type of animal is Dumbo?",
+                    "options": [
+                        "Elephant",
+                        "Hippopotamus",
+                        "Rhino",
+                        "Bear"
+                    ],
+                    "answer": "Elephant",
+                    "fun_fact": "Dumbo was originally intended to be a short film but was expanded into a feature."
+                },
+                {
+                    "question": "Which movie won the first Academy Award for Best Picture in 1929?",
+                    "options": [
+                        "Sunrise",
+                        "Wings",
+                        "The Jazz Singer",
+                        "Metropolis"
+                    ],
+                    "answer": "Wings",
+                    "fun_fact": "This silent war film featured groundbreaking aerial combat sequences."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which actor was originally cast as Harvey Dent in 'The Dark Knight' before being replaced by Aaron Eckhart?",
+                    "options": [
+                        "Matt Damon",
+                        "Hugh Jackman",
+                        "Tom Cruise",
+                        "Josh Hartnett"
+                    ],
+                    "answer": "Matt Damon",
+                    "fun_fact": "Damon turned down the role due to scheduling conflicts with the 'Bourne' series."
+                },
+                {
+                    "question": "In 'Pulp Fiction', what does Vincent Vega (John Travolta) call a Quarter Pounder with Cheese in France?",
+                    "options": [
+                        "Royale with Cheese",
+                        "French Burger",
+                        "Euro Burger",
+                        "Parisian Pounder"
+                    ],
+                    "answer": "Royale with Cheese",
+                    "fun_fact": "This dialogue was inspired by Quentin Tarantino's real-life observations in Europe."
+                },
+                {
+                    "question": "Which famous director made an uncredited cameo as the 'Hospital Visitor' in 'The Godfather'?",
+                    "options": [
+                        "Martin Scorsese",
+                        "Steven Spielberg",
+                        "Roman Polanski",
+                        "Francis Ford Coppola"
+                    ],
+                    "answer": "Roman Polanski",
+                    "fun_fact": "Polanski was friends with Coppola and had recently directed 'Rosemary's Baby'."
+                },
+                {
+                    "question": "What was the original ending of 'Pretty Woman' before it was changed to be more romantic?",
+                    "options": [
+                        "Vivian leaves Edward",
+                        "Edward dies",
+                        "They become business partners",
+                        "Vivian returns to prostitution"
+                    ],
+                    "answer": "Vivian leaves Edward",
+                    "fun_fact": "The original script was much darker and titled '$3,000' before being rewritten."
+                },
+                {
+                    "question": "Which actor ad-libbed the line 'I'm king of the world!' in 'Titanic'?",
+                    "options": [
+                        "Leonardo DiCaprio",
+                        "Billy Zane",
+                        "Kathy Bates",
+                        "Bill Paxton"
+                    ],
+                    "answer": "Leonardo DiCaprio",
+                    "fun_fact": "This line wasn't in the script and was inspired by DiCaprio's genuine feeling during filming."
+                },
+                {
+                    "question": "What was the first entirely computer-animated feature film?",
+                    "options": [
+                        "Toy Story",
+                        "Shrek",
+                        "A Bug's Life",
+                        "Antz"
+                    ],
+                    "answer": "Toy Story",
+                    "fun_fact": "Pixar spent four years developing the technology to make this groundbreaking film."
+                },
+                {
+                    "question": "Which famous actor was considered for the role of Hannibal Lecter before Anthony Hopkins?",
+                    "options": [
+                        "Dustin Hoffman",
+                        "Al Pacino",
+                        "Robert De Niro",
+                        "Sean Connery"
+                    ],
+                    "answer": "Sean Connery",
+                    "fun_fact": "Connery turned it down because he didn't understand the character and later regretted it."
+                },
+                {
+                    "question": "In 'The Shawshank Redemption', what was Andy Dufresne's profession before being imprisoned?",
+                    "options": [
+                        "Lawyer",
+                        "Banker",
+                        "Architect",
+                        "Accountant"
+                    ],
+                    "answer": "Banker",
+                    "fun_fact": "The film was a box office disappointment but became a classic through home video and TV."
+                },
+                {
+                    "question": "Which movie features the longest single shot in cinema history (lasting 11 minutes)?",
+                    "options": [
+                        "Children of Men",
+                        "Birdman",
+                        "1917",
+                        "Rope"
+                    ],
+                    "answer": "Children of Men",
+                    "fun_fact": "The car scene required a specially designed rig with seats that could fold down for camera movement."
+                },
+                {
+                    "question": "What was the first horror movie to be nominated for a Best Picture Oscar?",
+                    "options": [
+                        "The Exorcist",
+                        "Psycho",
+                        "Jaws",
+                        "Rosemary's Baby"
+                    ],
+                    "answer": "The Exorcist",
+                    "fun_fact": "It caused such extreme audience reactions that theaters had to provide vomit bags."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which famous actor was cut from the final edit of 'The Godfather'?",
+                    "options": [
+                        "Robert Duvall",
+                        "Al Pacino",
+                        "Marlon Brando",
+                        "Robert De Niro"
+                    ],
+                    "answer": "Robert De Niro",
+                    "fun_fact": "De Niro filmed scenes as Paulie Gatto but was cut; he later won an Oscar for Godfather Part II."
+                },
+                {
+                    "question": "What was the original title of 'Back to the Future'?",
+                    "options": [
+                        "Spaceman from Pluto",
+                        "The Time Travelers",
+                        "The Man from Tomorrow",
+                        "Time Machine"
+                    ],
+                    "answer": "Spaceman from Pluto",
+                    "fun_fact": "The title was changed after Steven Spielberg thought it sounded like a cheap B-movie."
+                },
+                {
+                    "question": "Which movie holds the record for most Oscars won without winning Best Picture?",
+                    "options": [
+                        "Cabaret",
+                        "The Lord of the Rings: The Return of the King",
+                        "Ben-Hur",
+                        "Titanic"
+                    ],
+                    "answer": "Cabaret",
+                    "fun_fact": "It won 8 Oscars but lost Best Picture to 'The Godfather' in 1973."
+                },
+                {
+                    "question": "What unusual material was used to create the Xenomorph's saliva in 'Alien'?",
+                    "options": [
+                        "Condensed milk",
+                        "Egg whites",
+                        "Liquid latex",
+                        "KY Jelly"
+                    ],
+                    "answer": "KY Jelly",
+                    "fun_fact": "The special effects team mixed it with yellow food coloring for the drool effect."
+                },
+                {
+                    "question": "Which famous line from 'Casablanca' was actually recycled from an earlier movie?",
+                    "options": [
+                        "Play it again, Sam",
+                        "Here's looking at you, kid",
+                        "Round up the usual suspects",
+                        "We'll always have Paris"
+                    ],
+                    "answer": "Here's looking at you, kid",
+                    "fun_fact": "Humphrey Bogart first said it to costar Mayo Methot in the 1938 film 'The Amazing Dr. Clitterhouse'."
+                },
+                {
+                    "question": "What was the first movie to use the Wilhelm scream sound effect?",
+                    "options": [
+                        "Distant Drums",
+                        "The Charge at Feather River",
+                        "Star Wars",
+                        "Indiana Jones and the Raiders of the Lost Ark"
+                    ],
+                    "answer": "Distant Drums",
+                    "fun_fact": "The scream was recorded in 1951 for a man being eaten by an alligator in this film."
+                },
+                {
+                    "question": "Which actor holds the record for most onscreen deaths in film history?",
+                    "options": [
+                        "Sean Bean",
+                        "Christopher Lee",
+                        "Danny Trejo",
+                        "Vincent Price"
+                    ],
+                    "answer": "Sean Bean",
+                    "fun_fact": "Bean has died on screen at least 25 times, often in violent or dramatic ways."
+                },
+                {
+                    "question": "What was the first R-rated movie to win the Best Picture Oscar?",
+                    "options": [
+                        "Midnight Cowboy",
+                        "The French Connection",
+                        "One Flew Over the Cuckoo's Nest",
+                        "The Godfather"
+                    ],
+                    "answer": "Midnight Cowboy",
+                    "fun_fact": "It's the only X-rated film to win Best Picture, though its rating was later changed to R."
+                },
+                {
+                    "question": "Which movie was the first to feature a post-credits scene?",
+                    "options": [
+                        "The Silencers",
+                        "The Muppet Movie",
+                        "Ferris Bueller's Day Off",
+                        "Airplane!"
+                    ],
+                    "answer": "The Silencers",
+                    "fun_fact": "This 1966 James Bond parody starring Dean Martin included a scene after the credits."
+                },
+                {
+                    "question": "What was the first movie to be digitally colorized?",
+                    "options": [
+                        "Citizen Kane",
+                        "Casablanca",
+                        "The Maltese Falcon",
+                        "Yankee Doodle Dandy"
+                    ],
+                    "answer": "Yankee Doodle Dandy",
+                    "fun_fact": "The 1986 colorization of this 1942 film sparked controversy about altering classic movies."
+                }
+            ]
+        }
+    },
+    "Marvel Cinematic Universe": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the name of Thor's hammer?",
+                    "options": [
+                        "Stormbreaker",
+                        "Mjolnir",
+                        "Thunderstrike",
+                        "Odin's Wrath"
+                    ],
+                    "answer": "Mjolnir",
+                    "fun_fact": "The prop was so heavy that Chris Hemsworth injured his wrist while training with it."
+                },
+                {
+                    "question": "Who plays Iron Man in the MCU?",
+                    "options": [
+                        "Robert Downey Jr.",
+                        "Chris Evans",
+                        "Mark Ruffalo",
+                        "Chris Hemsworth"
+                    ],
+                    "answer": "Robert Downey Jr.",
+                    "fun_fact": "Downey was considered a risky choice due to his past substance abuse issues."
+                },
+                {
+                    "question": "Which infinity stone is located in the Tesseract?",
+                    "options": [
+                        "Power Stone",
+                        "Space Stone",
+                        "Mind Stone",
+                        "Reality Stone"
+                    ],
+                    "answer": "Space Stone",
+                    "fun_fact": "The Tesseract was originally introduced in 'Captain America: The First Avenger'."
+                },
+                {
+                    "question": "What is Captain America's shield made of?",
+                    "options": [
+                        "Adamantium",
+                        "Carbonadium",
+                        "Vibranium",
+                        "Promethium"
+                    ],
+                    "answer": "Vibranium",
+                    "fun_fact": "The shield's design was inspired by a trash can lid in the original concept art."
+                },
+                {
+                    "question": "Who is the villain in 'Black Panther'?",
+                    "options": [
+                        "Killmonger",
+                        "Klaw",
+                        "M'Baku",
+                        "Zemo"
+                    ],
+                    "answer": "Killmonger",
+                    "fun_fact": "Michael B. Jordan's performance was partly inspired by Heath Ledger's Joker."
+                },
+                {
+                    "question": "Which actor plays Doctor Strange?",
+                    "options": [
+                        "Benedict Cumberbatch",
+                        "Tom Hiddleston",
+                        "Paul Bettany",
+                        "Chiwetel Ejiofor"
+                    ],
+                    "answer": "Benedict Cumberbatch",
+                    "fun_fact": "Cumberbatch was originally considered for the role of Malekith in 'Thor: The Dark World'."
+                },
+                {
+                    "question": "What is the name of the raccoon in 'Guardians of the Galaxy'?",
+                    "options": [
+                        "Rocket",
+                        "Groot",
+                        "Drax",
+                        "Star-Lord"
+                    ],
+                    "answer": "Rocket",
+                    "fun_fact": "Bradley Cooper based Rocket's voice on a combination of New York and Chicago accents."
+                },
+                {
+                    "question": "Where is Spider-Man from in the MCU?",
+                    "options": [
+                        "Brooklyn",
+                        "Manhattan",
+                        "Queens",
+                        "Bronx"
+                    ],
+                    "answer": "Queens",
+                    "fun_fact": "Tom Holland improvised the 'I don't feel so good' line in 'Infinity War'."
+                },
+                {
+                    "question": "Which Avenger can lift Thor's hammer?",
+                    "options": [
+                        "Iron Man",
+                        "Hulk",
+                        "Black Widow",
+                        "Captain America"
+                    ],
+                    "answer": "Captain America",
+                    "fun_fact": "Chris Evans didn't know he could lift it until the scene was filmed."
+                },
+                {
+                    "question": "Who directed 'Avengers: Endgame'?",
+                    "options": [
+                        "Joss Whedon",
+                        "Taika Waititi",
+                        "Russo Brothers",
+                        "James Gunn"
+                    ],
+                    "answer": "Russo Brothers",
+                    "fun_fact": "The film's runtime is exactly 181 minutes - one minute for each country it released in."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which actor was originally cast as Drax before Dave Bautista?",
+                    "options": [
+                        "Jason Momoa",
+                        "Dwayne Johnson",
+                        "Batista",
+                        "Terry Crews"
+                    ],
+                    "answer": "Jason Momoa",
+                    "fun_fact": "Momoa had to drop out because of scheduling conflicts with 'Game of Thrones'."
+                },
+                {
+                    "question": "What was the working title for 'Avengers: Infinity War'?",
+                    "options": [
+                        "Mary Lou",
+                        "Space Opera",
+                        "Infinity Gauntlet",
+                        "Thanos Rising"
+                    ],
+                    "answer": "Mary Lou",
+                    "fun_fact": "Marvel often uses female names as working titles to disguise their projects."
+                },
+                {
+                    "question": "Which MCU actor accidentally took home their costume?",
+                    "options": [
+                        "Tom Holland",
+                        "Chris Evans",
+                        "Scarlett Johansson",
+                        "Paul Rudd"
+                    ],
+                    "answer": "Paul Rudd",
+                    "fun_fact": "Rudd took home Ant-Man's helmet and used it as a fruit bowl for weeks before returning it."
+                },
+                {
+                    "question": "How many times did Tom Hiddleston audition for Loki?",
+                    "options": [
+                        "2",
+                        "5",
+                        "7",
+                        "9"
+                    ],
+                    "answer": "5",
+                    "fun_fact": "Hiddleston originally auditioned for Thor before being cast as Loki."
+                },
+                {
+                    "question": "Which Avenger was almost played by Joaquin Phoenix?",
+                    "options": [
+                        "Doctor Strange",
+                        "Hulk",
+                        "Vision",
+                        "Ant-Man"
+                    ],
+                    "answer": "Doctor Strange",
+                    "fun_fact": "Phoenix passed on the role due to concerns about multi-film commitments."
+                },
+                {
+                    "question": "What was the first MCU film to feature a post-credits scene?",
+                    "options": [
+                        "Iron Man",
+                        "The Incredible Hulk",
+                        "Thor",
+                        "Captain America: The First Avenger"
+                    ],
+                    "answer": "Iron Man",
+                    "fun_fact": "The scene with Nick Fury was added after principal photography had wrapped."
+                },
+                {
+                    "question": "Which real-life scientist appears in 'Iron Man 2'?",
+                    "options": [
+                        "Neil deGrasse Tyson",
+                        "Bill Nye",
+                        "Elon Musk",
+                        "Stephen Hawking"
+                    ],
+                    "answer": "Elon Musk",
+                    "fun_fact": "Musk appears as himself at the Stark Expo for about 3 seconds."
+                },
+                {
+                    "question": "What was the original ending of 'Thor: Ragnarok'?",
+                    "options": [
+                        "Thor dies",
+                        "Hela wins",
+                        "Asgard isn't destroyed",
+                        "Loki betrays Thor again"
+                    ],
+                    "answer": "Hela wins",
+                    "fun_fact": "Test audiences reacted poorly to the downer ending, prompting reshoots."
+                },
+                {
+                    "question": "Which actor improvised the 'I am Groot' line variations?",
+                    "options": [
+                        "Bradley Cooper",
+                        "Vin Diesel",
+                        "Dave Bautista",
+                        "Chris Pratt"
+                    ],
+                    "answer": "Vin Diesel",
+                    "fun_fact": "Diesel recorded the line over 1,000 times in different emotional inflections."
+                },
+                {
+                    "question": "What was the working title for 'Black Panther'?",
+                    "options": [
+                        "Panther Quest",
+                        "Motherland",
+                        "Wakanda Forever",
+                        "Blue Harvest"
+                    ],
+                    "answer": "Motherland",
+                    "fun_fact": "The title referenced both the African setting and the film's themes of heritage."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which character was originally supposed to die in 'The Avengers'?",
+                    "options": [
+                        "Hawkeye",
+                        "Black Widow",
+                        "Phil Coulson",
+                        "Nick Fury"
+                    ],
+                    "answer": "Hawkeye",
+                    "fun_fact": "Joss Whedon changed his mind after being impressed by Jeremy Renner's performance."
+                },
+                {
+                    "question": "What was the first MCU film to feature Stan Lee's cameo in post-production?",
+                    "options": [
+                        "Captain America: Civil War",
+                        "Guardians of the Galaxy Vol. 2",
+                        "Black Panther",
+                        "Spider-Man: Homecoming"
+                    ],
+                    "answer": "Captain America: Civil War",
+                    "fun_fact": "Lee's cameo as a FedEx driver was added digitally after principal photography."
+                },
+                {
+                    "question": "Which MCU film had the most post-credits scenes?",
+                    "options": [
+                        "Guardians of the Galaxy Vol. 2",
+                        "Ant-Man and the Wasp",
+                        "Avengers: Endgame",
+                        "Spider-Man: Far From Home"
+                    ],
+                    "answer": "Guardians of the Galaxy Vol. 2",
+                    "fun_fact": "It features five post-credits scenes, the most in any MCU film."
+                },
+                {
+                    "question": "What was the original plot for 'Iron Man 3'?",
+                    "options": [
+                        "Tony in space",
+                        "Tony vs. Hulk",
+                        "Extremis virus outbreak",
+                        "Mandarin as real terrorist"
+                    ],
+                    "answer": "Tony in space",
+                    "fun_fact": "The story was scrapped when 'Guardians of the Galaxy' was greenlit for space adventures."
+                },
+                {
+                    "question": "Which actor was considered to replace Edward Norton as Hulk before Mark Ruffalo?",
+                    "options": [
+                        "Joaquin Phoenix",
+                        "Ryan Gosling",
+                        "David Duchovny",
+                        "John Cusack"
+                    ],
+                    "answer": "Joaquin Phoenix",
+                    "fun_fact": "Phoenix was Marvel's first choice but turned it down for 'The Master' instead."
+                },
+                {
+                    "question": "What was the original title for 'Avengers: Age of Ultron'?",
+                    "options": [
+                        "Avengers: Ultron Unlimited",
+                        "Avengers: Rise of Ultron",
+                        "Avengers: Artificial Intelligence",
+                        "Avengers: The Ultron Program"
+                    ],
+                    "answer": "Avengers: The Ultron Program",
+                    "fun_fact": "The title was changed to better reflect the comic book storyline."
+                },
+                {
+                    "question": "Which MCU film had the most script pages?",
+                    "options": [
+                        "Avengers: Endgame",
+                        "Captain America: Civil War",
+                        "Avengers: Infinity War",
+                        "Guardians of the Galaxy Vol. 2"
+                    ],
+                    "answer": "Captain America: Civil War",
+                    "fun_fact": "The script reached 200 pages because it essentially combined two movies."
+                },
+                {
+                    "question": "What was the first MCU film to not feature Stan Lee?",
+                    "options": [
+                        "Black Widow",
+                        "Eternals",
+                        "Shang-Chi",
+                        "Avengers: Endgame"
+                    ],
+                    "answer": "Black Widow",
+                    "fun_fact": "Lee had already filmed cameos for future films before his death in 2018."
+                },
+                {
+                    "question": "Which character was almost cut from 'Guardians of the Galaxy'?",
+                    "options": [
+                        "Drax",
+                        "Gamora",
+                        "Rocket",
+                        "Groot"
+                    ],
+                    "answer": "Rocket",
+                    "fun_fact": "Executives worried a talking raccoon would be too silly for audiences."
+                },
+                {
+                    "question": "What was the original post-credits scene for 'Iron Man'?",
+                    "options": [
+                        "Nick Fury tease",
+                        "Captain America shield",
+                        "Hulk in bar",
+                        "Thor's hammer"
+                    ],
+                    "answer": "Captain America shield",
+                    "fun_fact": "The scene showed Tony finding Cap's shield in his workshop, setting up future films."
+                }
+            ]
+        }
+    },
+    "Disney Animated Films": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the name of Simba's father in 'The Lion King'?",
+                    "options": [
+                        "Scar",
+                        "Mufasa",
+                        "Timon",
+                        "Zazu"
+                    ],
+                    "answer": "Mufasa",
+                    "fun_fact": "James Earl Jones also voiced Darth Vader in Star Wars."
+                },
+                {
+                    "question": "Which Disney princess has a pet tiger named Rajah?",
+                    "options": [
+                        "Jasmine",
+                        "Mulan",
+                        "Pocahontas",
+                        "Moana"
+                    ],
+                    "answer": "Jasmine",
+                    "fun_fact": "Rajah was originally written as a lion but changed to avoid confusion with 'The Lion King'."
+                },
+                {
+                    "question": "What does 'Hakuna Matata' mean?",
+                    "options": [
+                        "Hello friend",
+                        "No worries",
+                        "Good luck",
+                        "Let's eat"
+                    ],
+                    "answer": "No worries",
+                    "fun_fact": "The phrase is Swahili and became so popular it was added to the Oxford English Dictionary."
+                },
+                {
+                    "question": "Who is the villain in 'The Little Mermaid'?",
+                    "options": [
+                        "Ursula",
+                        "Maleficent",
+                        "Jafar",
+                        "Cruella"
+                    ],
+                    "answer": "Ursula",
+                    "fun_fact": "Ursula was inspired by drag performer Divine and originally intended to be Poseidon's sister."
+                },
+                {
+                    "question": "What kind of animal is Thumper in 'Bambi'?",
+                    "options": [
+                        "Rabbit",
+                        "Deer",
+                        "Squirrel",
+                        "Chipmunk"
+                    ],
+                    "answer": "Rabbit",
+                    "fun_fact": "Thumper's line 'If you can't say something nice, don't say nothing at all' became a famous catchphrase."
+                },
+                {
+                    "question": "Which Disney film features the song 'Let It Go'?",
+                    "options": [
+                        "Tangled",
+                        "Frozen",
+                        "Moana",
+                        "Brave"
+                    ],
+                    "answer": "Frozen",
+                    "fun_fact": "Idina Menzel recorded the song in just two takes."
+                },
+                {
+                    "question": "What is the name of the fairy in 'Peter Pan'?",
+                    "options": [
+                        "Silvermist",
+                        "Tinker Bell",
+                        "Rosetta",
+                        "Vidia"
+                    ],
+                    "answer": "Tinker Bell",
+                    "fun_fact": "Tinker Bell's animation was modeled after Marilyn Monroe's movements."
+                },
+                {
+                    "question": "Which Disney film is set in the fictional kingdom of Corona?",
+                    "options": [
+                        "Frozen",
+                        "Tangled",
+                        "Snow White",
+                        "Cinderella"
+                    ],
+                    "answer": "Tangled",
+                    "fun_fact": "Corona means 'crown' in Latin, referencing Rapunzel's royal heritage."
+                },
+                {
+                    "question": "What is the name of Woody's owner in 'Toy Story'?",
+                    "options": [
+                        "Andy",
+                        "Billy",
+                        "Timmy",
+                        "Sid"
+                    ],
+                    "answer": "Andy",
+                    "fun_fact": "Andy's full name is Andrew 'Andy' Davis, revealed in production notes."
+                },
+                {
+                    "question": "Which Disney character lives in a lighthouse?",
+                    "options": [
+                        "Ariel",
+                        "Moana",
+                        "Merida",
+                        "Pocahontas"
+                    ],
+                    "answer": "Moana",
+                    "fun_fact": "The lighthouse was added to symbolize Moana's connection between land and sea."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which Disney film was originally titled 'Kingdom of the Sun'?",
+                    "options": [
+                        "The Emperor's New Groove",
+                        "The Road to El Dorado",
+                        "The Prince of Egypt",
+                        "Hercules"
+                    ],
+                    "answer": "The Emperor's New Groove",
+                    "fun_fact": "The film underwent massive changes, going from a musical epic to a comedy."
+                },
+                {
+                    "question": "What was the first Disney film to use computer animation?",
+                    "options": [
+                        "Toy Story",
+                        "The Black Cauldron",
+                        "The Great Mouse Detective",
+                        "Beauty and the Beast"
+                    ],
+                    "answer": "The Great Mouse Detective",
+                    "fun_fact": "The clock tower climax featured early CGI techniques."
+                },
+                {
+                    "question": "Which Disney song was the first to win an Oscar?",
+                    "options": [
+                        "When You Wish Upon a Star",
+                        "Bibbidi-Bobbidi-Boo",
+                        "Zip-a-Dee-Doo-Dah",
+                        "Heigh-Ho"
+                    ],
+                    "answer": "When You Wish Upon a Star",
+                    "fun_fact": "From 'Pinocchio' in 1940, it became Disney's signature song."
+                },
+                {
+                    "question": "What was Walt Disney's favorite animated film?",
+                    "options": [
+                        "Snow White",
+                        "Bambi",
+                        "Dumbo",
+                        "Fantasia"
+                    ],
+                    "answer": "Bambi",
+                    "fun_fact": "Disney considered it his studio's best work in terms of artistic achievement."
+                },
+                {
+                    "question": "Which Disney princess was originally supposed to speak in rhyme?",
+                    "options": [
+                        "Ariel",
+                        "Belle",
+                        "Cinderella",
+                        "Snow White"
+                    ],
+                    "answer": "Belle",
+                    "fun_fact": "The idea was dropped when it became too difficult to maintain throughout the film."
+                },
+                {
+                    "question": "What was the first Disney film to feature a fully instrumental main character?",
+                    "options": [
+                        "Dumbo",
+                        "Fantasia",
+                        "The Lion King",
+                        "The Little Mermaid"
+                    ],
+                    "answer": "Dumbo",
+                    "fun_fact": "Dumbo never speaks in the entire film."
+                },
+                {
+                    "question": "Which Disney film features the song 'Baby Mine'?",
+                    "options": [
+                        "Bambi",
+                        "Dumbo",
+                        "Lady and the Tramp",
+                        "The Jungle Book"
+                    ],
+                    "answer": "Dumbo",
+                    "fun_fact": "The song was ranked No. 21 on the American Film Institute's list of greatest film songs."
+                },
+                {
+                    "question": "What was the first Disney animated film to feature a celebrity voice actor?",
+                    "options": [
+                        "Aladdin",
+                        "The Jungle Book",
+                        "Robin Hood",
+                        "101 Dalmatians"
+                    ],
+                    "answer": "The Jungle Book",
+                    "fun_fact": "Phil Harris (Baloo) was a famous bandleader and radio personality."
+                },
+                {
+                    "question": "Which Disney film was based on a story by Hans Christian Andersen?",
+                    "options": [
+                        "The Little Mermaid",
+                        "Cinderella",
+                        "Sleeping Beauty",
+                        "Snow White"
+                    ],
+                    "answer": "The Little Mermaid",
+                    "fun_fact": "The original story has a much darker ending where the mermaid dies."
+                },
+                {
+                    "question": "What was the first Disney film to use the widescreen CinemaScope process?",
+                    "options": [
+                        "Lady and the Tramp",
+                        "Sleeping Beauty",
+                        "Peter Pan",
+                        "Cinderella"
+                    ],
+                    "answer": "Lady and the Tramp",
+                    "fun_fact": "The famous spaghetti scene was specifically designed to showcase the wide format."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which Disney film was originally going to have a completely different ending where the villain won?",
+                    "options": [
+                        "The Little Mermaid",
+                        "Beauty and the Beast",
+                        "The Lion King",
+                        "Aladdin"
+                    ],
+                    "answer": "The Little Mermaid",
+                    "fun_fact": "Early drafts had Ariel dying and becoming sea foam like in the original fairy tale."
+                },
+                {
+                    "question": "What was the original name for 'Frozen' during development?",
+                    "options": [
+                        "Snow Queen",
+                        "Ice Princess",
+                        "Winter's Spell",
+                        "Anna and Elsa"
+                    ],
+                    "answer": "Snow Queen",
+                    "fun_fact": "The project was in development hell for nearly 70 years before being made."
+                },
+                {
+                    "question": "Which Disney film features hidden images of topless women in the artwork?",
+                    "options": [
+                        "The Rescuers",
+                        "The Little Mermaid",
+                        "Aladdin",
+                        "The Lion King"
+                    ],
+                    "answer": "The Rescuers",
+                    "fun_fact": "A frame showing a topless woman was discovered in the 1999 home video release."
+                },
+                {
+                    "question": "What was the first Disney animated film to show a toilet?",
+                    "options": [
+                        "Lady and the Tramp",
+                        "101 Dalmatians",
+                        "The Sword in the Stone",
+                        "The Jungle Book"
+                    ],
+                    "answer": "The Sword in the Stone",
+                    "fun_fact": "The scene where Merlin packs his toilet caused controversy at the time."
+                },
+                {
+                    "question": "Which Disney character was originally supposed to be blonde?",
+                    "options": [
+                        "Ariel",
+                        "Belle",
+                        "Cinderella",
+                        "Jasmine"
+                    ],
+                    "answer": "Ariel",
+                    "fun_fact": "Her hair was changed to red to stand out better underwater."
+                },
+                {
+                    "question": "What was the first Disney film to use digital ink and paint?",
+                    "options": [
+                        "The Little Mermaid",
+                        "Beauty and the Beast",
+                        "The Rescuers Down Under",
+                        "Aladdin"
+                    ],
+                    "answer": "The Rescuers Down Under",
+                    "fun_fact": "This technology replaced the traditional hand-inking process."
+                },
+                {
+                    "question": "Which Disney film features a hidden tribute to a deceased animator?",
+                    "options": [
+                        "The Lion King",
+                        "Beauty and the Beast",
+                        "Aladdin",
+                        "Mulan"
+                    ],
+                    "answer": "The Lion King",
+                    "fun_fact": "The clouds form the letters 'SFX' in one scene, honoring special effects animator Scott F. Hall."
+                },
+                {
+                    "question": "What was the first Disney animated film to feature a black princess?",
+                    "options": [
+                        "The Princess and the Frog",
+                        "Pocahontas",
+                        "Moana",
+                        "Mulan"
+                    ],
+                    "answer": "The Princess and the Frog",
+                    "fun_fact": "Tiana was originally named Maddy and worked as a chambermaid before protests led to changes."
+                },
+                {
+                    "question": "Which Disney film was banned in Finland?",
+                    "options": [
+                        "Bambi",
+                        "Fantasia",
+                        "Pinocchio",
+                        "The Three Caballeros"
+                    ],
+                    "answer": "Bambi",
+                    "fun_fact": "It was banned because hunting organizations objected to its portrayal of hunters."
+                },
+                {
+                    "question": "What was the first Disney animated film to be rated PG?",
+                    "options": [
+                        "The Black Cauldron",
+                        "The Hunchback of Notre Dame",
+                        "Tarzan",
+                        "Atlantis: The Lost Empire"
+                    ],
+                    "answer": "The Black Cauldron",
+                    "fun_fact": "Its dark themes and violent content led to the first PG rating for a Disney animated feature."
+                }
+            ]
+        }
+    },
+    "Harry Potter Films": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the name of Harry's owl?",
+                    "options": [
+                        "Hedwig",
+                        "Errol",
+                        "Pigwidgeon",
+                        "Crookshanks"
+                    ],
+                    "answer": "Hedwig",
+                    "fun_fact": "Hedwig is named after a 10th century saint and was played by male owls in the films."
+                },
+                {
+                    "question": "Which actor plays Harry Potter?",
+                    "options": [
+                        "Daniel Radcliffe",
+                        "Rupert Grint",
+                        "Tom Felton",
+                        "Matthew Lewis"
+                    ],
+                    "answer": "Daniel Radcliffe",
+                    "fun_fact": "Radcliffe wore out 60-70 pairs of glasses throughout the film series."
+                },
+                {
+                    "question": "What position does Harry play in Quidditch?",
+                    "options": [
+                        "Seeker",
+                        "Chaser",
+                        "Beater",
+                        "Keeper"
+                    ],
+                    "answer": "Seeker",
+                    "fun_fact": "Harry's first broomstick was a Nimbus 2000, replaced by a Firebolt in the third film."
+                },
+                {
+                    "question": "What is the name of the Weasley family's house?",
+                    "options": [
+                        "The Burrow",
+                        "Shell Cottage",
+                        "Number 12 Grimmauld Place",
+                        "Hogwarts"
+                    ],
+                    "answer": "The Burrow",
+                    "fun_fact": "The set was built at an angle to appear more magical and unstable."
+                },
+                {
+                    "question": "Who is the headmaster of Hogwarts in the first film?",
+                    "options": [
+                        "Albus Dumbledore",
+                        "Severus Snape",
+                        "Minerva McGonagall",
+                        "Dolores Umbridge"
+                    ],
+                    "answer": "Albus Dumbledore",
+                    "fun_fact": "Richard Harris played Dumbledore in the first two films before passing away."
+                },
+                {
+                    "question": "What creature is Aragog?",
+                    "options": [
+                        "Dragon",
+                        "Spider",
+                        "Werewolf",
+                        "Basilisk"
+                    ],
+                    "answer": "Spider",
+                    "fun_fact": "The giant spider was based on a tarantula and voiced by Julian Glover."
+                },
+                {
+                    "question": "Which house is Harry sorted into?",
+                    "options": [
+                        "Gryffindor",
+                        "Slytherin",
+                        "Hufflepuff",
+                        "Ravenclaw"
+                    ],
+                    "answer": "Gryffindor",
+                    "fun_fact": "The Sorting Hat considered putting Harry in Slytherin before he asked not to be."
+                },
+                {
+                    "question": "What is the name of the wizarding prison?",
+                    "options": [
+                        "Hogsmeade",
+                        "Diagon Alley",
+                        "Azkaban",
+                        "Nurmengard"
+                    ],
+                    "answer": "Azkaban",
+                    "fun_fact": "Azkaban was inspired by the Alcatraz prison and the word 'Abaddon' meaning hell."
+                },
+                {
+                    "question": "Who plays Hermione Granger?",
+                    "options": [
+                        "Emma Thompson",
+                        "Emma Roberts",
+                        "Emma Watson",
+                        "Bonnie Wright"
+                    ],
+                    "answer": "Emma Watson",
+                    "fun_fact": "Watson almost quit after the second film but was convinced to stay by producer David Heyman."
+                },
+                {
+                    "question": "What is the core of Harry's wand?",
+                    "options": [
+                        "Phoenix feather",
+                        "Unicorn hair",
+                        "Dragon heartstring",
+                        "Veela hair"
+                    ],
+                    "answer": "Phoenix feather",
+                    "fun_fact": "The feather came from Fawkes, Dumbledore's phoenix, making Harry and Voldemort's wands 'brothers'."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which character was originally supposed to die in 'Harry Potter and the Philosopher's Stone'?",
+                    "options": [
+                        "Hagrid",
+                        "Ron",
+                        "Hermione",
+                        "Neville"
+                    ],
+                    "answer": "Hagrid",
+                    "fun_fact": "J.K. Rowling changed her mind because she wanted Hagrid to carry Harry's 'dead' body in the final book."
+                },
+                {
+                    "question": "What was the working title for 'Harry Potter and the Deathly Hallows - Part 2'?",
+                    "options": [
+                        "The End",
+                        "The Final Chapter",
+                        "The Last Battle",
+                        "The Deathly Hallows"
+                    ],
+                    "answer": "The End",
+                    "fun_fact": "The simple title reflected the definitive conclusion to the series."
+                },
+                {
+                    "question": "Which actor improvised the 'I didn't know you could read' line to Draco Malfoy?",
+                    "options": [
+                        "Daniel Radcliffe",
+                        "Rupert Grint",
+                        "Tom Felton",
+                        "Jason Isaacs"
+                    ],
+                    "answer": "Jason Isaacs",
+                    "fun_fact": "Isaacs (Lucius Malfoy) ad-libbed this insult to his on-screen son during filming."
+                },
+                {
+                    "question": "What was the first scene filmed for the entire series?",
+                    "options": [
+                        "Harry getting his letter",
+                        "The sorting ceremony",
+                        "The Great Hall feast",
+                        "The chess game"
+                    ],
+                    "answer": "The Great Hall feast",
+                    "fun_fact": "This scene from the first film was shot in October 2000 at Leavesden Studios."
+                },
+                {
+                    "question": "Which magical creature was entirely CGI except for its eyes?",
+                    "options": [
+                        "Buckbeak",
+                        "Dobby",
+                        "Fawkes",
+                        "Norbert"
+                    ],
+                    "answer": "Dobby",
+                    "fun_fact": "The house-elf's eyes were based on a real housekeeper's eyes who worked at Leavesden Studios."
+                },
+                {
+                    "question": "Which actor wore the most prosthetics in the series?",
+                    "options": [
+                        "Ralph Fiennes",
+                        "Gary Oldman",
+                        "Brendan Gleeson",
+                        "David Bradley"
+                    ],
+                    "answer": "Brendan Gleeson",
+                    "fun_fact": "Mad-Eye Moody's prosthetic eye and nose took 3 hours to apply each day."
+                },
+                {
+                    "question": "What was the last scene filmed for the entire series?",
+                    "options": [
+                        "The epilogue",
+                        "Voldemort's death",
+                        "The Battle of Hogwarts",
+                        "The resurrection stone scene"
+                    ],
+                    "answer": "The epilogue",
+                    "fun_fact": "Filmed in December 2010, it featured the main trio aged 19 years after first being cast."
+                },
+                {
+                    "question": "Which character's wand accidentally broke during filming and was kept in the movie?",
+                    "options": [
+                        "Harry",
+                        "Ron",
+                        "Hermione",
+                        "Neville"
+                    ],
+                    "answer": "Ron",
+                    "fun_fact": "In 'Deathly Hallows Part 1', Ron's wand actually snapped during the chase scene and they kept it."
+                },
+                {
+                    "question": "What was the most expensive prop in the entire series?",
+                    "options": [
+                        "The Golden Snitch",
+                        "The Marauder's Map",
+                        "The Sorting Hat",
+                        "Hagrid's motorcycle"
+                    ],
+                    "answer": "Hagrid's motorcycle",
+                    "fun_fact": "The custom-built bike cost over £250,000 to create for the films."
+                },
+                {
+                    "question": "Which actor was originally considered for Snape before Alan Rickman?",
+                    "options": [
+                        "Tim Roth",
+                        "Jeremy Irons",
+                        "Liam Neeson",
+                        "Hugh Laurie"
+                    ],
+                    "answer": "Tim Roth",
+                    "fun_fact": "Roth turned down the role to appear in 'Planet of the Apes' (2001)."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which scene required the most takes in the entire series?",
+                    "options": [
+                        "Harry and Hermione's dance",
+                        "The first flying lesson",
+                        "Snape's death",
+                        "The kissing scene"
+                    ],
+                    "answer": "Harry and Hermione's dance",
+                    "fun_fact": "The emotional dance in 'Deathly Hallows Part 1' took over 30 takes to get right."
+                },
+                {
+                    "question": "What was the original ending for 'Prisoner of Azkaban' before reshoots?",
+                    "options": [
+                        "Harry stays with Sirius",
+                        "Sirius dies",
+                        "Peter Pettigrew escapes",
+                        "Dementors kiss Harry"
+                    ],
+                    "answer": "Harry stays with Sirius",
+                    "fun_fact": "Test audiences reacted poorly to Harry not returning to the Dursleys, forcing changes."
+                },
+                {
+                    "question": "Which actor accidentally cursed during filming and had it kept in the final cut?",
+                    "options": [
+                        "Daniel Radcliffe",
+                        "Emma Watson",
+                        "Rupert Grint",
+                        "Tom Felton"
+                    ],
+                    "answer": "Rupert Grint",
+                    "fun_fact": "In 'Prisoner of Azkaban', Ron's line 'He's mental' was originally 'He's bloody mental' but Grint slipped and said 'fucking'."
+                },
+                {
+                    "question": "What was the first magical spell cast in the films?",
+                    "options": [
+                        "Wingardium Leviosa",
+                        "Lumos",
+                        "Alohomora",
+                        "Expelliarmus"
+                    ],
+                    "answer": "Lumos",
+                    "fun_fact": "Hagrid uses it to light his umbrella when first meeting Harry in 'Philosopher's Stone'."
+                },
+                {
+                    "question": "Which book scene was filmed but cut from all movies?",
+                    "options": [
+                        "Peeves the Poltergeist",
+                        "The Quidditch World Cup",
+                        "Dumbledore's funeral",
+                        "The Deathday Party"
+                    ],
+                    "answer": "Peeves the Poltergeist",
+                    "fun_fact": "Rik Mayall was cast and filmed scenes as Peeves but they were cut from the first film."
+                },
+                {
+                    "question": "Which actor broke their wrist during filming but kept it secret?",
+                    "options": [
+                        "Daniel Radcliffe",
+                        "Emma Watson",
+                        "Rupert Grint",
+                        "Tom Felton"
+                    ],
+                    "answer": "Daniel Radcliffe",
+                    "fun_fact": "Radcliffe broke his wrist falling off a broom during 'Order of the Phoenix' but finished filming."
+                },
+                {
+                    "question": "What was the most expensive single shot in the series?",
+                    "options": [
+                        "Hogwarts reveal",
+                        "Quidditch World Cup",
+                        "Gringotts break-in",
+                        "Battle of Hogwarts"
+                    ],
+                    "answer": "Hogwarts reveal",
+                    "fun_fact": "The first reveal of Hogwarts in 'Philosopher's Stone' cost over £1 million for the CGI."
+                },
+                {
+                    "question": "Which magical creature was originally supposed to appear in every film?",
+                    "options": [
+                        "Fawkes",
+                        "Buckbeak",
+                        "Dobby",
+                        "Crookshanks"
+                    ],
+                    "answer": "Dobby",
+                    "fun_fact": "Plans changed when test audiences reacted poorly to Dobby's appearance in 'Chamber of Secrets'."
+                },
+                {
+                    "question": "What was the last line recorded for the entire film series?",
+                    "options": [
+                        "All was well",
+                        "I'm going to keep going until I find him",
+                        "Mischief managed",
+                        "Always"
+                    ],
+                    "answer": "All was well",
+                    "fun_fact": "Daniel Radcliffe recorded this final narration line months after principal photography ended."
+                },
+                {
+                    "question": "Which actor was almost recast after the second film?",
+                    "options": [
+                        "Daniel Radcliffe",
+                        "Emma Watson",
+                        "Rupert Grint",
+                        "Tom Felton"
+                    ],
+                    "answer": "Daniel Radcliffe",
+                    "fun_fact": "Producers considered replacing Radcliffe after 'Chamber of Secrets' due to growth spurts but kept him."
+                }
+            ]
+        }
+    },
+    "Star Wars Saga": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who played Luke Skywalker in the original trilogy?",
+                    "options": [
+                        "Harrison Ford",
+                        "Mark Hamill",
+                        "Carrie Fisher",
+                        "Ewan McGregor"
+                    ],
+                    "answer": "Mark Hamill",
+                    "fun_fact": "Hamill was in a car accident between 'A New Hope' and 'Empire Strikes Back' that required facial reconstruction."
+                },
+                {
+                    "question": "What is the name of Han Solo's ship?",
+                    "options": [
+                        "Millennium Falcon",
+                        "Slave I",
+                        "Tantive IV",
+                        "X-wing"
+                    ],
+                    "answer": "Millennium Falcon",
+                    "fun_fact": "The ship's design was inspired by a hamburger with an olive next to it."
+                },
+                {
+                    "question": "Which character famously says 'I am your father'?",
+                    "options": [
+                        "Obi-Wan Kenobi",
+                        "Darth Vader",
+                        "Emperor Palpatine",
+                        "Count Dooku"
+                    ],
+                    "answer": "Darth Vader",
+                    "fun_fact": "The line was kept secret from most cast members and changed from the script's 'Obi-Wan killed your father'."
+                },
+                {
+                    "question": "What species is Chewbacca?",
+                    "options": [
+                        "Ewok",
+                        "Wookiee",
+                        "Jawa",
+                        "Tusken Raider"
+                    ],
+                    "answer": "Wookiee",
+                    "fun_fact": "Chewbacca's voice was created from recordings of bears, walruses, lions, and badgers."
+                },
+                {
+                    "question": "Which planet is Anakin Skywalker from?",
+                    "options": [
+                        "Tatooine",
+                        "Coruscant",
+                        "Naboo",
+                        "Kamino"
+                    ],
+                    "answer": "Tatooine",
+                    "fun_fact": "The name comes from Tataouine, a real town in Tunisia where scenes were filmed."
+                },
+                {
+                    "question": "Who trained Obi-Wan Kenobi?",
+                    "options": [
+                        "Yoda",
+                        "Qui-Gon Jinn",
+                        "Mace Windu",
+                        "Count Dooku"
+                    ],
+                    "answer": "Qui-Gon Jinn",
+                    "fun_fact": "Liam Neeson only agreed to the role if his lightsaber could be green instead of the usual blue."
+                },
+                {
+                    "question": "What color is Mace Windu's lightsaber?",
+                    "options": [
+                        "Blue",
+                        "Green",
+                        "Purple",
+                        "Red"
+                    ],
+                    "answer": "Purple",
+                    "fun_fact": "Samuel L. Jackson requested purple so he could spot himself in large battle scenes."
+                },
+                {
+                    "question": "Which actor plays Princess Leia?",
+                    "options": [
+                        "Carrie Fisher",
+                        "Daisy Ridley",
+                        "Natalie Portman",
+                        "Felicity Jones"
+                    ],
+                    "answer": "Carrie Fisher",
+                    "fun_fact": "Fisher improvised the iconic 'You're a little short for a Stormtrooper' line."
+                },
+                {
+                    "question": "What are the clone troopers grown from?",
+                    "options": [
+                        "Darth Vader's DNA",
+                        "Yoda's DNA",
+                        "Jango Fett's DNA",
+                        "Obi-Wan's DNA"
+                    ],
+                    "answer": "Jango Fett's DNA",
+                    "fun_fact": "Temuera Morrison played both Jango Fett and all the clone troopers through voice and motion capture."
+                },
+                {
+                    "question": "Who kills Jabba the Hutt?",
+                    "options": [
+                        "Luke Skywalker",
+                        "Han Solo",
+                        "Princess Leia",
+                        "Boba Fett"
+                    ],
+                    "answer": "Princess Leia",
+                    "fun_fact": "The chain Leia uses was real and Carrie Fisher nearly choked Fisher during filming."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which famous director was originally considered to direct 'The Empire Strikes Back'?",
+                    "options": [
+                        "Steven Spielberg",
+                        "Francis Ford Coppola",
+                        "George Lucas",
+                        "Irvin Kershner"
+                    ],
+                    "answer": "Steven Spielberg",
+                    "fun_fact": "Spielberg couldn't direct due to contractual issues with his film '1941'."
+                },
+                {
+                    "question": "What was the working title for 'Return of the Jedi'?",
+                    "options": [
+                        "Revenge of the Jedi",
+                        "Blue Harvest",
+                        "Shadow of the Empire",
+                        "The Last Jedi"
+                    ],
+                    "answer": "Revenge of the Jedi",
+                    "fun_fact": "Changed because Lucas decided Jedi wouldn't seek revenge."
+                },
+                {
+                    "question": "Which actor was originally cast as Han Solo before Harrison Ford?",
+                    "options": [
+                        "Al Pacino",
+                        "Christopher Walken",
+                        "Kurt Russell",
+                        "Nick Nolte"
+                    ],
+                    "answer": "Christopher Walken",
+                    "fun_fact": "Walken turned it down because he didn't understand the character."
+                },
+                {
+                    "question": "What was the first line recorded for the original Star Wars film?",
+                    "options": [
+                        "Help me Obi-Wan",
+                        "I have a bad feeling about this",
+                        "A long time ago",
+                        "Did you hear that?"
+                    ],
+                    "answer": "I have a bad feeling about this",
+                    "fun_fact": "Recorded by Mark Hamill on March 7, 1976, during initial sound tests."
+                },
+                {
+                    "question": "Which famous sci-fi author helped edit the original Star Wars script?",
+                    "options": [
+                        "Isaac Asimov",
+                        "Arthur C. Clarke",
+                        "Ray Bradbury",
+                        "Alan Dean Foster"
+                    ],
+                    "answer": "Alan Dean Foster",
+                    "fun_fact": "Foster ghostwrote the novelization and suggested key changes to the story structure."
+                },
+                {
+                    "question": "What was the original name for Yoda?",
+                    "options": [
+                        "Minch",
+                        "Buffy",
+                        "Bendu",
+                        "Zarcon"
+                    ],
+                    "answer": "Buffy",
+                    "fun_fact": "Early concept art lists the character as 'Buffy the Jedi' before becoming Yoda."
+                },
+                {
+                    "question": "Which actor improvised shooting Greedo first in the cantina scene?",
+                    "options": [
+                        "Harrison Ford",
+                        "Mark Hamill",
+                        "George Lucas",
+                        "Irvin Kershner"
+                    ],
+                    "answer": "Harrison Ford",
+                    "fun_fact": "Ford thought Han should shoot first to establish his ruthless nature."
+                },
+                {
+                    "question": "What was the first scene filmed for 'A New Hope'?",
+                    "options": [
+                        "Cantina scene",
+                        "Death Star trench",
+                        "Droid sale on Tatooine",
+                        "Leia's capture"
+                    ],
+                    "answer": "Droid sale on Tatooine",
+                    "fun_fact": "Filmed in Tunisia on March 22, 1976, with many technical difficulties."
+                },
+                {
+                    "question": "Which character was originally supposed to survive 'Return of the Jedi'?",
+                    "options": [
+                        "Boba Fett",
+                        "The Emperor",
+                        "Yoda",
+                        "Darth Vader"
+                    ],
+                    "answer": "Boba Fett",
+                    "fun_fact": "Early scripts had Fett escaping the Sarlacc pit and returning in later stories."
+                },
+                {
+                    "question": "What was the first Star Wars toy released?",
+                    "options": [
+                        "Luke Skywalker action figure",
+                        "Millennium Falcon playset",
+                        "X-wing toy",
+                        "Star Wars trading cards"
+                    ],
+                    "answer": "Star Wars trading cards",
+                    "fun_fact": "Released by Topps in April 1977, a month before the film premiered."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which famous composer was originally considered to score Star Wars before John Williams?",
+                    "options": [
+                        "Jerry Goldsmith",
+                        "Hans Zimmer",
+                        "Ennio Morricone",
+                        "John Barry"
+                    ],
+                    "answer": "John Barry",
+                    "fun_fact": "Barry turned it down due to scheduling conflicts with 'The Deep'."
+                },
+                {
+                    "question": "What was the original number of Jedi Masters in the prequels before being reduced to 12?",
+                    "options": [
+                        "100",
+                        "200",
+                        "500",
+                        "1000"
+                    ],
+                    "answer": "1000",
+                    "fun_fact": "Lucas reduced the number to make the Jedi seem more elite and special."
+                },
+                {
+                    "question": "Which actor was originally cast as Mace Windu before Samuel L. Jackson?",
+                    "options": [
+                        "Morgan Freeman",
+                        "Denzel Washington",
+                        "Laurence Fishburne",
+                        "Wesley Snipes"
+                    ],
+                    "answer": "Morgan Freeman",
+                    "fun_fact": "Freeman turned it down because he didn't want to do action scenes."
+                },
+                {
+                    "question": "What was the original ending for 'The Empire Strikes Back'?",
+                    "options": [
+                        "Luke joins Vader",
+                        "Han dies",
+                        "Leia becomes a Jedi",
+                        "Lando betrays them"
+                    ],
+                    "answer": "Luke joins Vader",
+                    "fun_fact": "Early drafts had Luke turning to the dark side and becoming Vader's apprentice."
+                },
+                {
+                    "question": "Which famous artist designed Darth Vader's helmet?",
+                    "options": [
+                        "Ralph McQuarrie",
+                        "Syd Mead",
+                        "H.R. Giger",
+                        "Moebius"
+                    ],
+                    "answer": "Ralph McQuarrie",
+                    "fun_fact": "The design was inspired by samurai helmets and Nazi military headgear."
+                },
+                {
+                    "question": "What was the first digital effect in the original Star Wars film?",
+                    "options": [
+                        "Lightsabers",
+                        "Death Star plans",
+                        "X-wings attacking",
+                        "TIE fighters"
+                    ],
+                    "answer": "Death Star plans",
+                    "fun_fact": "The 3D wireframe animation of the Death Star was groundbreaking for 1977."
+                },
+                {
+                    "question": "Which planet was originally supposed to appear in 'Return of the Jedi' instead of Endor?",
+                    "options": [
+                        "Kashyyyk",
+                        "Dagobah",
+                        "Coruscant",
+                        "Kamino"
+                    ],
+                    "answer": "Kashyyyk",
+                    "fun_fact": "Changed because Lucas wanted to introduce a new environment instead of revisiting Chewbacca's homeworld."
+                },
+                {
+                    "question": "What was the original name for the Force before becoming 'the Force'?",
+                    "options": [
+                        "The Power",
+                        "The Ashla",
+                        "The Energy",
+                        "The Way"
+                    ],
+                    "answer": "The Ashla",
+                    "fun_fact": "From early drafts where it was more explicitly a religious concept."
+                },
+                {
+                    "question": "Which famous actor was considered to play Obi-Wan in the prequels before Ewan McGregor?",
+                    "options": [
+                        "Liam Neeson",
+                        "Sean Connery",
+                        "Patrick Stewart",
+                        "Daniel Day-Lewis"
+                    ],
+                    "answer": "Sean Connery",
+                    "fun_fact": "Connery turned it down because he didn't understand the script."
+                },
+                {
+                    "question": "What was the first scene George Lucas imagined for Star Wars?",
+                    "options": [
+                        "Lightsaber duel",
+                        "Death Star trench run",
+                        "Droids in desert",
+                        "Cantina scene"
+                    ],
+                    "answer": "Droids in desert",
+                    "fun_fact": "This became the opening scene with R2-D2 and C-3PO on Tatooine."
+                }
+            ]
+        }
+    }
+}

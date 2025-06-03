@@ -1,7 +1,7 @@
 {
     "Photosynthesis": {
         "levels": {
-            "easy": [
+            "Easy": [
                 {
                     "question": "What is the main purpose of photosynthesis?",
                     "options": [
@@ -113,7 +113,7 @@
                     "fun_fact": "No photosynthesis = no food for plants AND no oxygen for us!"
                 }
             ],
-            "medium": [
+            "Medium": [
                 {
                     "question": "What are the two main stages of photosynthesis?",
                     "options": [
@@ -225,7 +225,7 @@
                     "fun_fact": "Plants reflect green light, which is why they appear green to us!"
                 }
             ],
-            "hard": [
+            "Hard": [
                 {
                     "question": "What is the name of the enzyme that fixes CO2 in the Calvin cycle?",
                     "options": [
@@ -341,7 +341,7 @@
     },
     "Gravity": {
         "levels": {
-            "easy": [
+            "Easy": [
                 {
                     "question": "What force makes objects fall to the ground?",
                     "options": [
@@ -453,7 +453,7 @@
                     "fun_fact": "Astronaut David Scott proved this on the Moon in 1971 during Apollo 15!"
                 }
             ],
-            "medium": [
+            "Medium": [
                 {
                     "question": "What two factors determine the strength of gravity?",
                     "options": [
@@ -565,7 +565,7 @@
                     "fun_fact": "Planets orbit because they're constantly falling toward the Sun but moving fast enough to miss it!"
                 }
             ],
-            "hard": [
+            "Hard": [
                 {
                     "question": "What does Einstein's theory say about gravity and spacetime?",
                     "options": [
@@ -681,7 +681,7 @@
     },
     "Electric Circuits": {
         "levels": {
-            "easy": [
+            "Easy": [
                 {
                     "question": "What is needed to make a simple circuit work?",
                     "options": [
@@ -793,7 +793,7 @@
                     "fun_fact": "The word 'circuit' comes from Latin 'circuire' meaning 'to go around'!"
                 }
             ],
-            "medium": [
+            "Medium": [
                 {
                     "question": "What is the difference between series and parallel circuits?",
                     "options": [
@@ -905,7 +905,7 @@
                     "fun_fact": "Old incandescent bulbs waste 90% of their energy as heat - LEDs are much more efficient!"
                 }
             ],
-            "hard": [
+            "Hard": [
                 {
                     "question": "What is the purpose of a capacitor in a circuit?",
                     "options": [
@@ -1021,7 +1021,7 @@
     },
     "States of Matter": {
         "levels": {
-            "easy": [
+            "Easy": [
                 {
                     "question": "How many main states of matter are there?",
                     "options": [
@@ -1133,7 +1133,7 @@
                     "fun_fact": "Even cold water evaporates - that's how puddles disappear without boiling!"
                 }
             ],
-            "medium": [
+            "Medium": [
                 {
                     "question": "What is the fourth state of matter?",
                     "options": [
@@ -1245,7 +1245,7 @@
                     "fun_fact": "This exotic state only forms near absolute zero, where atoms clump into a 'super atom' with quantum properties!"
                 }
             ],
-            "hard": [
+            "Hard": [
                 {
                     "question": "What is supercritical fluid?",
                     "options": [
@@ -1361,7 +1361,7 @@
     },
     "The Water Cycle": {
         "levels": {
-            "easy": [
+            "Easy": [
                 {
                     "question": "What is the process when water turns into vapor?",
                     "options": [
@@ -1473,7 +1473,7 @@
                     "fun_fact": "The sun evaporates enough water each year to cover the entire Earth 1 meter deep!"
                 }
             ],
-            "medium": [
+            "Medium": [
                 {
                     "question": "What percentage of Earth's water is freshwater?",
                     "options": [
@@ -1585,7 +1585,7 @@
                     "fun_fact": "Agriculture uses about 70% of the world's freshwater!"
                 }
             ],
-            "hard": [
+            "Hard": [
                 {
                     "question": "What is the residence time of water in the atmosphere?",
                     "options": [

@@ -1,0 +1,1702 @@
+{
+    "Computer Hardware": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the brain of the computer called?",
+                    "options": [
+                        "GPU",
+                        "CPU",
+                        "RAM",
+                        "SSD"
+                    ],
+                    "answer": "CPU",
+                    "fun_fact": "Modern CPUs can perform billions of calculations per second."
+                },
+                {
+                    "question": "Which component stores temporary data while the computer is running?",
+                    "options": [
+                        "HDD",
+                        "SSD",
+                        "RAM",
+                        "CPU"
+                    ],
+                    "answer": "RAM",
+                    "fun_fact": "RAM stands for Random Access Memory and loses all data when power is turned off."
+                },
+                {
+                    "question": "What does SSD stand for?",
+                    "options": [
+                        "Solid State Drive",
+                        "Super Speed Device",
+                        "System Storage Disk",
+                        "Silicon Storage Drive"
+                    ],
+                    "answer": "Solid State Drive",
+                    "fun_fact": "SSDs have no moving parts, making them faster and more durable than traditional Hard drives."
+                },
+                {
+                    "question": "Which port is commonly used to connect monitors to computers?",
+                    "options": [
+                        "USB",
+                        "HDMI",
+                        "Ethernet",
+                        "3.5mm audio"
+                    ],
+                    "answer": "HDMI",
+                    "fun_fact": "HDMI stands for High-Definition Multimedia Interface and can carry both video and audio signals."
+                },
+                {
+                    "question": "What type of device is a keyboard?",
+                    "options": [
+                        "Output device",
+                        "Input device",
+                        "Processing device",
+                        "Storage device"
+                    ],
+                    "answer": "Input device",
+                    "fun_fact": "The QWERTY keyboard layout was designed in the 1870s for mechanical typewriters."
+                },
+                {
+                    "question": "Which of these is NOT a computer manufacturer?",
+                    "options": [
+                        "Dell",
+                        "HP",
+                        "Nvidia",
+                        "Lenovo"
+                    ],
+                    "answer": "Nvidia",
+                    "fun_fact": "Nvidia is primarily known for manufacturing GPUs rather than complete computer systems."
+                },
+                {
+                    "question": "What does 'GB' stand for in computer storage?",
+                    "options": [
+                        "GigaBit",
+                        "GigaByte",
+                        "Great Binary",
+                        "GigaBase"
+                    ],
+                    "answer": "GigaByte",
+                    "fun_fact": "1 GB equals approximately 1 billion bytes, or exactly 1,073,741,824 bytes in binary terms."
+                },
+                {
+                    "question": "Which component is responsible for displaying graphics on your screen?",
+                    "options": [
+                        "CPU",
+                        "RAM",
+                        "GPU",
+                        "SSD"
+                    ],
+                    "answer": "GPU",
+                    "fun_fact": "Modern GPUs contain thousands of cores compared to a CPU's few cores, making them excellent for parallel processing."
+                },
+                {
+                    "question": "What type of cable is typically used to connect a computer to a network?",
+                    "options": [
+                        "HDMI",
+                        "USB",
+                        "Ethernet",
+                        "VGA"
+                    ],
+                    "answer": "Ethernet",
+                    "fun_fact": "Ethernet was invented at Xerox PARC in the 1970s and originally used coaxial cable."
+                },
+                {
+                    "question": "What does 'USB' stand for?",
+                    "options": [
+                        "Universal Serial Bus",
+                        "United System Bus",
+                        "Uniform Serial Buffer",
+                        "Universal System Board"
+                    ],
+                    "answer": "Universal Serial Bus",
+                    "fun_fact": "The USB standard was developed in the mid-1990s by a consortium of companies including Intel, Microsoft, and others."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the purpose of a heatsink in a computer?",
+                    "options": [
+                        "To store data",
+                        "To cool components",
+                        "To boost performance",
+                        "To connect peripherals"
+                    ],
+                    "answer": "To cool components",
+                    "fun_fact": "Heatsinks work by increasing the surface area available for heat dissipation, often using fins and sometimes liquid cooling systems."
+                },
+                {
+                    "question": "Which of these is a type of volatile memory?",
+                    "options": [
+                        "ROM",
+                        "RAM",
+                        "SSD",
+                        "HDD"
+                    ],
+                    "answer": "RAM",
+                    "fun_fact": "Volatile memory requires power to maintain stored information, while non-volatile memory can retain data without power."
+                },
+                {
+                    "question": "What does RAID stand for in data storage?",
+                    "options": [
+                        "Random Array of Independent Disks",
+                        "Redundant Array of Inexpensive Disks",
+                        "Rapid Access Interface Device",
+                        "Redundant Allocation of Independent Data"
+                    ],
+                    "answer": "Redundant Array of Inexpensive Disks",
+                    "fun_fact": "RAID configurations can improve performance, reliability, or both by combining multiple physical disks."
+                },
+                {
+                    "question": "Which interface is commonly used for connecting high-speed SSDs in modern computers?",
+                    "options": [
+                        "SATA",
+                        "PCIe",
+                        "USB",
+                        "NVMe"
+                    ],
+                    "answer": "NVMe",
+                    "fun_fact": "NVMe (Non-Volatile Memory Express) is designed specifically for flash memory and can achieve much higher speeds than older interfaces."
+                },
+                {
+                    "question": "What is the function of a computer's chipset?",
+                    "options": [
+                        "To manage data flow between components",
+                        "To store the operating system",
+                        "To provide internet connectivity",
+                        "To cool the CPU"
+                    ],
+                    "answer": "To manage data flow between components",
+                    "fun_fact": "The chipset acts as the communication center and traffic controller for the motherboard, determining component compatibility."
+                },
+                {
+                    "question": "Which of these is NOT a type of computer form factor?",
+                    "options": [
+                        "ATX",
+                        "ITX",
+                        "BTX",
+                        "ZTX"
+                    ],
+                    "answer": "ZTX",
+                    "fun_fact": "ATX (Advanced Technology eXtended) is the most common motherboard form factor for desktop PCs."
+                },
+                {
+                    "question": "What does VRAM stand for?",
+                    "options": [
+                        "Video Random Access Memory",
+                        "Virtual Random Access Memory",
+                        "Volatile Random Access Memory",
+                        "Variable Rate Access Memory"
+                    ],
+                    "answer": "Video Random Access Memory",
+                    "fun_fact": "VRAM is specialized memory used by GPUs, often designed for high bandwidth to handle graphics processing demands."
+                },
+                {
+                    "question": "Which technology allows a CPU to execute multiple threads per core?",
+                    "options": [
+                        "Overclocking",
+                        "Hyperthreading",
+                        "Multithreading",
+                        "Superscaling"
+                    ],
+                    "answer": "Hyperthreading",
+                    "fun_fact": "Hyperthreading, Intel's implementation of simultaneous multithreading, can improve performance by 15-30% in optimized workloads."
+                },
+                {
+                    "question": "What is the purpose of the CMOS battery on a motherboard?",
+                    "options": [
+                        "To power the computer during outages",
+                        "To store BIOS settings",
+                        "To boost GPU performance",
+                        "To charge USB devices"
+                    ],
+                    "answer": "To store BIOS settings",
+                    "fun_fact": "The CMOS battery typically lasts 5-10 years and maintains system clock and BIOS settings when the computer is off."
+                },
+                {
+                    "question": "Which of these is a characteristic of DDR4 RAM compared to DDR3?",
+                    "options": [
+                        "Higher voltage requirements",
+                        "Lower speeds",
+                        "Higher density",
+                        "Larger physical size"
+                    ],
+                    "answer": "Higher density",
+                    "fun_fact": "DDR4 operates at lower voltages (1.2V vs 1.5V) and higher speeds while supporting greater memory capacities."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the significance of the 'CAS latency' in RAM specifications?",
+                    "options": [
+                        "The time taken to access a memory cell",
+                        "The maximum temperature tolerance",
+                        "The voltage requirement",
+                        "The physical size of the module"
+                    ],
+                    "answer": "The time taken to access a memory cell",
+                    "fun_fact": "CAS latency is measured in clock cycles; lower numbers mean faster response times, but real-world latency depends on both CAS and clock speed."
+                },
+                {
+                    "question": "In CPU architecture, what is the purpose of the 'TLB'?",
+                    "options": [
+                        "To manage thermal levels",
+                        "To translate virtual addresses to physical addresses",
+                        "To balance load between cores",
+                        "To encrypt data in transit"
+                    ],
+                    "answer": "To translate virtual addresses to physical addresses",
+                    "fun_fact": "The Translation Lookaside Buffer (TLB) is a CPU cache that speeds up virtual-to-physical address translation, critical for memory access performance."
+                },
+                {
+                    "question": "Which of these is NOT a cache level in modern CPUs?",
+                    "options": [
+                        "L0",
+                        "L1",
+                        "L2",
+                        "L3"
+                    ],
+                    "answer": "L0",
+                    "fun_fact": "Modern CPUs typically have L1 (fastest/smallest), L2, and L3 (largest/slowest) caches, with some designs now including L4 cache."
+                },
+                {
+                    "question": "What is the primary advantage of a 'fully associative' cache design?",
+                    "options": [
+                        "Simpler hardware implementation",
+                        "Lower power consumption",
+                        "Flexible data placement reducing conflicts",
+                        "Higher clock speeds"
+                    ],
+                    "answer": "Flexible data placement reducing conflicts",
+                    "fun_fact": "Fully associative caches can store data anywhere, eliminating conflict misses but requiring complex search logic that limits practical size."
+                },
+                {
+                    "question": "Which memory technology uses 'bank groups' to improve performance?",
+                    "options": [
+                        "DDR3",
+                        "DDR4",
+                        "GDDR5",
+                        "LPDDR"
+                    ],
+                    "answer": "DDR4",
+                    "fun_fact": "DDR4's bank groups allow simultaneous access to different groups, effectively increasing bandwidth without raising clock speeds."
+                },
+                {
+                    "question": "What does 'SIMD' stand for in processor instruction sets?",
+                    "options": [
+                        "Single Instruction, Multiple Data",
+                        "System Interface Memory Device",
+                        "Synchronous Inter-Module Data",
+                        "Serial Input, Multiple Destination"
+                    ],
+                    "answer": "Single Instruction, Multiple Data",
+                    "fun_fact": "SIMD allows processors to perform the same operation on multiple data points simultaneously, crucial for multimedia and scientific computing."
+                },
+                {
+                    "question": "In PCIe specifications, what does a 'lane' refer to?",
+                    "options": [
+                        "A physical slot on the motherboard",
+                        "A set of differential signal pairs",
+                        "A power delivery channel",
+                        "A cooling pathway"
+                    ],
+                    "answer": "A set of differential signal pairs",
+                    "fun_fact": "Each PCIe lane consists of two differential pairs (four wires total) for full-duplex communication, with bandwidth doubling roughly every generation."
+                },
+                {
+                    "question": "What is the purpose of 'ECC' in computer memory?",
+                    "options": [
+                        "To encrypt stored data",
+                        "To correct errors automatically",
+                        "To enable faster access times",
+                        "To reduce power consumption"
+                    ],
+                    "answer": "To correct errors automatically",
+                    "fun_fact": "Error-Correcting Code (ECC) memory can detect and correct single-bit errors, crucial for servers and mission-critical systems."
+                },
+                {
+                    "question": "Which CPU architecture feature helps mitigate branch prediction penalties?",
+                    "options": [
+                        "Out-of-order execution",
+                        "Speculative execution",
+                        "Hyperthreading",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Modern CPUs use multiple techniques to handle branches, predicting paths and executing instructions speculatively to maintain pipeline efficiency."
+                },
+                {
+                    "question": "What is the significance of 'TRIM' in SSD operation?",
+                    "options": [
+                        "A cooling technique",
+                        "A data encryption method",
+                        "A performance optimization command",
+                        "A physical wear indicator"
+                    ],
+                    "answer": "A performance optimization command",
+                    "fun_fact": "TRIM helps maintain SSD performance by informing the drive which blocks are no longer in use, enabling more efficient garbage collection."
+                }
+            ]
+        }
+    },
+    "Programming": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What does 'HTML' stand for?",
+                    "options": [
+                        "Hyper Text Markup Language",
+                        "High Tech Modern Language",
+                        "Home Tool Markup Language",
+                        "Hyperlinks and Text Markup Language"
+                    ],
+                    "answer": "Hyper Text Markup Language",
+                    "fun_fact": "HTML was created by Tim Berners-Lee in 1991 while working at CERN, originally intended for sharing scientific documents."
+                },
+                {
+                    "question": "Which symbol is used for single-line comments in Python?",
+                    "options": [
+                        "//",
+                        "#",
+                        "--",
+                        "/*"
+                    ],
+                    "answer": "#",
+                    "fun_fact": "The '#' symbol is called an octothorpe and was chosen for Python comments because it was rarely used in other contexts."
+                },
+                {
+                    "question": "What is the correct file extension for JavaScript files?",
+                    "options": [
+                        ".java",
+                        ".js",
+                        ".javascript",
+                        ".script"
+                    ],
+                    "answer": ".js",
+                    "fun_fact": "JavaScript was created in just 10 days in 1995 by Brendan Eich while working at Netscape, originally named Mocha then LiveScript."
+                },
+                {
+                    "question": "Which of these is NOT a programming language?",
+                    "options": [
+                        "Ruby",
+                        "Swift",
+                        "Django",
+                        "Kotlin"
+                    ],
+                    "answer": "Django",
+                    "fun_fact": "Django is a web framework for Python, named after jazz guitarist Django Reinhardt, not a programming language itself."
+                },
+                {
+                    "question": "What does 'CSS' stand for?",
+                    "options": [
+                        "Computer Style Sheets",
+                        "Creative Style System",
+                        "Cascading Style Sheets",
+                        "Colorful Style Syntax"
+                    ],
+                    "answer": "Cascading Style Sheets",
+                    "fun_fact": "CSS was proposed in 1994 by Håkon Wium Lie while working with Tim Berners-Lee at CERN, with the 'cascade' referring to how styles combine."
+                },
+                {
+                    "question": "Which operator is used for equality comparison in JavaScript?",
+                    "options": [
+                        "=",
+                        "==",
+                        "===",
+                        "!="
+                    ],
+                    "answer": "==",
+                    "fun_fact": "JavaScript has both '==' (loose equality) and '===' (strict equality) operators, with the latter also checking type."
+                },
+                {
+                    "question": "What is the output of 'print(2 + 2 * 2)' in Python?",
+                    "options": [
+                        "6",
+                        "8",
+                        "4",
+                        "Syntax error"
+                    ],
+                    "answer": "6",
+                    "fun_fact": "This demonstrates operator precedence where multiplication is evaluated before addition, following standard mathematical rules."
+                },
+                {
+                    "question": "Which language is known as the 'mother of all programming languages'?",
+                    "options": [
+                        "C",
+                        "Fortran",
+                        "Assembly",
+                        "Lisp"
+                    ],
+                    "answer": "C",
+                    "fun_fact": "C, developed in the early 1970s at Bell Labs, has influenced countless modern languages including C++, Java, Python, and JavaScript."
+                },
+                {
+                    "question": "What is the correct way to declare a variable in JavaScript?",
+                    "options": [
+                        "variable x;",
+                        "var x;",
+                        "x = var;",
+                        "declare x;"
+                    ],
+                    "answer": "var x;",
+                    "fun_fact": "Modern JavaScript (ES6+) also includes 'let' and 'const' declarations, with 'var' being the original declaration method."
+                },
+                {
+                    "question": "Which of these is a Python data structure?",
+                    "options": [
+                        "Array",
+                        "Vector",
+                        "Dictionary",
+                        "Tree"
+                    ],
+                    "answer": "Dictionary",
+                    "fun_fact": "Python dictionaries are implemented as hash tables, allowing average O(1) time complexity for lookups."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the time complexity of a binary search algorithm on a sorted array?",
+                    "options": [
+                        "O(1)",
+                        "O(n)",
+                        "O(log n)",
+                        "O(n log n)"
+                    ],
+                    "answer": "O(log n)",
+                    "fun_fact": "Binary search works by repeatedly dividing the search interval in half, dramatically reducing the search space with each step."
+                },
+                {
+                    "question": "Which design pattern ensures only one instance of a class exists?",
+                    "options": [
+                        "Factory",
+                        "Singleton",
+                        "Observer",
+                        "Decorator"
+                    ],
+                    "answer": "Singleton",
+                    "fun_fact": "The Singleton pattern is often used for logging, driver objects, caching, thread pools, and database connections."
+                },
+                {
+                    "question": "What does 'SQL' stand for?",
+                    "options": [
+                        "Structured Query Language",
+                        "Simple Question Language",
+                        "System Query Logic",
+                        "Standard Question Line"
+                    ],
+                    "answer": "Structured Query Language",
+                    "fun_fact": "SQL was developed at IBM in the 1970s and became a standard in 1986, pronounced as 'sequel' or spelled out as 'S-Q-L'."
+                },
+                {
+                    "question": "Which of these is NOT a JavaScript framework?",
+                    "options": [
+                        "React",
+                        "Angular",
+                        "Vue",
+                        "Flask"
+                    ],
+                    "answer": "Flask",
+                    "fun_fact": "Flask is a Python web framework, while React, Angular, and Vue are all JavaScript frameworks for building user interfaces."
+                },
+                {
+                    "question": "What is the purpose of the 'git clone' command?",
+                    "options": [
+                        "Create a new branch",
+                        "Copy a repository to your local machine",
+                        "Merge two branches",
+                        "Delete a repository"
+                    ],
+                    "answer": "Copy a repository to your local machine",
+                    "fun_fact": "Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with 'clone' being one of its most fundamental commands."
+                },
+                {
+                    "question": "Which HTTP status code means 'Not Found'?",
+                    "options": [
+                        "200",
+                        "301",
+                        "404",
+                        "500"
+                    ],
+                    "answer": "404",
+                    "fun_fact": "The 404 error is so iconic that it's become cultural shorthand for something missing, even outside computing contexts."
+                },
+                {
+                    "question": "What is the main purpose of Docker containers?",
+                    "options": [
+                        "Virtualization",
+                        "Package management",
+                        "Code compilation",
+                        "Database optimization"
+                    ],
+                    "answer": "Virtualization",
+                    "fun_fact": "Docker containers share the host OS kernel, making them much lighter than traditional virtual machines while still providing isolation."
+                },
+                {
+                    "question": "Which of these is a NoSQL database?",
+                    "options": [
+                        "MySQL",
+                        "PostgreSQL",
+                        "MongoDB",
+                        "SQLite"
+                    ],
+                    "answer": "MongoDB",
+                    "fun_fact": "MongoDB is a document-oriented NoSQL database that stores data in flexible, JSON-like documents rather than tables."
+                },
+                {
+                    "question": "What does 'API' stand for?",
+                    "options": [
+                        "Application Programming Interface",
+                        "Automated Program Interaction",
+                        "Advanced Programming Instruction",
+                        "Application Process Integration"
+                    ],
+                    "answer": "Application Programming Interface",
+                    "fun_fact": "APIs allow different software systems to communicate, acting as contracts between different pieces of software."
+                },
+                {
+                    "question": "Which algorithm is used for shortest path problems in graph theory?",
+                    "options": [
+                        "Bubble Sort",
+                        "Dijkstra's",
+                        "Quick Sort",
+                        "Binary Search"
+                    ],
+                    "answer": "Dijkstra's",
+                    "fun_fact": "Dijkstra's algorithm was conceived by computer scientist Edsger W. Dijkstra in 1956 while having coffee in a cafe."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the Church-Turing thesis in computer science?",
+                    "options": [
+                        "A theorem about computational complexity",
+                        "A hypothesis about the limits of computation",
+                        "A proof about algorithmic efficiency",
+                        "A law of computer architecture"
+                    ],
+                    "answer": "A hypothesis about the limits of computation",
+                    "fun_fact": "The Church-Turing thesis states that any function computable by an algorithm is computable by a Turing machine, forming the foundation of theoretical computer science."
+                },
+                {
+                    "question": "In the context of machine learning, what is 'overfitting'?",
+                    "options": [
+                        "When a model performs well on training data but poorly on unseen data",
+                        "When a model is too simple to capture patterns",
+                        "When training takes too long",
+                        "When multiple models are combined"
+                    ],
+                    "answer": "When a model performs well on training data but poorly on unseen data",
+                    "fun_fact": "Overfitting is like memorizing answers for a test instead of learning the underlying concepts - it works for known questions but fails on new ones."
+                },
+                {
+                    "question": "What is the significance of 'P vs NP' problem in computer science?",
+                    "options": [
+                        "It's about parallel processing",
+                        "It questions whether problems verifiable in polynomial time can also be solved in polynomial time",
+                        "It's about processor architecture",
+                        "It defines programming paradigms"
+                    ],
+                    "answer": "It questions whether problems verifiable in polynomial time can also be solved in polynomial time",
+                    "fun_fact": "The P vs NP problem is one of the seven Millennium Prize Problems with a $1 million reward for its solution, considered the most important open problem in computer science."
+                },
+                {
+                    "question": "Which of these is NOT a type of machine learning?",
+                    "options": [
+                        "Supervised learning",
+                        "Unsupervised learning",
+                        "Reinforcement learning",
+                        "Compiled learning"
+                    ],
+                    "answer": "Compiled learning",
+                    "fun_fact": "The three main types of machine learning are supervised (labeled data), unsupervised (unlabeled data), and reinforcement (reward-based)."
+                },
+                {
+                    "question": "What is 'tail recursion' in programming?",
+                    "options": [
+                        "When a recursive call is the last operation in a function",
+                        "When recursion never ends",
+                        "When multiple recursive calls exist",
+                        "When recursion is converted to iteration"
+                    ],
+                    "answer": "When a recursive call is the last operation in a function",
+                    "fun_fact": "Tail recursion can be optimized by compilers to use constant stack space, effectively converting it to iteration automatically."
+                },
+                {
+                    "question": "What does 'CAP theorem' state about distributed systems?",
+                    "options": [
+                        "They can't guarantee consistency, availability, and partition tolerance simultaneously",
+                        "They must use cryptographic protocols",
+                        "They require at least three nodes",
+                        "They can't be fault-tolerant"
+                    ],
+                    "answer": "They can't guarantee consistency, availability, and partition tolerance simultaneously",
+                    "fun_fact": "The CAP theorem, proposed by Eric Brewer in 2000, shows that distributed systems must make tradeoffs between these three desirable properties."
+                },
+                {
+                    "question": "Which algorithm is used for page ranking in search engines?",
+                    "options": [
+                        "PageRank",
+                        "Breadth-First Search",
+                        "A*",
+                        "QuickSort"
+                    ],
+                    "answer": "PageRank",
+                    "fun_fact": "PageRank was developed by Google founders Larry Page and Sergey Brin at Stanford, named after Larry Page (not web pages)."
+                },
+                {
+                    "question": "What is 'homomorphic encryption'?",
+                    "options": [
+                        "Encryption that allows computation on encrypted data",
+                        "Encryption that changes form",
+                        "Encryption using homophones",
+                        "Encryption that requires identical keys"
+                    ],
+                    "answer": "Encryption that allows computation on encrypted data",
+                    "fun_fact": "Homomorphic encryption enables cloud services to process encrypted data without decrypting it, preserving privacy while allowing computation."
+                },
+                {
+                    "question": "What is the significance of 'Big O notation' in algorithm analysis?",
+                    "options": [
+                        "It describes the worst-case scenario growth rate of an algorithm",
+                        "It measures exact running time",
+                        "It counts lines of code",
+                        "It describes memory usage in bytes"
+                    ],
+                    "answer": "It describes the worst-case scenario growth rate of an algorithm",
+                    "fun_fact": "Big O notation abstracts away constant factors and lower-order terms to focus on how algorithms scale with input size."
+                },
+                {
+                    "question": "Which concept in object-oriented programming violates encapsulation?",
+                    "options": [
+                        "Inheritance",
+                        "Polymorphism",
+                        "Reflection",
+                        "All of the above"
+                    ],
+                    "answer": "Reflection",
+                    "fun_fact": "Reflection allows programs to examine and modify their own structure and behavior at runtime, potentially breaking encapsulation."
+                }
+            ]
+        }
+    },
+    "Artificial Intelligence": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What does 'AI' stand for?",
+                    "options": [
+                        "Automated Intelligence",
+                        "Artificial Intelligence",
+                        "Advanced Interface",
+                        "Algorithmic Inference"
+                    ],
+                    "answer": "Artificial Intelligence",
+                    "fun_fact": "The term 'Artificial Intelligence' was first coined by John McCarthy in 1956 at the Dartmouth Conference, considered the birth of AI as a field."
+                },
+                {
+                    "question": "Which of these is NOT a type of AI?",
+                    "options": [
+                        "Narrow AI",
+                        "General AI",
+                        "Super AI",
+                        "Fast AI"
+                    ],
+                    "answer": "Fast AI",
+                    "fun_fact": "FastAI is actually a deep learning library, not a type of AI classification."
+                },
+                {
+                    "question": "What is the name of the AI that defeated the world champion in Go?",
+                    "options": [
+                        "Deep Blue",
+                        "Watson",
+                        "AlphaGo",
+                        "GPT-3"
+                    ],
+                    "answer": "AlphaGo",
+                    "fun_fact": "AlphaGo's 2016 victory over Lee Sedol was significant because Go was considered much harder for AI than chess due to its complexity."
+                },
+                {
+                    "question": "Which company created the AI assistant 'Siri'?",
+                    "options": [
+                        "Google",
+                        "Apple",
+                        "Amazon",
+                        "Microsoft"
+                    ],
+                    "answer": "Apple",
+                    "fun_fact": "Siri was originally developed by SRI International and was acquired by Apple in 2010 before being integrated into iOS."
+                },
+                {
+                    "question": "What is the name of Tesla's AI for autonomous driving?",
+                    "options": [
+                        "AutoPilot",
+                        "DriveAI",
+                        "Tesla Vision",
+                        "Full Self-Driving"
+                    ],
+                    "answer": "Full Self-Driving",
+                    "fun_fact": "Despite the name, Tesla's Full Self-Driving system still requires active driver supervision and isn't fully autonomous."
+                },
+                {
+                    "question": "Which of these is a popular AI development framework?",
+                    "options": [
+                        "TensorFlow",
+                        "JavaFX",
+                        "React",
+                        "Django"
+                    ],
+                    "answer": "TensorFlow",
+                    "fun_fact": "TensorFlow was developed by Google Brain team and open-sourced in 2015, becoming one of the most popular AI frameworks."
+                },
+                {
+                    "question": "What type of AI is used for facial recognition?",
+                    "options": [
+                        "Computer Vision",
+                        "Natural Language Processing",
+                        "Robotics",
+                        "Expert Systems"
+                    ],
+                    "answer": "Computer Vision",
+                    "fun_fact": "Modern facial recognition systems use deep learning models called convolutional neural networks (CNNs) to analyze facial features."
+                },
+                {
+                    "question": "Which AI technique is inspired by the human brain?",
+                    "options": [
+                        "Neural Networks",
+                        "Genetic Algorithms",
+                        "Decision Trees",
+                        "Support Vector Machines"
+                    ],
+                    "answer": "Neural Networks",
+                    "fun_fact": "Artificial neural networks are loosely inspired by biological neurons, though they are vastly simpler than actual brain structures."
+                },
+                {
+                    "question": "What does 'ML' stand for in AI?",
+                    "options": [
+                        "Machine Learning",
+                        "Meta Learning",
+                        "Memory Logic",
+                        "Mainframe Learning"
+                    ],
+                    "answer": "Machine Learning",
+                    "fun_fact": "Machine learning is a subset of AI that focuses on algorithms that can learn from and make predictions on data."
+                },
+                {
+                    "question": "Which of these is an example of generative AI?",
+                    "options": [
+                        "ChatGPT",
+                        "Tesla Autopilot",
+                        "Google Search",
+                        "Siri"
+                    ],
+                    "answer": "ChatGPT",
+                    "fun_fact": "Generative AI like ChatGPT can create new content (text, images, etc.) rather than just analyzing or classifying existing data."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the name of the algorithm used to train deep neural networks?",
+                    "options": [
+                        "Backpropagation",
+                        "QuickSort",
+                        "Dijkstra's",
+                        "PageRank"
+                    ],
+                    "answer": "Backpropagation",
+                    "fun_fact": "Backpropagation, short for 'backward propagation of errors', calculates gradients by moving backward through the network from output to input."
+                },
+                {
+                    "question": "Which of these is NOT a neural network architecture?",
+                    "options": [
+                        "CNN",
+                        "RNN",
+                        "LSTM",
+                        "SVM"
+                    ],
+                    "answer": "SVM",
+                    "fun_fact": "SVM (Support Vector Machine) is a classical machine learning algorithm, not a neural network architecture."
+                },
+                {
+                    "question": "What is 'transfer learning' in AI?",
+                    "options": [
+                        "Using a pre-trained model for a new task",
+                        "Transferring data between servers",
+                        "Learning while moving between locations",
+                        "Changing learning rates during training"
+                    ],
+                    "answer": "Using a pre-trained model for a new task",
+                    "fun_fact": "Transfer learning allows models to leverage knowledge gained from one task to perform better on a related task, saving computation and data requirements."
+                },
+                {
+                    "question": "Which activation function is commonly used in neural network output layers for binary classification?",
+                    "options": [
+                        "ReLU",
+                        "Sigmoid",
+                        "Tanh",
+                        "Leaky ReLU"
+                    ],
+                    "answer": "Sigmoid",
+                    "fun_fact": "Sigmoid outputs values between 0 and 1, making it ideal for probability estimation in binary classification problems."
+                },
+                {
+                    "question": "What does 'GPT' stand for in AI models like ChatGPT?",
+                    "options": [
+                        "General Purpose Transformer",
+                        "Generative Pre-trained Transformer",
+                        "Global Processing Technology",
+                        "Guided Program Training"
+                    ],
+                    "answer": "Generative Pre-trained Transformer",
+                    "fun_fact": "The Transformer architecture, introduced in 2017, revolutionized natural language processing with its attention mechanisms."
+                },
+                {
+                    "question": "Which technique helps prevent overfitting in neural networks?",
+                    "options": [
+                        "Data augmentation",
+                        "Dropout",
+                        "Early stopping",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "These are all regularization techniques that help prevent neural networks from memorizing training data instead of learning general patterns."
+                },
+                {
+                    "question": "What is the purpose of a 'loss function' in machine learning?",
+                    "options": [
+                        "To measure model performance",
+                        "To optimize hardware usage",
+                        "To visualize data",
+                        "To clean datasets"
+                    ],
+                    "answer": "To measure model performance",
+                    "fun_fact": "The loss function quantifies how far the model's predictions are from the true values, guiding the optimization process."
+                },
+                {
+                    "question": "Which of these is a reinforcement learning algorithm?",
+                    "options": [
+                        "Q-learning",
+                        "K-means",
+                        "Random Forest",
+                        "Linear Regression"
+                    ],
+                    "answer": "Q-learning",
+                    "fun_fact": "Q-learning is a model-free reinforcement learning algorithm that learns a policy telling an agent what action to take in what state."
+                },
+                {
+                    "question": "What does 'NLP' stand for in AI?",
+                    "options": [
+                        "Natural Language Processing",
+                        "Neural Learning Process",
+                        "Network Logic Protocol",
+                        "Non-Linear Programming"
+                    ],
+                    "answer": "Natural Language Processing",
+                    "fun_fact": "NLP combines linguistics, computer science, and AI to enable computers to understand, interpret, and generate human language."
+                },
+                {
+                    "question": "Which company developed the AlphaFold system for protein folding?",
+                    "options": [
+                        "OpenAI",
+                        "DeepMind",
+                        "Facebook AI",
+                        "IBM Watson"
+                    ],
+                    "answer": "DeepMind",
+                    "fun_fact": "AlphaFold's breakthroughs in predicting protein structures have major implications for biology and medicine, considered one of AI's greatest scientific achievements."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the 'attention mechanism' in transformer models?",
+                    "options": [
+                        "A method to focus on relevant parts of input",
+                        "A way to visualize data",
+                        "A hardware optimization",
+                        "A type of regularization"
+                    ],
+                    "answer": "A method to focus on relevant parts of input",
+                    "fun_fact": "The attention mechanism allows models to dynamically weigh the importance of different input elements, revolutionizing sequence processing."
+                },
+                {
+                    "question": "What is 'catastrophic forgetting' in neural networks?",
+                    "options": [
+                        "When a model forgets old tasks while learning new ones",
+                        "When training fails completely",
+                        "When hardware overheats",
+                        "When data is lost during processing"
+                    ],
+                    "answer": "When a model forgets old tasks while learning new ones",
+                    "fun_fact": "This is a major challenge in continual learning, where neural networks tend to overwrite previous knowledge when learning new information."
+                },
+                {
+                    "question": "Which concept explains why deep neural networks can approximate any function?",
+                    "options": [
+                        "Universal approximation theorem",
+                        "CAP theorem",
+                        "No free lunch theorem",
+                        "Bayes' theorem"
+                    ],
+                    "answer": "Universal approximation theorem",
+                    "fun_fact": "This theorem states that a neural network with a single hidden layer can approximate any continuous function, given sufficient neurons."
+                },
+                {
+                    "question": "What is 'exploding gradients' in deep learning?",
+                    "options": [
+                        "When gradients become extremely large",
+                        "When gradients disappear",
+                        "When multiple gradients combine",
+                        "When gradient calculation fails"
+                    ],
+                    "answer": "When gradients become extremely large",
+                    "fun_fact": "Exploding gradients can cause unstable training where weights change dramatically, often addressed with gradient clipping techniques."
+                },
+                {
+                    "question": "Which optimization algorithm is commonly used to train deep neural networks?",
+                    "options": [
+                        "Adam",
+                        "QuickSort",
+                        "A*",
+                        "PageRank"
+                    ],
+                    "answer": "Adam",
+                    "fun_fact": "Adam (Adaptive Moment Estimation) combines ideas from RMSProp and momentum, automatically adjusting learning rates for each parameter."
+                },
+                {
+                    "question": "What is 'few-shot learning' in AI?",
+                    "options": [
+                        "Learning from very few examples",
+                        "Learning with limited compute power",
+                        "Learning at few time steps",
+                        "Learning few features"
+                    ],
+                    "answer": "Learning from very few examples",
+                    "fun_fact": "Few-shot learning aims to mimic human ability to learn new concepts from just a few examples, unlike traditional ML needing large datasets."
+                },
+                {
+                    "question": "What does 'GAN' stand for in AI?",
+                    "options": [
+                        "General Adversarial Network",
+                        "Generative Adversarial Network",
+                        "Global Activation Node",
+                        "Gradient Adjustment Normalization"
+                    ],
+                    "answer": "Generative Adversarial Network",
+                    "fun_fact": "GANs pit two neural networks against each other - a generator creating fakes and a discriminator trying to detect them - leading to remarkably realistic outputs."
+                },
+                {
+                    "question": "What is 'multi-modal learning' in AI?",
+                    "options": [
+                        "Learning from multiple types of data (text, images, etc.)",
+                        "Learning with multiple models",
+                        "Learning at multiple locations",
+                        "Learning multiple tasks simultaneously"
+                    ],
+                    "answer": "Learning from multiple types of data (text, images, etc.)",
+                    "fun_fact": "Multi-modal AI systems can understand and connect information across different modalities, like associating images with their textual descriptions."
+                },
+                {
+                    "question": "Which concept describes AI systems making unexplainable decisions?",
+                    "options": [
+                        "Black box problem",
+                        "White box testing",
+                        "Gray code",
+                        "Silver bullet"
+                    ],
+                    "answer": "Black box problem",
+                    "fun_fact": "The opacity of many AI decision-making processes, especially in deep learning, raises concerns about accountability and trustworthiness."
+                },
+                {
+                    "question": "What is 'differential privacy' in machine learning?",
+                    "options": [
+                        "A method to protect individual data privacy",
+                        "A type of gradient calculation",
+                        "A way to differentiate models",
+                        "A privacy-focused programming language"
+                    ],
+                    "answer": "A method to protect individual data privacy",
+                    "fun_fact": "Differential privacy adds carefully calibrated noise to data or outputs to prevent identification of individuals while preserving overall patterns."
+                }
+            ]
+        }
+    },
+    "Cybersecurity": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the most common type of cyber attack?",
+                    "options": [
+                        "Phishing",
+                        "DDoS",
+                        "Man-in-the-middle",
+                        "Zero-day exploit"
+                    ],
+                    "answer": "Phishing",
+                    "fun_fact": "Phishing attacks account for over 80% of reported security incidents, often using deceptive emails to trick users."
+                },
+                {
+                    "question": "What does 'VPN' stand for?",
+                    "options": [
+                        "Virtual Private Network",
+                        "Verified Public Node",
+                        "Virtual Protocol Number",
+                        "Verified Private Nexus"
+                    ],
+                    "answer": "Virtual Private Network",
+                    "fun_fact": "VPNs encrypt your internet connection, making it much harder for others to intercept your data."
+                },
+                {
+                    "question": "Which of these is NOT a strong password practice?",
+                    "options": [
+                        "Using personal information",
+                        "Long passphrases",
+                        "Unique passwords per site",
+                        "Using a password manager"
+                    ],
+                    "answer": "Using personal information",
+                    "fun_fact": "Personal information like birthdays or pet names are easily guessable and should never be used in passwords."
+                },
+                {
+                    "question": "What is 'malware' short for?",
+                    "options": [
+                        "Malicious Logic Ware",
+                        "Malformed Software",
+                        "Malicious Software",
+                        "Managed Software"
+                    ],
+                    "answer": "Malicious Software",
+                    "fun_fact": "The first known computer virus was created in 1971 and was called the 'Creeper' virus."
+                },
+                {
+                    "question": "Which of these is a type of biometric authentication?",
+                    "options": [
+                        "Password",
+                        "Fingerprint",
+                        "Security question",
+                        "CAPTCHA"
+                    ],
+                    "answer": "Fingerprint",
+                    "fun_fact": "Biometric authentication uses unique physical characteristics, making it harder to fake than traditional passwords."
+                },
+                {
+                    "question": "What does '2FA' stand for?",
+                    "options": [
+                        "Two-Factor Authentication",
+                        "Two-File Archive",
+                        "Two-Function Algorithm",
+                        "Two-Form Access"
+                    ],
+                    "answer": "Two-Factor Authentication",
+                    "fun_fact": "2FA requires two different types of credentials, making accounts 99.9% less likely to be compromised."
+                },
+                {
+                    "question": "Which organization created the CIA triad of security?",
+                    "options": [
+                        "NSA",
+                        "FBI",
+                        "ISO",
+                        "No single organization"
+                    ],
+                    "answer": "No single organization",
+                    "fun_fact": "The CIA triad (Confidentiality, Integrity, Availability) emerged as a fundamental model from general security practices."
+                },
+                {
+                    "question": "What is the purpose of a firewall?",
+                    "options": [
+                        "To block unauthorized access",
+                        "To speed up internet",
+                        "To organize files",
+                        "To clean viruses"
+                    ],
+                    "answer": "To block unauthorized access",
+                    "fun_fact": "The term 'firewall' comes from the physical walls that prevent fire from spreading between buildings or vehicle compartments."
+                },
+                {
+                    "question": "Which of these is NOT a common cyber threat?",
+                    "options": [
+                        "Ransomware",
+                        "Spyware",
+                        "Adware",
+                        "Freeware"
+                    ],
+                    "answer": "Freeware",
+                    "fun_fact": "While freeware isn't inherently malicious, it can sometimes bundle unwanted software or adware."
+                },
+                {
+                    "question": "What does 'HTTPS' stand for?",
+                    "options": [
+                        "HyperText Transfer Protocol Secure",
+                        "High-Tech Transfer Protocol System",
+                        "HyperText Transfer Private System",
+                        "High-Tier Transfer Protocol Secure"
+                    ],
+                    "answer": "HyperText Transfer Protocol Secure",
+                    "fun_fact": "HTTPS encrypts data in transit using TLS/SSL, preventing eavesdropping and tampering with web communications."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is a 'zero-day' vulnerability?",
+                    "options": [
+                        "A bug with no known fix",
+                        "A new type of malware",
+                        "A security protocol",
+                        "An encryption method"
+                    ],
+                    "answer": "A bug with no known fix",
+                    "fun_fact": "The term 'zero-day' refers to the fact that developers have had zero days to fix the vulnerability since its discovery."
+                },
+                {
+                    "question": "Which encryption algorithm is used in modern SSL/TLS?",
+                    "options": [
+                        "RSA",
+                        "AES",
+                        "DES",
+                        "SHA"
+                    ],
+                    "answer": "AES",
+                    "fun_fact": "AES (Advanced Encryption Standard) was selected by NIST in 2001 after a 5-year evaluation process involving 15 competing algorithms."
+                },
+                {
+                    "question": "What is 'penetration testing'?",
+                    "options": [
+                        "Simulated cyber attacks",
+                        "Network speed testing",
+                        "Data encryption",
+                        "Virus scanning"
+                    ],
+                    "answer": "Simulated cyber attacks",
+                    "fun_fact": "Ethical hackers performing penetration tests often use the same tools and techniques as malicious attackers to find vulnerabilities."
+                },
+                {
+                    "question": "Which of these is NOT a common hashing algorithm?",
+                    "options": [
+                        "MD5",
+                        "SHA-256",
+                        "RSA",
+                        "bcrypt"
+                    ],
+                    "answer": "RSA",
+                    "fun_fact": "RSA is an encryption algorithm, not a hashing algorithm, though both are cryptographic functions."
+                },
+                {
+                    "question": "What is the principle of 'least privilege' in security?",
+                    "options": [
+                        "Users get maximum access by default",
+                        "Users get minimum necessary access",
+                        "All users have equal access",
+                        "Access changes frequently"
+                    ],
+                    "answer": "Users get minimum necessary access",
+                    "fun_fact": "This principle limits damage from both accidents and malicious actions by restricting unnecessary access rights."
+                },
+                {
+                    "question": "Which attack involves overwhelming a server with traffic?",
+                    "options": [
+                        "Phishing",
+                        "DDoS",
+                        "Man-in-the-middle",
+                        "SQL injection"
+                    ],
+                    "answer": "DDoS",
+                    "fun_fact": "The largest DDoS attacks can exceed terabits per second of traffic, enough to take down major websites and services."
+                },
+                {
+                    "question": "What is 'social engineering' in cybersecurity?",
+                    "options": [
+                        "Manipulating people to gain access",
+                        "A type of encryption",
+                        "Network architecture",
+                        "Software development methodology"
+                    ],
+                    "answer": "Manipulating people to gain access",
+                    "fun_fact": "Social engineering attacks often exploit human psychology rather than technical vulnerabilities."
+                },
+                {
+                    "question": "Which protocol is used for secure email?",
+                    "options": [
+                        "SMTP",
+                        "PGP",
+                        "FTP",
+                        "HTTP"
+                    ],
+                    "answer": "PGP",
+                    "fun_fact": "PGP (Pretty Good Privacy) was created in 1991 and uses a combination of symmetric and asymmetric encryption."
+                },
+                {
+                    "question": "What is 'defense in depth' strategy?",
+                    "options": [
+                        "Multiple layers of security",
+                        "One strong perimeter defense",
+                        "Focusing only on critical systems",
+                        "Regular password changes"
+                    ],
+                    "answer": "Multiple layers of security",
+                    "fun_fact": "This strategy assumes that any single defense might fail, so multiple overlapping protections are needed."
+                },
+                {
+                    "question": "Which of these is a hardware security module?",
+                    "options": [
+                        "HSM",
+                        "SSD",
+                        "CPU",
+                        "GPU"
+                    ],
+                    "answer": "HSM",
+                    "fun_fact": "HSMs are physical devices that manage digital keys and perform cryptographic operations in a secure, tamper-resistant environment."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is 'homomorphic encryption'?",
+                    "options": [
+                        "Encryption that allows computation on encrypted data",
+                        "Encryption that changes form",
+                        "Encryption using homophones",
+                        "Encryption that requires identical keys"
+                    ],
+                    "answer": "Encryption that allows computation on encrypted data",
+                    "fun_fact": "This emerging technology could enable secure cloud processing of sensitive data without ever decrypting it."
+                },
+                {
+                    "question": "Which vulnerability involves malicious database queries?",
+                    "options": [
+                        "XSS",
+                        "CSRF",
+                        "SQL injection",
+                        "Buffer overflow"
+                    ],
+                    "answer": "SQL injection",
+                    "fun_fact": "SQL injection has been one of the top web application vulnerabilities for over 20 years, despite being well-understood."
+                },
+                {
+                    "question": "What is 'quantum resistance' in cryptography?",
+                    "options": [
+                        "Algorithms resistant to quantum computing attacks",
+                        "Encryption that uses quantum particles",
+                        "Security against brute force attacks",
+                        "Physical tamper resistance"
+                    ],
+                    "answer": "Algorithms resistant to quantum computing attacks",
+                    "fun_fact": "Quantum computers could potentially break current public-key cryptography, prompting development of post-quantum algorithms."
+                },
+                {
+                    "question": "Which concept describes attackers moving laterally through a network?",
+                    "options": [
+                        "Vertical escalation",
+                        "Lateral movement",
+                        "Radial expansion",
+                        "Horizontal scanning"
+                    ],
+                    "answer": "Lateral movement",
+                    "fun_fact": "After initial compromise, attackers often move laterally to find valuable data and systems within a network."
+                },
+                {
+                    "question": "What is 'side-channel attack'?",
+                    "options": [
+                        "Attacking through physical characteristics",
+                        "Attacking from a different network",
+                        "Using social engineering",
+                        "Exploiting backup channels"
+                    ],
+                    "answer": "Attacking through physical characteristics",
+                    "fun_fact": "These attacks exploit information like power consumption, electromagnetic leaks, or even sound to compromise systems."
+                },
+                {
+                    "question": "Which security framework is developed by NIST?",
+                    "options": [
+                        "ISO 27001",
+                        "PCI DSS",
+                        "NIST CSF",
+                        "GDPR"
+                    ],
+                    "answer": "NIST CSF",
+                    "fun_fact": "The NIST Cybersecurity Framework (CSF) provides voluntary guidance for organizations to manage cybersecurity risks."
+                },
+                {
+                    "question": "What is 'zero trust' architecture?",
+                    "options": [
+                        "Never trusting any user",
+                        "Verifying everything continuously",
+                        "Trusting only internal networks",
+                        "Eliminating all authentication"
+                    ],
+                    "answer": "Verifying everything continuously",
+                    "fun_fact": "Zero trust assumes breach and verifies each request as though it comes from an open network, regardless of origin."
+                },
+                {
+                    "question": "Which attack involves malicious scripts in web pages?",
+                    "options": [
+                        "XSS",
+                        "CSRF",
+                        "MITM",
+                        "DDoS"
+                    ],
+                    "answer": "XSS",
+                    "fun_fact": "Cross-site scripting (XSS) attacks can steal cookies, deface websites, or redirect users to malicious sites."
+                },
+                {
+                    "question": "What is 'threat modeling' in security?",
+                    "options": [
+                        "Identifying potential threats systematically",
+                        "Creating fake threats for testing",
+                        "Modeling attacker behavior",
+                        "Predicting future attack trends"
+                    ],
+                    "answer": "Identifying potential threats systematically",
+                    "fun_fact": "Threat modeling helps prioritize security efforts by analyzing what's most likely to be attacked and how."
+                },
+                {
+                    "question": "Which concept describes attackers remaining undetected in systems?",
+                    "options": [
+                        "Persistence",
+                        "Evasion",
+                        "Stealth",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Advanced attackers use multiple techniques to maintain long-term access while avoiding detection."
+                }
+            ]
+        }
+    },
+    "Internet and Web": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What does 'URL' stand for?",
+                    "options": [
+                        "Uniform Resource Locator",
+                        "Universal Reference Link",
+                        "United Resource Location",
+                        "Uniform Reference Locator"
+                    ],
+                    "answer": "Uniform Resource Locator",
+                    "fun_fact": "Tim Berners-Lee, inventor of the World Wide Web, also created the URL standard in 1994."
+                },
+                {
+                    "question": "Which protocol is used to transfer web pages?",
+                    "options": [
+                        "FTP",
+                        "HTTP",
+                        "SMTP",
+                        "TCP"
+                    ],
+                    "answer": "HTTP",
+                    "fun_fact": "HTTP (Hypertext Transfer Protocol) was originally designed to transfer HTML documents but now handles much more."
+                },
+                {
+                    "question": "What is the main purpose of a web browser?",
+                    "options": [
+                        "To create websites",
+                        "To view and interact with web pages",
+                        "To design graphics",
+                        "To send emails"
+                    ],
+                    "answer": "To view and interact with web pages",
+                    "fun_fact": "The first web browser, called WorldWideWeb (later Nexus), was created by Tim Berners-Lee in 1990."
+                },
+                {
+                    "question": "Which company developed the Chrome browser?",
+                    "options": [
+                        "Microsoft",
+                        "Apple",
+                        "Google",
+                        "Mozilla"
+                    ],
+                    "answer": "Google",
+                    "fun_fact": "Chrome was first released in 2008 and quickly became the most popular browser due to its speed and simplicity."
+                },
+                {
+                    "question": "What does 'www' stand for in a website address?",
+                    "options": [
+                        "World Wide Web",
+                        "Web World Wide",
+                        "World Web Wide",
+                        "Wide World Web"
+                    ],
+                    "answer": "World Wide Web",
+                    "fun_fact": "The 'www' prefix is technically optional in most URLs today, as modern web servers typically serve the same content with or without it."
+                },
+                {
+                    "question": "Which of these is NOT a search engine?",
+                    "options": [
+                        "Google",
+                        "Bing",
+                        "Firefox",
+                        "DuckDuckGo"
+                    ],
+                    "answer": "Firefox",
+                    "fun_fact": "Firefox is a web browser developed by Mozilla, not a search engine, though it can be configured to use various search engines."
+                },
+                {
+                    "question": "What does 'HTML' stand for?",
+                    "options": [
+                        "Hyper Text Markup Language",
+                        "High Tech Modern Language",
+                        "Home Tool Markup Language",
+                        "Hyperlinks and Text Markup Language"
+                    ],
+                    "answer": "Hyper Text Markup Language",
+                    "fun_fact": "The first version of HTML had only 18 tags, compared to over 100 in HTML5."
+                },
+                {
+                    "question": "Which symbol is used to start a CSS rule?",
+                    "options": [
+                        "{",
+                        "[",
+                        "<",
+                        "("
+                    ],
+                    "answer": "{",
+                    "fun_fact": "CSS (Cascading Style Sheets) was created to separate content from presentation, with the first version released in 1996."
+                },
+                {
+                    "question": "What is the purpose of JavaScript in web pages?",
+                    "options": [
+                        "To structure content",
+                        "To style elements",
+                        "To add interactivity",
+                        "To display images"
+                    ],
+                    "answer": "To add interactivity",
+                    "fun_fact": "JavaScript was created in just 10 days in 1995 by Brendan Eich while working at Netscape."
+                },
+                {
+                    "question": "Which of these is a popular website for watching videos?",
+                    "options": [
+                        "YouTube",
+                        "Wikipedia",
+                        "Amazon",
+                        "eBay"
+                    ],
+                    "answer": "YouTube",
+                    "fun_fact": "YouTube was founded in 2005 and was acquired by Google just one year later for $1.65 billion."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the purpose of DNS?",
+                    "options": [
+                        "To encrypt web traffic",
+                        "To translate domain names to IP addresses",
+                        "To create websites",
+                        "To store web pages"
+                    ],
+                    "answer": "To translate domain names to IP addresses",
+                    "fun_fact": "The DNS system is often called the 'phone book of the internet' and handles billions of requests daily."
+                },
+                {
+                    "question": "Which HTTP status code means 'Not Found'?",
+                    "options": [
+                        "200",
+                        "301",
+                        "404",
+                        "500"
+                    ],
+                    "answer": "404",
+                    "fun_fact": "The 404 error is so iconic that many websites create custom 404 pages with creative designs and helpful links."
+                },
+                {
+                    "question": "What is 'caching' in web technology?",
+                    "options": [
+                        "Storing data for faster future access",
+                        "Deleting old files",
+                        "Encrypting information",
+                        "Measuring website speed"
+                    ],
+                    "answer": "Storing data for faster future access",
+                    "fun_fact": "Web caching can dramatically improve performance - a browser cache might save 30-50% of bandwidth by reusing previously downloaded resources."
+                },
+                {
+                    "question": "Which technology allows websites to store data locally on a user's device?",
+                    "options": [
+                        "Cookies",
+                        "Local Storage",
+                        "Session Storage",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Modern web storage options evolved from simple cookies (limited to 4KB) to localStorage which can store several MB per domain."
+                },
+                {
+                    "question": "What does 'CDN' stand for?",
+                    "options": [
+                        "Content Delivery Network",
+                        "Computer Data Nexus",
+                        "Centralized Distribution Node",
+                        "Coded Data Network"
+                    ],
+                    "answer": "Content Delivery Network",
+                    "fun_fact": "CDNs work by distributing content across multiple geographically dispersed servers, reducing latency by serving files from locations closer to users."
+                },
+                {
+                    "question": "Which protocol is used for secure web connections?",
+                    "options": [
+                        "HTTP",
+                        "HTTPS",
+                        "FTP",
+                        "SMTP"
+                    ],
+                    "answer": "HTTPS",
+                    "fun_fact": "HTTPS uses TLS/SSL encryption, with the padlock icon in browsers indicating a secure connection."
+                },
+                {
+                    "question": "What is 'responsive web design'?",
+                    "options": [
+                        "Designs that adapt to different screen sizes",
+                        "Fast-loading websites",
+                        "Interactive elements",
+                        "Server-side rendering"
+                    ],
+                    "answer": "Designs that adapt to different screen sizes",
+                    "fun_fact": "The term 'responsive web design' was coined by Ethan Marcotte in 2010 as mobile internet usage began growing rapidly."
+                },
+                {
+                    "question": "Which of these is a front-end JavaScript framework?",
+                    "options": [
+                        "React",
+                        "Django",
+                        "Laravel",
+                        "Ruby on Rails"
+                    ],
+                    "answer": "React",
+                    "fun_fact": "React was developed by Facebook and introduced in 2013, popularizing the component-based architecture for web UIs."
+                },
+                {
+                    "question": "What is 'AJAX' in web development?",
+                    "options": [
+                        "A programming language",
+                        "A method for asynchronous web requests",
+                        "A database system",
+                        "A markup language"
+                    ],
+                    "answer": "A method for asynchronous web requests",
+                    "fun_fact": "AJAX (Asynchronous JavaScript and XML) revolutionized web apps by allowing data updates without full page reloads."
+                },
+                {
+                    "question": "Which company owns the GitHub platform?",
+                    "options": [
+                        "Google",
+                        "Microsoft",
+                        "Amazon",
+                        "IBM"
+                    ],
+                    "answer": "Microsoft",
+                    "fun_fact": "Microsoft acquired GitHub in 2018 for $7.5 billion, but has maintained it as an independent platform."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is 'WebAssembly'?",
+                    "options": [
+                        "A new programming language",
+                        "A binary instruction format for the web",
+                        "A web server",
+                        "A database protocol"
+                    ],
+                    "answer": "A binary instruction format for the web",
+                    "fun_fact": "WebAssembly allows near-native performance in web browsers and is supported by all major browsers since 2017."
+                },
+                {
+                    "question": "Which HTTP header prevents clickjacking attacks?",
+                    "options": [
+                        "X-Frame-Options",
+                        "Content-Security-Policy",
+                        "X-XSS-Protection",
+                        "Strict-Transport-Security"
+                    ],
+                    "answer": "X-Frame-Options",
+                    "fun_fact": "Clickjacking involves tricking users into clicking invisible or disguised elements, often using iframes."
+                },
+                {
+                    "question": "What is 'Same-Origin Policy' in web security?",
+                    "options": [
+                        "Restricts how documents interact with different origins",
+                        "Requires all assets from the same server",
+                        "Blocks all cross-site requests",
+                        "Encrypts all origin data"
+                    ],
+                    "answer": "Restricts how documents interact with different origins",
+                    "fun_fact": "This fundamental security policy prevents malicious scripts from accessing sensitive data from other sites."
+                },
+                {
+                    "question": "Which technology enables real-time bidirectional communication in web apps?",
+                    "options": [
+                        "WebSockets",
+                        "AJAX",
+                        "REST",
+                        "GraphQL"
+                    ],
+                    "answer": "WebSockets",
+                    "fun_fact": "WebSockets provide full-duplex communication over a single TCP connection, ideal for chat apps and live updates."
+                },
+                {
+                    "question": "What is 'JAMstack' in modern web development?",
+                    "options": [
+                        "JavaScript, APIs, and Markup",
+                        "A JavaScript framework",
+                        "A database architecture",
+                        "A server configuration"
+                    ],
+                    "answer": "JavaScript, APIs, and Markup",
+                    "fun_fact": "JAMstack architecture decouples frontend from backend, offering better performance, security, and scalability."
+                },
+                {
+                    "question": "Which concept describes sending only necessary data in GraphQL?",
+                    "options": [
+                        "Underfetching",
+                        "Overfetching",
+                        "Data stitching",
+                        "Query precision"
+                    ],
+                    "answer": "Query precision",
+                    "fun_fact": "GraphQL lets clients specify exactly what data they need, solving both overfetching and underfetching problems of REST."
+                },
+                {
+                    "question": "What is 'progressive enhancement' in web design?",
+                    "options": [
+                        "Starting with basic functionality then adding enhancements",
+                        "Making websites progressively larger",
+                        "Only supporting modern browsers",
+                        "Gradual performance improvements"
+                    ],
+                    "answer": "Starting with basic functionality then adding enhancements",
+                    "fun_fact": "This philosophy ensures websites work for all users and devices, then adds richer experiences for capable browsers."
+                },
+                {
+                    "question": "Which web performance metric measures time to interactive content?",
+                    "options": [
+                        "First Contentful Paint",
+                        "Time to First Byte",
+                        "Largest Contentful Paint",
+                        "First Meaningful Paint"
+                    ],
+                    "answer": "First Meaningful Paint",
+                    "fun_fact": "Modern web performance metrics focus on user-perceived performance rather than just technical measurements."
+                },
+                {
+                    "question": "What is 'serverless architecture' in web development?",
+                    "options": [
+                        "No servers are used",
+                        "Developers don't manage servers",
+                        "Only client-side code",
+                        "Peer-to-peer networking"
+                    ],
+                    "answer": "Developers don't manage servers",
+                    "fun_fact": "Despite the name, serverless still uses servers - the cloud provider manages the infrastructure automatically."
+                },
+                {
+                    "question": "Which protocol enables decentralized websites on IPFS?",
+                    "options": [
+                        "HTTP",
+                        "HTTPS",
+                        "FTP",
+                        "None of the above"
+                    ],
+                    "answer": "None of the above",
+                    "fun_fact": "IPFS (InterPlanetary File System) uses its own protocol for content-addressed, peer-to-peer hypermedia distribution."
+                }
+            ]
+        }
+    }
+}

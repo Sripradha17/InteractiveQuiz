@@ -1,0 +1,1702 @@
+{
+    "Ancient Egypt": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What river was crucial to the development of Ancient Egyptian civilization?",
+                    "options": [
+                        "Nile",
+                        "Tigris",
+                        "Euphrates",
+                        "Jordan"
+                    ],
+                    "answer": "Nile",
+                    "fun_fact": "The Nile's annual flooding created fertile soil that allowed Egyptian agriculture to flourish."
+                },
+                {
+                    "question": "Who was the boy king of Egypt whose intact tomb was discovered in 1922?",
+                    "options": [
+                        "Ramses II",
+                        "Tutankhamun",
+                        "Cleopatra",
+                        "Akhenaten"
+                    ],
+                    "answer": "Tutankhamun",
+                    "fun_fact": "Tutankhamun became pharaoh at age 9 and died around age 18."
+                },
+                {
+                    "question": "What writing system did ancient Egyptians use?",
+                    "options": [
+                        "Cuneiform",
+                        "Hieroglyphics",
+                        "Alphabet",
+                        "Sanskrit"
+                    ],
+                    "answer": "Hieroglyphics",
+                    "fun_fact": "Hieroglyphics were deciphered using the Rosetta Stone which contained the same text in three scripts."
+                },
+                {
+                    "question": "What were the massive tombs built for pharaohs called?",
+                    "options": [
+                        "Ziggurats",
+                        "Pyramids",
+                        "Temples",
+                        "Mastabas"
+                    ],
+                    "answer": "Pyramids",
+                    "fun_fact": "The Great Pyramid of Giza is the only surviving wonder of the ancient world."
+                },
+                {
+                    "question": "Which female pharaoh dressed as a man to strengthen her claim to the throne?",
+                    "options": [
+                        "Nefertiti",
+                        "Cleopatra",
+                        "Hatshepsut",
+                        "Merneith"
+                    ],
+                    "answer": "Hatshepsut",
+                    "fun_fact": "Hatshepsut was one of Egypt's most successful rulers, reigning for about 22 years."
+                },
+                {
+                    "question": "What plant grew along the Nile and was used to make paper?",
+                    "options": [
+                        "Papyrus",
+                        "Bamboo",
+                        "Flax",
+                        "Reed"
+                    ],
+                    "answer": "Papyrus",
+                    "fun_fact": "The word 'paper' comes from 'papyrus'."
+                },
+                {
+                    "question": "Who was the sun god worshipped by ancient Egyptians?",
+                    "options": [
+                        "Osiris",
+                        "Anubis",
+                        "Ra",
+                        "Horus"
+                    ],
+                    "answer": "Ra",
+                    "fun_fact": "Ra was believed to travel across the sky by day and through the underworld by night."
+                },
+                {
+                    "question": "What was the process of preserving dead bodies called in ancient Egypt?",
+                    "options": [
+                        "Cremation",
+                        "Mummification",
+                        "Embalming",
+                        "Taxidermy"
+                    ],
+                    "answer": "Mummification",
+                    "fun_fact": "The process took about 70 days and involved removing internal organs except the heart."
+                },
+                {
+                    "question": "Which famous queen had relationships with Julius Caesar and Mark Antony?",
+                    "options": [
+                        "Nefertiti",
+                        "Cleopatra",
+                        "Hatshepsut",
+                        "Nitocris"
+                    ],
+                    "answer": "Cleopatra",
+                    "fun_fact": "Cleopatra was actually Greek, descended from one of Alexander the Great's generals."
+                },
+                {
+                    "question": "What animal was considered sacred in ancient Egypt?",
+                    "options": [
+                        "Falcon",
+                        "Hippopotamus",
+                        "Crocodile",
+                        "Cat"
+                    ],
+                    "answer": "Cat",
+                    "fun_fact": "Killing a cat, even accidentally, was punishable by death in ancient Egypt."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What was the capital of Egypt during most of the Old Kingdom period?",
+                    "options": [
+                        "Thebes",
+                        "Alexandria",
+                        "Memphis",
+                        "Luxor"
+                    ],
+                    "answer": "Memphis",
+                    "fun_fact": "Memphis was founded around 3100 BCE and was the capital for over 800 years."
+                },
+                {
+                    "question": "Which pharaoh attempted to establish monotheism by worshipping only Aten?",
+                    "options": [
+                        "Tutankhamun",
+                        "Ramses II",
+                        "Akhenaten",
+                        "Thutmose III"
+                    ],
+                    "answer": "Akhenaten",
+                    "fun_fact": "This religious revolution was reversed soon after Akhenaten's death."
+                },
+                {
+                    "question": "What was the name of the script developed as a simplified form of hieroglyphics for everyday use?",
+                    "options": [
+                        "Demotic",
+                        "Hieratic",
+                        "Coptic",
+                        "Meroitic"
+                    ],
+                    "answer": "Hieratic",
+                    "fun_fact": "Hieratic script was used for about 2,000 years before being replaced by Demotic."
+                },
+                {
+                    "question": "Which battle in 1274 BCE between Egypt and the Hittites is one of the earliest recorded battles?",
+                    "options": [
+                        "Battle of Megiddo",
+                        "Battle of Kadesh",
+                        "Battle of Carchemish",
+                        "Battle of Qadesh"
+                    ],
+                    "answer": "Battle of Kadesh",
+                    "fun_fact": "Both sides claimed victory in this battle, which may have involved 5,000-6,000 chariots."
+                },
+                {
+                    "question": "What was the name of the last native Egyptian dynasty before Persian conquest?",
+                    "options": [
+                        "Twenty-sixth Dynasty",
+                        "Thirtieth Dynasty",
+                        "Twenty-eighth Dynasty",
+                        "Thirty-first Dynasty"
+                    ],
+                    "answer": "Thirtieth Dynasty",
+                    "fun_fact": "This dynasty ruled from 380 BCE to 343 BCE before being overthrown by the Persians."
+                },
+                {
+                    "question": "Which famous female pharaoh was the chief wife of Akhenaten?",
+                    "options": [
+                        "Nefertiti",
+                        "Hatshepsut",
+                        "Cleopatra",
+                        "Tiye"
+                    ],
+                    "answer": "Nefertiti",
+                    "fun_fact": "Nefertiti may have ruled as co-regent and perhaps independently after Akhenaten's death."
+                },
+                {
+                    "question": "What was the name of the calendar developed by ancient Egyptians?",
+                    "options": [
+                        "Solar calendar",
+                        "Lunar calendar",
+                        "Sothic calendar",
+                        "Nile calendar"
+                    ],
+                    "answer": "Solar calendar",
+                    "fun_fact": "The Egyptian solar calendar had 365 days divided into 12 months of 30 days plus 5 extra days."
+                },
+                {
+                    "question": "Which Nubian dynasty ruled Egypt during the 25th Dynasty?",
+                    "options": [
+                        "Kushite",
+                        "Meroitic",
+                        "Napatan",
+                        "Nubian"
+                    ],
+                    "answer": "Kushite",
+                    "fun_fact": "The Kushite pharaohs promoted a return to Egyptian traditions after the Third Intermediate Period."
+                },
+                {
+                    "question": "What was the name of the administrative region in ancient Egypt?",
+                    "options": [
+                        "Satrapy",
+                        "Nome",
+                        "Province",
+                        "District"
+                    ],
+                    "answer": "Nome",
+                    "fun_fact": "There were originally 42 nomes - 22 in Upper Egypt and 20 in Lower Egypt."
+                },
+                {
+                    "question": "Which famous stone helped decipher Egyptian hieroglyphs?",
+                    "options": [
+                        "Rosetta Stone",
+                        "Black Stone",
+                        "Stele of Hammurabi",
+                        "Narmer Palette"
+                    ],
+                    "answer": "Rosetta Stone",
+                    "fun_fact": "The Rosetta Stone contains the same text in Greek, Demotic, and Hieroglyphic scripts."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which pharaoh of the 19th Dynasty is known for his extensive building programs and long reign?",
+                    "options": [
+                        "Thutmose III",
+                        "Amenhotep III",
+                        "Ramses II",
+                        "Seti I"
+                    ],
+                    "answer": "Ramses II",
+                    "fun_fact": "Ramses II ruled for 66 years and may have fathered over 100 children."
+                },
+                {
+                    "question": "What was the name of the capital established by Akhenaten for his new religion?",
+                    "options": [
+                        "Amarna",
+                        "Akhetaten",
+                        "Aten-Ra",
+                        "Horizon of Aten"
+                    ],
+                    "answer": "Akhetaten",
+                    "fun_fact": "The city was abandoned shortly after Akhenaten's death and is now known as Amarna."
+                },
+                {
+                    "question": "Which queen of Egypt was the mother of Akhenaten and possibly ruled as pharaoh?",
+                    "options": [
+                        "Nefertiti",
+                        "Tiye",
+                        "Hatshepsut",
+                        "Meritaten"
+                    ],
+                    "answer": "Tiye",
+                    "fun_fact": "Tiye was of Nubian descent and wielded considerable influence during her son's reign."
+                },
+                {
+                    "question": "What was the name of the intermediate period between the Old and Middle Kingdoms?",
+                    "options": [
+                        "First Intermediate Period",
+                        "Second Intermediate Period",
+                        "Third Intermediate Period",
+                        "Hyksos Period"
+                    ],
+                    "answer": "First Intermediate Period",
+                    "fun_fact": "This was a time of political fragmentation and instability lasting about 125 years."
+                },
+                {
+                    "question": "Which Nubian kingdom conquered Egypt in the 8th century BCE?",
+                    "options": [
+                        "Meroë",
+                        "Napata",
+                        "Kerma",
+                        "Kush"
+                    ],
+                    "answer": "Kush",
+                    "fun_fact": "The Kushite rulers of Egypt's 25th Dynasty promoted themselves as restorers of Egyptian tradition."
+                },
+                {
+                    "question": "What was the name of the female pharaoh who ruled during the 12th Dynasty?",
+                    "options": [
+                        "Sobekneferu",
+                        "Nitocris",
+                        "Neithhotep",
+                        "Merneith"
+                    ],
+                    "answer": "Sobekneferu",
+                    "fun_fact": "Sobekneferu was the first confirmed female pharaoh of Egypt, ruling for about 4 years."
+                },
+                {
+                    "question": "Which Hyksos king introduced the horse and chariot to Egypt?",
+                    "options": [
+                        "Apepi",
+                        "Khyan",
+                        "Salitis",
+                        "Apophis"
+                    ],
+                    "answer": "Apepi",
+                    "fun_fact": "The Hyksos ruled during the Second Intermediate Period and were eventually expelled by Ahmose I."
+                },
+                {
+                    "question": "What was the name of the vizier who designed Djoser's Step Pyramid?",
+                    "options": [
+                        "Hemiunu",
+                        "Imhotep",
+                        "Amenhotep",
+                        "Ptahhotep"
+                    ],
+                    "answer": "Imhotep",
+                    "fun_fact": "Imhotep was later deified as a god of medicine and healing."
+                },
+                {
+                    "question": "Which pharaoh's intact tomb was discovered by Howard Carter in 1922?",
+                    "options": [
+                        "Seti I",
+                        "Ramses VI",
+                        "Tutankhamun",
+                        "Amenhotep II"
+                    ],
+                    "answer": "Tutankhamun",
+                    "fun_fact": "The tomb contained over 5,000 artifacts and took nearly 10 years to catalog."
+                },
+                {
+                    "question": "What was the name of the last active hieroglyphic inscription, dated to 394 CE?",
+                    "options": [
+                        "Philae Graffito",
+                        "Esna Temple inscription",
+                        "Dendera inscription",
+                        "Kom Ombo text"
+                    ],
+                    "answer": "Philae Graffito",
+                    "fun_fact": "This marks the end of nearly 3,500 years of Egyptian hieroglyphic writing."
+                }
+            ]
+        }
+    },
+    "Roman Empire": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who was the first emperor of Rome?",
+                    "options": [
+                        "Julius Caesar",
+                        "Augustus",
+                        "Nero",
+                        "Marcus Aurelius"
+                    ],
+                    "answer": "Augustus",
+                    "fun_fact": "Augustus was originally named Octavian and was Julius Caesar's adopted heir."
+                },
+                {
+                    "question": "What was the common language of the Roman Empire?",
+                    "options": [
+                        "Greek",
+                        "Latin",
+                        "Etruscan",
+                        "Aramaic"
+                    ],
+                    "answer": "Latin",
+                    "fun_fact": "Latin evolved into the Romance languages: Italian, French, Spanish, Portuguese, and Romanian."
+                },
+                {
+                    "question": "Where did gladiators fight in Rome?",
+                    "options": [
+                        "Circus Maximus",
+                        "Pantheon",
+                        "Colosseum",
+                        "Forum"
+                    ],
+                    "answer": "Colosseum",
+                    "fun_fact": "The Colosseum could hold 50,000-80,000 spectators and hosted mock sea battles."
+                },
+                {
+                    "question": "Which volcano destroyed Pompeii in 79 CE?",
+                    "options": [
+                        "Mount Etna",
+                        "Mount Vesuvius",
+                        "Stromboli",
+                        "Mount Aetna"
+                    ],
+                    "answer": "Mount Vesuvius",
+                    "fun_fact": "Pompeii was preserved under volcanic ash, providing remarkable insights into Roman life."
+                },
+                {
+                    "question": "What were Roman foot soldiers called?",
+                    "options": [
+                        "Centurions",
+                        "Gladiators",
+                        "Legionaries",
+                        "Hoplites"
+                    ],
+                    "answer": "Legionaries",
+                    "fun_fact": "Roman soldiers carried about 60 pounds of equipment on long marches."
+                },
+                {
+                    "question": "Which emperor built a wall in northern Britain?",
+                    "options": [
+                        "Hadrian",
+                        "Trajan",
+                        "Constantine",
+                        "Nero"
+                    ],
+                    "answer": "Hadrian",
+                    "fun_fact": "Hadrian's Wall stretched 73 miles across northern England and took 6 years to build."
+                },
+                {
+                    "question": "What was the center of political life in Rome?",
+                    "options": [
+                        "Colosseum",
+                        "Circus Maximus",
+                        "Roman Forum",
+                        "Pantheon"
+                    ],
+                    "answer": "Roman Forum",
+                    "fun_fact": "The Forum was the site of triumphal processions, elections, and public speeches."
+                },
+                {
+                    "question": "Who was the Carthaginian general who crossed the Alps with elephants?",
+                    "options": [
+                        "Hannibal",
+                        "Scipio",
+                        "Hasdrubal",
+                        "Mago"
+                    ],
+                    "answer": "Hannibal",
+                    "fun_fact": "Hannibal lost most of his elephants during the crossing of the Alps."
+                },
+                {
+                    "question": "What was the period of peace and prosperity in the Roman Empire called?",
+                    "options": [
+                        "Pax Romana",
+                        "Golden Age",
+                        "Imperial Peace",
+                        "Roman Peace"
+                    ],
+                    "answer": "Pax Romana",
+                    "fun_fact": "The Pax Romana lasted approximately 200 years from 27 BCE to 180 CE."
+                },
+                {
+                    "question": "Which emperor converted to Christianity?",
+                    "options": [
+                        "Diocletian",
+                        "Constantine",
+                        "Nero",
+                        "Julian"
+                    ],
+                    "answer": "Constantine",
+                    "fun_fact": "Constantine issued the Edict of Milan in 313 CE, legalizing Christianity in the empire."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What was the name of the series of wars between Rome and Carthage?",
+                    "options": [
+                        "Gallic Wars",
+                        "Punic Wars",
+                        "Macedonian Wars",
+                        "Samnite Wars"
+                    ],
+                    "answer": "Punic Wars",
+                    "fun_fact": "There were three Punic Wars spanning over a century (264-146 BCE)."
+                },
+                {
+                    "question": "Which emperor divided the empire into eastern and western halves?",
+                    "options": [
+                        "Constantine",
+                        "Diocletian",
+                        "Theodosius",
+                        "Hadrian"
+                    ],
+                    "answer": "Diocletian",
+                    "fun_fact": "Diocletian established the Tetrarchy system with two senior and two junior emperors."
+                },
+                {
+                    "question": "What was the name of Rome's first law code?",
+                    "options": [
+                        "Twelve Tables",
+                        "Justinian Code",
+                        "Law of Nations",
+                        "Edict of Milan"
+                    ],
+                    "answer": "Twelve Tables",
+                    "fun_fact": "The Twelve Tables were inscribed on bronze tablets and displayed in the Forum around 450 BCE."
+                },
+                {
+                    "question": "Which emperor famously 'fiddled while Rome burned'?",
+                    "options": [
+                        "Caligula",
+                        "Nero",
+                        "Commodus",
+                        "Elagabalus"
+                    ],
+                    "answer": "Nero",
+                    "fun_fact": "The story is likely a myth as the fiddle hadn't been invented yet, and Nero was actually away from Rome when the fire started."
+                },
+                {
+                    "question": "What was the name of the slave who led a major rebellion against Rome?",
+                    "options": [
+                        "Spartacus",
+                        "Virgil",
+                        "Crixus",
+                        "Oenomaus"
+                    ],
+                    "answer": "Spartacus",
+                    "fun_fact": "Spartacus's rebellion lasted two years (73-71 BCE) before being crushed by Crassus."
+                },
+                {
+                    "question": "Which Roman general was defeated by Hannibal at Cannae?",
+                    "options": [
+                        "Scipio Africanus",
+                        "Julius Caesar",
+                        "Lucius Aemilius Paullus",
+                        "Varro"
+                    ],
+                    "answer": "Varro",
+                    "fun_fact": "The Battle of Cannae (216 BCE) is considered one of the worst defeats in Roman history, with possibly 50,000 Romans killed."
+                },
+                {
+                    "question": "What was the name of the eastern Roman Empire that survived after the west fell?",
+                    "options": [
+                        "Ottoman Empire",
+                        "Byzantine Empire",
+                        "Holy Roman Empire",
+                        "Latin Empire"
+                    ],
+                    "answer": "Byzantine Empire",
+                    "fun_fact": "The Byzantine Empire lasted nearly 1,000 years after the fall of Rome until 1453."
+                },
+                {
+                    "question": "Which emperor made Christianity the official religion of the Roman Empire?",
+                    "options": [
+                        "Constantine",
+                        "Theodosius I",
+                        "Justinian",
+                        "Julian"
+                    ],
+                    "answer": "Theodosius I",
+                    "fun_fact": "Theodosius issued the Edict of Thessalonica in 380 CE, making Nicene Christianity the state religion."
+                },
+                {
+                    "question": "What was the name of the professional Roman army units?",
+                    "options": [
+                        "Cohorts",
+                        "Legions",
+                        "Centuries",
+                        "Maniples"
+                    ],
+                    "answer": "Legions",
+                    "fun_fact": "A full Roman legion consisted of about 5,000 heavily armed infantry soldiers."
+                },
+                {
+                    "question": "Which famous Roman leader was assassinated on the Ides of March?",
+                    "options": [
+                        "Augustus",
+                        "Mark Antony",
+                        "Julius Caesar",
+                        "Pompey"
+                    ],
+                    "answer": "Julius Caesar",
+                    "fun_fact": "Caesar was stabbed 23 times by a group of senators led by Brutus and Cassius in 44 BCE."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which emperor built the massive bath complex that still stands in Rome today?",
+                    "options": [
+                        "Caracalla",
+                        "Nero",
+                        "Trajan",
+                        "Hadrian"
+                    ],
+                    "answer": "Caracalla",
+                    "fun_fact": "The Baths of Caracalla could accommodate 1,600 bathers and included libraries and exercise areas."
+                },
+                {
+                    "question": "What was the name of the crisis in the 3rd century marked by frequent imperial turnover?",
+                    "options": [
+                        "Imperial Crisis",
+                        "Crisis of the Third Century",
+                        "Military Anarchy",
+                        "Year of the Five Emperors"
+                    ],
+                    "answer": "Crisis of the Third Century",
+                    "fun_fact": "During this 50-year period, Rome had over 20 emperors, most reigning for just a few years."
+                },
+                {
+                    "question": "Which Roman emperor famously made his horse a consul?",
+                    "options": [
+                        "Nero",
+                        "Caligula",
+                        "Commodus",
+                        "Elagabalus"
+                    ],
+                    "answer": "Caligula",
+                    "fun_fact": "The story may be apocryphal, but it illustrates Caligula's erratic and tyrannical behavior."
+                },
+                {
+                    "question": "What was the name of the last western Roman emperor?",
+                    "options": [
+                        "Romulus Augustulus",
+                        "Julius Nepos",
+                        "Odoacer",
+                        "Honorius"
+                    ],
+                    "answer": "Romulus Augustulus",
+                    "fun_fact": "His deposition in 476 CE by Odoacer is traditionally marked as the fall of the Western Roman Empire."
+                },
+                {
+                    "question": "Which Roman general defeated Mark Antony and Cleopatra at Actium?",
+                    "options": [
+                        "Julius Caesar",
+                        "Pompey",
+                        "Augustus",
+                        "Tiberius"
+                    ],
+                    "answer": "Augustus",
+                    "fun_fact": "This naval battle in 31 BCE marked the end of the Roman Republic and beginning of the Empire."
+                },
+                {
+                    "question": "What was the name of the legal code commissioned by Justinian I?",
+                    "options": [
+                        "Twelve Tables",
+                        "Code of Hammurabi",
+                        "Corpus Juris Civilis",
+                        "Theodosian Code"
+                    ],
+                    "answer": "Corpus Juris Civilis",
+                    "fun_fact": "This code formed the basis of civil law in many modern European countries."
+                },
+                {
+                    "question": "Which Germanic leader sacked Rome in 410 CE?",
+                    "options": [
+                        "Attila",
+                        "Alaric",
+                        "Odoacer",
+                        "Theodoric"
+                    ],
+                    "answer": "Alaric",
+                    "fun_fact": "This was the first time Rome had been sacked in 800 years, shocking the Roman world."
+                },
+                {
+                    "question": "What was the name of the Roman province where Jesus was born?",
+                    "options": [
+                        "Galilee",
+                        "Judea",
+                        "Samaria",
+                        "Decapolis"
+                    ],
+                    "answer": "Judea",
+                    "fun_fact": "Judea was a client kingdom of Rome during Jesus's lifetime before becoming a full province in 6 CE."
+                },
+                {
+                    "question": "Which emperor built a massive wall in northern Britain?",
+                    "options": [
+                        "Hadrian",
+                        "Antoninus Pius",
+                        "Septimius Severus",
+                        "Claudius"
+                    ],
+                    "answer": "Hadrian",
+                    "fun_fact": "Hadrian's Wall marked the northern limit of Roman Britain and took about 6 years to build."
+                },
+                {
+                    "question": "What was the name of the eastern capital founded by Constantine?",
+                    "options": [
+                        "Byzantium",
+                        "Constantinople",
+                        "Nova Roma",
+                        "Istanbul"
+                    ],
+                    "answer": "Constantinople",
+                    "fun_fact": "Constantinople (modern Istanbul) became the capital of the Eastern Roman Empire for over 1,000 years."
+                }
+            ]
+        }
+    },
+    "World War II": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which countries were the main Axis powers in WWII?",
+                    "options": [
+                        "Germany, Italy, Japan",
+                        "Germany, Soviet Union, Japan",
+                        "Italy, France, Germany",
+                        "Japan, China, Germany"
+                    ],
+                    "answer": "Germany, Italy, Japan",
+                    "fun_fact": "The Axis powers were formally linked by the Tripartite Pact signed in September 1940."
+                },
+                {
+                    "question": "When did WWII begin with Germany's invasion of Poland?",
+                    "options": [
+                        "1937",
+                        "1939",
+                        "1941",
+                        "1938"
+                    ],
+                    "answer": "1939",
+                    "fun_fact": "Britain and France declared war on Germany two days after the invasion, on September 3, 1939."
+                },
+                {
+                    "question": "Which event caused the United States to enter WWII?",
+                    "options": [
+                        "Sinking of the Lusitania",
+                        "Bombing of London",
+                        "Attack on Pearl Harbor",
+                        "Invasion of Poland"
+                    ],
+                    "answer": "Attack on Pearl Harbor",
+                    "fun_fact": "The attack on December 7, 1941 destroyed or damaged 19 U.S. ships and 300 aircraft."
+                },
+                {
+                    "question": "Who was the leader of Nazi Germany during WWII?",
+                    "options": [
+                        "Benito Mussolini",
+                        "Adolf Hitler",
+                        "Joseph Goebbels",
+                        "Hermann Göring"
+                    ],
+                    "answer": "Adolf Hitler",
+                    "fun_fact": "Hitler committed suicide in his Berlin bunker on April 30, 1945 as Soviet forces closed in."
+                },
+                {
+                    "question": "What was the Holocaust?",
+                    "options": [
+                        "German bombing campaign",
+                        "Japanese internment camps",
+                        "Nazi genocide of Jews",
+                        "Allied invasion of Europe"
+                    ],
+                    "answer": "Nazi genocide of Jews",
+                    "fun_fact": "Approximately 6 million Jews were murdered in the Holocaust along with millions of others."
+                },
+                {
+                    "question": "Where were atomic bombs dropped in 1945?",
+                    "options": [
+                        "Berlin and Dresden",
+                        "Hiroshima and Nagasaki",
+                        "Tokyo and Osaka",
+                        "London and Manchester"
+                    ],
+                    "answer": "Hiroshima and Nagasaki",
+                    "fun_fact": "The bomb on Hiroshima killed about 140,000 people; Nagasaki about 74,000."
+                },
+                {
+                    "question": "What was D-Day?",
+                    "options": [
+                        "Germany's invasion of Russia",
+                        "Allied invasion of Normandy",
+                        "Battle of Britain",
+                        "Pearl Harbor attack"
+                    ],
+                    "answer": "Allied invasion of Normandy",
+                    "fun_fact": "On June 6, 1944, over 156,000 Allied troops landed on five beaches in Normandy, France."
+                },
+                {
+                    "question": "Which country was not occupied by Germany during WWII?",
+                    "options": [
+                        "France",
+                        "Poland",
+                        "Britain",
+                        "Norway"
+                    ],
+                    "answer": "Britain",
+                    "fun_fact": "Though heavily bombed during the Blitz, Britain successfully resisted German invasion."
+                },
+                {
+                    "question": "Who was the British Prime Minister during most of WWII?",
+                    "options": [
+                        "Neville Chamberlain",
+                        "Winston Churchill",
+                        "Clement Attlee",
+                        "Anthony Eden"
+                    ],
+                    "answer": "Winston Churchill",
+                    "fun_fact": "Churchill's speeches were instrumental in boosting British morale during the war."
+                },
+                {
+                    "question": "What was the Manhattan Project?",
+                    "options": [
+                        "Codebreaking operation",
+                        "Atomic bomb development",
+                        "Spy network",
+                        "Rescue mission"
+                    ],
+                    "answer": "Atomic bomb development",
+                    "fun_fact": "The project employed over 130,000 people and cost nearly $2 billion (about $23 billion today)."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which battle was the turning point on the Eastern Front?",
+                    "options": [
+                        "Battle of Moscow",
+                        "Battle of Stalingrad",
+                        "Battle of Kursk",
+                        "Siege of Leningrad"
+                    ],
+                    "answer": "Battle of Stalingrad",
+                    "fun_fact": "This brutal battle resulted in nearly 2 million casualties and marked the beginning of Germany's retreat from Russia."
+                },
+                {
+                    "question": "What was the 'Final Solution'?",
+                    "options": [
+                        "German invasion plan",
+                        "Allied peace terms",
+                        "Nazi plan to kill Jews",
+                        "Japanese surrender strategy"
+                    ],
+                    "answer": "Nazi plan to kill Jews",
+                    "fun_fact": "The Wannsee Conference in January 1942 coordinated the implementation of the Final Solution."
+                },
+                {
+                    "question": "Which country switched from Axis to Allies during the war?",
+                    "options": [
+                        "Italy",
+                        "Japan",
+                        "Romania",
+                        "Bulgaria"
+                    ],
+                    "answer": "Italy",
+                    "fun_fact": "Italy surrendered in 1943 after Mussolini was overthrown, then declared war on Germany."
+                },
+                {
+                    "question": "What was the largest concentration camp?",
+                    "options": [
+                        "Dachau",
+                        "Auschwitz",
+                        "Treblinka",
+                        "Bergen-Belsen"
+                    ],
+                    "answer": "Auschwitz",
+                    "fun_fact": "Approximately 1.1 million people were killed at Auschwitz-Birkenau, about 90% of them Jews."
+                },
+                {
+                    "question": "Which battle was the largest tank battle in history?",
+                    "options": [
+                        "Battle of the Bulge",
+                        "Battle of Kursk",
+                        "Battle of El Alamein",
+                        "Battle of Berlin"
+                    ],
+                    "answer": "Battle of Kursk",
+                    "fun_fact": "At Kursk in 1943, about 6,000 tanks, 4,000 aircraft and 2 million troops clashed."
+                },
+                {
+                    "question": "What was the code name for Nazi Germany's invasion of the Soviet Union?",
+                    "options": [
+                        "Operation Barbarossa",
+                        "Operation Sea Lion",
+                        "Operation Overlord",
+                        "Operation Torch"
+                    ],
+                    "answer": "Operation Barbarossa",
+                    "fun_fact": "Launched in June 1941, it was the largest military operation in history with over 4 million Axis troops."
+                },
+                {
+                    "question": "Which conference decided Germany's post-war division?",
+                    "options": [
+                        "Yalta",
+                        "Potsdam",
+                        "Tehran",
+                        "Casablanca"
+                    ],
+                    "answer": "Yalta",
+                    "fun_fact": "At Yalta in February 1945, Churchill, Roosevelt and Stalin planned the post-war world."
+                },
+                {
+                    "question": "What was the name of the German air force?",
+                    "options": [
+                        "Kriegsmarine",
+                        "Wehrmacht",
+                        "Luftwaffe",
+                        "Panzer"
+                    ],
+                    "answer": "Luftwaffe",
+                    "fun_fact": "The Luftwaffe conducted the Blitz against Britain but lost the Battle of Britain in 1940."
+                },
+                {
+                    "question": "Which country suffered the highest military casualties in WWII?",
+                    "options": [
+                        "United States",
+                        "Soviet Union",
+                        "Germany",
+                        "Japan"
+                    ],
+                    "answer": "Soviet Union",
+                    "fun_fact": "The USSR lost an estimated 10-11 million soldiers and 15-20 million civilians."
+                },
+                {
+                    "question": "What was the 'Night of Broken Glass' in Nazi Germany?",
+                    "options": [
+                        "First Allied bombing",
+                        "Anti-Jewish pogrom",
+                        "Attempted coup",
+                        "Surrender announcement"
+                    ],
+                    "answer": "Anti-Jewish pogrom",
+                    "fun_fact": "Kristallnacht in November 1938 saw the destruction of Jewish businesses and synagogues across Germany."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which German field marshal was known as the 'Desert Fox'?",
+                    "options": [
+                        "Gerd von Rundstedt",
+                        "Erwin Rommel",
+                        "Heinz Guderian",
+                        "Friedrich Paulus"
+                    ],
+                    "answer": "Erwin Rommel",
+                    "fun_fact": "Rommel commanded German forces in North Africa and was implicated in the plot to kill Hitler."
+                },
+                {
+                    "question": "What was the code name for the Allied invasion of North Africa?",
+                    "options": [
+                        "Operation Torch",
+                        "Operation Husky",
+                        "Operation Overlord",
+                        "Operation Dragoon"
+                    ],
+                    "answer": "Operation Torch",
+                    "fun_fact": "This November 1942 operation marked the first major Allied offensive in the European theater."
+                },
+                {
+                    "question": "Which battle marked the end of Japanese expansion in the Pacific?",
+                    "options": [
+                        "Battle of Midway",
+                        "Battle of Iwo Jima",
+                        "Battle of Okinawa",
+                        "Battle of Coral Sea"
+                    ],
+                    "answer": "Battle of Midway",
+                    "fun_fact": "At Midway in June 1942, the US sank four Japanese carriers, turning the tide in the Pacific."
+                },
+                {
+                    "question": "What was the name of the Japanese suicide pilots?",
+                    "options": [
+                        "Bushido",
+                        "Kamikaze",
+                        "Harakiri",
+                        "Seppuku"
+                    ],
+                    "answer": "Kamikaze",
+                    "fun_fact": "Kamikaze means 'divine wind' and refers to a typhoon that destroyed a Mongol invasion fleet in 1281."
+                },
+                {
+                    "question": "Which country was divided into occupation zones after WWII?",
+                    "options": [
+                        "Japan",
+                        "Italy",
+                        "Germany",
+                        "France"
+                    ],
+                    "answer": "Germany",
+                    "fun_fact": "Germany was divided into American, British, French and Soviet zones, leading to East and West Germany."
+                },
+                {
+                    "question": "What was the name of the US program to supply allies before entering the war?",
+                    "options": [
+                        "Marshall Plan",
+                        "Lend-Lease",
+                        "Cash and Carry",
+                        "Atlantic Charter"
+                    ],
+                    "answer": "Lend-Lease",
+                    "fun_fact": "The US sent $50 billion (about $650 billion today) in supplies to allies under Lend-Lease."
+                },
+                {
+                    "question": "Which battle was Hitler's last major offensive in the west?",
+                    "options": [
+                        "Battle of the Bulge",
+                        "Battle of France",
+                        "D-Day",
+                        "Operation Market Garden"
+                    ],
+                    "answer": "Battle of the Bulge",
+                    "fun_fact": "The December 1944 offensive created a 'bulge' in Allied lines but ultimately failed."
+                },
+                {
+                    "question": "What was the name of the Nazi's main anti-aircraft gun?",
+                    "options": [
+                        "Flak 88",
+                        "Panzerfaust",
+                        "MG42",
+                        "StG44"
+                    ],
+                    "answer": "Flak 88",
+                    "fun_fact": "The versatile 88mm gun was used against aircraft, tanks and fortifications."
+                },
+                {
+                    "question": "Which country developed the first operational jet fighter?",
+                    "options": [
+                        "United States",
+                        "Britain",
+                        "Germany",
+                        "Soviet Union"
+                    ],
+                    "answer": "Germany",
+                    "fun_fact": "The Messerschmitt Me 262 entered service in 1944 but came too late to affect the war's outcome."
+                },
+                {
+                    "question": "What was the code name for the Allied deception plan before D-Day?",
+                    "options": [
+                        "Operation Bodyguard",
+                        "Operation Fortitude",
+                        "Operation Mincemeat",
+                        "Operation Quicksilver"
+                    ],
+                    "answer": "Operation Fortitude",
+                    "fun_fact": "This elaborate deception made Germans believe the invasion would come at Calais rather than Normandy."
+                }
+            ]
+        }
+    },
+    "American Revolution": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "In what year did the American Revolution begin?",
+                    "options": [
+                        "1775",
+                        "1776",
+                        "1781",
+                        "1765"
+                    ],
+                    "answer": "1775",
+                    "fun_fact": "The first shots were fired at Lexington and Concord in April 1775."
+                },
+                {
+                    "question": "Who was the main author of the Declaration of Independence?",
+                    "options": [
+                        "George Washington",
+                        "Thomas Jefferson",
+                        "Benjamin Franklin",
+                        "John Adams"
+                    ],
+                    "answer": "Thomas Jefferson",
+                    "fun_fact": "Jefferson wrote the first draft in just a few days in June 1776."
+                },
+                {
+                    "question": "Which country helped the American colonies win independence?",
+                    "options": [
+                        "Spain",
+                        "France",
+                        "Netherlands",
+                        "Portugal"
+                    ],
+                    "answer": "France",
+                    "fun_fact": "French aid was crucial, especially at the decisive Battle of Yorktown in 1781."
+                },
+                {
+                    "question": "What was the last major battle of the American Revolution?",
+                    "options": [
+                        "Saratoga",
+                        "Yorktown",
+                        "Bunker Hill",
+                        "Trenton"
+                    ],
+                    "answer": "Yorktown",
+                    "fun_fact": "The British surrender at Yorktown in October 1781 effectively ended the war."
+                },
+                {
+                    "question": "Who was the commander of the Continental Army?",
+                    "options": [
+                        "Thomas Jefferson",
+                        "George Washington",
+                        "Benedict Arnold",
+                        "John Hancock"
+                    ],
+                    "answer": "George Washington",
+                    "fun_fact": "Washington never won a major battle until Yorktown but kept the army together."
+                },
+                {
+                    "question": "What famous event involved colonists dumping tea into Boston Harbor?",
+                    "options": [
+                        "Boston Massacre",
+                        "Boston Tea Party",
+                        "Stamp Act Protest",
+                        "Intolerable Acts"
+                    ],
+                    "answer": "Boston Tea Party",
+                    "fun_fact": "In December 1773, colonists dumped 342 chests of British tea to protest taxes."
+                },
+                {
+                    "question": "Which document officially ended the American Revolution?",
+                    "options": [
+                        "Declaration of Independence",
+                        "Treaty of Paris",
+                        "Articles of Confederation",
+                        "Constitution"
+                    ],
+                    "answer": "Treaty of Paris",
+                    "fun_fact": "The 1783 treaty recognized American independence and set new borders."
+                },
+                {
+                    "question": "What were American colonists who remained loyal to Britain called?",
+                    "options": [
+                        "Patriots",
+                        "Loyalists",
+                        "Federalists",
+                        "Tories"
+                    ],
+                    "answer": "Loyalists",
+                    "fun_fact": "About 15-20% of colonists were Loyalists, many of whom fled to Canada after the war."
+                },
+                {
+                    "question": "Which battle is known as the 'turning point' of the Revolution?",
+                    "options": [
+                        "Yorktown",
+                        "Saratoga",
+                        "Bunker Hill",
+                        "Trenton"
+                    ],
+                    "answer": "Saratoga",
+                    "fun_fact": "The American victory at Saratoga in 1777 convinced France to join the war."
+                },
+                {
+                    "question": "What was the first constitution of the United States?",
+                    "options": [
+                        "Declaration of Independence",
+                        "Articles of Confederation",
+                        "U.S. Constitution",
+                        "Mayflower Compact"
+                    ],
+                    "answer": "Articles of Confederation",
+                    "fun_fact": "The Articles created a weak central government and were replaced by the Constitution in 1789."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which European military officer helped train Washington's army?",
+                    "options": [
+                        "Marquis de Lafayette",
+                        "Baron von Steuben",
+                        "Comte de Rochambeau",
+                        "Casimir Pulaski"
+                    ],
+                    "answer": "Baron von Steuben",
+                    "fun_fact": "Von Steuben wrote the Revolutionary War Drill Manual that standardized Continental Army training."
+                },
+                {
+                    "question": "What was the name of the colonial militia ready to fight at a minute's notice?",
+                    "options": [
+                        "Green Mountain Boys",
+                        "Sons of Liberty",
+                        "Minutemen",
+                        "Continental Army"
+                    ],
+                    "answer": "Minutemen",
+                    "fun_fact": "The Minutemen were among the first to fight at Lexington and Concord."
+                },
+                {
+                    "question": "Which patriot famously said 'Give me liberty or give me death'?",
+                    "options": [
+                        "Patrick Henry",
+                        "Samuel Adams",
+                        "Thomas Paine",
+                        "John Hancock"
+                    ],
+                    "answer": "Patrick Henry",
+                    "fun_fact": "Henry gave this speech in 1775 to urge Virginia to raise a militia against Britain."
+                },
+                {
+                    "question": "What winter encampment saw terrible suffering for Washington's army?",
+                    "options": [
+                        "Valley Forge",
+                        "Morristown",
+                        "Trenton",
+                        "Saratoga"
+                    ],
+                    "answer": "Valley Forge",
+                    "fun_fact": "During the winter of 1777-78, about 2,500 soldiers died from disease and exposure at Valley Forge."
+                },
+                {
+                    "question": "Which battle was fought on Christmas night 1776?",
+                    "options": [
+                        "Princeton",
+                        "Brandywine",
+                        "Trenton",
+                        "Germantown"
+                    ],
+                    "answer": "Trenton",
+                    "fun_fact": "Washington's surprise attack across the Delaware River captured nearly 1,000 Hessian soldiers."
+                },
+                {
+                    "question": "Who was the king of England during the American Revolution?",
+                    "options": [
+                        "George II",
+                        "George III",
+                        "William IV",
+                        "James II"
+                    ],
+                    "answer": "George III",
+                    "fun_fact": "George III ruled for 60 years (1760-1820) and struggled with mental illness later in life."
+                },
+                {
+                    "question": "Which pamphlet by Thomas Paine inspired colonists to seek independence?",
+                    "options": [
+                        "The Federalist",
+                        "Common Sense",
+                        "The Crisis",
+                        "Rights of Man"
+                    ],
+                    "answer": "Common Sense",
+                    "fun_fact": "Published in 1776, it sold over 500,000 copies and was widely read aloud in taverns."
+                },
+                {
+                    "question": "What was the name of the American traitor who switched to the British side?",
+                    "options": [
+                        "Benedict Arnold",
+                        "Aaron Burr",
+                        "John André",
+                        "Charles Lee"
+                    ],
+                    "answer": "Benedict Arnold",
+                    "fun_fact": "Arnold was a brilliant general who became bitter and plotted to surrender West Point to the British."
+                },
+                {
+                    "question": "Which European nation declared war on Britain in 1779, aiding the Americans?",
+                    "options": [
+                        "France",
+                        "Spain",
+                        "Netherlands",
+                        "Portugal"
+                    ],
+                    "answer": "Spain",
+                    "fun_fact": "Spain's involvement forced Britain to fight on multiple fronts, stretching its resources."
+                },
+                {
+                    "question": "What was the name of the treaty that ended the American Revolution?",
+                    "options": [
+                        "Treaty of Versailles",
+                        "Treaty of Paris",
+                        "Treaty of Ghent",
+                        "Treaty of London"
+                    ],
+                    "answer": "Treaty of Paris",
+                    "fun_fact": "Signed in 1783, it granted the U.S. all land east of the Mississippi River except Florida."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which battle saw the British surrender an entire army of over 7,000 men?",
+                    "options": [
+                        "Saratoga",
+                        "Yorktown",
+                        "Cowpens",
+                        "Camden"
+                    ],
+                    "answer": "Saratoga",
+                    "fun_fact": "General Burgoyne's surrender at Saratoga in 1777 was a major turning point in the war."
+                },
+                {
+                    "question": "What was the name of the German mercenaries hired by the British?",
+                    "options": [
+                        "Prussians",
+                        "Hessians",
+                        "Bavarians",
+                        "Saxons"
+                    ],
+                    "answer": "Hessians",
+                    "fun_fact": "About 30,000 German troops fought for Britain, many from the Hesse region."
+                },
+                {
+                    "question": "Which naval commander famously said 'I have not yet begun to fight'?",
+                    "options": [
+                        "John Paul Jones",
+                        "John Barry",
+                        "Esek Hopkins",
+                        "Benedict Arnold"
+                    ],
+                    "answer": "John Paul Jones",
+                    "fun_fact": "Jones uttered these words during a fierce naval battle against the British ship Serapis in 1779."
+                },
+                {
+                    "question": "What was the name of Washington's spy network?",
+                    "options": [
+                        "Sons of Liberty",
+                        "Culper Ring",
+                        "Green Dragon Tavern",
+                        "Committee of Correspondence"
+                    ],
+                    "answer": "Culper Ring",
+                    "fun_fact": "This secret group operated in British-occupied New York and provided crucial intelligence."
+                },
+                {
+                    "question": "Which state was the first to declare independence from Britain?",
+                    "options": [
+                        "Massachusetts",
+                        "Virginia",
+                        "Rhode Island",
+                        "South Carolina"
+                    ],
+                    "answer": "Rhode Island",
+                    "fun_fact": "Rhode Island declared independence on May 4, 1776, two months before the Continental Congress."
+                },
+                {
+                    "question": "What was the name of the British strategy to divide the colonies along the Hudson River?",
+                    "options": [
+                        "Southern Strategy",
+                        "Hudson Strategy",
+                        "Divide and Conquer",
+                        "Northern Campaign"
+                    ],
+                    "answer": "Hudson Strategy",
+                    "fun_fact": "This plan aimed to isolate New England but failed with Burgoyne's surrender at Saratoga."
+                },
+                {
+                    "question": "Which battle is known as the 'shot heard round the world'?",
+                    "options": [
+                        "Bunker Hill",
+                        "Lexington and Concord",
+                        "Saratoga",
+                        "Yorktown"
+                    ],
+                    "answer": "Lexington and Concord",
+                    "fun_fact": "This phrase from Emerson's poem refers to the opening shots of the Revolution in April 1775."
+                },
+                {
+                    "question": "What was the name of the colonial protest group that opposed British taxes?",
+                    "options": [
+                        "Continental Congress",
+                        "Sons of Liberty",
+                        "Committees of Correspondence",
+                        "Daughters of Liberty"
+                    ],
+                    "answer": "Sons of Liberty",
+                    "fun_fact": "This secret organization led protests like the Boston Tea Party and tarred and feathered tax collectors."
+                },
+                {
+                    "question": "Which British general surrendered at Yorktown?",
+                    "options": [
+                        "William Howe",
+                        "Henry Clinton",
+                        "Charles Cornwallis",
+                        "John Burgoyne"
+                    ],
+                    "answer": "Charles Cornwallis",
+                    "fun_fact": "Cornwallis claimed to be ill and sent his second-in-command to formally surrender."
+                },
+                {
+                    "question": "What was the name of the colonial currency that became worthless during the war?",
+                    "options": [
+                        "Continental Dollar",
+                        "Colonial Scrip",
+                        "Revolutionary Notes",
+                        "Congressional Bills"
+                    ],
+                    "answer": "Continental Dollar",
+                    "fun_fact": "The phrase 'not worth a Continental' referred to the hyperinflation of this currency."
+                }
+            ]
+        }
+    },
+    "Renaissance": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "In which country did the Renaissance begin?",
+                    "options": [
+                        "France",
+                        "England",
+                        "Italy",
+                        "Germany"
+                    ],
+                    "answer": "Italy",
+                    "fun_fact": "The Renaissance began in Florence, Italy in the 14th century before spreading across Europe."
+                },
+                {
+                    "question": "Who painted the Mona Lisa?",
+                    "options": [
+                        "Michelangelo",
+                        "Raphael",
+                        "Leonardo da Vinci",
+                        "Donatello"
+                    ],
+                    "answer": "Leonardo da Vinci",
+                    "fun_fact": "Da Vinci worked on the Mona Lisa for about 16 years and carried it with him until his death."
+                },
+                {
+                    "question": "What does 'Renaissance' mean in French?",
+                    "options": [
+                        "Revolution",
+                        "Rebirth",
+                        "Reformation",
+                        "Rediscovery"
+                    ],
+                    "answer": "Rebirth",
+                    "fun_fact": "The term refers to the revival of classical art, literature and learning after the Middle Ages."
+                },
+                {
+                    "question": "Who invented the printing press with movable type?",
+                    "options": [
+                        "Leonardo da Vinci",
+                        "Johannes Gutenberg",
+                        "Galileo Galilei",
+                        "William Caxton"
+                    ],
+                    "answer": "Johannes Gutenberg",
+                    "fun_fact": "Gutenberg's Bible (1455) was the first major book printed with movable type in Europe."
+                },
+                {
+                    "question": "Which family ruled Florence and were great patrons of the arts?",
+                    "options": [
+                        "Borgia",
+                        "Sforza",
+                        "Medici",
+                        "Visconti"
+                    ],
+                    "answer": "Medici",
+                    "fun_fact": "The Medici family produced four popes and two queens of France while supporting artists like Michelangelo."
+                },
+                {
+                    "question": "Who sculpted the statue of David?",
+                    "options": [
+                        "Donatello",
+                        "Michelangelo",
+                        "Bernini",
+                        "Ghiberti"
+                    ],
+                    "answer": "Michelangelo",
+                    "fun_fact": "Michelangelo carved David from a single block of marble that other sculptors had rejected as flawed."
+                },
+                {
+                    "question": "Which Renaissance figure was known as the 'Renaissance Man'?",
+                    "options": [
+                        "Michelangelo",
+                        "Leonardo da Vinci",
+                        "Galileo",
+                        "Raphael"
+                    ],
+                    "answer": "Leonardo da Vinci",
+                    "fun_fact": "Da Vinci excelled in art, science, engineering, anatomy and many other fields."
+                },
+                {
+                    "question": "What was the dominant art style before the Renaissance?",
+                    "options": [
+                        "Baroque",
+                        "Gothic",
+                        "Byzantine",
+                        "Romanesque"
+                    ],
+                    "answer": "Gothic",
+                    "fun_fact": "Renaissance artists rejected Gothic style in favor of classical Greek and Roman influences."
+                },
+                {
+                    "question": "Which English playwright flourished during the Renaissance?",
+                    "options": [
+                        "Christopher Marlowe",
+                        "Ben Jonson",
+                        "William Shakespeare",
+                        "John Donne"
+                    ],
+                    "answer": "William Shakespeare",
+                    "fun_fact": "Shakespeare wrote 37 plays and 154 sonnets during the English Renaissance."
+                },
+                {
+                    "question": "What technique gives paintings depth and perspective?",
+                    "options": [
+                        "Chiaroscuro",
+                        "Fresco",
+                        "Linear perspective",
+                        "Sfumato"
+                    ],
+                    "answer": "Linear perspective",
+                    "fun_fact": "Developed by Brunelleschi, this mathematical system made paintings appear three-dimensional."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Who wrote 'The Prince,' a guide to political power?",
+                    "options": [
+                        "Petrarch",
+                        "Machiavelli",
+                        "Erasmus",
+                        "Thomas More"
+                    ],
+                    "answer": "Machiavelli",
+                    "fun_fact": "Machiavelli wrote this controversial work while exiled from Florentine politics."
+                },
+                {
+                    "question": "Which Renaissance artist painted the Sistine Chapel ceiling?",
+                    "options": [
+                        "Raphael",
+                        "Leonardo",
+                        "Michelangelo",
+                        "Titian"
+                    ],
+                    "answer": "Michelangelo",
+                    "fun_fact": "Michelangelo painted the ceiling lying on his back on scaffolding, taking about four years."
+                },
+                {
+                    "question": "What was the name of the intellectual movement that emphasized human potential?",
+                    "options": [
+                        "Scholasticism",
+                        "Humanism",
+                        "Neoplatonism",
+                        "Empiricism"
+                    ],
+                    "answer": "Humanism",
+                    "fun_fact": "Humanists studied classical texts to improve human society rather than focusing solely on religion."
+                },
+                {
+                    "question": "Which Renaissance scientist proposed the heliocentric model of the solar system?",
+                    "options": [
+                        "Galileo",
+                        "Kepler",
+                        "Copernicus",
+                        "Brahe"
+                    ],
+                    "answer": "Copernicus",
+                    "fun_fact": "Copernicus's theory that Earth revolved around the sun contradicted Church doctrine."
+                },
+                {
+                    "question": "Who wrote 'Utopia' about an ideal society?",
+                    "options": [
+                        "Erasmus",
+                        "Thomas More",
+                        "Petrarch",
+                        "Dante"
+                    ],
+                    "answer": "Thomas More",
+                    "fun_fact": "More coined the word 'utopia' from Greek words meaning 'no place' and 'good place'."
+                },
+                {
+                    "question": "Which artist is known for his 'School of Athens' fresco?",
+                    "options": [
+                        "Michelangelo",
+                        "Leonardo",
+                        "Raphael",
+                        "Titian"
+                    ],
+                    "answer": "Raphael",
+                    "fun_fact": "The painting depicts famous Greek philosophers with faces of Renaissance artists like Leonardo as Plato."
+                },
+                {
+                    "question": "What was the name of Leonardo da Vinci's famous notebook?",
+                    "options": [
+                        "Codex Atlanticus",
+                        "Codex Leicester",
+                        "Codex Arundel",
+                        "Codex Urbinas"
+                    ],
+                    "answer": "Codex Leicester",
+                    "fun_fact": "Bill Gates bought the Codex Leicester in 1994 for $30.8 million."
+                },
+                {
+                    "question": "Which Renaissance pope was known for his patronage of the arts?",
+                    "options": [
+                        "Pius II",
+                        "Julius II",
+                        "Leo X",
+                        "Alexander VI"
+                    ],
+                    "answer": "Julius II",
+                    "fun_fact": "Nicknamed the 'Warrior Pope,' Julius II commissioned Michelangelo's Sistine Chapel ceiling."
+                },
+                {
+                    "question": "What technique uses light and shadow to create depth in paintings?",
+                    "options": [
+                        "Sfumato",
+                        "Chiaroscuro",
+                        "Fresco",
+                        "Tempera"
+                    ],
+                    "answer": "Chiaroscuro",
+                    "fun_fact": "Leonardo da Vinci and Caravaggio were masters of this dramatic lighting technique."
+                },
+                {
+                    "question": "Which family ruled Milan during the Renaissance?",
+                    "options": [
+                        "Medici",
+                        "Borgia",
+                        "Sforza",
+                        "Este"
+                    ],
+                    "answer": "Sforza",
+                    "fun_fact": "Ludovico Sforza commissioned Leonardo's 'Last Supper' and ruled Milan during its golden age."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Who designed the dome of Florence Cathedral?",
+                    "options": [
+                        "Brunelleschi",
+                        "Michelangelo",
+                        "Donatello",
+                        "Alberti"
+                    ],
+                    "answer": "Brunelleschi",
+                    "fun_fact": "The dome was the largest in the world when built and required innovative engineering techniques."
+                },
+                {
+                    "question": "Which Renaissance artist invented the one-point perspective system?",
+                    "options": [
+                        "Masaccio",
+                        "Brunelleschi",
+                        "Alberti",
+                        "Donatello"
+                    ],
+                    "answer": "Brunelleschi",
+                    "fun_fact": "Brunelleschi demonstrated perspective mathematically by painting the Florence Baptistery on a mirror."
+                },
+                {
+                    "question": "What was the name of the Venetian painting technique using layers of translucent paint?",
+                    "options": [
+                        "Fresco",
+                        "Tempera",
+                        "Glazing",
+                        "Impasto"
+                    ],
+                    "answer": "Glazing",
+                    "fun_fact": "Titian and other Venetian artists used this method to create luminous color effects."
+                },
+                {
+                    "question": "Which Renaissance artist was known for his bronze 'David'?",
+                    "options": [
+                        "Michelangelo",
+                        "Donatello",
+                        "Ghiberti",
+                        "Cellini"
+                    ],
+                    "answer": "Donatello",
+                    "fun_fact": "Donatello's David was the first free-standing nude sculpture since antiquity."
+                },
+                {
+                    "question": "What was the name of the intellectual circle surrounding Lorenzo de' Medici?",
+                    "options": [
+                        "Platonic Academy",
+                        "Florentine Academy",
+                        "Neoplatonic Circle",
+                        "Medici Circle"
+                    ],
+                    "answer": "Platonic Academy",
+                    "fun_fact": "This group studied Plato's works and influenced Renaissance humanist philosophy."
+                },
+                {
+                    "question": "Which Renaissance pope was Rodrigo Borgia?",
+                    "options": [
+                        "Alexander VI",
+                        "Julius II",
+                        "Leo X",
+                        "Clement VII"
+                    ],
+                    "answer": "Alexander VI",
+                    "fun_fact": "The most notorious Renaissance pope, Alexander VI had several children including Cesare and Lucrezia Borgia."
+                },
+                {
+                    "question": "What was the name of the famous Renaissance art competition for Florence Baptistery doors?",
+                    "options": [
+                        "Baptistery Competition",
+                        "Door Competition",
+                        "Ghiberti Competition",
+                        "Gates of Paradise"
+                    ],
+                    "answer": "Gates of Paradise",
+                    "fun_fact": "Ghiberti won over Brunelleschi in this 1401 competition, creating magnificent bronze doors."
+                },
+                {
+                    "question": "Which Renaissance artist pioneered the use of oil paint in Italy?",
+                    "options": [
+                        "Bellini",
+                        "Titian",
+                        "Antonello da Messina",
+                        "Giorgione"
+                    ],
+                    "answer": "Antonello da Messina",
+                    "fun_fact": "Messina learned oil painting techniques from Flemish artists and introduced them to Venice."
+                },
+                {
+                    "question": "What was the name of the Venetian school of painting known for color and light?",
+                    "options": [
+                        "Florentine School",
+                        "Roman School",
+                        "Venetian School",
+                        "Sienese School"
+                    ],
+                    "answer": "Venetian School",
+                    "fun_fact": "Titian, Tintoretto and Veronese led this style that contrasted with Florentine emphasis on drawing."
+                },
+                {
+                    "question": "Which Renaissance architect wrote 'On the Art of Building'?",
+                    "options": [
+                        "Brunelleschi",
+                        "Alberti",
+                        "Bramante",
+                        "Palladio"
+                    ],
+                    "answer": "Alberti",
+                    "fun_fact": "Alberti's treatise was the first architectural theory book of the Renaissance."
+                }
+            ]
+        }
+    }
+}

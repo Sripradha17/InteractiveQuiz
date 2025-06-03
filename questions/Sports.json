@@ -1,0 +1,1702 @@
+{
+    "Football": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How many players are on a football team during a match?",
+                    "options": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ],
+                    "answer": "11",
+                    "fun_fact": "The first official international football match was played in 1872 between Scotland and England."
+                },
+                {
+                    "question": "What is the duration of a standard football match?",
+                    "options": [
+                        "80 minutes",
+                        "90 minutes",
+                        "100 minutes",
+                        "120 minutes"
+                    ],
+                    "answer": "90 minutes",
+                    "fun_fact": "The longest football match lasted 3 hours 23 minutes (including extra time) in the 2013 Campeonato Paulista in Brazil."
+                },
+                {
+                    "question": "Which trophy is awarded to the winner of the FIFA World Cup?",
+                    "options": [
+                        "Champions Cup",
+                        "Golden Ball",
+                        "Jules Rimet Trophy",
+                        "World Cup Trophy"
+                    ],
+                    "answer": "World Cup Trophy",
+                    "fun_fact": "The current World Cup Trophy has been used since 1974 and is made of 18-carat gold."
+                },
+                {
+                    "question": "What color card indicates a sending-off in football?",
+                    "options": [
+                        "Red",
+                        "Yellow",
+                        "Blue",
+                        "Green"
+                    ],
+                    "answer": "Red",
+                    "fun_fact": "The fastest red card in football history was given after just 2 seconds to Lee Todd in 2000 for swearing at the referee."
+                },
+                {
+                    "question": "Which country won the first FIFA World Cup in 1930?",
+                    "options": [
+                        "Brazil",
+                        "Uruguay",
+                        "Argentina",
+                        "Italy"
+                    ],
+                    "answer": "Uruguay",
+                    "fun_fact": "The 1930 World Cup was the only tournament without qualification - teams were invited to participate."
+                },
+                {
+                    "question": "What is the name of the football competition between clubs in Europe?",
+                    "options": [
+                        "Europa League",
+                        "Champions League",
+                        "Premier League",
+                        "La Liga"
+                    ],
+                    "answer": "Champions League",
+                    "fun_fact": "Real Madrid has won the Champions League the most times (14 as of 2022)."
+                },
+                {
+                    "question": "Which player is known as 'The King of Football'?",
+                    "options": [
+                        "Diego Maradona",
+                        "Pele",
+                        "Lionel Messi",
+                        "Cristiano Ronaldo"
+                    ],
+                    "answer": "Pele",
+                    "fun_fact": "Pele scored over 1,000 professional goals in his career."
+                },
+                {
+                    "question": "What is the maximum number of substitutions allowed in a standard football match?",
+                    "options": [
+                        "3",
+                        "5",
+                        "7",
+                        "Unlimited"
+                    ],
+                    "answer": "5",
+                    "fun_fact": "Before 1958, no substitutions were allowed at all in football matches."
+                },
+                {
+                    "question": "Which country hosted the 2018 FIFA World Cup?",
+                    "options": [
+                        "France",
+                        "Brazil",
+                        "Russia",
+                        "Germany"
+                    ],
+                    "answer": "Russia",
+                    "fun_fact": "The 2018 World Cup was the first held in Eastern Europe."
+                },
+                {
+                    "question": "What is the diameter of a football (soccer ball) in inches?",
+                    "options": [
+                        "22-24",
+                        "25-27",
+                        "27-28",
+                        "29-30"
+                    ],
+                    "answer": "27-28",
+                    "fun_fact": "The first footballs were made from pig bladders and leather."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which player has scored the most goals in a single World Cup tournament?",
+                    "options": [
+                        "Pele",
+                        "Miroslav Klose",
+                        "Just Fontaine",
+                        "Gerd Muller"
+                    ],
+                    "answer": "Just Fontaine",
+                    "fun_fact": "Just Fontaine scored 13 goals in the 1958 World Cup - a record that still stands."
+                },
+                {
+                    "question": "Which country has appeared in the most World Cup finals without ever winning?",
+                    "options": [
+                        "Netherlands",
+                        "Sweden",
+                        "Czech Republic",
+                        "Hungary"
+                    ],
+                    "answer": "Netherlands",
+                    "fun_fact": "The Netherlands has reached the final three times (1974, 1978, 2010) but never won."
+                },
+                {
+                    "question": "What is the name of the stadium that hosts the FA Cup Final in England?",
+                    "options": [
+                        "Old Trafford",
+                        "Emirates Stadium",
+                        "Wembley Stadium",
+                        "Stamford Bridge"
+                    ],
+                    "answer": "Wembley Stadium",
+                    "fun_fact": "The original Wembley Stadium was known as 'The Empire Stadium' when it opened in 1923."
+                },
+                {
+                    "question": "Which player holds the record for most goals in a single Premier League season?",
+                    "options": [
+                        "Alan Shearer",
+                        "Mohamed Salah",
+                        "Erling Haaland",
+                        "Andy Cole"
+                    ],
+                    "answer": "Erling Haaland",
+                    "fun_fact": "Haaland scored 36 goals in the 2022-23 season, breaking the previous record of 34."
+                },
+                {
+                    "question": "What is the offside rule in football?",
+                    "options": [
+                        "A player cannot be behind the last defender when the ball is played",
+                        "A player cannot be in the opponent's half without the ball",
+                        "A player cannot be closer to the goal than the ball",
+                        "A player cannot receive the ball directly from a goal kick"
+                    ],
+                    "answer": "A player cannot be behind the last defender when the ball is played",
+                    "fun_fact": "The offside rule was part of the original 1863 Laws of the Game."
+                },
+                {
+                    "question": "Which country has won the most Copa America titles?",
+                    "options": [
+                        "Brazil",
+                        "Argentina",
+                        "Uruguay",
+                        "Chile"
+                    ],
+                    "answer": "Uruguay",
+                    "fun_fact": "Uruguay won the first ever Copa America in 1916 and has 15 titles as of 2021."
+                },
+                {
+                    "question": "What is the 'Golden Boot' award given for in football?",
+                    "options": [
+                        "Best goalkeeper",
+                        "Top scorer in a tournament",
+                        "Best young player",
+                        "Most valuable player"
+                    ],
+                    "answer": "Top scorer in a tournament",
+                    "fun_fact": "The term 'Golden Boot' was first used in 1982 for the World Cup's top scorer."
+                },
+                {
+                    "question": "Which team has won the most UEFA Champions League titles?",
+                    "options": [
+                        "Bayern Munich",
+                        "AC Milan",
+                        "Liverpool",
+                        "Real Madrid"
+                    ],
+                    "answer": "Real Madrid",
+                    "fun_fact": "Real Madrid won the first five European Cups from 1956 to 1960."
+                },
+                {
+                    "question": "What is the name of the African continental football championship?",
+                    "options": [
+                        "Africa Cup",
+                        "CAF Championship",
+                        "African Nations Cup",
+                        "Afro-Asian Cup"
+                    ],
+                    "answer": "African Nations Cup",
+                    "fun_fact": "The first African Cup of Nations was held in 1957 with just three participating nations."
+                },
+                {
+                    "question": "Which player has made the most appearances in the English Premier League?",
+                    "options": [
+                        "Ryan Giggs",
+                        "Gareth Barry",
+                        "Frank Lampard",
+                        "James Milner"
+                    ],
+                    "answer": "Gareth Barry",
+                    "fun_fact": "Gareth Barry made 653 Premier League appearances between 1998 and 2018."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which country hosted the first World Cup to use goal-line technology?",
+                    "options": [
+                        "South Africa (2010)",
+                        "Brazil (2014)",
+                        "Germany (2006)",
+                        "France (1998)"
+                    ],
+                    "answer": "Brazil (2014)",
+                    "fun_fact": "Goal-line technology was first used in a World Cup match between France and Honduras in 2014."
+                },
+                {
+                    "question": "What is the record transfer fee paid for a football player as of 2023?",
+                    "options": [
+                        "€180 million",
+                        "€222 million",
+                        "€260 million",
+                        "€300 million"
+                    ],
+                    "answer": "€222 million",
+                    "fun_fact": "Neymar's transfer from Barcelona to PSG in 2017 for €222 million remains the world record as of 2023."
+                },
+                {
+                    "question": "Which player has scored in the most consecutive World Cup tournaments?",
+                    "options": [
+                        "Pele",
+                        "Miroslav Klose",
+                        "Cristiano Ronaldo",
+                        "Lionel Messi"
+                    ],
+                    "answer": "Cristiano Ronaldo",
+                    "fun_fact": "Ronaldo scored in five consecutive World Cups from 2006 to 2022."
+                },
+                {
+                    "question": "What is the 'Bosman ruling' in football?",
+                    "options": [
+                        "Allows players to move freely at the end of their contracts",
+                        "Bans all forms of racial discrimination",
+                        "Limits the number of foreign players in a team",
+                        "Regulates financial fair play"
+                    ],
+                    "answer": "Allows players to move freely at the end of their contracts",
+                    "fun_fact": "The Bosman ruling in 1995 revolutionized football transfers and gave players more freedom."
+                },
+                {
+                    "question": "Which country has the most registered football players?",
+                    "options": [
+                        "Brazil",
+                        "Germany",
+                        "United States",
+                        "China"
+                    ],
+                    "answer": "United States",
+                    "fun_fact": "The US has over 24 million registered football players, more than any other country."
+                },
+                {
+                    "question": "What is the name of the award given to the best player in a World Cup tournament?",
+                    "options": [
+                        "Golden Ball",
+                        "Golden Boot",
+                        "Golden Glove",
+                        "Best Player Award"
+                    ],
+                    "answer": "Golden Ball",
+                    "fun_fact": "The first Golden Ball was awarded in 1982 to Paolo Rossi of Italy."
+                },
+                {
+                    "question": "Which team won the first ever European Championship in 1960?",
+                    "options": [
+                        "Soviet Union",
+                        "Spain",
+                        "Yugoslavia",
+                        "West Germany"
+                    ],
+                    "answer": "Soviet Union",
+                    "fun_fact": "The 1960 final was decided in extra time with the Soviet Union beating Yugoslavia 2-1."
+                },
+                {
+                    "question": "What is the minimum number of players needed for a football match to continue?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "answer": "7",
+                    "fun_fact": "If a team has fewer than 7 players, the match is abandoned and they forfeit."
+                },
+                {
+                    "question": "Which player has won the most Ballon d'Or awards?",
+                    "options": [
+                        "Lionel Messi",
+                        "Cristiano Ronaldo",
+                        "Johan Cruyff",
+                        "Michel Platini"
+                    ],
+                    "answer": "Lionel Messi",
+                    "fun_fact": "Messi has won 8 Ballon d'Or awards as of 2023, the most of any player."
+                },
+                {
+                    "question": "What was unique about the 2002 FIFA World Cup?",
+                    "options": [
+                        "First World Cup in Asia",
+                        "First jointly hosted World Cup",
+                        "First use of golden goal",
+                        "First World Cup with 32 teams"
+                    ],
+                    "answer": "First jointly hosted World Cup",
+                    "fun_fact": "The 2002 World Cup was co-hosted by South Korea and Japan, the first time the tournament was shared between two nations."
+                }
+            ]
+        }
+    },
+    "Basketball": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How many points is a standard field goal worth in basketball?",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "answer": "2",
+                    "fun_fact": "The first basketball game in 1891 ended 1-0 with the only score being a 25-foot shot."
+                },
+                {
+                    "question": "How many players from one team are on the court during a basketball game?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "5",
+                    "fun_fact": "The original basketball teams had 9 players per side to match the 18 students in James Naismith's class."
+                },
+                {
+                    "question": "Which professional basketball league is the most popular in the world?",
+                    "options": [
+                        "NBA",
+                        "EuroLeague",
+                        "CBA",
+                        "FIBA"
+                    ],
+                    "answer": "NBA",
+                    "fun_fact": "The NBA was founded in 1946 as the Basketball Association of America (BAA)."
+                },
+                {
+                    "question": "What is the diameter of a basketball hoop in inches?",
+                    "options": [
+                        "16",
+                        "18",
+                        "20",
+                        "24"
+                    ],
+                    "answer": "18",
+                    "fun_fact": "The first basketball hoops were peach baskets with the bottom intact, requiring someone to retrieve the ball after each score."
+                },
+                {
+                    "question": "How many quarters are in a standard NBA game?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "4",
+                    "fun_fact": "Before 1954, NBA games were divided into 3 periods of 15 minutes each."
+                },
+                {
+                    "question": "Which of these is not a position in basketball?",
+                    "options": [
+                        "Point guard",
+                        "Center",
+                        "Power forward",
+                        "Striker"
+                    ],
+                    "answer": "Striker",
+                    "fun_fact": "The five traditional basketball positions are point guard, shooting guard, small forward, power forward, and center."
+                },
+                {
+                    "question": "What is the maximum number of fouls a player can commit before fouling out in the NBA?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "6",
+                    "fun_fact": "In college basketball, players foul out after 5 personal fouls."
+                },
+                {
+                    "question": "Which country invented basketball?",
+                    "options": [
+                        "Canada",
+                        "United States",
+                        "England",
+                        "France"
+                    ],
+                    "answer": "United States",
+                    "fun_fact": "Basketball was invented by Canadian James Naismith in 1891 while he was working in Massachusetts, USA."
+                },
+                {
+                    "question": "What is the name of the championship trophy awarded to the NBA winners?",
+                    "options": [
+                        "Larry O'Brien Trophy",
+                        "Vince Lombardi Trophy",
+                        "Stanley Cup",
+                        "Commissioner's Trophy"
+                    ],
+                    "answer": "Larry O'Brien Trophy",
+                    "fun_fact": "The trophy was renamed in 1984 after former NBA commissioner Larry O'Brien."
+                },
+                {
+                    "question": "How many teams are in the NBA as of 2023?",
+                    "options": [
+                        "28",
+                        "30",
+                        "32",
+                        "34"
+                    ],
+                    "answer": "30",
+                    "fun_fact": "The most recent NBA expansion teams were the Charlotte Bobcats (now Hornets) in 2004."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which player holds the record for most points scored in a single NBA game?",
+                    "options": [
+                        "Michael Jordan",
+                        "Kobe Bryant",
+                        "Wilt Chamberlain",
+                        "LeBron James"
+                    ],
+                    "answer": "Wilt Chamberlain",
+                    "fun_fact": "Wilt Chamberlain scored 100 points in a single game on March 2, 1962."
+                },
+                {
+                    "question": "What is the distance of the three-point line from the basket in the NBA?",
+                    "options": [
+                        "20.75 feet",
+                        "22 feet",
+                        "23.75 feet",
+                        "25 feet"
+                    ],
+                    "answer": "23.75 feet",
+                    "fun_fact": "The three-point line was introduced in the NBA in 1979-80 season."
+                },
+                {
+                    "question": "Which team has won the most NBA championships?",
+                    "options": [
+                        "Los Angeles Lakers",
+                        "Boston Celtics",
+                        "Chicago Bulls",
+                        "Golden State Warriors"
+                    ],
+                    "answer": "Boston Celtics",
+                    "fun_fact": "The Celtics won 11 championships in 13 years from 1957 to 1969."
+                },
+                {
+                    "question": "What is the name of the annual NBA draft lottery for college players?",
+                    "options": [
+                        "NBA Selection",
+                        "Draft Combine",
+                        "NBA Draft",
+                        "Rookie Draft"
+                    ],
+                    "answer": "NBA Draft",
+                    "fun_fact": "The first NBA draft was held in 1947 with 10 rounds."
+                },
+                {
+                    "question": "Which player has won the most NBA MVP awards?",
+                    "options": [
+                        "Michael Jordan",
+                        "LeBron James",
+                        "Kareem Abdul-Jabbar",
+                        "Magic Johnson"
+                    ],
+                    "answer": "Kareem Abdul-Jabbar",
+                    "fun_fact": "Kareem won 6 MVP awards between 1971 and 1980."
+                },
+                {
+                    "question": "What is the height of a basketball rim from the floor?",
+                    "options": [
+                        "9 feet",
+                        "10 feet",
+                        "11 feet",
+                        "12 feet"
+                    ],
+                    "answer": "10 feet",
+                    "fun_fact": "The height hasn't changed since the game's invention in 1891, despite players getting taller."
+                },
+                {
+                    "question": "Which country has produced the most NBA players outside the US?",
+                    "options": [
+                        "Canada",
+                        "France",
+                        "Serbia",
+                        "Australia"
+                    ],
+                    "answer": "Canada",
+                    "fun_fact": "Canada has produced over 100 NBA players, including Steve Nash and Andrew Wiggins."
+                },
+                {
+                    "question": "What is the maximum duration a player can stay in the key/restricted area on defense?",
+                    "options": [
+                        "2 seconds",
+                        "3 seconds",
+                        "5 seconds",
+                        "No limit"
+                    ],
+                    "answer": "3 seconds",
+                    "fun_fact": "The defensive three-second rule was introduced in 2001 to prevent zone defenses."
+                },
+                {
+                    "question": "Which player was known as 'The Mailman'?",
+                    "options": [
+                        "Karl Malone",
+                        "John Stockton",
+                        "Charles Barkley",
+                        "Shaquille O'Neal"
+                    ],
+                    "answer": "Karl Malone",
+                    "fun_fact": "Malone earned his nickname because he 'always delivered' with his consistent scoring."
+                },
+                {
+                    "question": "What is the circumference of an NBA basketball?",
+                    "options": [
+                        "27.5 inches",
+                        "29.5 inches",
+                        "30.5 inches",
+                        "32.5 inches"
+                    ],
+                    "answer": "29.5 inches",
+                    "fun_fact": "The NBA switched from a leather ball to a synthetic one in 2006 but reverted after player complaints."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which team drafted Dirk Nowitzki but immediately traded him to the Dallas Mavericks?",
+                    "options": [
+                        "Milwaukee Bucks",
+                        "Boston Celtics",
+                        "Toronto Raptors",
+                        "Denver Nuggets"
+                    ],
+                    "answer": "Milwaukee Bucks",
+                    "fun_fact": "The 1998 draft day trade involved Robert 'Tractor' Traylor going to Milwaukee in exchange for Nowitzki."
+                },
+                {
+                    "question": "What is the name of the rule that prevents high school players from entering the NBA draft directly?",
+                    "options": [
+                        "One-and-Done Rule",
+                        "Age Limit Rule",
+                        "Early Entry Rule",
+                        "Draft Eligibility Rule"
+                    ],
+                    "answer": "One-and-Done Rule",
+                    "fun_fact": "Implemented in 2005, it requires American players to be at least 19 years old and one year removed from high school."
+                },
+                {
+                    "question": "Which player holds the record for most assists in a single NBA game?",
+                    "options": [
+                        "John Stockton",
+                        "Magic Johnson",
+                        "Scott Skiles",
+                        "Jason Kidd"
+                    ],
+                    "answer": "Scott Skiles",
+                    "fun_fact": "Skiles recorded 30 assists for Orlando against Denver on December 30, 1990."
+                },
+                {
+                    "question": "What was unique about the 1992 US Olympic basketball team?",
+                    "options": [
+                        "First professional players allowed",
+                        "First undefeated team",
+                        "First team with female players",
+                        "First team to score over 100 points per game"
+                    ],
+                    "answer": "First professional players allowed",
+                    "fun_fact": "The 'Dream Team' was the first to feature NBA stars after FIBA changed its rules."
+                },
+                {
+                    "question": "Which player has the most triple-doubles in NBA history?",
+                    "options": [
+                        "Magic Johnson",
+                        "Jason Kidd",
+                        "Russell Westbrook",
+                        "LeBron James"
+                    ],
+                    "answer": "Russell Westbrook",
+                    "fun_fact": "Westbrook broke Oscar Robertson's long-standing record and has over 190 triple-doubles as of 2023."
+                },
+                {
+                    "question": "What is the 'Hack-a-Shaq' strategy in basketball?",
+                    "options": [
+                        "Intentionally fouling a poor free-throw shooter",
+                        "Double-teaming the best player",
+                        "Playing zone defense against tall players",
+                        "Fast break after every rebound"
+                    ],
+                    "answer": "Intentionally fouling a poor free-throw shooter",
+                    "fun_fact": "Named after Shaquille O'Neal who shot just 52.7% from the free-throw line in his career."
+                },
+                {
+                    "question": "Which NBA team holds the record for most wins in a single season?",
+                    "options": [
+                        "1995-96 Chicago Bulls",
+                        "2015-16 Golden State Warriors",
+                        "1971-72 Los Angeles Lakers",
+                        "1985-86 Boston Celtics"
+                    ],
+                    "answer": "2015-16 Golden State Warriors",
+                    "fun_fact": "The Warriors went 73-9, breaking the Bulls' 72-10 record from 1995-96."
+                },
+                {
+                    "question": "What is the 'Gilbert Arenas Rule' in the NBA?",
+                    "options": [
+                        "Restricts contract offers to restricted free agents",
+                        "Limits rookie salaries",
+                        "Regulates technical foul suspensions",
+                        "Governs jersey number choices"
+                    ],
+                    "answer": "Restricts contract offers to restricted free agents",
+                    "fun_fact": "Implemented after Golden State signed Arenas in 2003 despite salary cap restrictions."
+                },
+                {
+                    "question": "Which player was known as 'Pistol Pete'?",
+                    "options": [
+                        "Pete Maravich",
+                        "Pete Rose",
+                        "Pete Sampras",
+                        "Pete Carroll"
+                    ],
+                    "answer": "Pete Maravich",
+                    "fun_fact": "Maravich still holds the NCAA Division I scoring record with 44.2 points per game."
+                },
+                {
+                    "question": "What was unique about the 2004 NBA Finals between the Pistons and Lakers?",
+                    "options": [
+                        "First five-game sweep",
+                        "Heaviest underdog victory",
+                        "Lowest combined score",
+                        "First finals without a game 7"
+                    ],
+                    "answer": "Heaviest underdog victory",
+                    "fun_fact": "The Pistons, with no All-Stars, defeated the Lakers' 'super team' with Shaq, Kobe, Malone and Payton."
+                }
+            ]
+        }
+    },
+    "Tennis": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How many points make up a game in tennis?",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "answer": "4",
+                    "fun_fact": "The scoring system (15, 30, 40, game) is believed to come from clock faces used in medieval France."
+                },
+                {
+                    "question": "What is the name of the major tournament played on grass courts?",
+                    "options": [
+                        "US Open",
+                        "French Open",
+                        "Australian Open",
+                        "Wimbledon"
+                    ],
+                    "answer": "Wimbledon",
+                    "fun_fact": "Wimbledon is the oldest tennis tournament, first held in 1877."
+                },
+                {
+                    "question": "What is it called when the score is 40-40 in a tennis game?",
+                    "options": [
+                        "Tie",
+                        "Deuce",
+                        "Advantage",
+                        "Break point"
+                    ],
+                    "answer": "Deuce",
+                    "fun_fact": "The term 'deuce' comes from the French 'à deux le jeu' meaning 'to both is the game'."
+                },
+                {
+                    "question": "How many Grand Slam tournaments are there in a year?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "4",
+                    "fun_fact": "The four Grand Slams are Australian Open, French Open, Wimbledon, and US Open."
+                },
+                {
+                    "question": "Which of these is not a tennis stroke?",
+                    "options": [
+                        "Forehand",
+                        "Backhand",
+                        "Smash",
+                        "Swing"
+                    ],
+                    "answer": "Swing",
+                    "fun_fact": "The basic tennis strokes are serve, forehand, backhand, volley, lob, and overhead smash."
+                },
+                {
+                    "question": "What is the maximum number of sets in a women's Grand Slam match?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "3",
+                    "fun_fact": "Women play best-of-three sets in Grand Slams while men play best-of-five."
+                },
+                {
+                    "question": "Which country hosts the French Open?",
+                    "options": [
+                        "Spain",
+                        "France",
+                        "Switzerland",
+                        "Germany"
+                    ],
+                    "answer": "France",
+                    "fun_fact": "The French Open is played on red clay courts at Roland Garros in Paris."
+                },
+                {
+                    "question": "What is the term for a zero score in tennis?",
+                    "options": [
+                        "Nil",
+                        "Zero",
+                        "Love",
+                        "Blank"
+                    ],
+                    "answer": "Love",
+                    "fun_fact": "The term 'love' may come from the French 'l'oeuf' (the egg), symbolizing zero's shape."
+                },
+                {
+                    "question": "Which player has won the most Grand Slam singles titles?",
+                    "options": [
+                        "Roger Federer",
+                        "Rafael Nadal",
+                        "Novak Djokovic",
+                        "Margaret Court"
+                    ],
+                    "answer": "Margaret Court",
+                    "fun_fact": "Margaret Court holds the record with 24 Grand Slam singles titles (11 Australian Opens)."
+                },
+                {
+                    "question": "What is the name of the shot that starts each point in tennis?",
+                    "options": [
+                        "Volley",
+                        "Serve",
+                        "Smash",
+                        "Lob"
+                    ],
+                    "answer": "Serve",
+                    "fun_fact": "The fastest recorded serve is 163.7 mph (263.4 km/h) by Samuel Groth in 2012."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which surface is the Australian Open played on?",
+                    "options": [
+                        "Grass",
+                        "Clay",
+                        "Hard court",
+                        "Carpet"
+                    ],
+                    "answer": "Hard court",
+                    "fun_fact": "The Australian Open switched from grass to Hard courts in 1988."
+                },
+                {
+                    "question": "What is a 'Golden Slam' in tennis?",
+                    "options": [
+                        "Winning all four Grand Slams in a year",
+                        "Winning Olympic gold plus all four Grand Slams in a year",
+                        "Winning all four Grand Slams consecutively",
+                        "Winning all junior Grand Slams"
+                    ],
+                    "answer": "Winning Olympic gold plus all four Grand Slams in a year",
+                    "fun_fact": "Only Steffi Graf achieved this in 1988."
+                },
+                {
+                    "question": "Which player holds the record for most Wimbledon singles titles?",
+                    "options": [
+                        "Pete Sampras",
+                        "Roger Federer",
+                        "Martina Navratilova",
+                        "Serena Williams"
+                    ],
+                    "answer": "Martina Navratilova",
+                    "fun_fact": "Navratilova won 9 Wimbledon singles titles between 1978 and 1990."
+                },
+                {
+                    "question": "What is the term for when a player wins a set without losing a game?",
+                    "options": [
+                        "Whitewash",
+                        "Shutout",
+                        "Bagel",
+                        "Golden set"
+                    ],
+                    "answer": "Bagel",
+                    "fun_fact": "A 'golden set' is even rarer - winning a set without losing a single point."
+                },
+                {
+                    "question": "Which country has won the most Davis Cup titles?",
+                    "options": [
+                        "United States",
+                        "Australia",
+                        "France",
+                        "Spain"
+                    ],
+                    "answer": "United States",
+                    "fun_fact": "The US has won 32 Davis Cup titles, though their last was in 2007."
+                },
+                {
+                    "question": "What is the name of the area between the baseline and service line?",
+                    "options": [
+                        "No man's land",
+                        "The danger zone",
+                        "Midcourt",
+                        "Transition area"
+                    ],
+                    "answer": "No man's land",
+                    "fun_fact": "This area is difficult to play from as it's too far back for volleys and too close for groundstrokes."
+                },
+                {
+                    "question": "Which Grand Slam tournament uses a final-set tiebreak?",
+                    "options": [
+                        "Australian Open",
+                        "French Open",
+                        "Wimbledon",
+                        "US Open"
+                    ],
+                    "answer": "US Open",
+                    "fun_fact": "The US Open uses a tiebreak at 6-6 in all sets, while others play advantage final sets."
+                },
+                {
+                    "question": "What is the term for winning all four Grand Slams consecutively?",
+                    "options": [
+                        "Golden Slam",
+                        "Grand Slam",
+                        "Non-calendar Grand Slam",
+                        "Super Slam"
+                    ],
+                    "answer": "Non-calendar Grand Slam",
+                    "fun_fact": "Rod Laver is the only player to achieve two calendar Grand Slams (1962, 1969)."
+                },
+                {
+                    "question": "Which player was known as 'The Ice Man'?",
+                    "options": [
+                        "Bjorn Borg",
+                        "Ivan Lendl",
+                        "John McEnroe",
+                        "Boris Becker"
+                    ],
+                    "answer": "Bjorn Borg",
+                    "fun_fact": "Borg earned this nickname for his cool demeanor under pressure."
+                },
+                {
+                    "question": "What is the minimum number of games needed to win a set in tennis?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "answer": "6",
+                    "fun_fact": "You must win by at least 2 games, so sets can go much longer than 6 games."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which player holds the record for most consecutive weeks at world number 1?",
+                    "options": [
+                        "Roger Federer",
+                        "Pete Sampras",
+                        "Novak Djokovic",
+                        "Steffi Graf"
+                    ],
+                    "answer": "Roger Federer",
+                    "fun_fact": "Federer spent 237 consecutive weeks at No.1 from 2004 to 2008."
+                },
+                {
+                    "question": "What was unique about the 1969 Australian Open men's singles?",
+                    "options": [
+                        "Played indoors for the first time",
+                        "Only Australian players participated",
+                        "Rod Laver didn't lose a set",
+                        "First Grand Slam with tiebreaks"
+                    ],
+                    "answer": "Only Australian players participated",
+                    "fun_fact": "Many top players skipped the event due to its remote location and low prize money."
+                },
+                {
+                    "question": "Which player achieved the 'Channel Slam' by winning the French Open and Wimbledon back-to-back?",
+                    "options": [
+                        "Rafael Nadal",
+                        "Bjorn Borg",
+                        "Roger Federer",
+                        "Novak Djokovic"
+                    ],
+                    "answer": "Rafael Nadal",
+                    "fun_fact": "Nadal is the only player to win the French Open and Wimbledon in the same year three times (2008, 2010, 2022)."
+                },
+                {
+                    "question": "What is the 'Bryan Slam' in tennis?",
+                    "options": [
+                        "Holding all four Grand Slam doubles titles simultaneously",
+                        "Winning Olympic gold and all Slams in a year",
+                        "Winning all junior Grand Slams",
+                        "A serve over 150 mph"
+                    ],
+                    "answer": "Holding all four Grand Slam doubles titles simultaneously",
+                    "fun_fact": "The Bryan brothers achieved this in 2012-13, holding all four majors at once."
+                },
+                {
+                    "question": "Which player was known for using the 'tweener' shot frequently?",
+                    "options": [
+                        "Roger Federer",
+                        "Rafael Nadal",
+                        "Novak Djokovic",
+                        "Nick Kyrgios"
+                    ],
+                    "answer": "Roger Federer",
+                    "fun_fact": "Federer popularized the between-the-legs shot, hitting it successfully in major tournaments."
+                },
+                {
+                    "question": "What is the 'Wooden Spoon' in tennis?",
+                    "options": [
+                        "Award for most double faults in a tournament",
+                        "Losing all matches in a Grand Slam",
+                        "Oldest racket still in use",
+                        "A type of serve"
+                    ],
+                    "answer": "Losing all matches in a Grand Slam",
+                    "fun_fact": "The term originates from Wimbledon where players used to receive actual wooden spoons."
+                },
+                {
+                    "question": "Which Grand Slam tournament was the first to offer equal prize money to men and women?",
+                    "options": [
+                        "US Open",
+                        "Australian Open",
+                        "French Open",
+                        "Wimbledon"
+                    ],
+                    "answer": "US Open",
+                    "fun_fact": "The US Open became the first major to offer equal pay in 1973 after pressure from Billie Jean King."
+                },
+                {
+                    "question": "What is the 'Laver Cup' in tennis?",
+                    "options": [
+                        "A team competition between Europe and the World",
+                        "A junior development tournament",
+                        "A seniors tour event",
+                        "A racket design competition"
+                    ],
+                    "answer": "A team competition between Europe and the World",
+                    "fun_fact": "Founded in 2017 and named after Rod Laver, it features top players in a Ryder Cup-style format."
+                },
+                {
+                    "question": "Which player holds the record for most aces in a single match?",
+                    "options": [
+                        "John Isner",
+                        "Ivo Karlovic",
+                        "Goran Ivanisevic",
+                        "Roger Federer"
+                    ],
+                    "answer": "John Isner",
+                    "fun_fact": "Isner hit 113 aces in his record 11-hour 2010 Wimbledon match against Nicolas Mahut."
+                },
+                {
+                    "question": "What was unique about the 1975 Wimbledon final between Arthur Ashe and Jimmy Connors?",
+                    "options": [
+                        "First all-American final",
+                        "Ashe used a strategy of slow, sliced backhands",
+                        "Longest final in history",
+                        "First final with tiebreaks"
+                    ],
+                    "answer": "Ashe used a strategy of slow, sliced backhands",
+                    "fun_fact": "Ashe's unexpected tactic disrupted Connors' rhythm in one of tennis's greatest upsets."
+                }
+            ]
+        }
+    },
+    "Swimming": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How many strokes are used in competitive swimming?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "4",
+                    "fun_fact": "The four competitive strokes are freestyle, backstroke, breaststroke, and butterfly."
+                },
+                {
+                    "question": "Which swimming stroke is considered the fastest?",
+                    "options": [
+                        "Breaststroke",
+                        "Backstroke",
+                        "Freestyle",
+                        "Butterfly"
+                    ],
+                    "answer": "Freestyle",
+                    "fun_fact": "Freestyle (front crawl) is the fastest because it's the most efficient for speed."
+                },
+                {
+                    "question": "How many Olympic swimming events are there for each stroke?",
+                    "options": [
+                        "4",
+                        "6",
+                        "8",
+                        "10"
+                    ],
+                    "answer": "6",
+                    "fun_fact": "There are 6 events per stroke: 50m, 100m, 200m, plus relays and medleys."
+                },
+                {
+                    "question": "What is the name of the swimming event that combines all four strokes?",
+                    "options": [
+                        "Medley",
+                        "Triathlon",
+                        "Pentathlon",
+                        "Decathlon"
+                    ],
+                    "answer": "Medley",
+                    "fun_fact": "In individual medley, swimmers do butterfly, backstroke, breaststroke, and freestyle in that order."
+                },
+                {
+                    "question": "Which country has won the most Olympic swimming medals?",
+                    "options": [
+                        "Australia",
+                        "United States",
+                        "Germany",
+                        "China"
+                    ],
+                    "answer": "United States",
+                    "fun_fact": "The US has won over 500 Olympic swimming medals, more than twice as many as second-place Australia."
+                },
+                {
+                    "question": "How many meters is an Olympic-size swimming pool?",
+                    "options": [
+                        "25",
+                        "50",
+                        "75",
+                        "100"
+                    ],
+                    "answer": "50",
+                    "fun_fact": "Olympic pools are 50m long with 8-10 lanes, holding about 660,000 gallons of water."
+                },
+                {
+                    "question": "Which swimmer has won the most Olympic gold medals?",
+                    "options": [
+                        "Mark Spitz",
+                        "Michael Phelps",
+                        "Ian Thorpe",
+                        "Ryan Lochte"
+                    ],
+                    "answer": "Michael Phelps",
+                    "fun_fact": "Phelps has 23 Olympic gold medals (28 total), the most of any athlete in any sport."
+                },
+                {
+                    "question": "What is the term for the swimming start where the swimmer begins in the water?",
+                    "options": [
+                        "Dive start",
+                        "Back start",
+                        "In-water start",
+                        "Push start"
+                    ],
+                    "answer": "Back start",
+                    "fun_fact": "Used only in backstroke events, swimmers start in the water holding the starting block."
+                },
+                {
+                    "question": "Which swimming stroke requires both arms to move simultaneously?",
+                    "options": [
+                        "Freestyle",
+                        "Backstroke",
+                        "Breaststroke",
+                        "Butterfly"
+                    ],
+                    "answer": "Butterfly",
+                    "fun_fact": "Butterfly was developed in the 1930s as a variant of breaststroke before becoming a separate stroke."
+                },
+                {
+                    "question": "How many lengths of a 50m pool make up a 1500m freestyle race?",
+                    "options": [
+                        "15",
+                        "25",
+                        "30",
+                        "50"
+                    ],
+                    "answer": "30",
+                    "fun_fact": "The 1500m freestyle is the longest Olympic swimming event, often called the 'mile' though it's actually 0.93 miles."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which swimmer won 7 gold medals at the 1972 Olympics?",
+                    "options": [
+                        "Mark Spitz",
+                        "Michael Phelps",
+                        "Ian Thorpe",
+                        "Matt Biondi"
+                    ],
+                    "answer": "Mark Spitz",
+                    "fun_fact": "Spitz set world records in all 7 events, a record that stood until Phelps in 2008."
+                },
+                {
+                    "question": "What is the term for the turn used in freestyle and backstroke?",
+                    "options": [
+                        "Flip turn",
+                        "Open turn",
+                        "Tumble turn",
+                        "Roll turn"
+                    ],
+                    "answer": "Flip turn",
+                    "fun_fact": "Flip turns allow swimmers to maintain momentum by somersaulting at the wall."
+                },
+                {
+                    "question": "Which stroke requires swimmers to touch the wall with both hands simultaneously?",
+                    "options": [
+                        "Freestyle",
+                        "Backstroke",
+                        "Breaststroke",
+                        "Butterfly"
+                    ],
+                    "answer": "Breaststroke",
+                    "fun_fact": "This rule prevents the 'one-arm touch' that could give an unfair advantage."
+                },
+                {
+                    "question": "What is the maximum number of swimmers per country in an Olympic swimming event?",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "answer": "2",
+                    "fun_fact": "This rule ensures diversity in finals and gives more countries a chance to compete."
+                },
+                {
+                    "question": "Which swimming event is not an Olympic event?",
+                    "options": [
+                        "50m freestyle",
+                        "100m backstroke",
+                        "200m medley",
+                        "400m butterfly"
+                    ],
+                    "answer": "400m butterfly",
+                    "fun_fact": "The longest butterfly event in the Olympics is 200m due to its physical demands."
+                },
+                {
+                    "question": "What is the 'wave' in swimming competitions?",
+                    "options": [
+                        "A type of stroke",
+                        "The movement of water created by swimmers",
+                        "A seeding system for preliminaries",
+                        "A starting technique"
+                    ],
+                    "answer": "A seeding system for preliminaries",
+                    "fun_fact": "Slower swimmers compete in earlier heats (waves) to give all competitors equal conditions."
+                },
+                {
+                    "question": "Which swimmer was known as the 'Thorpedo'?",
+                    "options": [
+                        "Michael Phelps",
+                        "Ian Thorpe",
+                        "Alexander Popov",
+                        "Grant Hackett"
+                    ],
+                    "answer": "Ian Thorpe",
+                    "fun_fact": "Australian Ian Thorpe earned this nickname for his powerful swimming and won 5 Olympic golds."
+                },
+                {
+                    "question": "What is the term for swimming with only one arm?",
+                    "options": [
+                        "Single-arm",
+                        "Unilateral",
+                        "Catch-up",
+                        "One-arm drill"
+                    ],
+                    "answer": "Catch-up",
+                    "fun_fact": "This drill helps swimmers focus on technique by making one arm 'catch up' to the other."
+                },
+                {
+                    "question": "Which country hosted the first Olympic swimming competitions in a pool?",
+                    "options": [
+                        "Greece",
+                        "France",
+                        "United States",
+                        "England"
+                    ],
+                    "answer": "England",
+                    "fun_fact": "The 1908 London Olympics were the first to use a 100m pool instead of open water."
+                },
+                {
+                    "question": "What is the term for the underwater phase after a start or turn?",
+                    "options": [
+                        "Streamline",
+                        "Glide",
+                        "Dolphin",
+                        "Breakout"
+                    ],
+                    "answer": "Streamline",
+                    "fun_fact": "Swimmers can stay underwater for up to 15m after starts and turns in most strokes."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which swimmer holds the record for most individual world championships gold medals?",
+                    "options": [
+                        "Michael Phelps",
+                        "Katie Ledecky",
+                        "Ryan Lochte",
+                        "Missy Franklin"
+                    ],
+                    "answer": "Michael Phelps",
+                    "fun_fact": "Phelps won 26 individual world championship golds between 2001-2011."
+                },
+                {
+                    "question": "What was unique about the 2000 Olympic 200m freestyle final?",
+                    "options": [
+                        "First three-way tie for gold",
+                        "Youngest ever winner",
+                        "All competitors broke world record",
+                        "First use of full-body suits"
+                    ],
+                    "answer": "First three-way tie for gold",
+                    "fun_fact": "Gary Hall Jr., Anthony Ervin, and Pieter van den Hoogenband all touched in 21.98 seconds."
+                },
+                {
+                    "question": "Which stroke was the last to be added to Olympic competition?",
+                    "options": [
+                        "Freestyle",
+                        "Backstroke",
+                        "Breaststroke",
+                        "Butterfly"
+                    ],
+                    "answer": "Butterfly",
+                    "fun_fact": "Butterfly became a separate stroke in 1952 after being considered a breaststroke variant."
+                },
+                {
+                    "question": "What is the 'Ledecky Rule' in swimming?",
+                    "options": [
+                        "Limits distance between heats and finals",
+                        "Bans certain training techniques",
+                        "Regulates suit materials",
+                        "Restricts underwater kicking"
+                    ],
+                    "answer": "Limits distance between heats and finals",
+                    "fun_fact": "Implemented after Katie Ledecky's dominance, it limits the time between 800m/1500m heats and finals."
+                },
+                {
+                    "question": "Which swimmer was known for the 'Berkoff Blastoff'?",
+                    "options": [
+                        "David Berkoff",
+                        "Michael Phelps",
+                        "Ryan Lochte",
+                        "Aaron Peirsol"
+                    ],
+                    "answer": "David Berkoff",
+                    "fun_fact": "Berkoff revolutionized backstroke by staying underwater for most of the race using dolphin kick."
+                },
+                {
+                    "question": "What is the 'suits war' in competitive swimming?",
+                    "options": [
+                        "Debate over full-body vs traditional suits",
+                        "Controversy over sponsor logos",
+                        "Dispute over suit colors",
+                        "Argument about suit materials"
+                    ],
+                    "answer": "Debate over full-body vs traditional suits",
+                    "fun_fact": "High-tech suits were banned in 2010 after 130 world records fell in 2008-09."
+                },
+                {
+                    "question": "Which swimmer holds the record for most consecutive Olympic gold medals in the same event?",
+                    "options": [
+                        "Michael Phelps",
+                        "Krisztina Egerszegi",
+                        "Dawn Fraser",
+                        "Katie Ledecky"
+                    ],
+                    "answer": "Dawn Fraser",
+                    "fun_fact": "Australian Fraser won 100m freestyle gold in 1956, 1960, and 1964."
+                },
+                {
+                    "question": "What is the 'Project 56' in swimming history?",
+                    "options": [
+                        "Attempt to break 56-second barrier in 100m freestyle",
+                        "Plan to develop 56 Olympic swimmers",
+                        "Design for a 56-lane pool",
+                        "Training program lasting 56 weeks"
+                    ],
+                    "answer": "Attempt to break 56-second barrier in 100m freestyle",
+                    "fun_fact": "This 1970s initiative led to Jim Montgomery becoming the first under 50 seconds in 1976."
+                },
+                {
+                    "question": "Which country's swimmers are known as the 'Distance Mafia'?",
+                    "options": [
+                        "United States",
+                        "Australia",
+                        "Hungary",
+                        "China"
+                    ],
+                    "answer": "Hungary",
+                    "fun_fact": "Hungarian distance swimmers including Kristof Milak have dominated 200m+ events in recent years."
+                },
+                {
+                    "question": "What was unique about the 1976 Olympic 100m freestyle final?",
+                    "options": [
+                        "First sub-50 second swim",
+                        "All finalists from same country",
+                        "Youngest ever winner",
+                        "First use of electronic timing"
+                    ],
+                    "answer": "First sub-50 second swim",
+                    "fun_fact": "Jim Montgomery's 49.99 was the first under 50 seconds, aided by the first use of gutters in Olympic pools."
+                }
+            ]
+        }
+    },
+    "Cricket": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How many players are in a cricket team?",
+                    "options": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ],
+                    "answer": "11",
+                    "fun_fact": "The first recorded 11-a-side cricket match was in 1697 in Sussex, England."
+                },
+                {
+                    "question": "What is the name of cricket's most famous international competition?",
+                    "options": [
+                        "World Series",
+                        "Champions League",
+                        "World Cup",
+                        "Premier League"
+                    ],
+                    "answer": "World Cup",
+                    "fun_fact": "The first Cricket World Cup was held in 1975 in England with just 8 teams participating."
+                },
+                {
+                    "question": "How many balls are in an over in cricket?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "6",
+                    "fun_fact": "Overs used to be 4 or 5 balls in different countries until standardized to 6 balls in 1979/80."
+                },
+                {
+                    "question": "Which country invented cricket?",
+                    "options": [
+                        "Australia",
+                        "India",
+                        "England",
+                        "South Africa"
+                    ],
+                    "answer": "England",
+                    "fun_fact": "Cricket originated in southeast England in the 16th century, possibly as a children's game."
+                },
+                {
+                    "question": "What is the name of the cricket tournament between England and Australia?",
+                    "options": [
+                        "The Derby",
+                        "The Ashes",
+                        "The Cup",
+                        "The Test"
+                    ],
+                    "answer": "The Ashes",
+                    "fun_fact": "The Ashes name comes from a satirical 1882 obituary stating English cricket had died and 'the body will be cremated and the ashes taken to Australia'."
+                },
+                {
+                    "question": "Which of these is not a format of cricket?",
+                    "options": [
+                        "Test",
+                        "T20",
+                        "ODI",
+                        "G50"
+                    ],
+                    "answer": "G50",
+                    "fun_fact": "The three main formats are Test (5 days), ODI (50 overs), and T20 (20 overs)."
+                },
+                {
+                    "question": "What is the maximum number of overs in a T20 match?",
+                    "options": [
+                        "10",
+                        "20",
+                        "30",
+                        "40"
+                    ],
+                    "answer": "20",
+                    "fun_fact": "T20 cricket was created in 2003 to make matches shorter and more exciting for spectators."
+                },
+                {
+                    "question": "Which country has won the most Cricket World Cups?",
+                    "options": [
+                        "India",
+                        "Australia",
+                        "West Indies",
+                        "England"
+                    ],
+                    "answer": "Australia",
+                    "fun_fact": "Australia has won 5 World Cups (1987, 1999, 2003, 2007, 2015), the most of any nation."
+                },
+                {
+                    "question": "What is the name of cricket's governing body?",
+                    "options": [
+                        "ICC",
+                        "FIFA",
+                        "IOC",
+                        "BCCI"
+                    ],
+                    "answer": "ICC",
+                    "fun_fact": "The International Cricket Council (ICC) was founded in 1909 as the Imperial Cricket Conference."
+                },
+                {
+                    "question": "Which player has scored the most runs in international cricket?",
+                    "options": [
+                        "Sachin Tendulkar",
+                        "Ricky Ponting",
+                        "Virat Kohli",
+                        "Brian Lara"
+                    ],
+                    "answer": "Sachin Tendulkar",
+                    "fun_fact": "Tendulkar scored 34,357 runs across all formats in a 24-year international career."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which bowler has taken the most wickets in Test cricket?",
+                    "options": [
+                        "Shane Warne",
+                        "Muttiah Muralitharan",
+                        "James Anderson",
+                        "Glenn McGrath"
+                    ],
+                    "answer": "Muttiah Muralitharan",
+                    "fun_fact": "Muralitharan took 800 Test wickets with his unique spinning style, despite controversy over his bowling action."
+                },
+                {
+                    "question": "What is the term for when a batsman scores 100 runs in an innings?",
+                    "options": [
+                        "Ton",
+                        "Century",
+                        "Hundred",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "Scoring 100 runs is commonly called all these terms, with 'century' being the most formal."
+                },
+                {
+                    "question": "Which country first hosted day-night Test matches?",
+                    "options": [
+                        "England",
+                        "Australia",
+                        "India",
+                        "South Africa"
+                    ],
+                    "answer": "Australia",
+                    "fun_fact": "The first day-night Test was in 2015 between Australia and New Zealand at Adelaide Oval using a pink ball."
+                },
+                {
+                    "question": "What is the term for bowling three wickets with consecutive deliveries?",
+                    "options": [
+                        "Triple play",
+                        "Hat-trick",
+                        "Three-fer",
+                        "Golden trio"
+                    ],
+                    "answer": "Hat-trick",
+                    "fun_fact": "The term comes from cricket's early days when bowlers were rewarded with a hat for this achievement."
+                },
+                {
+                    "question": "Which player scored the fastest century in ODI cricket?",
+                    "options": [
+                        "AB de Villiers",
+                        "Corey Anderson",
+                        "Shahid Afridi",
+                        "Glenn Maxwell"
+                    ],
+                    "answer": "AB de Villiers",
+                    "fun_fact": "De Villiers scored 100 off just 31 balls against West Indies in 2015, including 16 sixes."
+                },
+                {
+                    "question": "What is the name of the cricket competition between India and Pakistan?",
+                    "options": [
+                        "Border-Gavaskar Trophy",
+                        "Freedom Trophy",
+                        "Asia Cup",
+                        "No specific name"
+                    ],
+                    "answer": "No specific name",
+                    "fun_fact": "Despite being one of cricket's biggest rivalries, the matches don't have a specific trophy name."
+                },
+                {
+                    "question": "Which country's domestic tournament is called the 'Sheffield Shield'?",
+                    "options": [
+                        "England",
+                        "Australia",
+                        "South Africa",
+                        "New Zealand"
+                    ],
+                    "answer": "Australia",
+                    "fun_fact": "The Sheffield Shield is Australia's first-class competition, named after Lord Sheffield who donated the trophy in 1892."
+                },
+                {
+                    "question": "What is the term for when a batsman is out without scoring?",
+                    "options": [
+                        "Zero",
+                        "Duck",
+                        "Nil",
+                        "Blank"
+                    ],
+                    "answer": "Duck",
+                    "fun_fact": "The term comes from the shape of the number '0' resembling a duck's egg, hence 'getting a duck'."
+                },
+                {
+                    "question": "Which bowler has the best figures in a Test innings?",
+                    "options": [
+                        "Jim Laker",
+                        "Anil Kumble",
+                        "Muttiah Muralitharan",
+                        "Shane Warne"
+                    ],
+                    "answer": "Jim Laker",
+                    "fun_fact": "England's Jim Laker took 10/53 against Australia in 1956, the only perfect 10-wicket innings in Tests."
+                },
+                {
+                    "question": "What is the term for scoring six runs off one ball?",
+                    "options": [
+                        "Boundary",
+                        "Sixer",
+                        "Maximum",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above",
+                    "fun_fact": "All these terms are used, with 'maximum' being the most formal as it literally gives the batting team the maximum possible from one delivery."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which Test match had the highest ever aggregate runs scored?",
+                    "options": [
+                        "England vs Australia 1938",
+                        "India vs Sri Lanka 1997",
+                        "South Africa vs England 2003",
+                        "Australia vs England 2006"
+                    ],
+                    "answer": "South Africa vs England 2003",
+                    "fun_fact": "This match saw 1,981 runs scored over 5 days in a high-scoring draw at Johannesburg."
+                },
+                {
+                    "question": "What is the 'Mankad' dismissal in cricket?",
+                    "options": [
+                        "Running out the non-striker before delivery",
+                        "Obstructing the field",
+                        "Handling the ball",
+                        "Hitting the ball twice"
+                    ],
+                    "answer": "Running out the non-striker before delivery",
+                    "fun_fact": "Named after Vinoo Mankad who first did this in 1947, though considered against 'spirit of cricket' by some."
+                },
+                {
+                    "question": "Which player has taken the most catches in Test cricket?",
+                    "options": [
+                        "Rahul Dravid",
+                        "Jacques Kallis",
+                        "Mark Waugh",
+                        "Mahela Jayawardene"
+                    ],
+                    "answer": "Rahul Dravid",
+                    "fun_fact": "Dravid took 210 catches as a fielder (excluding wicketkeeping catches) in his Test career."
+                },
+                {
+                    "question": "What was unique about the 2007 Cricket World Cup final?",
+                    "options": [
+                        "First final decided by Super Over",
+                        "First day-night final",
+                        "First final with reduced overs",
+                        "First final between two Asian teams"
+                    ],
+                    "answer": "First final between two Asian teams",
+                    "fun_fact": "Australia defeated Sri Lanka in the first all-Asian final, played in near darkness due to over-rate issues."
+                },
+                {
+                    "question": "Which country's players were known as the 'Unbeatables'?",
+                    "options": [
+                        "Australia 1948",
+                        "West Indies 1980s",
+                        "India 2010s",
+                        "England 1950s"
+                    ],
+                    "answer": "Australia 1948",
+                    "fun_fact": "Don Bradman's 1948 Australian team went undefeated on their England tour, earning this nickname."
+                },
+                {
+                    "question": "What is the 'Dilshan Scoop' in cricket?",
+                    "options": [
+                        "A type of reverse sweep over the keeper",
+                        "A fielding position",
+                        "A bowling action",
+                        "A captaincy tactic"
+                    ],
+                    "answer": "A type of reverse sweep over the keeper",
+                    "fun_fact": "Pioneered by Tillakaratne Dilshan, this audacious shot involves scooping the ball over the wicketkeeper's head."
+                },
+                {
+                    "question": "Which bowler has the most ODI hat-tricks?",
+                    "options": [
+                        "Wasim Akram",
+                        "Lasith Malinga",
+                        "Chaminda Vaas",
+                        "Saqlain Mushtaq"
+                    ],
+                    "answer": "Wasim Akram",
+                    "fun_fact": "Akram took 4 ODI hat-tricks, including two in 1999 against Sri Lanka and West Indies."
+                },
+                {
+                    "question": "What was unique about England's 2019 World Cup victory?",
+                    "options": [
+                        "Won on boundary count",
+                        "First tied final",
+                        "Both of the above",
+                        "Won by 1 run"
+                    ],
+                    "answer": "Both of the above",
+                    "fun_fact": "The final was tied after 100 overs and a Super Over, with England winning due to hitting more boundaries."
+                },
+                {
+                    "question": "Which player was known as 'Rawalpindi Express'?",
+                    "options": [
+                        "Waqar Younis",
+                        "Shoaib Akhtar",
+                        "Imran Khan",
+                        "Shahid Afridi"
+                    ],
+                    "answer": "Shoaib Akhtar",
+                    "fun_fact": "Akhtar earned this nickname for his express pace (he bowled the first recorded 100 mph delivery) and hometown."
+                },
+                {
+                    "question": "What is the 'Sandpaper Gate' in cricket?",
+                    "options": [
+                        "Ball tampering scandal",
+                        "Pitch doctoring controversy",
+                        "Match fixing incident",
+                        "Doping violation"
+                    ],
+                    "answer": "Ball tampering scandal",
+                    "fun_fact": "The 2018 incident involved Australian players using sandpaper to alter the ball's condition, leading to major suspensions."
+                }
+            ]
+        }
+    }
+}
