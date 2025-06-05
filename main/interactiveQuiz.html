@@ -1,22 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html> <!-- Declares the document type and version of HTML used (HTML5) -->
+<html lang="en"> <!-- Root element of the document with language set to English -->
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Quiz Categories</title>
-    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8" /> <!-- Sets character encoding to UTF-8 for universal character support -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- Ensures responsive layout on mobile devices -->
+    <title>Quiz Categories</title> <!-- Sets the title of the browser tab -->
+    <link rel="stylesheet" href="styles.css" /> <!-- Links the external CSS stylesheet for styling -->
   </head>
   <body>
-    <h1 class="title">Choose a Quiz Category</h1>
+    <h1 class="title">Choose a Quiz Category</h1> <!-- Main heading of the page with a CSS class "title" -->
 
+    <!-- Grid container for category cards -->
     <div class="card-grid">
-      <div class="card" onclick="startQuiz('Science')">
-        <img src="../images/science.gif" alt="Science" />
-        <div class="card-content">
-          <h2>Science</h2>
+      
+      <!-- Individual card for Science -->
+      <div class="card" onclick="startQuiz('Science')"> <!-- Card with click event to start Science quiz -->
+        <img src="../images/science.gif" alt="Science" /> <!-- Image for Science category with alt text for accessibility -->
+        <div class="card-content"> <!-- Container for card title -->
+          <h2>Science</h2> <!-- Category title -->
         </div>
       </div>
 
+      <!-- History card -->
       <div class="card" onclick="startQuiz('History')">
         <img src="../images/history.gif" alt="History" />
         <div class="card-content">
@@ -24,6 +28,7 @@
         </div>
       </div>
 
+      <!-- Geography card -->
       <div class="card" onclick="startQuiz('Geography')">
         <img src="../images/geography.gif" alt="Geography" />
         <div class="card-content">
@@ -31,6 +36,7 @@
         </div>
       </div>
 
+      <!-- Literature card -->
       <div class="card" onclick="startQuiz('Literature')">
         <img src="../images/literature.gif" alt="Literature" />
         <div class="card-content">
@@ -38,6 +44,7 @@
         </div>
       </div>
 
+      <!-- Math card -->
       <div class="card" onclick="startQuiz('Math')">
         <img src="../images/math.gif" alt="Math" />
         <div class="card-content">
@@ -45,6 +52,7 @@
         </div>
       </div>
 
+      <!-- Sports card -->
       <div class="card" onclick="startQuiz('Sports')">
         <img src="../images/sports.gif" alt="Sports" />
         <div class="card-content">
@@ -52,6 +60,7 @@
         </div>
       </div>
 
+      <!-- Technology card -->
       <div class="card" onclick="startQuiz('Technology')">
         <img src="../images/technology.gif" alt="Technology" />
         <div class="card-content">
@@ -59,6 +68,7 @@
         </div>
       </div>
 
+      <!-- Movies card -->
       <div class="card" onclick="startQuiz('Movies')">
         <img src="../images/movie.gif" alt="Movies" />
         <div class="card-content">
@@ -67,16 +77,24 @@
       </div>
     </div>
 
-    <!-- Modal Structure -->
-    <div id="quizModal" class="modal">
-      <div class="modal-content">
-        <span class="close-button" onclick="closeModal()">&times;</span>
-        <h2 id="quizTitle"></h2>
+    <!-- Modal for quiz interaction -->
+    <div id="quizModal" class="modal"> <!-- Hidden modal initially (CSS controls visibility) -->
+      <div class="modal-content"> <!-- Modal content area -->
+        <span class="close-button" onclick="closeModal()">&times;</span> <!-- Close button for modal (× symbol) -->
+        <h2 id="quizTitle"></h2> <!-- Placeholder for dynamic quiz title -->
+        
+        <!-- Container for dynamically added quiz level or category options -->
         <div class="category-section" id="category"></div>
+
+        <!-- Container for quiz difficulty levels or filters -->
         <div class="level-section" id="levels"></div>
+
+        <!-- Container for displaying questions and answers -->
         <div class="question-section" id="questions"></div>
       </div>
     </div>
+
+    <!-- JavaScript file for interactivity -->
     <script src="script.js"></script>
   </body>
 </html>

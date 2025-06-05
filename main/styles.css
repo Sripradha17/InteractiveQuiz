@@ -1,121 +1,134 @@
+/* Reset default margins and paddings, and use border-box model for all elements */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* Style for the body element */
 body {
-  font-family: "Segoe UI", sans-serif;
-  background: #f0f4f8;
-  padding: 40px 20px;
-  text-align: center;
+  font-family: "Segoe UI", sans-serif; /* Font family for the entire page */
+  background: #f0f4f8; /* Light grey background color */
+  padding: 40px 20px; /* Top-bottom and left-right padding */
+  text-align: center; /* Center-align all text inside body */
 }
 
+/* Main page title styling */
 .title {
-  font-size: 2.5rem;
-  margin-bottom: 30px;
-  color: #333;
+  font-size: 2.5rem; /* Large font size */
+  margin-bottom: 30px; /* Space below the title */
+  color: #333; /* Dark grey text color */
 }
 
+/* Grid layout for category cards */
 .card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
+  display: grid; /* Use CSS Grid */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive columns */
+  gap: 20px; /* Space between grid items */
+  max-width: 1200px; /* Maximum width of the grid */
+  margin: 0 auto; /* Center the grid horizontally */
 }
 
+/* Styles for each quiz card */
 .card {
-  background: #fff;
-  border-radius: 15px;
-  overflow: hidden;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-  cursor: pointer;
-  transition: transform 0.3s, box-shadow 0.3s;
+  background: #fff; /* White background */
+  border-radius: 15px; /* Rounded corners */
+  overflow: hidden; /* Hide overflowing child elements */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: transform 0.3s, box-shadow 0.3s; /* Smooth animation */
 }
 
+/* Hover effect for cards */
 .card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
+  transform: translateY(-8px); /* Move card slightly up */
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15); /* More prominent shadow */
 }
 
+/* Image inside each card */
 .card img {
-  width: 100%;
-  height: 200px;
-  object-fit: fill;
+  width: 100%; /* Full width */
+  height: 200px; /* Fixed height */
+  object-fit: fill; /* Stretch image to fill the area */
 }
 
+/* Container for card text content */
 .card-content {
-  padding: 15px;
+  padding: 15px; /* Padding inside card content */
 }
 
+/* Card title text styling */
 .card-content h2 {
-  font-size: 1.5rem;
-  color: #333;
+  font-size: 1.5rem; /* Medium-large text */
+  color: #333; /* Dark grey */
+  margin: 10px 0; /* Space above and below title */
 }
 
-.card-content h2 {
-  margin: 10px 0;
-}
-
+/* Modal window (initially hidden) */
 .modal {
-  display: none;
-  position: fixed;
-  z-index: 999;
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed position */
+  z-index: 999; /* High stacking order */
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  overflow: auto;
-  background-color: rgba(0, 0, 0, 0.5);
+  overflow: auto; /* Scroll if content overflows */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
 }
 
+/* Content box inside modal */
 .modal-content {
-  background-color: #fff;
-  margin: 15% auto;
-  padding: 2rem;
-  border-radius: 10px;
-  width: 50%;
-  position: relative;
-  text-align: center;
+  background-color: #fff; /* White background */
+  margin: 15% auto; /* Center vertically and horizontally */
+  padding: 2rem; /* Inner spacing */
+  border-radius: 10px; /* Rounded corners */
+  width: 50%; /* Half the screen width */
+  position: relative; /* For positioning close button */
+  text-align: center; /* Center-align text */
 }
 
+/* Close button for modal */
 .close-button {
-  position: absolute;
+  position: absolute; /* Absolute position inside modal */
   top: 1rem;
   right: 1rem;
   font-size: 1.5rem;
-  cursor: pointer;
+  cursor: pointer; /* Pointer on hover */
 }
 
+/* Category container inside modal */
 #category {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: flex; /* Flexbox layout */
+  flex-direction: column; /* Stack vertically */
+  align-items: center; /* Center horizontally */
   margin-top: 20px;
 }
 
+/* Style for answer/option buttons */
 .option-button {
-  background-color: #4caf50; /* Green */
-  color: white;
-  border: 2px solid #388e3c;
-  padding: 12px 24px;
-  margin: 10px 0;
+  background-color: #4caf50; /* Green background */
+  color: white; /* White text */
+  border: 2px solid #388e3c; /* Darker green border */
+  padding: 12px 24px; /* Spacing */
+  margin: 10px 0; /* Vertical spacing between buttons */
   font-size: 18px;
-  border-radius: 8px;
+  border-radius: 8px; /* Rounded corners */
   cursor: pointer;
-  box-shadow: 12px 11px 6px rgba(110, 2, 2, 0.2);
-  transition: all 0.3s ease;
-  width: 70%; /* Make buttons a little wide */
-  max-width: 300px; /* but not too wide */
+  box-shadow: 12px 11px 6px rgba(110, 2, 2, 0.2); /* Subtle shadow */
+  transition: all 0.3s ease; /* Smooth hover effects */
+  width: 70%; /* Responsive width */
+  max-width: 300px; /* Limit max width */
   text-align: center;
 }
 
+/* Hover state for option buttons */
 .option-button:hover {
-  background-color: #45a049;
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+  background-color: #45a049; /* Slightly darker green */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* More intense shadow */
 }
 
+/* Container for level buttons */
 #levels {
   display: flex;
   flex-direction: column;
@@ -123,6 +136,7 @@ body {
   margin-top: 20px;
 }
 
+/* Container for answer options inside the questions section */
 #questions #answer-options {
   display: flex;
   flex-direction: column;
@@ -130,27 +144,32 @@ body {
   margin-top: 20px;
 }
 
+/* Main questions container */
 #questions {
   font-size: large;
   padding: 5px;
 }
 
+/* Displayed text after user selects an answer */
 #answer-text {
   margin: 10px;
   font-family: cursive;
   font-size: larger;
 }
 
+/* Style for question text */
 .question {
   font-size: x-large;
   font-family: cursive;
 }
 
+/* Styling for end-of-quiz message */
 .end-quiz {
   font-size: x-large;
   font-family: cursive;
 }
 
+/* Timer display styling */
 .question-timer {
   font-size: large;
   font-family: cursive;
