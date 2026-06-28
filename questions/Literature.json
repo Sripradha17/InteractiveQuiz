@@ -1698,5 +1698,180 @@
                 }
             ]
         }
+    },
+    "Mythology and Folklore": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who is the king of the gods in Greek mythology?",
+                    "options": [
+                        "Zeus",
+                        "Poseidon",
+                        "Hades",
+                        "Apollo"
+                    ],
+                    "answer": "Zeus",
+                    "explanation": "Zeus is the king of the Greek gods and ruler of Mount Olympus."
+                },
+                {
+                    "question": "In Norse mythology, who is the god of thunder?",
+                    "options": [
+                        "Loki",
+                        "Odin",
+                        "Thor",
+                        "Freyr"
+                    ],
+                    "answer": "Thor",
+                    "explanation": "Thor is the Norse god of thunder, known for wielding the hammer Mjolnir."
+                },
+                {
+                    "question": "What creature in folklore is half-man and half-horse?",
+                    "options": [
+                        "Minotaur",
+                        "Centaur",
+                        "Satyr",
+                        "Sphinx"
+                    ],
+                    "answer": "Centaur",
+                    "explanation": "A centaur is a mythological creature with the upper body of a human and the lower body of a horse."
+                },
+                {
+                    "question": "Who was the Egyptian god of the afterlife?",
+                    "options": [
+                        "Ra",
+                        "Anubis",
+                        "Osiris",
+                        "Horus"
+                    ],
+                    "answer": "Osiris",
+                    "explanation": "Osiris was the Egyptian god of the afterlife, judging and ruling over the dead."
+                },
+                {
+                    "question": "What mythical bird is said to be reborn from its own ashes?",
+                    "options": [
+                        "Phoenix",
+                        "Roc",
+                        "Griffin",
+                        "Harpy"
+                    ],
+                    "answer": "Phoenix",
+                    "explanation": "The phoenix is a mythical bird that cyclically regenerates by rising from the ashes of its predecessor."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "In Greek mythology, who flew too close to the sun with wings made of feathers and wax?",
+                    "options": [
+                        "Icarus",
+                        "Perseus",
+                        "Theseus",
+                        "Achilles"
+                    ],
+                    "answer": "Icarus",
+                    "explanation": "Icarus flew too close to the sun, melting his wax wings, and fell into the sea."
+                },
+                {
+                    "question": "Which hero of Greek mythology had a single vulnerable spot, his heel?",
+                    "options": [
+                        "Hercules",
+                        "Achilles",
+                        "Odysseus",
+                        "Ajax"
+                    ],
+                    "answer": "Achilles",
+                    "explanation": "Achilles' only vulnerable point was his heel, giving rise to the term 'Achilles' heel'."
+                },
+                {
+                    "question": "What legendary sword is associated with King Arthur?",
+                    "options": [
+                        "Durandal",
+                        "Excalibur",
+                        "Gram",
+                        "Joyeuse"
+                    ],
+                    "answer": "Excalibur",
+                    "explanation": "Excalibur is the legendary sword of King Arthur, often imbued with magical powers."
+                },
+                {
+                    "question": "In Norse mythology, what is the name of the world tree connecting the nine realms?",
+                    "options": [
+                        "Bifrost",
+                        "Yggdrasil",
+                        "Asgard",
+                        "Valhalla"
+                    ],
+                    "answer": "Yggdrasil",
+                    "explanation": "Yggdrasil is the immense mythical tree that connects the nine realms in Norse cosmology."
+                },
+                {
+                    "question": "Who is the trickster figure in many West African and African-diaspora folktales, often depicted as a spider?",
+                    "options": [
+                        "Anansi",
+                        "Loki",
+                        "Coyote",
+                        "Br'er Rabbit"
+                    ],
+                    "answer": "Anansi",
+                    "explanation": "Anansi is a trickster spider-god figure central to West African and Caribbean folklore."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "In Greek mythology, which figure was condemned to eternally push a boulder up a hill?",
+                    "options": [
+                        "Sisyphus",
+                        "Tantalus",
+                        "Prometheus",
+                        "Atlas"
+                    ],
+                    "answer": "Sisyphus",
+                    "explanation": "Sisyphus was punished by being forced to roll a boulder up a hill for eternity, only for it to roll back down."
+                },
+                {
+                    "question": "Which Mesopotamian epic recounts the adventures of a king searching for immortality?",
+                    "options": [
+                        "Epic of Gilgamesh",
+                        "Iliad",
+                        "Odyssey",
+                        "Mahabharata"
+                    ],
+                    "answer": "Epic of Gilgamesh",
+                    "explanation": "The Epic of Gilgamesh is an ancient Mesopotamian poem about a king's quest for immortality."
+                },
+                {
+                    "question": "In Hindu mythology, which deity is often depicted as a preserver within the trimurti, alongside Brahma and Shiva?",
+                    "options": [
+                        "Vishnu",
+                        "Indra",
+                        "Ganesha",
+                        "Agni"
+                    ],
+                    "answer": "Vishnu",
+                    "explanation": "Vishnu is the preserver god in the Hindu trimurti, alongside Brahma the creator and Shiva the destroyer."
+                },
+                {
+                    "question": "What Japanese folklore creature is a shape-shifting fox spirit?",
+                    "options": [
+                        "Kitsune",
+                        "Tengu",
+                        "Kappa",
+                        "Oni"
+                    ],
+                    "answer": "Kitsune",
+                    "explanation": "Kitsune are fox spirits in Japanese folklore believed to possess shape-shifting abilities."
+                },
+                {
+                    "question": "Which Titan in Greek mythology was punished by being forced to hold up the sky for eternity?",
+                    "options": [
+                        "Atlas",
+                        "Cronus",
+                        "Prometheus",
+                        "Oceanus"
+                    ],
+                    "answer": "Atlas",
+                    "explanation": "Atlas was condemned to bear the weight of the heavens upon his shoulders for eternity."
+                }
+            ]
+        }
     }
 }

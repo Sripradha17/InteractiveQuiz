@@ -1698,5 +1698,180 @@
                 }
             ]
         }
+    },
+    "Pixar Films": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the name of the cowboy doll in the Toy Story films?",
+                    "options": [
+                        "Buzz",
+                        "Woody",
+                        "Rex",
+                        "Slinky"
+                    ],
+                    "answer": "Woody",
+                    "explanation": "Woody is the pull-string cowboy doll who is Andy's favorite toy."
+                },
+                {
+                    "question": "In 'Finding Nemo', what type of fish is Nemo?",
+                    "options": [
+                        "Clownfish",
+                        "Goldfish",
+                        "Angelfish",
+                        "Blue Tang"
+                    ],
+                    "answer": "Clownfish",
+                    "explanation": "Nemo is a clownfish searched for by his father, Marlin."
+                },
+                {
+                    "question": "What is the name of the robot left alone on Earth in 'WALL-E'?",
+                    "options": [
+                        "EVE",
+                        "WALL-E",
+                        "M-O",
+                        "AUTO"
+                    ],
+                    "answer": "WALL-E",
+                    "explanation": "WALL-E is the trash-compacting robot who has been cleaning up Earth alone for centuries."
+                },
+                {
+                    "question": "Which Pixar film centers on a colorful Mexican holiday and the Land of the Dead?",
+                    "options": [
+                        "Coco",
+                        "Up",
+                        "Brave",
+                        "Soul"
+                    ],
+                    "answer": "Coco",
+                    "explanation": "Coco follows Miguel's journey into the Land of the Dead during Dia de los Muertos."
+                },
+                {
+                    "question": "What color is the main monster, Sulley, in 'Monsters, Inc.'?",
+                    "options": [
+                        "Blue and purple",
+                        "Green",
+                        "Red",
+                        "Yellow"
+                    ],
+                    "answer": "Blue and purple",
+                    "explanation": "Sulley is a large blue monster covered in purple spots."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "In 'Up', what does Carl use to make his house fly?",
+                    "options": [
+                        "A giant fan",
+                        "Balloons",
+                        "A rocket",
+                        "A hot air engine"
+                    ],
+                    "answer": "Balloons",
+                    "explanation": "Carl attaches thousands of balloons to his house to fulfill his and Ellie's dream of adventure."
+                },
+                {
+                    "question": "What is the name of the emotion characters' headquarters in 'Inside Out'?",
+                    "options": [
+                        "Headquarters",
+                        "Mind Palace",
+                        "Memory Lane",
+                        "Control Tower"
+                    ],
+                    "answer": "Headquarters",
+                    "explanation": "Headquarters is where Joy, Sadness, Fear, Anger, and Disgust operate Riley's mind."
+                },
+                {
+                    "question": "Which Pixar film is set in a world where rats can cook gourmet food?",
+                    "options": [
+                        "Ratatouille",
+                        "Cars",
+                        "A Bug's Life",
+                        "Brave"
+                    ],
+                    "answer": "Ratatouille",
+                    "explanation": "Ratatouille follows Remy, a rat with culinary aspirations in a Paris restaurant."
+                },
+                {
+                    "question": "In 'Brave', what does Merida do to change her fate?",
+                    "options": [
+                        "Seeks a witch's spell",
+                        "Marries a prince",
+                        "Runs away to a forest forever",
+                        "Becomes queen"
+                    ],
+                    "answer": "Seeks a witch's spell",
+                    "explanation": "Merida visits a witch for a spell to change her mother's mind, which goes awry."
+                },
+                {
+                    "question": "What is the name of the lead character car in 'Cars'?",
+                    "options": [
+                        "Lightning McQueen",
+                        "Mater",
+                        "Doc Hudson",
+                        "Sally"
+                    ],
+                    "answer": "Lightning McQueen",
+                    "explanation": "Lightning McQueen is a rookie race car who learns humility in the town of Radiator Springs."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "In 'Soul', what is the name of the otherworldly realm before life called?",
+                    "options": [
+                        "The Great Before",
+                        "The Other Side",
+                        "The Beyond",
+                        "The Astral Plane"
+                    ],
+                    "answer": "The Great Before",
+                    "explanation": "The Great Before is where souls are prepared for life on Earth in the film 'Soul'."
+                },
+                {
+                    "question": "Who directed the original 'Toy Story' (1995), Pixar's first feature film?",
+                    "options": [
+                        "John Lasseter",
+                        "Brad Bird",
+                        "Pete Docter",
+                        "Andrew Stanton"
+                    ],
+                    "answer": "John Lasseter",
+                    "explanation": "John Lasseter directed Toy Story, the first feature-length film made entirely with CGI."
+                },
+                {
+                    "question": "In 'WALL-E', what is the name of the massive spaceship housing the last humans?",
+                    "options": [
+                        "Axiom",
+                        "Endurance",
+                        "Odyssey",
+                        "Nostromo"
+                    ],
+                    "answer": "Axiom",
+                    "explanation": "The Axiom is the starliner where humanity has lived for centuries after abandoning Earth."
+                },
+                {
+                    "question": "What is the name of Sulley's small monster sidekick in 'Monsters, Inc.'?",
+                    "options": [
+                        "Mike Wazowski",
+                        "Randall",
+                        "Roz",
+                        "Celia"
+                    ],
+                    "answer": "Mike Wazowski",
+                    "explanation": "Mike Wazowski is Sulley's one-eyed best friend and scare assistant."
+                },
+                {
+                    "question": "Which 1997 Pixar short film won the Academy Award for Best Animated Short Film?",
+                    "options": [
+                        "Geri's Game",
+                        "Lifted",
+                        "Boundin'",
+                        "Knick Knack"
+                    ],
+                    "answer": "Geri's Game",
+                    "explanation": "Geri's Game won the Academy Award for Best Animated Short Film at the 1998 ceremony, honoring 1997 releases."
+                }
+            ]
+        }
     }
 }

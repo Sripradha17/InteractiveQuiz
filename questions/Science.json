@@ -1698,5 +1698,180 @@
                 }
             ]
         }
+    },
+    "The Human Body": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the largest organ in the human body?",
+                    "options": [
+                        "Heart",
+                        "Liver",
+                        "Skin",
+                        "Brain"
+                    ],
+                    "answer": "Skin",
+                    "explanation": "Skin is the body's largest organ, covering and protecting everything underneath it."
+                },
+                {
+                    "question": "How many chambers does the human heart have?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "4",
+                    "explanation": "The human heart has four chambers: two atria and two ventricles."
+                },
+                {
+                    "question": "Which organ is responsible for pumping blood throughout the body?",
+                    "options": [
+                        "Lungs",
+                        "Heart",
+                        "Kidneys",
+                        "Liver"
+                    ],
+                    "answer": "Heart",
+                    "explanation": "The heart pumps blood through the circulatory system, delivering oxygen and nutrients."
+                },
+                {
+                    "question": "What is the basic unit of life that makes up the human body?",
+                    "options": [
+                        "Atom",
+                        "Cell",
+                        "Tissue",
+                        "Organ"
+                    ],
+                    "answer": "Cell",
+                    "explanation": "Cells are the basic structural and functional units of all living organisms."
+                },
+                {
+                    "question": "Which body system is responsible for breathing?",
+                    "options": [
+                        "Digestive system",
+                        "Respiratory system",
+                        "Nervous system",
+                        "Skeletal system"
+                    ],
+                    "answer": "Respiratory system",
+                    "explanation": "The respiratory system, including the lungs, handles the intake of oxygen and release of carbon dioxide."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "How many bones are in the adult human body?",
+                    "options": [
+                        "186",
+                        "206",
+                        "226",
+                        "246"
+                    ],
+                    "answer": "206",
+                    "explanation": "The adult human skeleton has 206 bones, though babies are born with around 270 that fuse over time."
+                },
+                {
+                    "question": "Which organ produces insulin to regulate blood sugar?",
+                    "options": [
+                        "Liver",
+                        "Pancreas",
+                        "Stomach",
+                        "Spleen"
+                    ],
+                    "answer": "Pancreas",
+                    "explanation": "The pancreas produces insulin, a hormone that regulates blood glucose levels."
+                },
+                {
+                    "question": "What is the function of red blood cells?",
+                    "options": [
+                        "Fight infection",
+                        "Carry oxygen",
+                        "Clot blood",
+                        "Digest food"
+                    ],
+                    "answer": "Carry oxygen",
+                    "explanation": "Red blood cells contain hemoglobin, which binds and transports oxygen throughout the body."
+                },
+                {
+                    "question": "Which part of the brain controls balance and coordination?",
+                    "options": [
+                        "Cerebrum",
+                        "Cerebellum",
+                        "Medulla",
+                        "Hypothalamus"
+                    ],
+                    "answer": "Cerebellum",
+                    "explanation": "The cerebellum coordinates muscle movements and maintains balance and posture."
+                },
+                {
+                    "question": "What is the main function of the kidneys?",
+                    "options": [
+                        "Produce hormones",
+                        "Filter blood and produce urine",
+                        "Digest fats",
+                        "Store oxygen"
+                    ],
+                    "answer": "Filter blood and produce urine",
+                    "explanation": "Kidneys filter waste products from the blood and excrete them as urine."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which type of joint allows the widest range of motion, as found in the shoulder?",
+                    "options": [
+                        "Hinge joint",
+                        "Ball-and-socket joint",
+                        "Pivot joint",
+                        "Saddle joint"
+                    ],
+                    "answer": "Ball-and-socket joint",
+                    "explanation": "Ball-and-socket joints, like the shoulder and hip, allow rotation in nearly all directions."
+                },
+                {
+                    "question": "What is the name of the process by which the body maintains a stable internal environment?",
+                    "options": [
+                        "Metabolism",
+                        "Homeostasis",
+                        "Osmosis",
+                        "Catalysis"
+                    ],
+                    "answer": "Homeostasis",
+                    "explanation": "Homeostasis is the regulation of internal conditions, such as temperature and pH, to maintain stability."
+                },
+                {
+                    "question": "Which structure in the cell is responsible for producing energy (ATP)?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Golgi apparatus"
+                    ],
+                    "answer": "Mitochondria",
+                    "explanation": "Mitochondria are the 'powerhouses' of the cell, generating ATP through cellular respiration."
+                },
+                {
+                    "question": "What type of immunity is gained after recovering from an infection or receiving a vaccine?",
+                    "options": [
+                        "Innate immunity",
+                        "Acquired immunity",
+                        "Passive immunity",
+                        "Autoimmunity"
+                    ],
+                    "answer": "Acquired immunity",
+                    "explanation": "Acquired (adaptive) immunity develops after exposure to a pathogen or vaccine, producing targeted antibodies."
+                },
+                {
+                    "question": "Which neurotransmitter is most associated with feelings of pleasure and reward?",
+                    "options": [
+                        "Serotonin",
+                        "Dopamine",
+                        "Acetylcholine",
+                        "GABA"
+                    ],
+                    "answer": "Dopamine",
+                    "explanation": "Dopamine is a key neurotransmitter in the brain's reward and pleasure pathways."
+                }
+            ]
+        }
     }
 }

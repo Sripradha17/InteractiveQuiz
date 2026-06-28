@@ -1698,5 +1698,180 @@
                 }
             ]
         }
+    },
+    "Natural Disasters": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What natural disaster is measured using the Richter scale?",
+                    "options": [
+                        "Hurricane",
+                        "Earthquake",
+                        "Tornado",
+                        "Flood"
+                    ],
+                    "answer": "Earthquake",
+                    "explanation": "The Richter scale measures the magnitude of seismic energy released by an earthquake."
+                },
+                {
+                    "question": "What is a tsunami most commonly caused by?",
+                    "options": [
+                        "Heavy rainfall",
+                        "Underwater earthquakes",
+                        "Strong winds",
+                        "Volcanic ash"
+                    ],
+                    "answer": "Underwater earthquakes",
+                    "explanation": "Tsunamis are most often triggered by underwater seismic activity displacing huge volumes of water."
+                },
+                {
+                    "question": "Which natural disaster is a rapidly rotating column of air?",
+                    "options": [
+                        "Tornado",
+                        "Drought",
+                        "Landslide",
+                        "Blizzard"
+                    ],
+                    "answer": "Tornado",
+                    "explanation": "A tornado is a violently rotating column of air extending from a thunderstorm to the ground."
+                },
+                {
+                    "question": "What do we call a long period of abnormally low rainfall?",
+                    "options": [
+                        "Monsoon",
+                        "Drought",
+                        "Flood",
+                        "Cyclone"
+                    ],
+                    "answer": "Drought",
+                    "explanation": "A drought is a prolonged period of below-average precipitation."
+                },
+                {
+                    "question": "Which natural disaster involves molten rock erupting from the Earth?",
+                    "options": [
+                        "Avalanche",
+                        "Volcanic eruption",
+                        "Sinkhole",
+                        "Wildfire"
+                    ],
+                    "answer": "Volcanic eruption",
+                    "explanation": "Volcanic eruptions release magma, ash, and gases from beneath the Earth's crust."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the term for the calm center of a hurricane?",
+                    "options": [
+                        "Vortex",
+                        "Eye",
+                        "Core",
+                        "Funnel"
+                    ],
+                    "answer": "Eye",
+                    "explanation": "The eye is the relatively calm, low-pressure center of a hurricane."
+                },
+                {
+                    "question": "Which scale is used to categorize hurricane intensity?",
+                    "options": [
+                        "Richter scale",
+                        "Saffir-Simpson scale",
+                        "Fujita scale",
+                        "Beaufort scale"
+                    ],
+                    "answer": "Saffir-Simpson scale",
+                    "explanation": "The Saffir-Simpson scale rates hurricanes from Category 1 to 5 based on sustained wind speed."
+                },
+                {
+                    "question": "What geological feature commonly forms along the 'Ring of Fire'?",
+                    "options": [
+                        "Coral reefs",
+                        "Volcanoes",
+                        "Glaciers",
+                        "Deserts"
+                    ],
+                    "answer": "Volcanoes",
+                    "explanation": "The Pacific Ring of Fire contains a large number of the world's active volcanoes and earthquake sites."
+                },
+                {
+                    "question": "Which type of disaster is a sudden downward movement of rock or soil on a slope?",
+                    "options": [
+                        "Landslide",
+                        "Sandstorm",
+                        "Sinkhole",
+                        "Tsunami"
+                    ],
+                    "answer": "Landslide",
+                    "explanation": "A landslide is the rapid movement of rock, earth, or debris down a slope."
+                },
+                {
+                    "question": "What weather phenomenon is the Fujita scale used to rate?",
+                    "options": [
+                        "Hurricanes",
+                        "Tornadoes",
+                        "Earthquakes",
+                        "Floods"
+                    ],
+                    "answer": "Tornadoes",
+                    "explanation": "The Fujita (and Enhanced Fujita) scale rates tornado intensity based on resulting damage."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the term for a volcanic explosion so large it can affect global climate?",
+                    "options": [
+                        "Supereruption",
+                        "Megaquake",
+                        "Hyperflood",
+                        "Firestorm"
+                    ],
+                    "answer": "Supereruption",
+                    "explanation": "A supereruption ejects more than 1,000 cubic kilometers of material and can alter global climate for years."
+                },
+                {
+                    "question": "Which 2004 disaster, triggered by a magnitude 9.1 earthquake, killed over 200,000 people across the Indian Ocean region?",
+                    "options": [
+                        "Hurricane Katrina",
+                        "Indian Ocean tsunami",
+                        "Sichuan earthquake",
+                        "Bhola cyclone"
+                    ],
+                    "answer": "Indian Ocean tsunami",
+                    "explanation": "The 2004 Indian Ocean earthquake triggered a tsunami that devastated coastlines across South and Southeast Asia."
+                },
+                {
+                    "question": "What term describes a wildfire that is largely driven and intensified by its own self-sustaining winds?",
+                    "options": [
+                        "Firestorm",
+                        "Backdraft",
+                        "Flashpoint",
+                        "Pyroclasm"
+                    ],
+                    "answer": "Firestorm",
+                    "explanation": "A firestorm is a fire so intense it creates and sustains its own powerful, inward-rushing winds."
+                },
+                {
+                    "question": "Which natural disaster is most directly caused by the rapid release of stored elastic strain energy along a fault line?",
+                    "options": [
+                        "Earthquake",
+                        "Hurricane",
+                        "Drought",
+                        "Avalanche"
+                    ],
+                    "answer": "Earthquake",
+                    "explanation": "Earthquakes occur when stress built up along fault lines is suddenly released as seismic waves."
+                },
+                {
+                    "question": "What is the name for the secondary, often smaller earthquakes that follow a main earthquake?",
+                    "options": [
+                        "Foreshocks",
+                        "Aftershocks",
+                        "Tremors",
+                        "Subduction"
+                    ],
+                    "answer": "Aftershocks",
+                    "explanation": "Aftershocks occur after a mainshock as the crust adjusts to the redistributed stress."
+                }
+            ]
+        }
     }
 }

@@ -1698,5 +1698,180 @@
                 }
             ]
         }
+    },
+    "Mobile Devices and Apps": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What does 'app' stand for in everyday usage?",
+                    "options": [
+                        "Application",
+                        "Appliance",
+                        "Approval",
+                        "Appendix"
+                    ],
+                    "answer": "Application",
+                    "explanation": "An 'app' is short for a software application, typically run on a mobile device."
+                },
+                {
+                    "question": "Which company makes the iPhone?",
+                    "options": [
+                        "Samsung",
+                        "Google",
+                        "Apple",
+                        "Microsoft"
+                    ],
+                    "answer": "Apple",
+                    "explanation": "The iPhone is a smartphone designed and manufactured by Apple Inc."
+                },
+                {
+                    "question": "What operating system runs on most non-Apple smartphones?",
+                    "options": [
+                        "Windows",
+                        "Android",
+                        "Linux",
+                        "macOS"
+                    ],
+                    "answer": "Android",
+                    "explanation": "Android, developed by Google, is the operating system used by most non-Apple smartphones."
+                },
+                {
+                    "question": "What is the name of the online marketplace for Android apps?",
+                    "options": [
+                        "App Store",
+                        "Google Play Store",
+                        "Windows Store",
+                        "Steam"
+                    ],
+                    "answer": "Google Play Store",
+                    "explanation": "The Google Play Store is the official app marketplace for Android devices."
+                },
+                {
+                    "question": "What touch gesture is commonly used to zoom in on a photo?",
+                    "options": [
+                        "Tap",
+                        "Pinch",
+                        "Swipe",
+                        "Shake"
+                    ],
+                    "answer": "Pinch",
+                    "explanation": "Pinching with two fingers (spreading them apart) is the standard gesture to zoom in on touchscreens."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What does GPS stand for, the technology used for mobile navigation apps?",
+                    "options": [
+                        "Global Positioning System",
+                        "General Purpose Software",
+                        "Geo Phone Service",
+                        "Global Phone Signal"
+                    ],
+                    "answer": "Global Positioning System",
+                    "explanation": "GPS, or Global Positioning System, uses satellites to determine a device's precise location."
+                },
+                {
+                    "question": "What term describes apps designed to work on both phones and tablets with adjustable layouts?",
+                    "options": [
+                        "Responsive design",
+                        "Native design",
+                        "Static layout",
+                        "Fixed design"
+                    ],
+                    "answer": "Responsive design",
+                    "explanation": "Responsive design allows an app's interface to adapt to different screen sizes."
+                },
+                {
+                    "question": "What is the term for software updates that fix bugs and security issues on mobile devices?",
+                    "options": [
+                        "Patches",
+                        "Firmware",
+                        "Drivers",
+                        "Plugins"
+                    ],
+                    "answer": "Patches",
+                    "explanation": "Patches are software updates released to fix bugs, security vulnerabilities, or add small improvements."
+                },
+                {
+                    "question": "Which wireless technology allows mobile payments by tapping a phone near a reader?",
+                    "options": [
+                        "Bluetooth",
+                        "NFC",
+                        "Wi-Fi",
+                        "Infrared"
+                    ],
+                    "answer": "NFC",
+                    "explanation": "NFC (Near Field Communication) enables contactless mobile payments via short-range wireless communication."
+                },
+                {
+                    "question": "What is the term for an app that works without requiring a permanent internet connection?",
+                    "options": [
+                        "Offline app",
+                        "Web app",
+                        "Cloud app",
+                        "Streaming app"
+                    ],
+                    "answer": "Offline app",
+                    "explanation": "An offline app can function without a continuous internet connection, syncing data when reconnected."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What programming language is primarily used for native iOS app development today?",
+                    "options": [
+                        "Java",
+                        "Swift",
+                        "Kotlin",
+                        "C#"
+                    ],
+                    "answer": "Swift",
+                    "explanation": "Swift is Apple's modern programming language for building native iOS, macOS, and watchOS apps."
+                },
+                {
+                    "question": "What programming language is most commonly used for native Android app development today?",
+                    "options": [
+                        "Swift",
+                        "Kotlin",
+                        "Ruby",
+                        "PHP"
+                    ],
+                    "answer": "Kotlin",
+                    "explanation": "Kotlin is Google's recommended language for modern native Android development, alongside Java."
+                },
+                {
+                    "question": "What term describes building one app codebase that runs on both iOS and Android?",
+                    "options": [
+                        "Cross-platform development",
+                        "Native development",
+                        "Monolithic development",
+                        "Sandboxing"
+                    ],
+                    "answer": "Cross-platform development",
+                    "explanation": "Cross-platform frameworks like React Native and Flutter let developers write one codebase for multiple platforms."
+                },
+                {
+                    "question": "What does 'APK' stand for in the Android ecosystem?",
+                    "options": [
+                        "Android Package Kit",
+                        "App Process Key",
+                        "Android Program Kernel",
+                        "Application Protocol Key"
+                    ],
+                    "answer": "Android Package Kit",
+                    "explanation": "An APK (Android Package Kit) is the file format used to distribute and install apps on Android."
+                },
+                {
+                    "question": "What mobile development concept refers to isolating an app's data and processes from other apps for security?",
+                    "options": [
+                        "Sandboxing",
+                        "Virtualization",
+                        "Caching",
+                        "Threading"
+                    ],
+                    "answer": "Sandboxing",
+                    "explanation": "Sandboxing restricts an app to its own isolated environment, preventing it from accessing other apps' data without permission."
+                }
+            ]
+        }
     }
 }

@@ -5,133 +5,203 @@
   box-sizing: border-box;
 }
 
-/* Style for the body element */
-body {
-  font-family: "Segoe UI", sans-serif; /* Font family for the entire page */
-  background: #f0f4f8; /* Light grey background color */
-  padding: 40px 20px; /* Top-bottom and left-right padding */
-  text-align: center; /* Center-align all text inside body */
+:root {
+  --bg-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --surface: #ffffff;
+  --text-dark: #222;
+  --text-muted: #6b7280;
+  --primary: #6c5ce7;
+  --primary-dark: #5a4bd1;
+  --correct: #2ecc71;
+  --incorrect: #e74c3c;
+  --warning: #f39c12;
+  --radius: 14px;
 }
 
-/* Main page title styling */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: var(--bg-gradient);
+  min-height: 100vh;
+  padding: 40px 20px;
+  text-align: center;
+}
+
 .title {
-  font-size: 2.5rem; /* Large font size */
-  margin-bottom: 30px; /* Space below the title */
-  color: #333; /* Dark grey text color */
+  font-size: 2.75rem;
+  font-weight: 700;
+  margin-bottom: 35px;
+  color: #fff;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  animation: fadeInDown 0.6s ease;
 }
 
 /* Grid layout for category cards */
 .card-grid {
-  display: grid; /* Use CSS Grid */
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive columns */
-  gap: 20px; /* Space between grid items */
-  max-width: 1200px; /* Maximum width of the grid */
-  margin: 0 auto; /* Center the grid horizontally */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* Styles for each quiz card */
 .card {
-  background: #fff; /* White background */
-  border-radius: 15px; /* Rounded corners */
-  overflow: hidden; /* Hide overflowing child elements */
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
-  cursor: pointer; /* Pointer cursor on hover */
-  transition: transform 0.3s, box-shadow 0.3s; /* Smooth animation */
+  background: var(--surface);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  animation: fadeInUp 0.5s ease both;
 }
 
-/* Hover effect for cards */
-.card:hover {
-  transform: translateY(-8px); /* Move card slightly up */
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15); /* More prominent shadow */
+.card:nth-child(2) { animation-delay: 0.05s; }
+.card:nth-child(3) { animation-delay: 0.1s; }
+.card:nth-child(4) { animation-delay: 0.15s; }
+.card:nth-child(5) { animation-delay: 0.2s; }
+.card:nth-child(6) { animation-delay: 0.25s; }
+.card:nth-child(7) { animation-delay: 0.3s; }
+.card:nth-child(8) { animation-delay: 0.35s; }
+
+.card:hover,
+.card:focus-visible {
+  transform: translateY(-10px) scale(1.02);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.25);
 }
 
-/* Image inside each card */
+/* Image inside each card, cropped to a fixed ratio with a zoom-on-hover effect */
+.card .card-image {
+  overflow: hidden;
+  height: 180px;
+}
+
 .card img {
-  width: 100%; /* Full width */
-  height: 200px; /* Fixed height */
-  object-fit: fill; /* Stretch image to fill the area */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
 }
 
-/* Container for card text content */
+.card:hover img {
+  transform: scale(1.12);
+}
+
 .card-content {
-  padding: 15px; /* Padding inside card content */
+  padding: 18px;
 }
 
-/* Card title text styling */
 .card-content h2 {
-  font-size: 1.5rem; /* Medium-large text */
-  color: #333; /* Dark grey */
-  margin: 10px 0; /* Space above and below title */
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--text-dark);
 }
 
 /* Modal window (initially hidden) */
 .modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Fixed position */
-  z-index: 999; /* High stacking order */
+  display: none;
+  position: fixed;
+  z-index: 999;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  overflow: auto; /* Scroll if content overflows */
-  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+  overflow: auto;
+  background-color: rgba(20, 15, 40, 0.6);
+  backdrop-filter: blur(3px);
+}
+
+.modal.is-open {
+  display: block;
+  animation: fadeIn 0.25s ease;
 }
 
 /* Content box inside modal */
 .modal-content {
-  background-color: #fff; /* White background */
-  margin: 15% auto; /* Center vertically and horizontally */
-  padding: 2rem; /* Inner spacing */
-  border-radius: 10px; /* Rounded corners */
-  width: 50%; /* Half the screen width */
-  position: relative; /* For positioning close button */
-  text-align: center; /* Center-align text */
+  background-color: var(--surface);
+  margin: 8% auto;
+  padding: 2.25rem;
+  border-radius: 18px;
+  width: 50%;
+  max-width: 640px;
+  position: relative;
+  text-align: center;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+  animation: scaleIn 0.3s ease;
+}
+
+#quizTitle {
+  color: var(--text-dark);
+  margin-bottom: 10px;
 }
 
 /* Close button for modal */
 .close-button {
-  position: absolute; /* Absolute position inside modal */
+  position: absolute;
   top: 1rem;
-  right: 1rem;
-  font-size: 1.5rem;
-  cursor: pointer; /* Pointer on hover */
+  right: 1.25rem;
+  font-size: 1.75rem;
+  line-height: 1;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.close-button:hover {
+  color: var(--incorrect);
+  transform: rotate(90deg);
 }
 
 /* Category container inside modal */
 #category {
-  display: flex; /* Flexbox layout */
-  flex-direction: column; /* Stack vertically */
-  align-items: center; /* Center horizontally */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   margin-top: 20px;
 }
 
 /* Style for answer/option buttons */
 .option-button {
-  background-color: #4caf50; /* Green background */
-  color: white; /* White text */
-  border: 2px solid #388e3c; /* Darker green border */
-  padding: 12px 24px; /* Spacing */
-  margin: 10px 0; /* Vertical spacing between buttons */
-  font-size: 18px;
-  border-radius: 8px; /* Rounded corners */
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: white;
+  border: none;
+  padding: 13px 24px;
+  margin: 8px 0;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 10px;
   cursor: pointer;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Subtle shadow */
-  transition: all 0.3s ease; /* Smooth hover effects */
-  width: 70%; /* Responsive width */
-  max-width: 300px; /* Limit max width */
+  box-shadow: 0 4px 10px rgba(108, 92, 231, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  width: 75%;
+  max-width: 320px;
   text-align: center;
 }
 
-/* Hover state for option buttons */
 .option-button:hover {
-  background-color: #45a049; /* Slightly darker green */
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3); /* More intense shadow */
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(108, 92, 231, 0.45);
+}
+
+.option-button:active {
+  transform: translateY(0);
 }
 
 /* Disabled answer buttons keep their highlighted color but signal non-interactivity */
 .answer-button:disabled {
   cursor: default;
-  opacity: 0.9;
+  opacity: 0.95;
+  transform: none !important;
+}
+
+.answer-button.correct {
+  background: linear-gradient(135deg, var(--correct), #27ae60) !important;
+  box-shadow: 0 4px 12px rgba(46, 204, 113, 0.5) !important;
+}
+
+.answer-button.incorrect {
+  background: linear-gradient(135deg, var(--incorrect), #c0392b) !important;
+  box-shadow: 0 4px 12px rgba(231, 76, 60, 0.5) !important;
 }
 
 /* Visible focus outline for keyboard navigation */
@@ -150,6 +220,12 @@ body {
   margin-top: 20px;
 }
 
+/* Color-code difficulty level buttons */
+#levels .option-button:nth-of-type(1) { background: linear-gradient(135deg, #2ecc71, #27ae60); box-shadow: 0 4px 10px rgba(46, 204, 113, 0.35); }
+#levels .option-button:nth-of-type(2) { background: linear-gradient(135deg, #f39c12, #e67e22); box-shadow: 0 4px 10px rgba(243, 156, 18, 0.35); }
+#levels .option-button:nth-of-type(3) { background: linear-gradient(135deg, #e74c3c, #c0392b); box-shadow: 0 4px 10px rgba(231, 76, 60, 0.35); }
+#levels .option-button:nth-of-type(4) { background: linear-gradient(135deg, #8e44ad, #6c3483); box-shadow: 0 4px 10px rgba(142, 68, 173, 0.35); }
+
 /* Container for answer options inside the questions section */
 #questions #answer-options {
   display: flex;
@@ -164,36 +240,103 @@ body {
   padding: 5px;
 }
 
+.question-block {
+  animation: fadeIn 0.35s ease;
+}
+
 /* Displayed text after user selects an answer */
 #answer-text {
-  margin: 10px;
-  font-family: cursive;
+  margin: 14px 0;
   font-size: larger;
+  animation: fadeIn 0.3s ease;
+}
+
+#answer-text h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+#answer-text svg {
+  flex-shrink: 0;
 }
 
 /* Style for question text */
 .question {
   font-size: x-large;
-  font-family: cursive;
+  font-weight: 600;
+  margin: 14px 0;
+  color: var(--text-dark);
 }
 
 /* Styling for end-of-quiz message */
 .end-quiz {
   font-size: x-large;
-  font-family: cursive;
+  animation: scaleIn 0.4s ease;
 }
 
-/* Timer display styling */
+.end-quiz svg {
+  margin-bottom: 10px;
+}
+
+/* Timer display + animated progress bar */
 .question-timer {
-  font-size: large;
-  font-family: cursive;
-  margin: 5px;
+  font-size: medium;
+  color: var(--text-muted);
+  margin: 5px 0 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.timer-bar-track {
+  width: 100%;
+  height: 8px;
+  background: #eee;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.timer-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--correct), var(--warning));
+  border-radius: 6px;
+  transition: width 1s linear;
+}
+
+.timer-bar-fill.low-time {
+  background: linear-gradient(90deg, var(--warning), var(--incorrect));
 }
 
 /* Question progress indicator (e.g. "Question 2 of 10") */
 .question-progress {
   font-size: medium;
-  color: #555;
+  color: var(--text-muted);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.92); }
+  to { opacity: 1; transform: scale(1); }
 }
 
 /* Responsive modal sizing for smaller screens */

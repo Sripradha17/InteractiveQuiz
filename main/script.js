@@ -11,6 +11,14 @@ let timeLimit = 10;        // Default time limit per question
 
 const AUTO_ADVANCE_DELAY_MS = 8000;
 
+// Static SVG icons used in place of emoji for feedback states
+const ICONS = {
+  correct: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2ecc71" stroke-width="2.5"><path d="M5 13l4 4L19 7" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+  incorrect: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e74c3c" stroke-width="2.5"><path d="M6 6l12 12M18 6L6 18" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+  timeout: `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#f39c12" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+  trophy: `<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#6c5ce7" stroke-width="1.6"><path d="M8 21h8M12 17v4M7 4h10v4a5 5 0 0 1-10 0V4z"/><path d="M7 5H4a2 2 0 0 0 0 4h1M17 5h3a2 2 0 0 1 0 4h-1" stroke-linecap="round"/></svg>`,
+};
+
 // Start quiz by loading data and displaying category selection
 async function startQuiz(selectedSubject) {
   subject = selectedSubject;
@@ -114,20 +122,32 @@ function showQuestion() {
   const modalContent = document.getElementById("questions");
   modalContent.innerHTML = "";
 
+  const block = document.createElement("div");
+  block.className = "question-block";
+
   const progress = document.createElement("p");
   progress.className = "question-progress";
   progress.textContent = `Question ${currentQuestionIndex + 1} of ${currentQuestions.length}`;
-  modalContent.appendChild(progress);
+  block.appendChild(progress);
 
   const timerEl = document.createElement("div");
   timerEl.className = "question-timer";
   timerEl.innerHTML = `Time left: <span id="timeLeft">${timeLimit}</span>s`;
-  modalContent.appendChild(timerEl);
+  block.appendChild(timerEl);
+
+  const timerTrack = document.createElement("div");
+  timerTrack.className = "timer-bar-track";
+  const timerFill = document.createElement("div");
+  timerFill.className = "timer-bar-fill";
+  timerFill.id = "timerFill";
+  timerFill.style.width = "100%";
+  timerTrack.appendChild(timerFill);
+  block.appendChild(timerTrack);
 
   const questionText = document.createElement("p");
   questionText.className = "question";
   questionText.textContent = questionObj.question;
-  modalContent.appendChild(questionText);
+  block.appendChild(questionText);
 
   const optionsEl = document.createElement("div");
   optionsEl.id = "answer-options";
@@ -138,19 +158,27 @@ function showQuestion() {
     btn.addEventListener("click", () => checkAnswer(index));
     optionsEl.appendChild(btn);
   });
-  modalContent.appendChild(optionsEl);
+  block.appendChild(optionsEl);
+
+  modalContent.appendChild(block);
 
   startTimer();
 }
 
-// Timer logic for each question
+// Timer logic for each question, including the animated progress bar
 function startTimer() {
   let timeRemaining = timeLimit;
   const timeElement = document.getElementById("timeLeft");
+  const fillElement = document.getElementById("timerFill");
 
   timer = setInterval(() => {
     timeRemaining--;
     if (timeElement) timeElement.textContent = timeRemaining;
+    if (fillElement) {
+      const percent = Math.max(0, (timeRemaining / timeLimit) * 100);
+      fillElement.style.width = `${percent}%`;
+      fillElement.classList.toggle("low-time", percent <= 25);
+    }
     if (timeRemaining <= 0) {
       clearInterval(timer);
       checkAnswer(null); // No answer selected (timeout)
@@ -172,9 +200,9 @@ function checkAnswer(selectedIndex) {
   buttons.forEach((btn, index) => {
     btn.disabled = true;
     if (index === correctIndex) {
-      btn.style.backgroundColor = "#4caf50"; // Green for correct
+      btn.classList.add("correct");
     } else if (index === selectedIndex) {
-      btn.style.backgroundColor = "#f44336"; // Red for wrong
+      btn.classList.add("incorrect");
     }
   });
 
@@ -184,11 +212,11 @@ function checkAnswer(selectedIndex) {
   const heading = document.createElement("h3");
   if (selectedOption === questionObj.answer) {
     score++;
-    heading.textContent = `Correct answer: ${questionObj.answer}`;
+    heading.innerHTML = `${ICONS.correct} Correct answer: ${questionObj.answer}`;
   } else if (selectedIndex === null) {
-    heading.textContent = `Time's up! Correct answer: ${questionObj.answer}`;
+    heading.innerHTML = `${ICONS.timeout} Time's up! Correct answer: ${questionObj.answer}`;
   } else {
-    heading.textContent = `Incorrect. Correct answer: ${questionObj.answer}`;
+    heading.innerHTML = `${ICONS.incorrect} Incorrect. Correct answer: ${questionObj.answer}`;
   }
   feedback.appendChild(heading);
 
@@ -232,6 +260,7 @@ function showQuizEnd() {
 
   const container = document.createElement("div");
   container.className = "end-quiz";
+  container.innerHTML = ICONS.trophy;
 
   const heading = document.createElement("h3");
   heading.textContent = "Quiz Completed!";
@@ -255,7 +284,9 @@ function showQuizEnd() {
 
 // Close modal and reset state
 function closeModal() {
-  document.getElementById("quizModal").style.display = "none";
+  const modal = document.getElementById("quizModal");
+  modal.classList.remove("is-open");
+  modal.style.display = "none";
   document.getElementById("category").innerHTML = "";
   document.getElementById("levels").innerHTML = "";
   document.getElementById("questions").innerHTML = "";
@@ -272,6 +303,7 @@ function closeModal() {
 function openModal() {
   const modal = document.getElementById("quizModal");
   modal.style.display = "block";
+  modal.classList.add("is-open");
 }
 
 // Close modal if user clicks outside the content box
@@ -285,7 +317,7 @@ window.onclick = function (event) {
 // Close modal with the Escape key
 window.addEventListener("keydown", (event) => {
   const modal = document.getElementById("quizModal");
-  if (event.key === "Escape" && modal.style.display === "block") {
+  if (event.key === "Escape" && modal.classList.contains("is-open")) {
     closeModal();
   }
 });

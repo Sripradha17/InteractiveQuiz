@@ -1698,5 +1698,180 @@
                 }
             ]
         }
+    },
+    "Cold War": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which two superpowers were the main rivals during the Cold War?",
+                    "options": [
+                        "USA and USSR",
+                        "USA and China",
+                        "UK and Germany",
+                        "France and Russia"
+                    ],
+                    "answer": "USA and USSR",
+                    "explanation": "The Cold War was primarily a geopolitical struggle between the United States and the Soviet Union."
+                },
+                {
+                    "question": "What wall symbolized the division between East and West during the Cold War?",
+                    "options": [
+                        "Great Wall",
+                        "Berlin Wall",
+                        "Hadrian's Wall",
+                        "Western Wall"
+                    ],
+                    "answer": "Berlin Wall",
+                    "explanation": "The Berlin Wall divided East and West Berlin from 1961 to 1989."
+                },
+                {
+                    "question": "What term describes the indirect conflict between the USA and USSR without direct large-scale fighting?",
+                    "options": [
+                        "Cold War",
+                        "Civil War",
+                        "World War",
+                        "Trade War"
+                    ],
+                    "answer": "Cold War",
+                    "explanation": "It was called the 'Cold War' because the two superpowers never engaged in direct, full-scale military conflict."
+                },
+                {
+                    "question": "Which country was divided into North and South during the Cold War, leading to a major conflict?",
+                    "options": [
+                        "Korea",
+                        "Vietnam",
+                        "Germany",
+                        "Both Korea and Vietnam"
+                    ],
+                    "answer": "Both Korea and Vietnam",
+                    "explanation": "Both Korea and Vietnam were split into opposing halves and became major Cold War battlegrounds."
+                },
+                {
+                    "question": "In what year did the Berlin Wall fall?",
+                    "options": [
+                        "1985",
+                        "1989",
+                        "1991",
+                        "1993"
+                    ],
+                    "answer": "1989",
+                    "explanation": "The Berlin Wall fell in November 1989, a major symbol of the Cold War's end."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What was the name of the 1962 crisis that nearly led to nuclear war between the US and USSR?",
+                    "options": [
+                        "Berlin Crisis",
+                        "Cuban Missile Crisis",
+                        "Suez Crisis",
+                        "Korean Crisis"
+                    ],
+                    "answer": "Cuban Missile Crisis",
+                    "explanation": "The Cuban Missile Crisis of 1962 brought the US and USSR to the brink of nuclear war over Soviet missiles in Cuba."
+                },
+                {
+                    "question": "What policy described the US strategy of preventing the spread of communism?",
+                    "options": [
+                        "Containment",
+                        "Appeasement",
+                        "Isolationism",
+                        "Detente"
+                    ],
+                    "answer": "Containment",
+                    "explanation": "Containment aimed to stop the spread of communism beyond its existing borders."
+                },
+                {
+                    "question": "Which alliance was formed by Western nations in 1949 to counter Soviet influence?",
+                    "options": [
+                        "Warsaw Pact",
+                        "NATO",
+                        "United Nations",
+                        "League of Nations"
+                    ],
+                    "answer": "NATO",
+                    "explanation": "NATO (North Atlantic Treaty Organization) was a military alliance of Western nations formed in 1949."
+                },
+                {
+                    "question": "What was the Soviet-led counterpart military alliance to NATO called?",
+                    "options": [
+                        "Warsaw Pact",
+                        "Axis Powers",
+                        "Triple Entente",
+                        "Comintern"
+                    ],
+                    "answer": "Warsaw Pact",
+                    "explanation": "The Warsaw Pact (1955) was a collective defense treaty among Soviet-aligned states."
+                },
+                {
+                    "question": "What term describes the period of eased tensions between the US and USSR in the 1970s?",
+                    "options": [
+                        "Detente",
+                        "Containment",
+                        "Glasnost",
+                        "Perestroika"
+                    ],
+                    "answer": "Detente",
+                    "explanation": "Detente refers to the easing of strained Cold War relations during the 1970s."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What Soviet policy of openness, introduced by Gorbachev, contributed to the USSR's eventual collapse?",
+                    "options": [
+                        "Glasnost",
+                        "Containment",
+                        "Detente",
+                        "Collectivization"
+                    ],
+                    "answer": "Glasnost",
+                    "explanation": "Glasnost ('openness') was Gorbachev's policy of increased transparency that exposed deep flaws in the Soviet system."
+                },
+                {
+                    "question": "What was the name of Gorbachev's economic restructuring policy?",
+                    "options": [
+                        "Perestroika",
+                        "Glasnost",
+                        "New Economic Policy",
+                        "Five-Year Plan"
+                    ],
+                    "answer": "Perestroika",
+                    "explanation": "Perestroika ('restructuring') was Gorbachev's program of economic and political reform."
+                },
+                {
+                    "question": "Which doctrine justified Soviet military intervention in allied socialist states to preserve communist rule?",
+                    "options": [
+                        "Brezhnev Doctrine",
+                        "Truman Doctrine",
+                        "Monroe Doctrine",
+                        "Eisenhower Doctrine"
+                    ],
+                    "answer": "Brezhnev Doctrine",
+                    "explanation": "The Brezhnev Doctrine asserted the USSR's right to intervene in socialist states to maintain communist governments."
+                },
+                {
+                    "question": "What 1983 US strategic missile defense proposal was nicknamed 'Star Wars'?",
+                    "options": [
+                        "Strategic Defense Initiative",
+                        "Manhattan Project",
+                        "Marshall Plan",
+                        "Apollo Program"
+                    ],
+                    "answer": "Strategic Defense Initiative",
+                    "explanation": "The Strategic Defense Initiative was a proposed missile defense system, popularly dubbed 'Star Wars'."
+                },
+                {
+                    "question": "Which 1989 wave of events across Eastern Europe led to the fall of most communist governments?",
+                    "options": [
+                        "The Prague Spring",
+                        "The Revolutions of 1989",
+                        "The October Revolution",
+                        "The Velvet Divorce"
+                    ],
+                    "answer": "The Revolutions of 1989",
+                    "explanation": "The Revolutions of 1989 saw communist governments fall across Eastern Europe, including Poland, Hungary, and East Germany."
+                }
+            ]
+        }
     }
 }

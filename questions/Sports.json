@@ -1698,5 +1698,180 @@
                 }
             ]
         }
+    },
+    "Olympics": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How often are the Summer Olympic Games held?",
+                    "options": [
+                        "Every 2 years",
+                        "Every 4 years",
+                        "Every 5 years",
+                        "Every year"
+                    ],
+                    "answer": "Every 4 years",
+                    "explanation": "The Summer Olympics are held every four years, known as an Olympiad."
+                },
+                {
+                    "question": "What are the five interlocking rings on the Olympic flag meant to represent?",
+                    "options": [
+                        "Five continents",
+                        "Five sports",
+                        "Five countries",
+                        "Five medals"
+                    ],
+                    "answer": "Five continents",
+                    "explanation": "The five rings represent the union of the five inhabited continents participating in the Olympics."
+                },
+                {
+                    "question": "Which ancient country is credited with founding the Olympic Games?",
+                    "options": [
+                        "Rome",
+                        "Greece",
+                        "Egypt",
+                        "Persia"
+                    ],
+                    "answer": "Greece",
+                    "explanation": "The Olympic Games originated in ancient Greece, first held in Olympia."
+                },
+                {
+                    "question": "What color medal is awarded for first place in the Olympics?",
+                    "options": [
+                        "Silver",
+                        "Bronze",
+                        "Gold",
+                        "Platinum"
+                    ],
+                    "answer": "Gold",
+                    "explanation": "Gold medals are awarded to first-place finishers at the Olympics."
+                },
+                {
+                    "question": "What is the name of the Olympic torch relay's final destination?",
+                    "options": [
+                        "Olympic Village",
+                        "The host stadium's cauldron",
+                        "The athletes' podium",
+                        "The opening ceremony stage only"
+                    ],
+                    "answer": "The host stadium's cauldron",
+                    "explanation": "The torch relay ends with lighting the Olympic cauldron in the host stadium during the opening ceremony."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which country has hosted the Summer Olympics the most times?",
+                    "options": [
+                        "United States",
+                        "France",
+                        "United Kingdom",
+                        "Greece"
+                    ],
+                    "answer": "United States",
+                    "explanation": "The United States has hosted the Summer Olympics more times than any other country."
+                },
+                {
+                    "question": "What event is known as the 'Blue Riband' of track and field?",
+                    "options": [
+                        "Marathon",
+                        "100m sprint",
+                        "Long jump",
+                        "Pole vault"
+                    ],
+                    "answer": "100m sprint",
+                    "explanation": "The 100m sprint is often called the 'Blue Riband' event of Olympic track and field."
+                },
+                {
+                    "question": "In which year were the first modern Olympic Games held?",
+                    "options": [
+                        "1886",
+                        "1896",
+                        "1900",
+                        "1912"
+                    ],
+                    "answer": "1896",
+                    "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896."
+                },
+                {
+                    "question": "What is the name of the Olympic Games held for athletes with disabilities?",
+                    "options": [
+                        "Special Olympics",
+                        "Paralympics",
+                        "Invictus Games",
+                        "World Games"
+                    ],
+                    "answer": "Paralympics",
+                    "explanation": "The Paralympics are the major international multi-sport event for athletes with disabilities, held alongside the Olympics."
+                },
+                {
+                    "question": "Which swimmer holds the record for the most Olympic gold medals won by any athlete?",
+                    "options": [
+                        "Michael Phelps",
+                        "Mark Spitz",
+                        "Ian Thorpe",
+                        "Ryan Lochte"
+                    ],
+                    "answer": "Michael Phelps",
+                    "explanation": "Michael Phelps holds the record with 23 Olympic gold medals, the most of any Olympian."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which city was the first to host the Olympics three times?",
+                    "options": [
+                        "Paris",
+                        "London",
+                        "Athens",
+                        "Los Angeles"
+                    ],
+                    "answer": "London",
+                    "explanation": "London became the first city to host the Olympics three times: 1908, 1948, and 2012."
+                },
+                {
+                    "question": "What is the term for an athlete competing in the decathlon's ten track and field events?",
+                    "options": [
+                        "Decathlete",
+                        "Pentathlete",
+                        "All-rounder",
+                        "Multi-sport athlete"
+                    ],
+                    "answer": "Decathlete",
+                    "explanation": "A decathlete competes in all ten events of the decathlon over two days."
+                },
+                {
+                    "question": "Which 1980 Olympic ice hockey upset is famously known as the 'Miracle on Ice'?",
+                    "options": [
+                        "USA defeating USSR",
+                        "Canada defeating Sweden",
+                        "Finland defeating USA",
+                        "USSR defeating Canada"
+                    ],
+                    "answer": "USA defeating USSR",
+                    "explanation": "The US ice hockey team's stunning win over the heavily favored Soviet Union at the 1980 Winter Olympics became known as the 'Miracle on Ice'."
+                },
+                {
+                    "question": "What is the maximum number of rings combined in the Olympic flag's design pattern?",
+                    "options": [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "answer": "5",
+                    "explanation": "The Olympic flag features five interlocking rings in blue, yellow, black, green, and red."
+                },
+                {
+                    "question": "Which country boycotted the 1980 Moscow Olympics in protest of the Soviet invasion of Afghanistan?",
+                    "options": [
+                        "United States",
+                        "France",
+                        "Germany",
+                        "Italy"
+                    ],
+                    "answer": "United States",
+                    "explanation": "The United States led a boycott of the 1980 Moscow Olympics following the Soviet invasion of Afghanistan."
+                }
+            ]
+        }
     }
 }

@@ -1269,7 +1269,7 @@
                     "options": [
                         "1/2",
                         "1/√2",
-                        "1/2",
+                        "1/4",
                         "1/2√2"
                     ],
                     "answer": "1/2",
@@ -2707,6 +2707,238 @@
                     ],
                     "answer": "$1728",
                     "explanation": "$1000 × (1.2)^3 = $1728."
+                }
+            ]
+        }
+    },
+    "Calculus Basics": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the derivative of a constant?",
+                    "options": [
+                        "0",
+                        "1",
+                        "The constant itself",
+                        "Undefined"
+                    ],
+                    "answer": "0",
+                    "explanation": "The derivative of any constant is always 0 since it doesn't change."
+                },
+                {
+                    "question": "What does the derivative of a function represent?",
+                    "options": [
+                        "Area under the curve",
+                        "Rate of change",
+                        "Total value",
+                        "Maximum value"
+                    ],
+                    "answer": "Rate of change",
+                    "explanation": "The derivative represents the instantaneous rate of change of a function."
+                },
+                {
+                    "question": "What is the derivative of x?",
+                    "options": [
+                        "0",
+                        "1",
+                        "x",
+                        "x²"
+                    ],
+                    "answer": "1",
+                    "explanation": "d/dx(x) = 1, since the slope of y = x is 1."
+                },
+                {
+                    "question": "What is the derivative of x²?",
+                    "options": [
+                        "x",
+                        "2x",
+                        "x²",
+                        "2"
+                    ],
+                    "answer": "2x",
+                    "explanation": "Using the power rule, d/dx(x²) = 2x."
+                },
+                {
+                    "question": "What symbol is commonly used to represent an integral?",
+                    "options": [
+                        "∑",
+                        "∫",
+                        "∂",
+                        "Δ"
+                    ],
+                    "answer": "∫",
+                    "explanation": "The integral sign ∫ represents the operation of integration."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the derivative of x³?",
+                    "options": [
+                        "3x",
+                        "3x²",
+                        "x²",
+                        "x³"
+                    ],
+                    "answer": "3x²",
+                    "explanation": "Using the power rule, d/dx(x³) = 3x²."
+                },
+                {
+                    "question": "What is the integral of 2x with respect to x?",
+                    "options": [
+                        "x²",
+                        "x² + C",
+                        "2x² + C",
+                        "x"
+                    ],
+                    "answer": "x² + C",
+                    "explanation": "∫2x dx = x² + C, where C is the constant of integration."
+                },
+                {
+                    "question": "What is the derivative of sin(x)?",
+                    "options": [
+                        "cos(x)",
+                        "-cos(x)",
+                        "-sin(x)",
+                        "tan(x)"
+                    ],
+                    "answer": "cos(x)",
+                    "explanation": "d/dx(sin x) = cos x."
+                },
+                {
+                    "question": "What is lim(x→0) of sin(x)/x?",
+                    "options": [
+                        "0",
+                        "1",
+                        "Undefined",
+                        "Infinity"
+                    ],
+                    "answer": "1",
+                    "explanation": "This is a classic calculus limit: lim(x→0) sin(x)/x = 1."
+                },
+                {
+                    "question": "What is the derivative of eˣ?",
+                    "options": [
+                        "eˣ",
+                        "x·eˣ⁻¹",
+                        "1",
+                        "ln(x)"
+                    ],
+                    "answer": "eˣ",
+                    "explanation": "The exponential function eˣ is its own derivative."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the derivative of ln(x)?",
+                    "options": [
+                        "1/x",
+                        "x",
+                        "ln(x)",
+                        "eˣ"
+                    ],
+                    "answer": "1/x",
+                    "explanation": "d/dx(ln x) = 1/x for x > 0."
+                },
+                {
+                    "question": "Using the chain rule, what is the derivative of (3x + 1)²?",
+                    "options": [
+                        "6(3x + 1)",
+                        "2(3x + 1)",
+                        "9x²",
+                        "6x + 1"
+                    ],
+                    "answer": "6(3x + 1)",
+                    "explanation": "Chain rule: d/dx[(3x+1)²] = 2(3x+1)·3 = 6(3x+1)."
+                },
+                {
+                    "question": "What is the second derivative of x⁴?",
+                    "options": [
+                        "4x³",
+                        "12x²",
+                        "x²",
+                        "16x²"
+                    ],
+                    "answer": "12x²",
+                    "explanation": "First derivative: 4x³. Second derivative: d/dx(4x³) = 12x²."
+                },
+                {
+                    "question": "What is ∫(3x² + 2) dx?",
+                    "options": [
+                        "x³ + 2x + C",
+                        "3x³ + 2x + C",
+                        "x³ + C",
+                        "6x + C"
+                    ],
+                    "answer": "x³ + 2x + C",
+                    "explanation": "∫3x² dx = x³ and ∫2 dx = 2x, so the total is x³ + 2x + C."
+                },
+                {
+                    "question": "What is the derivative of tan(x)?",
+                    "options": [
+                        "sec²(x)",
+                        "csc²(x)",
+                        "sec(x)tan(x)",
+                        "-csc(x)cot(x)"
+                    ],
+                    "answer": "sec²(x)",
+                    "explanation": "d/dx(tan x) = sec²(x)."
+                }
+            ],
+            "Very Hard": [
+                {
+                    "question": "What is the derivative of x·sin(x) using the product rule?",
+                    "options": [
+                        "sin(x) + x·cos(x)",
+                        "cos(x) + x·sin(x)",
+                        "x·cos(x)",
+                        "sin(x)·cos(x)"
+                    ],
+                    "answer": "sin(x) + x·cos(x)",
+                    "explanation": "Product rule: d/dx[x·sin(x)] = (1)·sin(x) + x·cos(x)."
+                },
+                {
+                    "question": "Evaluate ∫₀^1 x² dx.",
+                    "options": [
+                        "1/2",
+                        "1/3",
+                        "1",
+                        "2/3"
+                    ],
+                    "answer": "1/3",
+                    "explanation": "∫x² dx = x³/3, evaluated from 0 to 1 gives 1/3 - 0 = 1/3."
+                },
+                {
+                    "question": "What is the derivative of f(x) = ln(x²+1)?",
+                    "options": [
+                        "2x/(x²+1)",
+                        "1/(x²+1)",
+                        "2x",
+                        "x/(x²+1)"
+                    ],
+                    "answer": "2x/(x²+1)",
+                    "explanation": "Using the chain rule: d/dx[ln(x²+1)] = (1/(x²+1))·2x = 2x/(x²+1)."
+                },
+                {
+                    "question": "What is the value of lim(x→∞) (1 + 1/x)ˣ?",
+                    "options": [
+                        "e",
+                        "1",
+                        "∞",
+                        "0"
+                    ],
+                    "answer": "e",
+                    "explanation": "This limit defines the mathematical constant e ≈ 2.71828."
+                },
+                {
+                    "question": "Using L'Hopital's Rule, what is lim(x→0) (1 - cos x)/x²?",
+                    "options": [
+                        "1/2",
+                        "0",
+                        "1",
+                        "∞"
+                    ],
+                    "answer": "1/2",
+                    "explanation": "Applying L'Hopital's rule twice: lim(1-cos x)/x² = lim sin(x)/(2x) = lim cos(x)/2 = 1/2."
                 }
             ]
         }
