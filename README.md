@@ -23,16 +23,14 @@ An engaging, dynamic, and educational web-based quiz application built using van
 ```
 InteractiveQuiz/
 │
-├── main/interactiveQuiz.html               # Main HTML file
-├── main/style.css                # Styling for the quiz UI
-├── main/script.js                # Core quiz logic
-└── questions/
-    ├── math.json            # Example quiz data file
-    ├── science.json         # Add more subjects as needed
-    └── ...
-└── images/ #gifs for each category
-
-
+├── main/interactiveQuiz.html    # Main HTML file
+├── main/styles.css              # Styling for the quiz UI
+├── main/script.js               # Core quiz logic
+├── questions/
+│   ├── Math.json                # Example quiz data file
+│   ├── Science.json             # Add more subjects as needed
+│   └── ...
+└── images/                      # GIFs for each category
 ```
 
 ---
@@ -72,8 +70,8 @@ Each subject JSON is structured with categories (e.g., `Algebra`, `Geometry`), w
 After selecting a category, the user picks a difficulty (Easy, Medium, Hard, Very Hard), which adjusts the question timer:
 
 ```javascript
-if (level === "Easy") timeLimit = 10;
-else if (level === "Medium") timeLimit = 20;
+if (level === "Easy") timeLimit = 20;
+else if (level === "Medium") timeLimit = 30;
 // ...
 ```
 
@@ -140,7 +138,7 @@ At the end of the quiz, a summary modal shows the user’s final score and a but
 
 1. **Clone this repo**
 2. Place your quiz JSON files in the `questions/` folder
-3. Open `index.html` in your browser or use a local server
+3. Open `main/interactiveQuiz.html` in your browser or use a local server (required for `fetch` to load the JSON files in some browsers)
 4. Start playing!
 
 ---

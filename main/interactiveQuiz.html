@@ -13,7 +13,7 @@
     <div class="card-grid">
       
       <!-- Individual card for Science -->
-      <div class="card" onclick="startQuiz('Science')"> <!-- Card with click event to start Science quiz -->
+      <div class="card" role="button" tabindex="0" aria-label="Start Science quiz" onclick="startQuiz('Science')"> <!-- Card with click event to start Science quiz -->
         <img src="../images/science.gif" alt="Science" /> <!-- Image for Science category with alt text for accessibility -->
         <div class="card-content"> <!-- Container for card title -->
           <h2>Science</h2> <!-- Category title -->
@@ -21,7 +21,7 @@
       </div>
 
       <!-- History card -->
-      <div class="card" onclick="startQuiz('History')">
+      <div class="card" role="button" tabindex="0" aria-label="Start History quiz" onclick="startQuiz('History')">
         <img src="../images/history.gif" alt="History" />
         <div class="card-content">
           <h2>History</h2>
@@ -29,7 +29,7 @@
       </div>
 
       <!-- Geography card -->
-      <div class="card" onclick="startQuiz('Geography')">
+      <div class="card" role="button" tabindex="0" aria-label="Start Geography quiz" onclick="startQuiz('Geography')">
         <img src="../images/geography.gif" alt="Geography" />
         <div class="card-content">
           <h2>Geography</h2>
@@ -37,7 +37,7 @@
       </div>
 
       <!-- Literature card -->
-      <div class="card" onclick="startQuiz('Literature')">
+      <div class="card" role="button" tabindex="0" aria-label="Start Literature quiz" onclick="startQuiz('Literature')">
         <img src="../images/literature.gif" alt="Literature" />
         <div class="card-content">
           <h2>Literature</h2>
@@ -45,7 +45,7 @@
       </div>
 
       <!-- Math card -->
-      <div class="card" onclick="startQuiz('Math')">
+      <div class="card" role="button" tabindex="0" aria-label="Start Math quiz" onclick="startQuiz('Math')">
         <img src="../images/math.gif" alt="Math" />
         <div class="card-content">
           <h2>Math</h2>
@@ -53,7 +53,7 @@
       </div>
 
       <!-- Sports card -->
-      <div class="card" onclick="startQuiz('Sports')">
+      <div class="card" role="button" tabindex="0" aria-label="Start Sports quiz" onclick="startQuiz('Sports')">
         <img src="../images/sports.gif" alt="Sports" />
         <div class="card-content">
           <h2>Sports</h2>
@@ -61,7 +61,7 @@
       </div>
 
       <!-- Technology card -->
-      <div class="card" onclick="startQuiz('Technology')">
+      <div class="card" role="button" tabindex="0" aria-label="Start Technology quiz" onclick="startQuiz('Technology')">
         <img src="../images/technology.gif" alt="Technology" />
         <div class="card-content">
           <h2>Technology</h2>
@@ -69,7 +69,7 @@
       </div>
 
       <!-- Movies card -->
-      <div class="card" onclick="startQuiz('Movies')">
+      <div class="card" role="button" tabindex="0" aria-label="Start Movies quiz" onclick="startQuiz('Movies')">
         <img src="../images/movie.gif" alt="Movies" />
         <div class="card-content">
           <h2>Movies</h2>
@@ -78,9 +78,9 @@
     </div>
 
     <!-- Modal for quiz interaction -->
-    <div id="quizModal" class="modal"> <!-- Hidden modal initially (CSS controls visibility) -->
+    <div id="quizModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="quizTitle"> <!-- Hidden modal initially (CSS controls visibility) -->
       <div class="modal-content"> <!-- Modal content area -->
-        <span class="close-button" onclick="closeModal()">&times;</span> <!-- Close button for modal (× symbol) -->
+        <span class="close-button" role="button" tabindex="0" aria-label="Close quiz" onclick="closeModal()">&times;</span> <!-- Close button for modal (× symbol) -->
         <h2 id="quizTitle"></h2> <!-- Placeholder for dynamic quiz title -->
         
         <!-- Container for dynamically added quiz level or category options -->

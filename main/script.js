@@ -5,19 +5,23 @@ let levelData = {};        // Data for the selected category
 let currentQuestions = []; // List of questions for the current quiz
 let currentQuestionIndex = 0; // Track which question the user is on
 let score = 0;             // User's score
-let timer;                 // Reference to the timer interval
+let timer;                 // Reference to the question countdown interval
+let advanceTimer;          // Reference to the auto-advance-after-answer timeout
 let timeLimit = 10;        // Default time limit per question
 
+const AUTO_ADVANCE_DELAY_MS = 8000;
+
 // Start quiz by loading data and displaying category selection
-async function startQuiz(subject) {
+async function startQuiz(selectedSubject) {
+  subject = selectedSubject;
   try {
     const response = await fetch(`../questions/${subject}.json`);
     if (!response.ok) {
       throw new Error(`Failed to load ${subject}.json`);
     }
     quizData = await response.json(); // Parse JSON
-    await showCategory(subject);      // Show quiz categories
-    await openModal();                // Open modal dialog
+    showCategory(subject);            // Show quiz categories
+    openModal();                      // Open modal dialog
   } catch (error) {
     console.error("Error starting quiz:", error);
     alert("Could not load the quiz. Please try again later.");
@@ -25,64 +29,68 @@ async function startQuiz(subject) {
 }
 
 // Show list of categories from the quiz JSON
-async function showCategory(subject) {
+function showCategory(selectedSubject) {
+  subject = selectedSubject;
+
   // Clear any existing modal content
+  const categoryEl = document.getElementById("category");
   document.getElementById("levels").innerHTML = "";
   document.getElementById("questions").innerHTML = "";
-  document.getElementById("category").innerHTML = "";
+  categoryEl.innerHTML = "";
 
-  let categoryHtml = "";
-
-  // Loop through categories and create buttons
-  for (const [cat, value] of Object.entries(quizData)) {
-    categoryHtml += `<button class="option-button" onclick="selectCategory('${cat}')">${cat}</button>`;
+  // Build category buttons via DOM APIs (avoids HTML/script injection from JSON content)
+  for (const cat of Object.keys(quizData)) {
+    const btn = document.createElement("button");
+    btn.className = "option-button";
+    btn.textContent = cat;
+    btn.addEventListener("click", () => selectCategory(cat));
+    categoryEl.appendChild(btn);
   }
 
-  // Set modal title and insert category buttons
-  document.getElementById("quizTitle").innerText = `Quiz: ${subject}`;
-  document.getElementById("category").insertAdjacentHTML("beforeend", categoryHtml);
+  document.getElementById("quizTitle").textContent = `Quiz: ${subject}`;
 }
 
 // When a category is selected, show the difficulty levels
-async function selectCategory(cat) {
-  document.getElementById("category").innerHTML = "";
+function selectCategory(cat) {
+  const categoryEl = document.getElementById("category");
+  const levelsEl = document.getElementById("levels");
+  categoryEl.innerHTML = "";
+  levelsEl.innerHTML = "";
 
-  let levelHtml = "";
+  levelData = quizData[cat] || {};
 
-  // Get levels for the selected category
-  for (const [key, values] of Object.entries(quizData)) {
-    if (key === cat) {
-      levelData = values;
-    }
+  for (const key of Object.keys(levelData.levels || {})) {
+    const btn = document.createElement("button");
+    btn.className = "option-button";
+    btn.textContent = key;
+    btn.addEventListener("click", () => selectLevels(key));
+    levelsEl.appendChild(btn);
   }
 
-  // Create buttons for each difficulty level
-  for (const [key, values] of Object.entries(levelData.levels)) {
-    levelHtml += `<button class="option-button" onclick="selectLevels('${key}')">${key}</button>`;
-  }
+  const backBtn = document.createElement("button");
+  backBtn.className = "option-button";
+  backBtn.textContent = "Back to Category";
+  backBtn.addEventListener("click", () => showCategory(subject));
+  levelsEl.appendChild(backBtn);
 
-  // Add a back button
-  levelHtml += `<button class="option-button" onclick="showCategory('${subject}')">Back to Category</button>`;
-
-  document.getElementById("quizTitle").innerText = `Quiz: ${subject}`;
-  document.getElementById("levels").insertAdjacentHTML("beforeend", levelHtml);
+  document.getElementById("quizTitle").textContent = `Quiz: ${subject}`;
 }
 
 // When a level is selected, show the questions
-async function selectLevels(levels) {
+function selectLevels(level) {
   document.getElementById("levels").innerHTML = "";
   score = 0;
-  clearInterval(timer); // Stop any running timer
+  clearInterval(timer);
+  clearTimeout(advanceTimer);
 
-  // Get questions for the selected difficulty
-  const questions = levelData?.levels?.[levels];
+  const questions = levelData?.levels?.[level];
 
   // Set time limit based on difficulty
-  if (levels === "Easy") {
+  if (level === "Easy") {
     timeLimit = 20;
-  } else if (levels === "Medium") {
+  } else if (level === "Medium") {
     timeLimit = 30;
-  } else if (levels === "Hard") {
+  } else if (level === "Hard") {
     timeLimit = 160;
   } else {
     timeLimit = 250; // Custom or 'Very Hard'
@@ -97,36 +105,46 @@ async function selectLevels(levels) {
   currentQuestions = questions;
   currentQuestionIndex = 0;
 
-  await showQuestion(); // Show the first question
+  showQuestion(); // Show the first question
 }
 
 // Display the current question
-async function showQuestion() {
+function showQuestion() {
   const questionObj = currentQuestions[currentQuestionIndex];
   const modalContent = document.getElementById("questions");
   modalContent.innerHTML = "";
 
-  // Show question number
-  document.getElementById("questions").innerText = `Question ${currentQuestionIndex + 1}`;
+  const progress = document.createElement("p");
+  progress.className = "question-progress";
+  progress.textContent = `Question ${currentQuestionIndex + 1} of ${currentQuestions.length}`;
+  modalContent.appendChild(progress);
 
-  // Build question and answer options HTML
-  const questionHtml = `
-    <div class="question-timer">⏳ Time left: <span id="timeLeft">${timeLimit}</span>s</div>
-    <p class="question">${questionObj.question}</p>
-    <div id="answer-options">
-      ${questionObj.options.map(opt =>
-        `<button class="option-button answer-button" onclick="checkAnswer('${opt.replace(/'/g, "\\'")}')">${opt}</button>`
-      ).join("")}
-    </div>
-  `;
+  const timerEl = document.createElement("div");
+  timerEl.className = "question-timer";
+  timerEl.innerHTML = `Time left: <span id="timeLeft">${timeLimit}</span>s`;
+  modalContent.appendChild(timerEl);
 
-  modalContent.insertAdjacentHTML("beforeend", questionHtml);
+  const questionText = document.createElement("p");
+  questionText.className = "question";
+  questionText.textContent = questionObj.question;
+  modalContent.appendChild(questionText);
 
-  await startTimer(); // Start countdown
+  const optionsEl = document.createElement("div");
+  optionsEl.id = "answer-options";
+  questionObj.options.forEach((opt, index) => {
+    const btn = document.createElement("button");
+    btn.className = "option-button answer-button";
+    btn.textContent = opt;
+    btn.addEventListener("click", () => checkAnswer(index));
+    optionsEl.appendChild(btn);
+  });
+  modalContent.appendChild(optionsEl);
+
+  startTimer();
 }
 
 // Timer logic for each question
-async function startTimer() {
+function startTimer() {
   let timeRemaining = timeLimit;
   const timeElement = document.getElementById("timeLeft");
 
@@ -140,74 +158,103 @@ async function startTimer() {
   }, 1000);
 }
 
-// Check the selected answer and show result
-async function checkAnswer(option) {
-  clearInterval(timer); // Stop timer
+// Check the selected answer (by option index) and show result
+function checkAnswer(selectedIndex) {
+  clearInterval(timer);
 
   const modalContent = document.getElementById("questions");
   const questionObj = currentQuestions[currentQuestionIndex];
-  let answerHtml = "";
+  const correctIndex = questionObj.options.indexOf(questionObj.answer);
+  const selectedOption = selectedIndex === null ? null : questionObj.options[selectedIndex];
 
-  // Disable all answer buttons
-  let buttons = modalContent.querySelectorAll(".answer-button");
-  buttons.forEach((btn) => {
+  // Disable all answer buttons and highlight correct/selected answers
+  const buttons = modalContent.querySelectorAll(".answer-button");
+  buttons.forEach((btn, index) => {
     btn.disabled = true;
-
-    // Highlight correct and selected answer
-    if (btn.textContent === questionObj.answer) {
+    if (index === correctIndex) {
       btn.style.backgroundColor = "#4caf50"; // Green for correct
-    } else if (btn.textContent === option) {
+    } else if (index === selectedIndex) {
       btn.style.backgroundColor = "#f44336"; // Red for wrong
     }
   });
 
-  // Remove old answer message
-  const inserted = document.getElementById("answer-text");
-  if (inserted) inserted.remove();
+  const feedback = document.createElement("div");
+  feedback.id = "answer-text";
 
-  // Create new answer feedback
-  if (option === questionObj.answer) {
+  const heading = document.createElement("h3");
+  if (selectedOption === questionObj.answer) {
     score++;
-    answerHtml = `<div id="answer-text"><h3>✅ Correct answer: ${questionObj.answer}</h3><p>🎉 Fun fact: ${questionObj.fun_fact ? questionObj.fun_fact : questionObj.explanation}</p></div>`;
-  } else if (option === null) {
-    answerHtml = `<div id="answer-text"><h3>⏰ Time's up! Correct answer: ${questionObj.answer}</h3></div>`;
+    heading.textContent = `Correct answer: ${questionObj.answer}`;
+  } else if (selectedIndex === null) {
+    heading.textContent = `Time's up! Correct answer: ${questionObj.answer}`;
   } else {
-    answerHtml = `<div id="answer-text"><h3>❌ Oops! Correct answer: ${questionObj.answer}</h3><p>💡 Fun fact: ${questionObj.fun_fact ? questionObj.fun_fact : questionObj.explanation}</p></div>`;
+    heading.textContent = `Incorrect. Correct answer: ${questionObj.answer}`;
+  }
+  feedback.appendChild(heading);
+
+  const fact = questionObj.fun_fact || questionObj.explanation;
+  if (fact) {
+    const factEl = document.createElement("p");
+    factEl.textContent = fact;
+    feedback.appendChild(factEl);
   }
 
-  // Show answer feedback
-  modalContent.insertAdjacentHTML("beforeend", answerHtml);
+  const isLastQuestion = currentQuestionIndex + 1 >= currentQuestions.length;
+  const nextBtn = document.createElement("button");
+  nextBtn.className = "option-button";
+  nextBtn.textContent = isLastQuestion ? "See Results" : "Next Question";
+  nextBtn.addEventListener("click", () => {
+    clearTimeout(advanceTimer);
+    nextQuestion();
+  });
+  feedback.appendChild(nextBtn);
 
-  // Wait 10 seconds, then move to next question
-  await new Promise((resolve) => setTimeout(resolve, 10000));
-  await nextQuestion();
+  modalContent.appendChild(feedback);
+
+  // Auto-advance if the user doesn't click Next, but they can skip ahead any time
+  advanceTimer = setTimeout(nextQuestion, AUTO_ADVANCE_DELAY_MS);
 }
 
 // Go to next question or end quiz
-async function nextQuestion() {
+function nextQuestion() {
   currentQuestionIndex++;
   if (currentQuestionIndex < currentQuestions.length) {
-    await showQuestion();
+    showQuestion();
   } else {
-    showQuizEnd(); // Quiz complete
+    showQuizEnd();
   }
 }
 
 // Show final score and restart options
 function showQuizEnd() {
   const modalContent = document.getElementById("questions");
-  modalContent.innerHTML = `
-    <div class="end-quiz">
-      <h3>🎉 Quiz Completed!</h3>
-      <p>Your Score: <strong>${score}</strong> / ${currentQuestions.length}</p>
-      <button class="option-button" onclick="showCategory('${subject}')">🔙 Back to Category</button>
-    </div>
-  `;
-  document.getElementById("quizTitle").innerText = "Quiz Finished";
+  modalContent.innerHTML = "";
+
+  const container = document.createElement("div");
+  container.className = "end-quiz";
+
+  const heading = document.createElement("h3");
+  heading.textContent = "Quiz Completed!";
+  container.appendChild(heading);
+
+  const scoreText = document.createElement("p");
+  const scoreStrong = document.createElement("strong");
+  scoreStrong.textContent = String(score);
+  scoreText.append("Your Score: ", scoreStrong, ` / ${currentQuestions.length}`);
+  container.appendChild(scoreText);
+
+  const backBtn = document.createElement("button");
+  backBtn.className = "option-button";
+  backBtn.textContent = "Back to Category";
+  backBtn.addEventListener("click", () => showCategory(subject));
+  container.appendChild(backBtn);
+
+  modalContent.appendChild(container);
+  document.getElementById("quizTitle").textContent = "Quiz Finished";
 }
 
 // Close modal and reset state
-async function closeModal() {
+function closeModal() {
   document.getElementById("quizModal").style.display = "none";
   document.getElementById("category").innerHTML = "";
   document.getElementById("levels").innerHTML = "";
@@ -218,17 +265,37 @@ async function closeModal() {
   score = 0;
 
   clearInterval(timer);
+  clearTimeout(advanceTimer);
 }
 
 // Open the modal
-async function openModal() {
-  document.getElementById("quizModal").style.display = "block";
+function openModal() {
+  const modal = document.getElementById("quizModal");
+  modal.style.display = "block";
 }
 
 // Close modal if user clicks outside the content box
 window.onclick = function (event) {
   const modal = document.getElementById("quizModal");
   if (event.target === modal) {
-    modal.style.display = "none";
+    closeModal();
   }
 };
+
+// Close modal with the Escape key
+window.addEventListener("keydown", (event) => {
+  const modal = document.getElementById("quizModal");
+  if (event.key === "Escape" && modal.style.display === "block") {
+    closeModal();
+  }
+});
+
+// Allow category cards to be activated with the keyboard (Enter/Space)
+document.querySelectorAll(".card").forEach((card) => {
+  card.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      card.click();
+    }
+  });
+});

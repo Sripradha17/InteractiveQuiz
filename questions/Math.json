@@ -2176,7 +2176,7 @@
                         "5",
                         "7"
                     ],
-                    "answer": "1",
+                    "answer": "8",
                     "explanation": "1/7 = 0.142857... (repeats every 6 digits), 100 mod 6 = 4 → 4th digit is '8'."
                 },
                 {
@@ -2448,8 +2448,8 @@
                         "170 MB",
                         "180 MB"
                     ],
-                    "answer": "167 MB",
-                    "explanation": "5 GB = 5000 MB. 5000 ÷ 30 ≈ 167 MB/day."
+                    "answer": "170 MB",
+                    "explanation": "5 GB = 5000 MB. 5000 ÷ 30 ≈ 167 MB/day, which rounds to 170 MB."
                 },
                 {
                     "question": "A company makes 250 gadgets a day. How many do they make in February (28 days)?",
@@ -2578,7 +2578,7 @@
                     "question": "You're mixing 2% saltwater with 10% saltwater to make 5L of 6% solution. How much of the 10% do you need?",
                     "options": [
                         "2L",
-                        "3L",
+                        "2.5L",
                         "4L",
                         "5L"
                     ],
