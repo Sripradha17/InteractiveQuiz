@@ -1,0 +1,834 @@
+{
+    "Famous Artists": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who painted the \"Mona Lisa\"?",
+                    "options": [
+                        "Leonardo da Vinci",
+                        "Michelangelo",
+                        "Raphael",
+                        "Donatello"
+                    ],
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "Leonardo da Vinci painted the 'Mona Lisa', one of the most famous portraits in history."
+                },
+                {
+                    "question": "Who painted \"The Starry Night\"?",
+                    "options": [
+                        "Vincent van Gogh",
+                        "Claude Monet",
+                        "Paul Cezanne",
+                        "Edgar Degas"
+                    ],
+                    "answer": "Vincent van Gogh",
+                    "explanation": "Vincent van Gogh painted 'The Starry Night' in 1889 while at an asylum in Saint-Remy."
+                },
+                {
+                    "question": "Who painted the ceiling of the Sistine Chapel?",
+                    "options": [
+                        "Michelangelo",
+                        "Leonardo da Vinci",
+                        "Raphael",
+                        "Titian"
+                    ],
+                    "answer": "Michelangelo",
+                    "explanation": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512."
+                },
+                {
+                    "question": "Who is famous for cutting off part of his own ear and for vivid, expressive brushwork?",
+                    "options": [
+                        "Vincent van Gogh",
+                        "Pablo Picasso",
+                        "Salvador Dali",
+                        "Henri Matisse"
+                    ],
+                    "answer": "Vincent van Gogh",
+                    "explanation": "Van Gogh famously cut part of his ear during a mental health crisis in 1888."
+                },
+                {
+                    "question": "Which Spanish artist co-founded the Cubist movement and painted 'Guernica'?",
+                    "options": [
+                        "Pablo Picasso",
+                        "Salvador Dali",
+                        "Joan Miro",
+                        "Diego Rivera"
+                    ],
+                    "answer": "Pablo Picasso",
+                    "explanation": "Picasso co-founded Cubism and painted 'Guernica' in response to the Spanish Civil War bombing."
+                },
+                {
+                    "question": "Which artist is known for surreal, dreamlike paintings such as 'The Persistence of Memory' with melting clocks?",
+                    "options": [
+                        "Salvador Dali",
+                        "Rene Magritte",
+                        "Max Ernst",
+                        "Joan Miro"
+                    ],
+                    "answer": "Salvador Dali",
+                    "explanation": "Salvador Dali painted 'The Persistence of Memory', featuring iconic melting clocks."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which French artist is considered a founder of Impressionism, known for paintings of water lilies?",
+                    "options": [
+                        "Claude Monet",
+                        "Edouard Manet",
+                        "Camille Pissarro",
+                        "Alfred Sisley"
+                    ],
+                    "answer": "Claude Monet",
+                    "explanation": "Claude Monet, a founder of Impressionism, is famous for his series of water lily paintings at Giverny."
+                },
+                {
+                    "question": "Which Dutch painter is known for 'Girl with a Pearl Earring'?",
+                    "options": [
+                        "Johannes Vermeer",
+                        "Rembrandt",
+                        "Frans Hals",
+                        "Jan van Eyck"
+                    ],
+                    "answer": "Johannes Vermeer",
+                    "explanation": "Johannes Vermeer painted 'Girl with a Pearl Earring' around 1665."
+                },
+                {
+                    "question": "Which Mexican artist is known for vivid self-portraits exploring identity and pain?",
+                    "options": [
+                        "Frida Kahlo",
+                        "Diego Rivera",
+                        "Remedios Varo",
+                        "Leonora Carrington"
+                    ],
+                    "answer": "Frida Kahlo",
+                    "explanation": "Frida Kahlo created many vivid self-portraits exploring her identity, body, and suffering."
+                },
+                {
+                    "question": "Which Dutch painter, known for 'The Night Watch', is famous for his use of light and shadow?",
+                    "options": [
+                        "Rembrandt",
+                        "Vermeer",
+                        "Hieronymus Bosch",
+                        "Pieter Bruegel"
+                    ],
+                    "answer": "Rembrandt",
+                    "explanation": "Rembrandt painted 'The Night Watch' and is renowned for his dramatic use of light and shadow."
+                },
+                {
+                    "question": "Which American artist is famous for Pop Art works depicting Campbell's Soup cans?",
+                    "options": [
+                        "Andy Warhol",
+                        "Roy Lichtenstein",
+                        "Jasper Johns",
+                        "Robert Rauschenberg"
+                    ],
+                    "answer": "Andy Warhol",
+                    "explanation": "Andy Warhol created iconic Pop Art images of Campbell's Soup cans in the 1960s."
+                },
+                {
+                    "question": "Which Norwegian artist painted 'The Scream', an iconic image of existential anguish?",
+                    "options": [
+                        "Edvard Munch",
+                        "Gustav Klimt",
+                        "Egon Schiele",
+                        "Carl Larsson"
+                    ],
+                    "answer": "Edvard Munch",
+                    "explanation": "Edvard Munch painted 'The Scream' in 1893, one of art history's most recognizable images."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which Flemish painter created the highly detailed and bizarre triptych 'The Garden of Earthly Delights'?",
+                    "options": [
+                        "Hieronymus Bosch",
+                        "Pieter Bruegel the Elder",
+                        "Jan van Eyck",
+                        "Hans Memling"
+                    ],
+                    "answer": "Hieronymus Bosch",
+                    "explanation": "Hieronymus Bosch painted the surreal and detailed triptych 'The Garden of Earthly Delights' around 1500."
+                },
+                {
+                    "question": "Which Italian Renaissance sculptor and painter carved the marble statue 'David' now displayed in Florence?",
+                    "options": [
+                        "Michelangelo",
+                        "Donatello",
+                        "Bernini",
+                        "Verrocchio"
+                    ],
+                    "answer": "Michelangelo",
+                    "explanation": "Michelangelo carved the famous marble 'David' between 1501 and 1504."
+                },
+                {
+                    "question": "Which French Post-Impressionist, known for pointillism, painted 'A Sunday on La Grande Jatte'?",
+                    "options": [
+                        "Georges Seurat",
+                        "Paul Signac",
+                        "Henri de Toulouse-Lautrec",
+                        "Paul Gauguin"
+                    ],
+                    "answer": "Georges Seurat",
+                    "explanation": "Georges Seurat pioneered pointillism and painted 'A Sunday Afternoon on the Island of La Grande Jatte' using tiny dots of color."
+                },
+                {
+                    "question": "Which Belgian surrealist painted 'The Son of Man', depicting a man with an apple obscuring his face?",
+                    "options": [
+                        "Rene Magritte",
+                        "Paul Delvaux",
+                        "James Ensor",
+                        "Marcel Broodthaers"
+                    ],
+                    "answer": "Rene Magritte",
+                    "explanation": "Rene Magritte painted 'The Son of Man' in 1964, a hallmark of surrealist art."
+                },
+                {
+                    "question": "Which German Renaissance artist is renowned for detailed woodcuts and engravings such as 'Melencolia I'?",
+                    "options": [
+                        "Albrecht Durer",
+                        "Lucas Cranach the Elder",
+                        "Hans Holbein",
+                        "Matthias Grunewald"
+                    ],
+                    "answer": "Albrecht Durer",
+                    "explanation": "Albrecht Durer was a master of woodcuts and engravings, including the complex allegorical work 'Melencolia I'."
+                },
+                {
+                    "question": "Which American Abstract Expressionist is known for large-scale 'drip paintings' created by pouring paint onto canvas?",
+                    "options": [
+                        "Jackson Pollock",
+                        "Mark Rothko",
+                        "Willem de Kooning",
+                        "Franz Kline"
+                    ],
+                    "answer": "Jackson Pollock",
+                    "explanation": "Jackson Pollock pioneered drip painting, pouring and flinging paint onto canvases laid on the floor."
+                }
+            ]
+        }
+    },
+    "Art Movements": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which art movement, led by Monet and Renoir, focused on capturing light and everyday moments with visible brushstrokes?",
+                    "options": [
+                        "Impressionism",
+                        "Cubism",
+                        "Surrealism",
+                        "Baroque"
+                    ],
+                    "answer": "Impressionism",
+                    "explanation": "Impressionism emerged in France in the 1870s, emphasizing light, color, and everyday subject matter."
+                },
+                {
+                    "question": "Which art movement is known for depicting dreamlike, irrational scenes, as seen in works by Dali and Magritte?",
+                    "options": [
+                        "Surrealism",
+                        "Realism",
+                        "Minimalism",
+                        "Fauvism"
+                    ],
+                    "answer": "Surrealism",
+                    "explanation": "Surrealism explored the unconscious mind through dreamlike and irrational imagery."
+                },
+                {
+                    "question": "Which art movement, pioneered by Picasso and Braque, depicts subjects from multiple angles using geometric shapes?",
+                    "options": [
+                        "Cubism",
+                        "Pop Art",
+                        "Romanticism",
+                        "Art Nouveau"
+                    ],
+                    "answer": "Cubism",
+                    "explanation": "Cubism broke objects into geometric forms and depicted them from multiple viewpoints simultaneously."
+                },
+                {
+                    "question": "Which art movement, popular in the 1960s, drew on imagery from advertising and popular culture?",
+                    "options": [
+                        "Pop Art",
+                        "Baroque",
+                        "Gothic",
+                        "Rococo"
+                    ],
+                    "answer": "Pop Art",
+                    "explanation": "Pop Art used imagery from mass media, advertising, and consumer culture."
+                },
+                {
+                    "question": "Which art movement features ornate, dramatic, and richly detailed works, prominent in 17th-century Europe?",
+                    "options": [
+                        "Baroque",
+                        "Minimalism",
+                        "Modernism",
+                        "Cubism"
+                    ],
+                    "answer": "Baroque",
+                    "explanation": "The Baroque movement is known for its dramatic, ornate, and emotionally intense style."
+                },
+                {
+                    "question": "Which art movement strips down art to simple geometric forms and a limited color palette?",
+                    "options": [
+                        "Minimalism",
+                        "Baroque",
+                        "Rococo",
+                        "Romanticism"
+                    ],
+                    "answer": "Minimalism",
+                    "explanation": "Minimalism emphasizes simplicity, using basic shapes and limited color to focus on the essence of the form."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which art movement, emerging in the early 20th century, used vivid, non-naturalistic colors and bold brushwork, led by Matisse?",
+                    "options": [
+                        "Fauvism",
+                        "Cubism",
+                        "Realism",
+                        "Neoclassicism"
+                    ],
+                    "answer": "Fauvism",
+                    "explanation": "Fauvism used intensely vivid, non-naturalistic colors, with Henri Matisse as a leading figure."
+                },
+                {
+                    "question": "Which art movement, dominant in the 19th century, sought to depict ordinary subjects truthfully, without idealization?",
+                    "options": [
+                        "Realism",
+                        "Romanticism",
+                        "Rococo",
+                        "Symbolism"
+                    ],
+                    "answer": "Realism",
+                    "explanation": "Realism, led by artists like Gustave Courbet, depicted everyday life and ordinary people truthfully."
+                },
+                {
+                    "question": "Which art movement emphasized emotion, individualism, and dramatic depictions of nature, popular in the early 19th century?",
+                    "options": [
+                        "Romanticism",
+                        "Neoclassicism",
+                        "Cubism",
+                        "Constructivism"
+                    ],
+                    "answer": "Romanticism",
+                    "explanation": "Romanticism emphasized emotion, imagination, and the awe-inspiring power of nature."
+                },
+                {
+                    "question": "Which decorative art movement, popular around 1890-1910, is characterized by organic, flowing lines inspired by nature?",
+                    "options": [
+                        "Art Nouveau",
+                        "Art Deco",
+                        "Bauhaus",
+                        "De Stijl"
+                    ],
+                    "answer": "Art Nouveau",
+                    "explanation": "Art Nouveau featured flowing, organic lines often inspired by plants and natural forms."
+                },
+                {
+                    "question": "Which geometric, streamlined design movement was popular in the 1920s and 1930s, seen in buildings like the Chrysler Building?",
+                    "options": [
+                        "Art Deco",
+                        "Art Nouveau",
+                        "Bauhaus",
+                        "Gothic Revival"
+                    ],
+                    "answer": "Art Deco",
+                    "explanation": "Art Deco featured bold geometric forms and lavish ornamentation, popular in the 1920s-30s."
+                },
+                {
+                    "question": "Which German design movement, founded by Walter Gropius, emphasized functional design merging art, craft, and technology?",
+                    "options": [
+                        "Bauhaus",
+                        "Art Nouveau",
+                        "De Stijl",
+                        "Constructivism"
+                    ],
+                    "answer": "Bauhaus",
+                    "explanation": "The Bauhaus school, founded in 1919, emphasized functional design integrating art, craft, and industrial technology."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which Russian art movement, associated with Kazimir Malevich, focused on basic geometric forms like squares and circles?",
+                    "options": [
+                        "Suprematism",
+                        "Constructivism",
+                        "Futurism",
+                        "Rayonism"
+                    ],
+                    "answer": "Suprematism",
+                    "explanation": "Suprematism, pioneered by Malevich, reduced art to basic geometric shapes, exemplified by works like 'Black Square'."
+                },
+                {
+                    "question": "Which Dutch art movement, associated with Piet Mondrian, used only horizontal and vertical lines with primary colors?",
+                    "options": [
+                        "De Stijl",
+                        "Bauhaus",
+                        "Constructivism",
+                        "Suprematism"
+                    ],
+                    "answer": "De Stijl",
+                    "explanation": "De Stijl, meaning 'The Style', used strict geometric abstraction with primary colors, as in Mondrian's grid paintings."
+                },
+                {
+                    "question": "Which avant-garde movement, originating in Italy in the early 20th century, celebrated speed, technology, and modernity?",
+                    "options": [
+                        "Futurism",
+                        "Dadaism",
+                        "Symbolism",
+                        "Vorticism"
+                    ],
+                    "answer": "Futurism",
+                    "explanation": "Italian Futurism glorified speed, technology, youth, and the dynamism of the modern industrial age."
+                },
+                {
+                    "question": "Which anti-art movement, emerging during World War I, rejected logic and reason in favor of absurdity and chance?",
+                    "options": [
+                        "Dadaism",
+                        "Surrealism",
+                        "Expressionism",
+                        "Fauvism"
+                    ],
+                    "answer": "Dadaism",
+                    "explanation": "Dadaism rejected conventional aesthetics and reason, embracing absurdity as a reaction to the horrors of WWI."
+                },
+                {
+                    "question": "Which art movement, prominent in post-WWII America, emphasized spontaneous, gestural, large-scale abstract painting?",
+                    "options": [
+                        "Abstract Expressionism",
+                        "Pop Art",
+                        "Minimalism",
+                        "Op Art"
+                    ],
+                    "answer": "Abstract Expressionism",
+                    "explanation": "Abstract Expressionism, including artists like Pollock and Rothko, emphasized spontaneous and emotional abstract painting."
+                },
+                {
+                    "question": "Which movement, emerging in Russia after the 1917 revolution, merged art with industrial and social purpose?",
+                    "options": [
+                        "Constructivism",
+                        "Suprematism",
+                        "Futurism",
+                        "Socialist Realism"
+                    ],
+                    "answer": "Constructivism",
+                    "explanation": "Constructivism aimed to merge art with social and industrial function, reflecting revolutionary ideals."
+                }
+            ]
+        }
+    },
+    "Painting Techniques": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What painting medium uses pigment mixed with water-soluble binder, known for its transparency?",
+                    "options": [
+                        "Watercolor",
+                        "Oil paint",
+                        "Acrylic",
+                        "Tempera"
+                    ],
+                    "answer": "Watercolor",
+                    "explanation": "Watercolor paint uses pigments suspended in a water-soluble binder, producing transparent washes of color."
+                },
+                {
+                    "question": "What is the term for a painting technique using small, distinct dots of color, as used by Georges Seurat?",
+                    "options": [
+                        "Pointillism",
+                        "Impasto",
+                        "Glazing",
+                        "Sfumato"
+                    ],
+                    "answer": "Pointillism",
+                    "explanation": "Pointillism builds an image from small, distinct dots of pure color."
+                },
+                {
+                    "question": "What is the term for paint applied thickly, leaving visible brush or palette knife marks?",
+                    "options": [
+                        "Impasto",
+                        "Glazing",
+                        "Wash",
+                        "Underpainting"
+                    ],
+                    "answer": "Impasto",
+                    "explanation": "Impasto refers to paint applied thickly enough to show texture and brushstrokes."
+                },
+                {
+                    "question": "What surface do artists typically stretch over a wooden frame to paint on with oils or acrylics?",
+                    "options": [
+                        "Canvas",
+                        "Parchment",
+                        "Plywood",
+                        "Cardboard"
+                    ],
+                    "answer": "Canvas",
+                    "explanation": "Canvas, a woven fabric, is commonly stretched over a frame as a painting surface."
+                },
+                {
+                    "question": "What term describes a preliminary sketch or rough drawing made before starting a final artwork?",
+                    "options": [
+                        "Study/sketch",
+                        "Mural",
+                        "Fresco",
+                        "Etching"
+                    ],
+                    "answer": "Study/sketch",
+                    "explanation": "Artists often create preliminary studies or sketches to plan composition before the final work."
+                },
+                {
+                    "question": "Which painting medium dries quickly, is water-soluble when wet, and becomes water-resistant once dry?",
+                    "options": [
+                        "Acrylic",
+                        "Oil paint",
+                        "Watercolor",
+                        "Fresco"
+                    ],
+                    "answer": "Acrylic",
+                    "explanation": "Acrylic paint dries fast and becomes water-resistant, unlike oil paint which dries slowly."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What technique involves applying thin, transparent layers of paint over a dried layer to alter color depth?",
+                    "options": [
+                        "Glazing",
+                        "Impasto",
+                        "Scumbling",
+                        "Dry brushing"
+                    ],
+                    "answer": "Glazing",
+                    "explanation": "Glazing involves layering thin, transparent paint over previous layers to build depth and luminosity."
+                },
+                {
+                    "question": "What Italian term, used by Leonardo da Vinci, describes the technique of softening transitions between colors and tones to create soft, smoky effects?",
+                    "options": [
+                        "Sfumato",
+                        "Chiaroscuro",
+                        "Tenebrism",
+                        "Grisaille"
+                    ],
+                    "answer": "Sfumato",
+                    "explanation": "Sfumato is a technique of blending colors and tones smoothly to avoid harsh outlines, famously used in the 'Mona Lisa'."
+                },
+                {
+                    "question": "What term describes the strong contrast between light and dark used to create a sense of volume in painting?",
+                    "options": [
+                        "Chiaroscuro",
+                        "Sfumato",
+                        "Pointillism",
+                        "Trompe l'oeil"
+                    ],
+                    "answer": "Chiaroscuro",
+                    "explanation": "Chiaroscuro uses bold contrasts between light and shadow to model three-dimensional form."
+                },
+                {
+                    "question": "What French term describes a highly realistic painting style that creates the illusion of three-dimensional objects?",
+                    "options": [
+                        "Trompe l'oeil",
+                        "Sfumato",
+                        "Plein air",
+                        "Grisaille"
+                    ],
+                    "answer": "Trompe l'oeil",
+                    "explanation": "Trompe l'oeil, meaning 'deceive the eye', creates the illusion that painted objects exist in three dimensions."
+                },
+                {
+                    "question": "What term describes painting done outdoors, directly observing natural light, popularized by the Impressionists?",
+                    "options": [
+                        "Plein air",
+                        "Fresco",
+                        "Tempera",
+                        "Underpainting"
+                    ],
+                    "answer": "Plein air",
+                    "explanation": "Plein air painting is done outdoors to directly capture natural light and atmosphere."
+                },
+                {
+                    "question": "What technique involves painting with water-based pigment directly onto wet plaster, used in Michelangelo's Sistine Chapel?",
+                    "options": [
+                        "Fresco",
+                        "Tempera",
+                        "Encaustic",
+                        "Gouache"
+                    ],
+                    "answer": "Fresco",
+                    "explanation": "Fresco painting applies pigment to wet plaster, which bonds permanently as the plaster dries."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What dramatic lighting technique, used heavily by Caravaggio, features extreme contrasts with large dark areas against small illuminated zones?",
+                    "options": [
+                        "Tenebrism",
+                        "Sfumato",
+                        "Grisaille",
+                        "Pointillism"
+                    ],
+                    "answer": "Tenebrism",
+                    "explanation": "Tenebrism is an extreme form of chiaroscuro with dramatic, theatrical contrasts of light and dark, popularized by Caravaggio."
+                },
+                {
+                    "question": "What term describes a monochromatic painting executed entirely in shades of gray, often used for underpaintings or imitation sculpture?",
+                    "options": [
+                        "Grisaille",
+                        "Sfumato",
+                        "Encaustic",
+                        "Tenebrism"
+                    ],
+                    "answer": "Grisaille",
+                    "explanation": "Grisaille is a technique of painting entirely in shades of gray, often to simulate sculpture or as an underpainting layer."
+                },
+                {
+                    "question": "What ancient painting technique uses pigment mixed with heated beeswax, applied while molten?",
+                    "options": [
+                        "Encaustic",
+                        "Fresco",
+                        "Tempera",
+                        "Gouache"
+                    ],
+                    "answer": "Encaustic",
+                    "explanation": "Encaustic painting uses pigmented, heated beeswax applied to a surface, a technique dating back to ancient Greece and Egypt."
+                },
+                {
+                    "question": "What term describes egg-based paint historically used before the widespread adoption of oil paint in Europe?",
+                    "options": [
+                        "Tempera",
+                        "Gouache",
+                        "Encaustic",
+                        "Fresco"
+                    ],
+                    "answer": "Tempera",
+                    "explanation": "Tempera paint uses egg yolk as a binder and was the dominant painting medium in Europe before oil paint."
+                },
+                {
+                    "question": "What opaque, water-based paint, similar to watercolor but denser, is often used by illustrators for flat, vibrant color?",
+                    "options": [
+                        "Gouache",
+                        "Tempera",
+                        "Encaustic",
+                        "Acrylic"
+                    ],
+                    "answer": "Gouache",
+                    "explanation": "Gouache is an opaque water-based paint that produces flat, vibrant areas of color, popular among illustrators."
+                },
+                {
+                    "question": "What painting term describes applying a layer of nearly dry paint with a brush to create a broken, textured color effect over an existing layer?",
+                    "options": [
+                        "Scumbling",
+                        "Glazing",
+                        "Sfumato",
+                        "Impasto"
+                    ],
+                    "answer": "Scumbling",
+                    "explanation": "Scumbling applies a thin, broken layer of opaque or semi-opaque paint over a dried layer to soften or modify color."
+                }
+            ]
+        }
+    },
+    "Sculpture and Architecture": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What material did Michelangelo carve his statue 'David' from?",
+                    "options": [
+                        "Marble",
+                        "Bronze",
+                        "Wood",
+                        "Limestone"
+                    ],
+                    "answer": "Marble",
+                    "explanation": "Michelangelo's 'David' was carved from a single block of Carrara marble."
+                },
+                {
+                    "question": "What is the term for a sculpture carved to project from a flat background, rather than standing freely?",
+                    "options": [
+                        "Relief",
+                        "Freestanding sculpture",
+                        "Mobile",
+                        "Assemblage"
+                    ],
+                    "answer": "Relief",
+                    "explanation": "Relief sculpture is carved so that it projects from a background surface rather than standing independently."
+                },
+                {
+                    "question": "Which ancient wonder, a giant statue, once stood at the entrance to the harbor of Rhodes?",
+                    "options": [
+                        "Colossus of Rhodes",
+                        "Statue of Zeus",
+                        "Sphinx",
+                        "Terracotta Army"
+                    ],
+                    "answer": "Colossus of Rhodes",
+                    "explanation": "The Colossus of Rhodes was a giant statue of the sun god Helios, one of the Seven Wonders of the Ancient World."
+                },
+                {
+                    "question": "What famous tower in Pisa, Italy, is known for unintentionally leaning to one side?",
+                    "options": [
+                        "Leaning Tower of Pisa",
+                        "Eiffel Tower",
+                        "Tower of London",
+                        "Big Ben"
+                    ],
+                    "answer": "Leaning Tower of Pisa",
+                    "explanation": "The Leaning Tower of Pisa tilts due to unstable foundation soil, becoming an iconic architectural curiosity."
+                },
+                {
+                    "question": "What is the term for a building style featuring pointed arches, ribbed vaults, and flying buttresses, common in medieval cathedrals?",
+                    "options": [
+                        "Gothic",
+                        "Baroque",
+                        "Modernist",
+                        "Classical"
+                    ],
+                    "answer": "Gothic",
+                    "explanation": "Gothic architecture is characterized by pointed arches, ribbed vaults, and flying buttresses, as seen in many medieval cathedrals."
+                },
+                {
+                    "question": "What ancient Egyptian monuments, built as royal tombs, have a distinctive triangular shape?",
+                    "options": [
+                        "Pyramids",
+                        "Obelisks",
+                        "Ziggurats",
+                        "Mastabas"
+                    ],
+                    "answer": "Pyramids",
+                    "explanation": "Egyptian pyramids were monumental tombs built for pharaohs, with their iconic triangular shape."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which Italian sculptor created the dynamic Baroque sculpture 'Apollo and Daphne'?",
+                    "options": [
+                        "Gian Lorenzo Bernini",
+                        "Michelangelo",
+                        "Donatello",
+                        "Antonio Canova"
+                    ],
+                    "answer": "Gian Lorenzo Bernini",
+                    "explanation": "Bernini, a master of Baroque sculpture, created the dramatic, dynamic 'Apollo and Daphne'."
+                },
+                {
+                    "question": "What architectural support structure, common in Gothic cathedrals, transfers roof weight outward to external piers?",
+                    "options": [
+                        "Flying buttress",
+                        "Keystone",
+                        "Cornice",
+                        "Pediment"
+                    ],
+                    "answer": "Flying buttress",
+                    "explanation": "Flying buttresses transfer the lateral thrust of a roof or vault to an external support, common in Gothic architecture."
+                },
+                {
+                    "question": "Which ancient Greek temple, dedicated to Athena, sits atop the Acropolis in Athens?",
+                    "options": [
+                        "The Parthenon",
+                        "The Colosseum",
+                        "The Pantheon",
+                        "Temple of Zeus"
+                    ],
+                    "answer": "The Parthenon",
+                    "explanation": "The Parthenon is an ancient Greek temple dedicated to the goddess Athena, built atop the Acropolis of Athens."
+                },
+                {
+                    "question": "Which architectural style, dominant in ancient Rome, is known for arches, domes, and monumental concrete structures like the Colosseum?",
+                    "options": [
+                        "Roman architecture",
+                        "Gothic architecture",
+                        "Byzantine architecture",
+                        "Romanesque architecture"
+                    ],
+                    "answer": "Roman architecture",
+                    "explanation": "Roman architecture pioneered the use of arches, domes, and concrete to build massive structures like the Colosseum."
+                },
+                {
+                    "question": "What is the term for a sculptural assembly made by combining everyday objects or found materials into an artwork?",
+                    "options": [
+                        "Assemblage",
+                        "Relief",
+                        "Bust",
+                        "Cast"
+                    ],
+                    "answer": "Assemblage",
+                    "explanation": "Assemblage art is created by combining found objects and materials into a three-dimensional artwork."
+                },
+                {
+                    "question": "Which French architect designed the iconic glass pyramid entrance to the Louvre Museum in Paris?",
+                    "options": [
+                        "I. M. Pei",
+                        "Le Corbusier",
+                        "Jean Nouvel",
+                        "Gustave Eiffel"
+                    ],
+                    "answer": "I. M. Pei",
+                    "explanation": "I. M. Pei designed the glass pyramid entrance of the Louvre, completed in 1989."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which ancient Roman building, famous for its massive unreinforced concrete dome, remains the largest of its kind in the world?",
+                    "options": [
+                        "The Pantheon",
+                        "The Colosseum",
+                        "Hagia Sophia",
+                        "Baths of Caracalla"
+                    ],
+                    "answer": "The Pantheon",
+                    "explanation": "The Pantheon's dome, built around 126 AD, remains the world's largest unreinforced concrete dome."
+                },
+                {
+                    "question": "Which Spanish architect designed the still-unfinished Sagrada Familia basilica in Barcelona?",
+                    "options": [
+                        "Antoni Gaudi",
+                        "Santiago Calatrava",
+                        "Rafael Moneo",
+                        "Ricardo Bofill"
+                    ],
+                    "answer": "Antoni Gaudi",
+                    "explanation": "Antoni Gaudi designed the Sagrada Familia, an elaborate basilica in Barcelona that remains under construction over a century later."
+                },
+                {
+                    "question": "Which sculptural technique involves pouring molten metal into a mold to create a solid form, used for many bronze statues?",
+                    "options": [
+                        "Casting",
+                        "Carving",
+                        "Modeling",
+                        "Assemblage"
+                    ],
+                    "answer": "Casting",
+                    "explanation": "Casting involves pouring molten material, often bronze, into a mold to create a sculpture."
+                },
+                {
+                    "question": "Which Byzantine architectural marvel in Istanbul, originally a cathedral, is famed for its massive central dome and later became a mosque?",
+                    "options": [
+                        "Hagia Sophia",
+                        "Blue Mosque",
+                        "Topkapi Palace",
+                        "Suleymaniye Mosque"
+                    ],
+                    "answer": "Hagia Sophia",
+                    "explanation": "Hagia Sophia, built in 537 AD as a Byzantine cathedral, is renowned for its massive dome and later conversion to a mosque."
+                },
+                {
+                    "question": "Which modernist architectural movement, led by figures like Le Corbusier, emphasized function, simplicity, and the rejection of ornament?",
+                    "options": [
+                        "International Style",
+                        "Art Deco",
+                        "Beaux-Arts",
+                        "Brutalism"
+                    ],
+                    "answer": "International Style",
+                    "explanation": "The International Style emphasized minimalism, function, and an absence of regional or historical ornament in modern architecture."
+                },
+                {
+                    "question": "Which technique, used in ancient and Renaissance sculpture, involves removing material from a solid block to reveal a form, as opposed to building up material?",
+                    "options": [
+                        "Carving (subtractive sculpture)",
+                        "Casting",
+                        "Modeling",
+                        "Welding"
+                    ],
+                    "answer": "Carving (subtractive sculpture)",
+                    "explanation": "Carving is a subtractive process where material is removed from a solid block, as Michelangelo did with marble."
+                }
+            ]
+        }
+    }
+}

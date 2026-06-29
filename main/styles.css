@@ -24,19 +24,77 @@ body {
   min-height: 100vh;
   padding: 40px 20px;
   text-align: center;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Ambient, slowly drifting blurred blobs behind all page content */
+.bg-blob {
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(60px);
+  opacity: 0.45;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.blob-1 {
+  width: 420px;
+  height: 420px;
+  top: -120px;
+  left: -100px;
+  background: #fd79a8;
+  animation: driftA 18s ease-in-out infinite;
+}
+
+.blob-2 {
+  width: 380px;
+  height: 380px;
+  bottom: -140px;
+  right: -100px;
+  background: #00cec9;
+  animation: driftB 22s ease-in-out infinite;
+}
+
+.blob-3 {
+  width: 320px;
+  height: 320px;
+  top: 40%;
+  right: 10%;
+  background: #ffeaa7;
+  animation: driftC 26s ease-in-out infinite;
+}
+
+@keyframes driftA {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(60px, 40px) scale(1.15); }
+}
+
+@keyframes driftB {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(-50px, -30px) scale(1.1); }
+}
+
+@keyframes driftC {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(-40px, 50px) scale(1.2); }
 }
 
 .title {
+  position: relative;
+  z-index: 1;
   font-size: 2.75rem;
   font-weight: 700;
   margin-bottom: 35px;
   color: #fff;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-  animation: fadeInDown 0.6s ease;
+  animation: fadeInDown 0.6s ease both;
 }
 
 /* Grid layout for category cards */
 .card-grid {
+  position: relative;
+  z-index: 1;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 24px;
@@ -55,13 +113,17 @@ body {
   animation: fadeInUp 0.5s ease both;
 }
 
-.card:nth-child(2) { animation-delay: 0.05s; }
-.card:nth-child(3) { animation-delay: 0.1s; }
-.card:nth-child(4) { animation-delay: 0.15s; }
-.card:nth-child(5) { animation-delay: 0.2s; }
-.card:nth-child(6) { animation-delay: 0.25s; }
-.card:nth-child(7) { animation-delay: 0.3s; }
-.card:nth-child(8) { animation-delay: 0.35s; }
+.card:nth-child(2) { animation-delay: 0.04s; }
+.card:nth-child(3) { animation-delay: 0.08s; }
+.card:nth-child(4) { animation-delay: 0.12s; }
+.card:nth-child(5) { animation-delay: 0.16s; }
+.card:nth-child(6) { animation-delay: 0.2s; }
+.card:nth-child(7) { animation-delay: 0.24s; }
+.card:nth-child(8) { animation-delay: 0.28s; }
+.card:nth-child(9) { animation-delay: 0.32s; }
+.card:nth-child(10) { animation-delay: 0.36s; }
+.card:nth-child(11) { animation-delay: 0.4s; }
+.card:nth-child(12) { animation-delay: 0.44s; }
 
 .card:hover,
 .card:focus-visible {
@@ -69,21 +131,56 @@ body {
   box-shadow: 0 16px 32px rgba(0, 0, 0, 0.25);
 }
 
-/* Image inside each card, cropped to a fixed ratio with a zoom-on-hover effect */
-.card .card-image {
+/* Calm, static gradient visual panel - unique color theme per subject, no motion at rest */
+.card-visual {
+  position: relative;
+  height: 170px;
   overflow: hidden;
-  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.card img {
+/* Subtle static vignette for depth, no animation */
+.card-visual::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 30% 25%, rgba(255, 255, 255, 0.16), transparent 55%);
+}
+
+/* Subject color themes */
+.card[data-subject="Science"] .card-visual { background-image: linear-gradient(135deg, #00b894, #0984e3); }
+.card[data-subject="History"] .card-visual { background-image: linear-gradient(135deg, #d35400, #c0392b); }
+.card[data-subject="Geography"] .card-visual { background-image: linear-gradient(135deg, #00cec9, #0984e3); }
+.card[data-subject="Literature"] .card-visual { background-image: linear-gradient(135deg, #6c5ce7, #341f97); }
+.card[data-subject="Math"] .card-visual { background-image: linear-gradient(135deg, #0984e3, #6c5ce7); }
+.card[data-subject="Sports"] .card-visual { background-image: linear-gradient(135deg, #e17055, #d63031); }
+.card[data-subject="Technology"] .card-visual { background-image: linear-gradient(135deg, #636e72, #2d3436); }
+.card[data-subject="Movies"] .card-visual { background-image: linear-gradient(135deg, #fdcb6e, #e17055); }
+.card[data-subject="Music"] .card-visual { background-image: linear-gradient(135deg, #fd79a8, #6c5ce7); }
+.card[data-subject="Art"] .card-visual { background-image: linear-gradient(135deg, #ffb347, #e84393); }
+.card[data-subject="Animals"] .card-visual { background-image: linear-gradient(135deg, #55efc4, #00b894); }
+.card[data-subject="Space"] .card-visual { background-image: linear-gradient(135deg, #2d3561, #0c0f2e); }
+
+/* Single clean line-art icon per subject, calm at rest, gently scales on hover */
+.card-icon {
+  position: relative;
+  z-index: 1;
+  width: 46px;
+  height: 46px;
+  color: rgba(255, 255, 255, 0.95);
+  filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.25));
+  transition: transform 0.35s ease;
+}
+
+.card-icon svg {
   width: 100%;
   height: 100%;
-  object-fit: cover;
   display: block;
-  transition: transform 0.5s ease;
 }
 
-.card:hover img {
+.card:hover .card-icon {
   transform: scale(1.12);
 }
 

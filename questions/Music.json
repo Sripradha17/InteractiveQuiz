@@ -1,0 +1,834 @@
+{
+    "Music Theory": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How many lines are there in a standard musical staff?",
+                    "options": [
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "answer": "5",
+                    "explanation": "A standard musical staff has five horizontal lines."
+                },
+                {
+                    "question": "What symbol indicates the pitch and clef used for higher-pitched instruments like the violin?",
+                    "options": [
+                        "Bass clef",
+                        "Treble clef",
+                        "Alto clef",
+                        "Tenor clef"
+                    ],
+                    "answer": "Treble clef",
+                    "explanation": "The treble clef (G clef) is used for higher-pitched instruments and voices."
+                },
+                {
+                    "question": "What is a group of musical notes played or sung together called?",
+                    "options": [
+                        "Melody",
+                        "Chord",
+                        "Rhythm",
+                        "Tempo"
+                    ],
+                    "answer": "Chord",
+                    "explanation": "A chord is a combination of notes played simultaneously."
+                },
+                {
+                    "question": "What term describes the speed at which a piece of music is played?",
+                    "options": [
+                        "Pitch",
+                        "Tempo",
+                        "Timbre",
+                        "Dynamics"
+                    ],
+                    "answer": "Tempo",
+                    "explanation": "Tempo refers to the speed or pace of a piece of music."
+                },
+                {
+                    "question": "How many beats does a whole note typically receive in 4/4 time?",
+                    "options": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                    ],
+                    "answer": "4",
+                    "explanation": "In 4/4 time, a whole note is held for all four beats of the measure."
+                },
+                {
+                    "question": "What do we call the set of seven notes that form the basis of Western music (do, re, mi, etc.)?",
+                    "options": [
+                        "Scale",
+                        "Octave",
+                        "Chord",
+                        "Interval"
+                    ],
+                    "answer": "Scale",
+                    "explanation": "A scale is an ordered sequence of notes, such as the major or minor scale."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What is the term for the distance in pitch between two notes?",
+                    "options": [
+                        "Interval",
+                        "Scale",
+                        "Chord",
+                        "Key"
+                    ],
+                    "answer": "Interval",
+                    "explanation": "An interval is the difference in pitch between two notes."
+                },
+                {
+                    "question": "What does \"forte\" mean in musical notation?",
+                    "options": [
+                        "Play softly",
+                        "Play loudly",
+                        "Play quickly",
+                        "Play slowly"
+                    ],
+                    "answer": "Play loudly",
+                    "explanation": "Forte (f) is a dynamic marking instructing the performer to play loudly."
+                },
+                {
+                    "question": "How many half steps make up an octave?",
+                    "options": [
+                        "8",
+                        "10",
+                        "12",
+                        "14"
+                    ],
+                    "answer": "12",
+                    "explanation": "An octave is divided into 12 equal half steps (semitones) in Western music."
+                },
+                {
+                    "question": "What term describes a piece of music written in a minor key with a sad or somber feel?",
+                    "options": [
+                        "Major",
+                        "Minor",
+                        "Modal",
+                        "Atonal"
+                    ],
+                    "answer": "Minor",
+                    "explanation": "Minor keys are often associated with a sad or melancholic mood."
+                },
+                {
+                    "question": "What is the term for playing notes of a chord one after another rather than simultaneously?",
+                    "options": [
+                        "Arpeggio",
+                        "Glissando",
+                        "Staccato",
+                        "Legato"
+                    ],
+                    "answer": "Arpeggio",
+                    "explanation": "An arpeggio is a chord played as a series of individual notes in sequence."
+                },
+                {
+                    "question": "What time signature is commonly known as \"waltz time\"?",
+                    "options": [
+                        "4/4",
+                        "2/4",
+                        "3/4",
+                        "6/8"
+                    ],
+                    "answer": "3/4",
+                    "explanation": "Waltz time has three beats per measure, giving it its distinctive 3/4 rhythm."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the term for a chord progression that creates a strong sense of resolution, typically V-I?",
+                    "options": [
+                        "Cadence",
+                        "Modulation",
+                        "Sequence",
+                        "Ornamentation"
+                    ],
+                    "answer": "Cadence",
+                    "explanation": "A cadence is a chord progression that brings a musical phrase to a conclusion, with V-I being the authentic cadence."
+                },
+                {
+                    "question": "What scale consists of only the black keys starting from F-sharp, often associated with impressionistic music?",
+                    "options": [
+                        "Pentatonic scale",
+                        "Chromatic scale",
+                        "Whole tone scale",
+                        "Diatonic scale"
+                    ],
+                    "answer": "Pentatonic scale",
+                    "explanation": "The pentatonic scale uses five notes per octave and can be played using only the black keys."
+                },
+                {
+                    "question": "What term describes the technique of shifting a piece of music from one key to another?",
+                    "options": [
+                        "Transposition",
+                        "Modulation",
+                        "Inversion",
+                        "Augmentation"
+                    ],
+                    "answer": "Modulation",
+                    "explanation": "Modulation is the process of changing from one key to another within a piece of music."
+                },
+                {
+                    "question": "In counterpoint, what term describes two melodic lines that move in opposite directions?",
+                    "options": [
+                        "Contrary motion",
+                        "Parallel motion",
+                        "Oblique motion",
+                        "Similar motion"
+                    ],
+                    "answer": "Contrary motion",
+                    "explanation": "Contrary motion occurs when two melodic lines move in opposite pitch directions."
+                },
+                {
+                    "question": "What is the term for a musical interval of an augmented fourth or diminished fifth, historically considered a very dissonant interval?",
+                    "options": [
+                        "Tritone",
+                        "Perfect fifth",
+                        "Major third",
+                        "Minor seventh"
+                    ],
+                    "answer": "Tritone",
+                    "explanation": "The tritone spans three whole tones and was historically considered dissonant and unsettling."
+                },
+                {
+                    "question": "What term describes a composition technique where a melody is imitated by successive voices entering at different times, as in a fugue?",
+                    "options": [
+                        "Polyphony",
+                        "Counterpoint",
+                        "Imitation",
+                        "Homophony"
+                    ],
+                    "answer": "Imitation",
+                    "explanation": "Imitation is when a melodic idea is restated by different voices in succession, a core technique in fugues."
+                }
+            ]
+        }
+    },
+    "Musical Instruments": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which instrument has 88 keys?",
+                    "options": [
+                        "Guitar",
+                        "Piano",
+                        "Violin",
+                        "Flute"
+                    ],
+                    "answer": "Piano",
+                    "explanation": "A standard piano has 88 keys, spanning seven octaves plus a few notes."
+                },
+                {
+                    "question": "Which instrument family does the violin belong to?",
+                    "options": [
+                        "Brass",
+                        "Percussion",
+                        "String",
+                        "Woodwind"
+                    ],
+                    "answer": "String",
+                    "explanation": "The violin is a string instrument played with a bow."
+                },
+                {
+                    "question": "Which instrument is played by blowing air across a hole near one end?",
+                    "options": [
+                        "Flute",
+                        "Trumpet",
+                        "Drum",
+                        "Guitar"
+                    ],
+                    "answer": "Flute",
+                    "explanation": "The flute produces sound when air is blown across an embouchure hole."
+                },
+                {
+                    "question": "What instrument has pedals, strings, and is played by pressing keys?",
+                    "options": [
+                        "Piano",
+                        "Trombone",
+                        "Clarinet",
+                        "Tambourine"
+                    ],
+                    "answer": "Piano",
+                    "explanation": "The piano is a keyboard instrument with strings struck by hammers, controlled by keys and pedals."
+                },
+                {
+                    "question": "Which instrument is typically played with drumsticks?",
+                    "options": [
+                        "Drum",
+                        "Harp",
+                        "Oboe",
+                        "Cello"
+                    ],
+                    "answer": "Drum",
+                    "explanation": "Drums are percussion instruments commonly played by striking with sticks or hands."
+                },
+                {
+                    "question": "Which brass instrument uses a slide to change pitch?",
+                    "options": [
+                        "Trumpet",
+                        "Trombone",
+                        "Tuba",
+                        "French horn"
+                    ],
+                    "answer": "Trombone",
+                    "explanation": "The trombone uses a sliding tube to change the length of its air column and alter pitch."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which instrument family does the clarinet belong to?",
+                    "options": [
+                        "Brass",
+                        "Woodwind",
+                        "String",
+                        "Percussion"
+                    ],
+                    "answer": "Woodwind",
+                    "explanation": "The clarinet is a woodwind instrument that uses a single reed to produce sound."
+                },
+                {
+                    "question": "What is the largest and lowest-pitched instrument in the string family?",
+                    "options": [
+                        "Violin",
+                        "Viola",
+                        "Cello",
+                        "Double bass"
+                    ],
+                    "answer": "Double bass",
+                    "explanation": "The double bass is the largest and lowest-pitched string instrument in the orchestra."
+                },
+                {
+                    "question": "Which instrument uses a reed and is shaped like a cone with a flared bell?",
+                    "options": [
+                        "Oboe",
+                        "Saxophone",
+                        "Flute",
+                        "Trumpet"
+                    ],
+                    "answer": "Saxophone",
+                    "explanation": "The saxophone is a single-reed woodwind instrument with a conical metal body."
+                },
+                {
+                    "question": "What is the name for the part of a guitar that you press strings against to change pitch?",
+                    "options": [
+                        "Bridge",
+                        "Fretboard",
+                        "Soundhole",
+                        "Tuning peg"
+                    ],
+                    "answer": "Fretboard",
+                    "explanation": "The fretboard contains the frets that a guitarist presses strings against to change pitch."
+                },
+                {
+                    "question": "Which keyboard instrument produces sound using pipes and air, often found in churches?",
+                    "options": [
+                        "Piano",
+                        "Organ",
+                        "Harpsichord",
+                        "Accordion"
+                    ],
+                    "answer": "Organ",
+                    "explanation": "The pipe organ produces sound by forcing air through pipes of different sizes."
+                },
+                {
+                    "question": "What percussion instrument consists of tuned metal bars struck with mallets, often used in orchestras?",
+                    "options": [
+                        "Xylophone",
+                        "Glockenspiel",
+                        "Marimba",
+                        "Vibraphone"
+                    ],
+                    "answer": "Glockenspiel",
+                    "explanation": "The glockenspiel uses metal bars (unlike the wooden bars of a xylophone) struck with mallets."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the term for the small piece of wood or plastic that vibrates to produce sound in a clarinet or saxophone?",
+                    "options": [
+                        "Reed",
+                        "Mute",
+                        "Bridge",
+                        "Valve"
+                    ],
+                    "answer": "Reed",
+                    "explanation": "A reed vibrates when air passes over it, producing the instrument's sound."
+                },
+                {
+                    "question": "Which string instrument family member is tuned a fifth lower than the violin?",
+                    "options": [
+                        "Viola",
+                        "Cello",
+                        "Double bass",
+                        "Mandolin"
+                    ],
+                    "answer": "Viola",
+                    "explanation": "The viola is tuned a perfect fifth lower than the violin (C-G-D-A vs G-D-A-E)."
+                },
+                {
+                    "question": "What is the name for the curved metal tubing that increases a brass instrument's length without making it unwieldy?",
+                    "options": [
+                        "Valve",
+                        "Bell",
+                        "Tubing coil",
+                        "Mouthpiece"
+                    ],
+                    "answer": "Tubing coil",
+                    "explanation": "Brass instruments are coiled to fit a long tube length into a manageable, compact shape."
+                },
+                {
+                    "question": "What harpsichord mechanism plucks the strings, unlike a piano's hammer mechanism?",
+                    "options": [
+                        "Plectrum",
+                        "Damper",
+                        "Hammer",
+                        "Sustain pedal"
+                    ],
+                    "answer": "Plectrum",
+                    "explanation": "A harpsichord uses small plectra to pluck the strings rather than hammers striking them."
+                },
+                {
+                    "question": "Which woodwind instrument is the largest and lowest-pitched member of its family, sometimes called the great bass of the orchestra's reed section?",
+                    "options": [
+                        "Bassoon",
+                        "Contrabassoon",
+                        "Bass clarinet",
+                        "Baritone saxophone"
+                    ],
+                    "answer": "Contrabassoon",
+                    "explanation": "The contrabassoon plays an octave lower than the bassoon and is among the lowest-pitched orchestral instruments."
+                },
+                {
+                    "question": "In a piano, what mechanism allows a struck string to continue ringing after the key is released?",
+                    "options": [
+                        "Sustain pedal (damper lifting)",
+                        "Soft pedal",
+                        "Sostenuto pedal alone",
+                        "Hammer rail"
+                    ],
+                    "answer": "Sustain pedal (damper lifting)",
+                    "explanation": "The sustain pedal lifts all dampers off the strings, letting them continue vibrating after keys are released."
+                }
+            ]
+        }
+    },
+    "Genres and Styles": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which genre of music originated among African Americans in the late 19th and early 20th centuries, characterized by blue notes and call-and-response?",
+                    "options": [
+                        "Jazz",
+                        "Blues",
+                        "Country",
+                        "Reggae"
+                    ],
+                    "answer": "Blues",
+                    "explanation": "Blues music originated in the Deep South, characterized by blue notes and a distinctive 12-bar structure."
+                },
+                {
+                    "question": "Which genre is closely associated with Jamaica and artists like Bob Marley?",
+                    "options": [
+                        "Reggae",
+                        "Salsa",
+                        "Flamenco",
+                        "Polka"
+                    ],
+                    "answer": "Reggae",
+                    "explanation": "Reggae developed in Jamaica in the late 1960s and is known for its offbeat rhythms."
+                },
+                {
+                    "question": "Which genre features a steady, simple beat and is often associated with line dancing and storytelling lyrics?",
+                    "options": [
+                        "Country",
+                        "Opera",
+                        "Classical",
+                        "Techno"
+                    ],
+                    "answer": "Country",
+                    "explanation": "Country music often features storytelling lyrics and simple, steady rhythms rooted in American folk traditions."
+                },
+                {
+                    "question": "Which genre is characterized by elaborate orchestration and originated centuries ago in European courts?",
+                    "options": [
+                        "Classical",
+                        "Hip hop",
+                        "Punk",
+                        "Disco"
+                    ],
+                    "answer": "Classical",
+                    "explanation": "Classical music has roots in European courts and church music, known for its orchestral complexity."
+                },
+                {
+                    "question": "Which genre emerged in the Bronx in the 1970s, featuring rapping over beats?",
+                    "options": [
+                        "Hip hop",
+                        "Jazz",
+                        "Folk",
+                        "Grunge"
+                    ],
+                    "answer": "Hip hop",
+                    "explanation": "Hip hop originated in the Bronx, New York, in the 1970s, centered on rapping, DJing, and beat-making."
+                },
+                {
+                    "question": "Which genre is known for its electronic, repetitive beats often played in clubs?",
+                    "options": [
+                        "Electronic dance music",
+                        "Bluegrass",
+                        "Opera",
+                        "Folk"
+                    ],
+                    "answer": "Electronic dance music",
+                    "explanation": "Electronic dance music (EDM) uses synthesized, repetitive beats designed for dancing in clubs and festivals."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which genre, originating in New Orleans, heavily features improvisation and syncopation?",
+                    "options": [
+                        "Jazz",
+                        "Polka",
+                        "Opera",
+                        "Folk"
+                    ],
+                    "answer": "Jazz",
+                    "explanation": "Jazz originated in New Orleans and is defined by improvisation, syncopation, and swing rhythms."
+                },
+                {
+                    "question": "Which subgenre of rock is characterized by fast tempos, aggressive lyrics, and a DIY ethic that emerged in the 1970s?",
+                    "options": [
+                        "Punk rock",
+                        "Soft rock",
+                        "Progressive rock",
+                        "Yacht rock"
+                    ],
+                    "answer": "Punk rock",
+                    "explanation": "Punk rock emerged in the mid-1970s with fast, raw, stripped-down songs and a rebellious attitude."
+                },
+                {
+                    "question": "Which Latin American genre, originating in Cuba, blends Afro-Cuban rhythms with jazz influences?",
+                    "options": [
+                        "Salsa",
+                        "Tango",
+                        "Bossa nova",
+                        "Mariachi"
+                    ],
+                    "answer": "Salsa",
+                    "explanation": "Salsa music developed from Cuban son and Afro-Cuban rhythms, later popularized in New York."
+                },
+                {
+                    "question": "Which genre features melancholic, slow, heavily distorted guitar music that rose in popularity in Seattle in the early 1990s?",
+                    "options": [
+                        "Grunge",
+                        "Disco",
+                        "Ska",
+                        "Swing"
+                    ],
+                    "answer": "Grunge",
+                    "explanation": "Grunge emerged from Seattle's music scene in the early 1990s, blending punk and heavy metal influences."
+                },
+                {
+                    "question": "What genre, rooted in Argentina, is characterized by passionate, dramatic dance music typically in 2/4 or 4/4 time?",
+                    "options": [
+                        "Tango",
+                        "Samba",
+                        "Cha-cha",
+                        "Mambo"
+                    ],
+                    "answer": "Tango",
+                    "explanation": "Tango originated in Argentina and Uruguay, known for its passionate and dramatic style."
+                },
+                {
+                    "question": "Which genre, popular in the 1970s, features a four-on-the-floor beat and was closely tied to dance club culture?",
+                    "options": [
+                        "Disco",
+                        "Grunge",
+                        "Bluegrass",
+                        "Industrial"
+                    ],
+                    "answer": "Disco",
+                    "explanation": "Disco music featured a steady four-on-the-floor beat designed for dancing in clubs during the 1970s."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which experimental genre, pioneered by artists like Karlheinz Stockhausen, uses electronically generated or manipulated sound rather than traditional instruments?",
+                    "options": [
+                        "Electronic art music",
+                        "Bebop",
+                        "Baroque",
+                        "Ragtime"
+                    ],
+                    "answer": "Electronic art music",
+                    "explanation": "Electronic art music uses recorded or synthesized sounds rather than conventional instrumental performance."
+                },
+                {
+                    "question": "Which jazz subgenre, pioneered by Charlie Parker and Dizzy Gillespie, is known for fast tempos and complex chord progressions?",
+                    "options": [
+                        "Bebop",
+                        "Swing",
+                        "Smooth jazz",
+                        "Dixieland"
+                    ],
+                    "answer": "Bebop",
+                    "explanation": "Bebop emerged in the 1940s with virtuosic improvisation, fast tempos, and intricate harmony."
+                },
+                {
+                    "question": "Which Brazilian genre blends samba rhythms with cool jazz harmonies, popularized by artists like Joao Gilberto?",
+                    "options": [
+                        "Bossa nova",
+                        "Forro",
+                        "Axe",
+                        "Choro"
+                    ],
+                    "answer": "Bossa nova",
+                    "explanation": "Bossa nova combines samba's rhythm with jazz harmony, originating in Brazil in the late 1950s."
+                },
+                {
+                    "question": "Which musical period, roughly 1600-1750, is associated with composers like Bach and Vivaldi and features ornate, highly structured compositions?",
+                    "options": [
+                        "Baroque",
+                        "Romantic",
+                        "Classical",
+                        "Renaissance"
+                    ],
+                    "answer": "Baroque",
+                    "explanation": "The Baroque period (c. 1600-1750) featured ornamentation, contrast, and composers like Bach, Handel, and Vivaldi."
+                },
+                {
+                    "question": "Which genre, emerging from Chicago and Detroit in the 1980s, laid the foundation for modern house and techno music?",
+                    "options": [
+                        "Disco-derived electronic dance music",
+                        "Bluegrass",
+                        "Doo-wop",
+                        "Zydeco"
+                    ],
+                    "answer": "Disco-derived electronic dance music",
+                    "explanation": "House and techno music developed in Chicago and Detroit in the 1980s, drawing on disco and electronic synthesis."
+                },
+                {
+                    "question": "Which term describes Western classical music composed roughly between 1820 and 1900, emphasizing emotional expression and individualism, as in Chopin and Tchaikovsky?",
+                    "options": [
+                        "Romantic period",
+                        "Baroque period",
+                        "Classical period",
+                        "Modernist period"
+                    ],
+                    "answer": "Romantic period",
+                    "explanation": "The Romantic period (c. 1820-1900) emphasized emotional depth, individuality, and expressive composition."
+                }
+            ]
+        }
+    },
+    "Famous Composers and Artists": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who composed \"Symphony No. 9\" and continued composing even after becoming completely deaf?",
+                    "options": [
+                        "Ludwig van Beethoven",
+                        "Wolfgang Amadeus Mozart",
+                        "Johann Sebastian Bach",
+                        "Franz Schubert"
+                    ],
+                    "answer": "Ludwig van Beethoven",
+                    "explanation": "Beethoven composed his Ninth Symphony after losing his hearing entirely."
+                },
+                {
+                    "question": "Which composer wrote \"The Magic Flute\" and was a child prodigy?",
+                    "options": [
+                        "Wolfgang Amadeus Mozart",
+                        "Ludwig van Beethoven",
+                        "Johannes Brahms",
+                        "Richard Wagner"
+                    ],
+                    "answer": "Wolfgang Amadeus Mozart",
+                    "explanation": "Mozart was a child prodigy who composed 'The Magic Flute' among hundreds of other works."
+                },
+                {
+                    "question": "Which King of Pop is known for the album \"Thriller\"?",
+                    "options": [
+                        "Michael Jackson",
+                        "Prince",
+                        "Elvis Presley",
+                        "Stevie Wonder"
+                    ],
+                    "answer": "Michael Jackson",
+                    "explanation": "Michael Jackson's 'Thriller' (1982) is one of the best-selling albums of all time."
+                },
+                {
+                    "question": "Which British band, formed in Liverpool, included John Lennon and Paul McCartney?",
+                    "options": [
+                        "The Beatles",
+                        "The Rolling Stones",
+                        "Queen",
+                        "Pink Floyd"
+                    ],
+                    "answer": "The Beatles",
+                    "explanation": "The Beatles, formed in Liverpool in 1960, became one of the most influential bands in music history."
+                },
+                {
+                    "question": "Who is known as the King of Rock and Roll?",
+                    "options": [
+                        "Elvis Presley",
+                        "Chuck Berry",
+                        "Little Richard",
+                        "Buddy Holly"
+                    ],
+                    "answer": "Elvis Presley",
+                    "explanation": "Elvis Presley earned the title King of Rock and Roll for his massive influence on the genre."
+                },
+                {
+                    "question": "Which composer wrote \"The Four Seasons\", a set of violin concertos?",
+                    "options": [
+                        "Antonio Vivaldi",
+                        "Johann Sebastian Bach",
+                        "George Frideric Handel",
+                        "Joseph Haydn"
+                    ],
+                    "answer": "Antonio Vivaldi",
+                    "explanation": "Antonio Vivaldi composed 'The Four Seasons', among the most popular pieces of Baroque music."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which composer, known for \"The Well-Tempered Clavier\", was a master of Baroque counterpoint?",
+                    "options": [
+                        "Johann Sebastian Bach",
+                        "Wolfgang Amadeus Mozart",
+                        "Frederic Chopin",
+                        "Claude Debussy"
+                    ],
+                    "answer": "Johann Sebastian Bach",
+                    "explanation": "Bach was renowned for his mastery of counterpoint, exemplified in works like 'The Well-Tempered Clavier'."
+                },
+                {
+                    "question": "Which Polish composer and pianist is celebrated for his nocturnes and other solo piano works?",
+                    "options": [
+                        "Frederic Chopin",
+                        "Franz Liszt",
+                        "Robert Schumann",
+                        "Johannes Brahms"
+                    ],
+                    "answer": "Frederic Chopin",
+                    "explanation": "Chopin, a Polish composer, is famous for his expressive nocturnes and etudes for solo piano."
+                },
+                {
+                    "question": "Which singer-songwriter, known as the Queen of Soul, recorded \"Respect\"?",
+                    "options": [
+                        "Aretha Franklin",
+                        "Diana Ross",
+                        "Whitney Houston",
+                        "Tina Turner"
+                    ],
+                    "answer": "Aretha Franklin",
+                    "explanation": "Aretha Franklin, dubbed the Queen of Soul, had a defining hit with her cover of 'Respect'."
+                },
+                {
+                    "question": "Which rock band, fronted by Freddie Mercury, performed \"Bohemian Rhapsody\"?",
+                    "options": [
+                        "Queen",
+                        "Led Zeppelin",
+                        "The Who",
+                        "Deep Purple"
+                    ],
+                    "answer": "Queen",
+                    "explanation": "Queen, fronted by Freddie Mercury, released the genre-defying 'Bohemian Rhapsody' in 1975."
+                },
+                {
+                    "question": "Which Austrian composer was a master of the Classical symphony and mentored Beethoven?",
+                    "options": [
+                        "Joseph Haydn",
+                        "Franz Liszt",
+                        "Richard Strauss",
+                        "Gustav Mahler"
+                    ],
+                    "answer": "Joseph Haydn",
+                    "explanation": "Haydn, known as the Father of the Symphony, significantly influenced the Classical style and mentored Beethoven."
+                },
+                {
+                    "question": "Which jazz trumpeter and bandleader was a key figure in the development of bebop and modal jazz?",
+                    "options": [
+                        "Miles Davis",
+                        "Louis Armstrong",
+                        "Duke Ellington",
+                        "Dizzy Gillespie"
+                    ],
+                    "answer": "Miles Davis",
+                    "explanation": "Miles Davis was instrumental in shaping bebop, cool jazz, and modal jazz across his career."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which Russian composer wrote the ballets \"Swan Lake\" and \"The Nutcracker\"?",
+                    "options": [
+                        "Pyotr Ilyich Tchaikovsky",
+                        "Igor Stravinsky",
+                        "Sergei Rachmaninoff",
+                        "Dmitri Shostakovich"
+                    ],
+                    "answer": "Pyotr Ilyich Tchaikovsky",
+                    "explanation": "Tchaikovsky composed beloved ballets including 'Swan Lake', 'The Nutcracker', and 'Sleeping Beauty'."
+                },
+                {
+                    "question": "Which composer's \"Rite of Spring\" premiere in 1913 famously caused a near-riot in the audience due to its radical dissonance and rhythms?",
+                    "options": [
+                        "Igor Stravinsky",
+                        "Claude Debussy",
+                        "Arnold Schoenberg",
+                        "Bela Bartok"
+                    ],
+                    "answer": "Igor Stravinsky",
+                    "explanation": "Stravinsky's 'The Rite of Spring' shocked Parisian audiences in 1913 with its dissonance and unconventional rhythms."
+                },
+                {
+                    "question": "Which German composer developed the twelve-tone technique, a method of composing with all twelve notes treated equally?",
+                    "options": [
+                        "Arnold Schoenberg",
+                        "Richard Wagner",
+                        "Johannes Brahms",
+                        "Paul Hindemith"
+                    ],
+                    "answer": "Arnold Schoenberg",
+                    "explanation": "Schoenberg pioneered the twelve-tone technique, a major development in 20th-century atonal music."
+                },
+                {
+                    "question": "Which French composer is closely associated with musical Impressionism and composed \"Clair de Lune\"?",
+                    "options": [
+                        "Claude Debussy",
+                        "Maurice Ravel",
+                        "Erik Satie",
+                        "Gabriel Faure"
+                    ],
+                    "answer": "Claude Debussy",
+                    "explanation": "Debussy is a leading figure of musical Impressionism, known for atmospheric works like 'Clair de Lune'."
+                },
+                {
+                    "question": "Which Italian composer is best known for operas such as \"La Boheme\", \"Tosca\", and \"Madama Butterfly\"?",
+                    "options": [
+                        "Giacomo Puccini",
+                        "Giuseppe Verdi",
+                        "Gioachino Rossini",
+                        "Vincenzo Bellini"
+                    ],
+                    "answer": "Giacomo Puccini",
+                    "explanation": "Puccini composed some of the most performed operas in the world, including 'La Boheme' and 'Tosca'."
+                },
+                {
+                    "question": "Which German composer's \"Ring Cycle\" is a four-opera epic built on an extensive system of recurring musical themes called leitmotifs?",
+                    "options": [
+                        "Richard Wagner",
+                        "Johannes Brahms",
+                        "Gustav Mahler",
+                        "Richard Strauss"
+                    ],
+                    "answer": "Richard Wagner",
+                    "explanation": "Wagner's 'Der Ring des Nibelungen' is famous for its use of leitmotifs, recurring musical themes tied to characters and ideas."
+                }
+            ]
+        }
+    }
+}

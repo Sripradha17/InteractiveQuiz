@@ -1,0 +1,834 @@
+{
+    "Mammals": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the largest mammal on Earth?",
+                    "options": [
+                        "African elephant",
+                        "Blue whale",
+                        "Giraffe",
+                        "Polar bear"
+                    ],
+                    "answer": "Blue whale",
+                    "explanation": "The blue whale is the largest animal known to have ever existed, reaching up to 30 meters long."
+                },
+                {
+                    "question": "Which mammal is known for having the longest neck of any animal?",
+                    "options": [
+                        "Giraffe",
+                        "Camel",
+                        "Horse",
+                        "Llama"
+                    ],
+                    "answer": "Giraffe",
+                    "explanation": "Giraffes have the longest necks of any living animal, helping them reach leaves high in trees."
+                },
+                {
+                    "question": "What do you call a baby kangaroo?",
+                    "options": [
+                        "Joey",
+                        "Cub",
+                        "Calf",
+                        "Kit"
+                    ],
+                    "answer": "Joey",
+                    "explanation": "A baby kangaroo is called a joey and develops further in its mother's pouch."
+                },
+                {
+                    "question": "Which mammal is known as man's best friend?",
+                    "options": [
+                        "Dog",
+                        "Cat",
+                        "Horse",
+                        "Rabbit"
+                    ],
+                    "answer": "Dog",
+                    "explanation": "Dogs have been domesticated for thousands of years and are commonly called man's best friend."
+                },
+                {
+                    "question": "Which large mammal is known for its black and white stripes?",
+                    "options": [
+                        "Zebra",
+                        "Giraffe",
+                        "Tiger",
+                        "Panda"
+                    ],
+                    "answer": "Zebra",
+                    "explanation": "Zebras are known for their distinctive black and white striped coats."
+                },
+                {
+                    "question": "Which mammal is the fastest land animal?",
+                    "options": [
+                        "Cheetah",
+                        "Lion",
+                        "Horse",
+                        "Greyhound"
+                    ],
+                    "answer": "Cheetah",
+                    "explanation": "The cheetah can reach speeds of up to 70 mph (113 km/h), making it the fastest land animal."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which mammal lays eggs instead of giving birth to live young?",
+                    "options": [
+                        "Platypus",
+                        "Kangaroo",
+                        "Koala",
+                        "Wombat"
+                    ],
+                    "answer": "Platypus",
+                    "explanation": "The platypus is an egg-laying mammal (monotreme), native to Australia."
+                },
+                {
+                    "question": "What is the only mammal capable of true flight?",
+                    "options": [
+                        "Bat",
+                        "Flying squirrel",
+                        "Sugar glider",
+                        "Colugo"
+                    ],
+                    "answer": "Bat",
+                    "explanation": "Bats are the only mammals capable of sustained, powered flight, unlike gliding mammals."
+                },
+                {
+                    "question": "Which mammal has the largest brain relative to body size among land animals?",
+                    "options": [
+                        "Human",
+                        "Elephant",
+                        "Dolphin",
+                        "Chimpanzee"
+                    ],
+                    "answer": "Human",
+                    "explanation": "Humans have the largest brain-to-body size ratio (encephalization quotient) among mammals."
+                },
+                {
+                    "question": "Which marine mammal is known for its highly developed echolocation and intelligence?",
+                    "options": [
+                        "Dolphin",
+                        "Seal",
+                        "Manatee",
+                        "Walrus"
+                    ],
+                    "answer": "Dolphin",
+                    "explanation": "Dolphins use echolocation to navigate and hunt, and are known for their high intelligence."
+                },
+                {
+                    "question": "Which African mammal lives in groups called prides?",
+                    "options": [
+                        "Lion",
+                        "Leopard",
+                        "Hyena",
+                        "Cheetah"
+                    ],
+                    "answer": "Lion",
+                    "explanation": "Lions are unique among big cats for living in social groups called prides."
+                },
+                {
+                    "question": "Which mammal is known for hibernating through the winter to conserve energy?",
+                    "options": [
+                        "Brown bear",
+                        "Wolf",
+                        "Fox",
+                        "Deer"
+                    ],
+                    "answer": "Brown bear",
+                    "explanation": "Brown bears hibernate during winter months, slowing their metabolism to survive when food is scarce."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which mammal group, including kangaroos and koalas, gives birth to live but highly underdeveloped young that finish developing in a pouch?",
+                    "options": [
+                        "Marsupials",
+                        "Monotremes",
+                        "Placental mammals",
+                        "Rodents"
+                    ],
+                    "answer": "Marsupials",
+                    "explanation": "Marsupials give birth to underdeveloped young that continue developing while attached in the mother's pouch."
+                },
+                {
+                    "question": "Which whale species is known for having the longest recorded migration of any mammal?",
+                    "options": [
+                        "Gray whale",
+                        "Blue whale",
+                        "Humpback whale",
+                        "Sperm whale"
+                    ],
+                    "answer": "Gray whale",
+                    "explanation": "Gray whales undertake one of the longest migrations of any mammal, traveling between Arctic feeding and warmer breeding grounds."
+                },
+                {
+                    "question": "Which order of mammals, including bats, is the second largest in terms of species diversity after rodents?",
+                    "options": [
+                        "Chiroptera (bats)",
+                        "Carnivora",
+                        "Primates",
+                        "Cetacea"
+                    ],
+                    "answer": "Chiroptera (bats)",
+                    "explanation": "Chiroptera, the order containing bats, is the second most diverse mammalian order after rodents."
+                },
+                {
+                    "question": "Which adaptation allows camels to survive long periods without water in desert environments?",
+                    "options": [
+                        "Fat storage in humps and efficient water retention",
+                        "Sweating constantly",
+                        "Drinking seawater",
+                        "Hibernating in summer"
+                    ],
+                    "answer": "Fat storage in humps and efficient water retention",
+                    "explanation": "Camels store fat in their humps and have physiological adaptations that minimize water loss, allowing survival in arid climates."
+                },
+                {
+                    "question": "Which small mammal is known for its ability to regenerate parts of its tail, unlike most other mammals?",
+                    "options": [
+                        "African spiny mouse",
+                        "House mouse",
+                        "Vole",
+                        "Shrew"
+                    ],
+                    "answer": "African spiny mouse",
+                    "explanation": "The African spiny mouse can shed and partially regenerate skin and even some tissue, an unusual trait among mammals."
+                },
+                {
+                    "question": "Which deep-diving mammal can hold its breath for over an hour and dive to depths exceeding 2,000 meters?",
+                    "options": [
+                        "Sperm whale",
+                        "Bottlenose dolphin",
+                        "Harbor seal",
+                        "Sea otter"
+                    ],
+                    "answer": "Sperm whale",
+                    "explanation": "Sperm whales can dive to extreme depths in search of squid, holding their breath for well over an hour."
+                }
+            ]
+        }
+    },
+    "Birds": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which bird is known for being unable to fly but is an excellent swimmer, found in Antarctica?",
+                    "options": [
+                        "Penguin",
+                        "Ostrich",
+                        "Emu",
+                        "Kiwi"
+                    ],
+                    "answer": "Penguin",
+                    "explanation": "Penguins cannot fly but are excellent swimmers, with many species living in Antarctica."
+                },
+                {
+                    "question": "Which bird is famous as a national symbol of the United States?",
+                    "options": [
+                        "Bald eagle",
+                        "Hawk",
+                        "Falcon",
+                        "Owl"
+                    ],
+                    "answer": "Bald eagle",
+                    "explanation": "The bald eagle has been the national bird and symbol of the United States since 1782."
+                },
+                {
+                    "question": "Which nocturnal bird is known for its ability to rotate its head almost all the way around?",
+                    "options": [
+                        "Owl",
+                        "Eagle",
+                        "Crow",
+                        "Sparrow"
+                    ],
+                    "answer": "Owl",
+                    "explanation": "Owls can rotate their heads up to 270 degrees, helping them spot prey without moving their bodies."
+                },
+                {
+                    "question": "Which colorful bird is known for mimicking human speech and is popular as a pet?",
+                    "options": [
+                        "Parrot",
+                        "Pigeon",
+                        "Sparrow",
+                        "Crow"
+                    ],
+                    "answer": "Parrot",
+                    "explanation": "Parrots are known for their ability to mimic sounds, including human speech, and are popular pets."
+                },
+                {
+                    "question": "Which large flightless bird is native to Africa and is the world's largest living bird?",
+                    "options": [
+                        "Ostrich",
+                        "Emu",
+                        "Cassowary",
+                        "Rhea"
+                    ],
+                    "answer": "Ostrich",
+                    "explanation": "The ostrich is the largest living bird, native to Africa, and cannot fly but can run very fast."
+                },
+                {
+                    "question": "Which small bird is known for hovering in place and flying backward, often seen near flowers?",
+                    "options": [
+                        "Hummingbird",
+                        "Sparrow",
+                        "Finch",
+                        "Swallow"
+                    ],
+                    "answer": "Hummingbird",
+                    "explanation": "Hummingbirds can hover and even fly backward, beating their wings extremely rapidly."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which bird of prey is renowned for being the fastest animal on Earth during its hunting dive?",
+                    "options": [
+                        "Peregrine falcon",
+                        "Golden eagle",
+                        "Goshawk",
+                        "Osprey"
+                    ],
+                    "answer": "Peregrine falcon",
+                    "explanation": "The peregrine falcon can reach speeds over 240 mph (386 km/h) during its hunting dive, making it the fastest animal."
+                },
+                {
+                    "question": "Which bird is known for building elaborate nests and performing complex mating dances to attract mates, native to Australia and New Guinea?",
+                    "options": [
+                        "Bowerbird",
+                        "Peacock",
+                        "Cockatoo",
+                        "Kookaburra"
+                    ],
+                    "answer": "Bowerbird",
+                    "explanation": "Bowerbirds build and decorate elaborate structures called bowers to attract mates."
+                },
+                {
+                    "question": "Which migratory bird is known for flying nonstop for several days during its migration over the Pacific Ocean?",
+                    "options": [
+                        "Bar-tailed godwit",
+                        "Arctic tern",
+                        "Canada goose",
+                        "Mallard duck"
+                    ],
+                    "answer": "Bar-tailed godwit",
+                    "explanation": "The bar-tailed godwit holds records for some of the longest nonstop migratory flights of any bird."
+                },
+                {
+                    "question": "Which bird species is known for laying its eggs in other birds' nests, a behavior called brood parasitism?",
+                    "options": [
+                        "Cuckoo",
+                        "Robin",
+                        "Sparrow",
+                        "Swallow"
+                    ],
+                    "answer": "Cuckoo",
+                    "explanation": "Cuckoos are well known for brood parasitism, laying eggs in the nests of other bird species."
+                },
+                {
+                    "question": "Which seabird is known for its ability to drink seawater thanks to specialized salt glands?",
+                    "options": [
+                        "Albatross",
+                        "Pelican",
+                        "Seagull",
+                        "Cormorant"
+                    ],
+                    "answer": "Albatross",
+                    "explanation": "Albatrosses have specialized glands that allow them to excrete excess salt, enabling them to drink seawater."
+                },
+                {
+                    "question": "Which Australian bird is known for its loud, distinctive laughing call?",
+                    "options": [
+                        "Kookaburra",
+                        "Cockatoo",
+                        "Lyrebird",
+                        "Magpie"
+                    ],
+                    "answer": "Kookaburra",
+                    "explanation": "The kookaburra is famous for its loud, laughing call often heard in Australian forests."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which extinct bird, once found on Mauritius, became a symbol of human-caused extinction after being hunted to extinction in the 17th century?",
+                    "options": [
+                        "Dodo",
+                        "Great auk",
+                        "Passenger pigeon",
+                        "Carolina parakeet"
+                    ],
+                    "answer": "Dodo",
+                    "explanation": "The dodo, a flightless bird native to Mauritius, went extinct in the late 17th century due to human activity."
+                },
+                {
+                    "question": "Which bird is known for its mimicry abilities so advanced it can imitate chainsaws and camera shutters, native to Australian rainforests?",
+                    "options": [
+                        "Superb lyrebird",
+                        "Bowerbird",
+                        "Kookaburra",
+                        "Magpie"
+                    ],
+                    "answer": "Superb lyrebird",
+                    "explanation": "The superb lyrebird is renowned for its extraordinary ability to mimic a wide range of sounds, including man-made noises."
+                },
+                {
+                    "question": "Which seabird species undertakes one of the longest annual migrations of any animal, traveling from Arctic to Antarctic regions?",
+                    "options": [
+                        "Arctic tern",
+                        "Albatross",
+                        "Skua",
+                        "Shearwater"
+                    ],
+                    "answer": "Arctic tern",
+                    "explanation": "The Arctic tern migrates annually between the Arctic and Antarctic, covering enormous distances each year."
+                },
+                {
+                    "question": "Which flightless bird from New Zealand has nostrils at the tip of its beak, an unusual trait among birds, aiding its sense of smell?",
+                    "options": [
+                        "Kiwi",
+                        "Penguin",
+                        "Emu",
+                        "Cassowary"
+                    ],
+                    "answer": "Kiwi",
+                    "explanation": "The kiwi is unique among birds for having nostrils at the tip of its long beak, giving it an excellent sense of smell."
+                },
+                {
+                    "question": "Which raptor species exhibits reverse sexual size dimorphism, where females are notably larger than males, common across most birds of prey?",
+                    "options": [
+                        "Hawks and falcons generally",
+                        "Ostriches",
+                        "Peacocks",
+                        "Pigeons"
+                    ],
+                    "answer": "Hawks and falcons generally",
+                    "explanation": "In most birds of prey, including hawks and falcons, females are typically larger than males, a pattern called reverse sexual size dimorphism."
+                },
+                {
+                    "question": "Which bird species famously imprinted on Konrad Lorenz, leading to foundational studies in animal behavior and the concept of imprinting?",
+                    "options": [
+                        "Greylag goose",
+                        "Mallard duck",
+                        "Domestic chicken",
+                        "Barn owl"
+                    ],
+                    "answer": "Greylag goose",
+                    "explanation": "Konrad Lorenz's studies on greylag geese were foundational in establishing the concept of imprinting in ethology."
+                }
+            ]
+        }
+    },
+    "Ocean Life": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which sea creature has eight arms and can change color to camouflage itself?",
+                    "options": [
+                        "Octopus",
+                        "Starfish",
+                        "Jellyfish",
+                        "Crab"
+                    ],
+                    "answer": "Octopus",
+                    "explanation": "Octopuses have eight arms and can rapidly change skin color and texture to camouflage themselves."
+                },
+                {
+                    "question": "Which marine animal is known for its hard outer shell and pinching claws?",
+                    "options": [
+                        "Crab",
+                        "Jellyfish",
+                        "Octopus",
+                        "Squid"
+                    ],
+                    "answer": "Crab",
+                    "explanation": "Crabs have a hard exoskeleton and pincer-like claws used for defense and feeding."
+                },
+                {
+                    "question": "Which sea creature has no brain, heart, or bones, and is mostly made of water?",
+                    "options": [
+                        "Jellyfish",
+                        "Crab",
+                        "Shark",
+                        "Dolphin"
+                    ],
+                    "answer": "Jellyfish",
+                    "explanation": "Jellyfish lack brains, hearts, and bones, and are composed of about 95% water."
+                },
+                {
+                    "question": "Which large fish is known as one of the ocean's top predators and has rows of sharp teeth?",
+                    "options": [
+                        "Shark",
+                        "Tuna",
+                        "Salmon",
+                        "Cod"
+                    ],
+                    "answer": "Shark",
+                    "explanation": "Sharks are apex predators known for their multiple rows of sharp teeth."
+                },
+                {
+                    "question": "Which marine mammal is known for its intelligence and playful behavior, often seen performing in aquariums?",
+                    "options": [
+                        "Dolphin",
+                        "Shark",
+                        "Octopus",
+                        "Crab"
+                    ],
+                    "answer": "Dolphin",
+                    "explanation": "Dolphins are highly intelligent marine mammals known for their playful and social behavior."
+                },
+                {
+                    "question": "Which slow-moving sea creature has a hard shell and can live for over 100 years in some species?",
+                    "options": [
+                        "Sea turtle",
+                        "Jellyfish",
+                        "Octopus",
+                        "Squid"
+                    ],
+                    "answer": "Sea turtle",
+                    "explanation": "Sea turtles have protective shells and some species can live well over 100 years."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which ocean creature has three hearts and blue blood?",
+                    "options": [
+                        "Octopus",
+                        "Shark",
+                        "Dolphin",
+                        "Squid"
+                    ],
+                    "answer": "Octopus",
+                    "explanation": "Octopuses have three hearts and copper-based blood, which appears blue."
+                },
+                {
+                    "question": "Which fish is known for changing its body shape and is one of the most venomous fish in the ocean?",
+                    "options": [
+                        "Pufferfish",
+                        "Clownfish",
+                        "Tuna",
+                        "Mackerel"
+                    ],
+                    "answer": "Pufferfish",
+                    "explanation": "Pufferfish can inflate their bodies and contain a potent neurotoxin called tetrodotoxin."
+                },
+                {
+                    "question": "Which marine mammal is the largest member of the dolphin family, despite its name suggesting otherwise?",
+                    "options": [
+                        "Orca (killer whale)",
+                        "Beluga whale",
+                        "Narwhal",
+                        "Pilot whale"
+                    ],
+                    "answer": "Orca (killer whale)",
+                    "explanation": "Despite being called a 'whale', the orca is actually the largest species in the dolphin family."
+                },
+                {
+                    "question": "Which deep-sea fish uses a bioluminescent lure on its head to attract prey in the dark depths?",
+                    "options": [
+                        "Anglerfish",
+                        "Lanternfish",
+                        "Viperfish",
+                        "Hatchetfish"
+                    ],
+                    "answer": "Anglerfish",
+                    "explanation": "Anglerfish use a glowing lure called an esca, produced by bioluminescent bacteria, to attract prey in deep, dark water."
+                },
+                {
+                    "question": "Which crustacean is known for molting its exoskeleton as it grows, periodically shedding its hard shell?",
+                    "options": [
+                        "Lobster",
+                        "Jellyfish",
+                        "Octopus",
+                        "Starfish"
+                    ],
+                    "answer": "Lobster",
+                    "explanation": "Lobsters molt their exoskeletons periodically throughout their lives to grow larger."
+                },
+                {
+                    "question": "Which marine animal can regenerate an entire lost arm and even regrow its body from a single arm in some species?",
+                    "options": [
+                        "Starfish",
+                        "Crab",
+                        "Lobster",
+                        "Squid"
+                    ],
+                    "answer": "Starfish",
+                    "explanation": "Many starfish species can regenerate lost arms, and some can even regenerate an entire body from a single detached arm."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which deep-sea creature, known as a 'living fossil', has remained largely unchanged for hundreds of millions of years?",
+                    "options": [
+                        "Coelacanth",
+                        "Anglerfish",
+                        "Giant squid",
+                        "Hagfish"
+                    ],
+                    "answer": "Coelacanth",
+                    "explanation": "The coelacanth is often called a 'living fossil' because it closely resembles fossils dating back hundreds of millions of years."
+                },
+                {
+                    "question": "Which marine creature has the largest eyes of any animal on Earth, relative to body size, used to detect light in the deep ocean?",
+                    "options": [
+                        "Giant squid",
+                        "Blue whale",
+                        "Great white shark",
+                        "Sperm whale"
+                    ],
+                    "answer": "Giant squid",
+                    "explanation": "The giant squid has the largest eyes of any known animal, helping it detect faint light and predators in the deep sea."
+                },
+                {
+                    "question": "Which marine organism, technically a colony of specialized individual organisms rather than a single animal, includes the Portuguese man o' war?",
+                    "options": [
+                        "Siphonophore",
+                        "Coral",
+                        "Jellyfish",
+                        "Anemone"
+                    ],
+                    "answer": "Siphonophore",
+                    "explanation": "The Portuguese man o' war is a siphonophore, a colonial organism made of specialized, genetically identical individual zooids."
+                },
+                {
+                    "question": "Which fish species is capable of changing sex from female to male, a phenomenon seen in many wrasse and parrotfish species?",
+                    "options": [
+                        "Wrasse and parrotfish (sequential hermaphrodites)",
+                        "Tuna",
+                        "Salmon",
+                        "Cod"
+                    ],
+                    "answer": "Wrasse and parrotfish (sequential hermaphrodites)",
+                    "explanation": "Many wrasse and parrotfish species are sequential hermaphrodites, changing sex from female to male during their lifetime."
+                },
+                {
+                    "question": "Which extremophile ocean ecosystem, found near volcanic vents on the seafloor, supports life without sunlight using chemosynthesis?",
+                    "options": [
+                        "Hydrothermal vents",
+                        "Coral reefs",
+                        "Kelp forests",
+                        "Mangrove swamps"
+                    ],
+                    "answer": "Hydrothermal vents",
+                    "explanation": "Hydrothermal vent ecosystems rely on chemosynthetic bacteria that convert chemical energy from vent fluids into food, supporting life without sunlight."
+                },
+                {
+                    "question": "Which deep-diving marine mammal has been recorded diving deeper than nearly all other air-breathing animals, exceeding 2,500 meters?",
+                    "options": [
+                        "Cuvier's beaked whale",
+                        "Sperm whale",
+                        "Elephant seal",
+                        "Narwhal"
+                    ],
+                    "answer": "Cuvier's beaked whale",
+                    "explanation": "Cuvier's beaked whale holds records for the deepest and longest dives recorded among air-breathing marine mammals."
+                }
+            ]
+        }
+    },
+    "Insects and Reptiles": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "How many legs does an insect typically have?",
+                    "options": [
+                        "4",
+                        "6",
+                        "8",
+                        "10"
+                    ],
+                    "answer": "6",
+                    "explanation": "Insects are characterized by having six legs, among other defining features."
+                },
+                {
+                    "question": "Which insect is known for producing honey and living in organized colonies?",
+                    "options": [
+                        "Bee",
+                        "Ant",
+                        "Beetle",
+                        "Fly"
+                    ],
+                    "answer": "Bee",
+                    "explanation": "Bees produce honey and live in highly organized colonies with queens, workers, and drones."
+                },
+                {
+                    "question": "Which reptile is known for its ability to change colors and has a long, sticky tongue?",
+                    "options": [
+                        "Chameleon",
+                        "Iguana",
+                        "Gecko",
+                        "Lizard"
+                    ],
+                    "answer": "Chameleon",
+                    "explanation": "Chameleons are famous for changing color and using their long, sticky tongues to catch prey."
+                },
+                {
+                    "question": "Which insect undergoes complete metamorphosis, transforming from caterpillar to butterfly?",
+                    "options": [
+                        "Butterfly",
+                        "Grasshopper",
+                        "Cricket",
+                        "Cockroach"
+                    ],
+                    "answer": "Butterfly",
+                    "explanation": "Butterflies undergo complete metamorphosis: egg, larva (caterpillar), pupa, then adult butterfly."
+                },
+                {
+                    "question": "Which reptile has a hard shell and can retract its head and legs inside for protection?",
+                    "options": [
+                        "Turtle",
+                        "Snake",
+                        "Lizard",
+                        "Crocodile"
+                    ],
+                    "answer": "Turtle",
+                    "explanation": "Turtles have hard shells into which many species can retract their head and legs for protection."
+                },
+                {
+                    "question": "Which large reptile is known for its powerful bite and lives in rivers and swamps?",
+                    "options": [
+                        "Crocodile",
+                        "Snake",
+                        "Lizard",
+                        "Turtle"
+                    ],
+                    "answer": "Crocodile",
+                    "explanation": "Crocodiles are large aquatic reptiles known for their extremely powerful bite force."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which insect communicates through a 'waggle dance' to tell others the location of food?",
+                    "options": [
+                        "Honeybee",
+                        "Ant",
+                        "Termite",
+                        "Wasp"
+                    ],
+                    "answer": "Honeybee",
+                    "explanation": "Honeybees perform a waggle dance to communicate the direction and distance of food sources to other bees."
+                },
+                {
+                    "question": "Which reptile is venomous and uses heat-sensing pits to detect warm-blooded prey?",
+                    "options": [
+                        "Pit viper",
+                        "Gecko",
+                        "Iguana",
+                        "Skink"
+                    ],
+                    "answer": "Pit viper",
+                    "explanation": "Pit vipers have heat-sensing pits near their eyes that help them detect warm-blooded prey in the dark."
+                },
+                {
+                    "question": "Which insect group includes termites and is known for building large, complex mound colonies?",
+                    "options": [
+                        "Termites",
+                        "Beetles",
+                        "Dragonflies",
+                        "Moths"
+                    ],
+                    "answer": "Termites",
+                    "explanation": "Termites build large, complex mound colonies, some of which can be several meters tall."
+                },
+                {
+                    "question": "Which lizard can detach its tail to escape predators, later regrowing it?",
+                    "options": [
+                        "Many lizard species (autotomy)",
+                        "Crocodile",
+                        "Turtle",
+                        "Snake"
+                    ],
+                    "answer": "Many lizard species (autotomy)",
+                    "explanation": "Many lizards can shed their tails through a process called autotomy to escape predators, then regrow them."
+                },
+                {
+                    "question": "Which insect is known for its long migration spanning thousands of miles across North America?",
+                    "options": [
+                        "Monarch butterfly",
+                        "Honeybee",
+                        "Dragonfly",
+                        "Ladybug"
+                    ],
+                    "answer": "Monarch butterfly",
+                    "explanation": "Monarch butterflies migrate thousands of miles between North America and Mexico each year."
+                },
+                {
+                    "question": "Which reptile group, including iguanas and chameleons, is distinguished from snakes by typically having four legs and eyelids?",
+                    "options": [
+                        "Lizards",
+                        "Crocodilians",
+                        "Turtles",
+                        "Amphibians"
+                    ],
+                    "answer": "Lizards",
+                    "explanation": "Lizards typically have four legs and movable eyelids, distinguishing them from limbless, lidless snakes."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which insect undergoes incomplete metamorphosis, developing through nymph stages that resemble smaller versions of the adult?",
+                    "options": [
+                        "Grasshopper",
+                        "Butterfly",
+                        "Beetle",
+                        "Fly"
+                    ],
+                    "answer": "Grasshopper",
+                    "explanation": "Grasshoppers undergo incomplete (hemimetabolous) metamorphosis, with nymphs resembling smaller adults rather than passing through a pupal stage."
+                },
+                {
+                    "question": "Which reptile order includes tuataras, ancient reptiles found only in New Zealand that have changed little in over 200 million years?",
+                    "options": [
+                        "Rhynchocephalia",
+                        "Squamata",
+                        "Testudines",
+                        "Crocodilia"
+                    ],
+                    "answer": "Rhynchocephalia",
+                    "explanation": "Tuataras belong to the order Rhynchocephalia, a lineage that has remained relatively unchanged for over 200 million years."
+                },
+                {
+                    "question": "Which insect has the ability to survive being frozen solid in winter and reanimate when temperatures rise, a process called cryopreservation adaptation?",
+                    "options": [
+                        "Woolly bear caterpillar",
+                        "Honeybee",
+                        "Monarch butterfly",
+                        "Dragonfly"
+                    ],
+                    "answer": "Woolly bear caterpillar",
+                    "explanation": "The woolly bear caterpillar can survive being frozen solid through winter due to special antifreeze compounds in its body."
+                },
+                {
+                    "question": "Which snake species is the longest in the world, capable of reaching lengths over 6 meters?",
+                    "options": [
+                        "Reticulated python",
+                        "King cobra",
+                        "Black mamba",
+                        "Anaconda"
+                    ],
+                    "answer": "Reticulated python",
+                    "explanation": "The reticulated python is the longest snake species in the world, with some individuals exceeding 6 meters."
+                },
+                {
+                    "question": "Which group of insects has a caste system that includes a single reproductive queen, sterile workers, and in some species, soldiers, also seen in some termite and ant species?",
+                    "options": [
+                        "Eusocial insects (ants, bees, termites)",
+                        "Solitary bees",
+                        "Butterflies",
+                        "Beetles"
+                    ],
+                    "answer": "Eusocial insects (ants, bees, termites)",
+                    "explanation": "Eusocial insects like ants, certain bees, and termites have complex caste systems with reproductive and non-reproductive members."
+                },
+                {
+                    "question": "Which reptilian adaptation allows some lizard and snake species to detect infrared radiation from warm-bodied prey even in complete darkness?",
+                    "options": [
+                        "Specialized pit organs sensitive to infrared",
+                        "Enhanced color vision",
+                        "Ultraviolet vision",
+                        "Echolocation"
+                    ],
+                    "answer": "Specialized pit organs sensitive to infrared",
+                    "explanation": "Certain snakes, like pit vipers, have specialized organs that detect infrared radiation, effectively allowing them to 'see' heat."
+                }
+            ]
+        }
+    }
+}

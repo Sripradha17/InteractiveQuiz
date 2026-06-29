@@ -19,21 +19,20 @@ const ICONS = {
   trophy: `<svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#6c5ce7" stroke-width="1.6"><path d="M8 21h8M12 17v4M7 4h10v4a5 5 0 0 1-10 0V4z"/><path d="M7 5H4a2 2 0 0 0 0 4h1M17 5h3a2 2 0 0 1 0 4h-1" stroke-linecap="round"/></svg>`,
 };
 
-// Start quiz by loading data and displaying category selection
-async function startQuiz(selectedSubject) {
+// Start quiz by loading data (bundled in questions-data.js as window.QUIZ_DATA,
+// so this works whether the page is opened directly or served over http)
+// and displaying category selection
+function startQuiz(selectedSubject) {
   subject = selectedSubject;
-  try {
-    const response = await fetch(`../questions/${subject}.json`);
-    if (!response.ok) {
-      throw new Error(`Failed to load ${subject}.json`);
-    }
-    quizData = await response.json(); // Parse JSON
-    showCategory(subject);            // Show quiz categories
-    openModal();                      // Open modal dialog
-  } catch (error) {
-    console.error("Error starting quiz:", error);
+  const data = window.QUIZ_DATA?.[subject];
+  if (!data) {
+    console.error("No quiz data found for subject:", subject);
     alert("Could not load the quiz. Please try again later.");
+    return;
   }
+  quizData = data;
+  showCategory(subject); // Show quiz categories
+  openModal();            // Open modal dialog
 }
 
 // Show list of categories from the quiz JSON

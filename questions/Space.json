@@ -1,0 +1,834 @@
+{
+    "The Solar System": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Which planet is known as the Red Planet?",
+                    "options": [
+                        "Mars",
+                        "Venus",
+                        "Jupiter",
+                        "Mercury"
+                    ],
+                    "answer": "Mars",
+                    "explanation": "Mars appears red due to iron oxide (rust) covering much of its surface."
+                },
+                {
+                    "question": "Which planet is closest to the Sun?",
+                    "options": [
+                        "Mercury",
+                        "Venus",
+                        "Earth",
+                        "Mars"
+                    ],
+                    "answer": "Mercury",
+                    "explanation": "Mercury is the closest planet to the Sun in our solar system."
+                },
+                {
+                    "question": "Which is the largest planet in our solar system?",
+                    "options": [
+                        "Jupiter",
+                        "Saturn",
+                        "Neptune",
+                        "Earth"
+                    ],
+                    "answer": "Jupiter",
+                    "explanation": "Jupiter is the largest planet in the solar system by both mass and volume."
+                },
+                {
+                    "question": "What is Earth's only natural satellite called?",
+                    "options": [
+                        "The Moon",
+                        "Titan",
+                        "Europa",
+                        "Phobos"
+                    ],
+                    "answer": "The Moon",
+                    "explanation": "Earth has one natural satellite, simply called the Moon."
+                },
+                {
+                    "question": "Which planet is famous for its prominent rings?",
+                    "options": [
+                        "Saturn",
+                        "Mars",
+                        "Mercury",
+                        "Venus"
+                    ],
+                    "answer": "Saturn",
+                    "explanation": "Saturn is best known for its spectacular, extensive ring system made of ice and rock."
+                },
+                {
+                    "question": "What is the name of the star at the center of our solar system?",
+                    "options": [
+                        "The Sun",
+                        "Sirius",
+                        "Polaris",
+                        "Proxima Centauri"
+                    ],
+                    "answer": "The Sun",
+                    "explanation": "The Sun is the star at the center of our solar system, around which all planets orbit."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which planet has the shortest day, rotating fastest among all planets?",
+                    "options": [
+                        "Jupiter",
+                        "Saturn",
+                        "Earth",
+                        "Mars"
+                    ],
+                    "answer": "Jupiter",
+                    "explanation": "Jupiter rotates so fast that a day there lasts only about 10 hours, the shortest of any planet."
+                },
+                {
+                    "question": "Which dwarf planet, located in the Kuiper Belt, was reclassified from full planet status in 2006?",
+                    "options": [
+                        "Pluto",
+                        "Ceres",
+                        "Eris",
+                        "Haumea"
+                    ],
+                    "answer": "Pluto",
+                    "explanation": "Pluto was reclassified as a dwarf planet by the International Astronomical Union in 2006."
+                },
+                {
+                    "question": "Which planet has the most extreme temperature swings due to its lack of a substantial atmosphere?",
+                    "options": [
+                        "Mercury",
+                        "Venus",
+                        "Mars",
+                        "Neptune"
+                    ],
+                    "answer": "Mercury",
+                    "explanation": "Mercury's thin atmosphere causes extreme temperature swings between day and night."
+                },
+                {
+                    "question": "Which moon of Saturn has lakes and rivers of liquid methane on its surface?",
+                    "options": [
+                        "Titan",
+                        "Enceladus",
+                        "Mimas",
+                        "Iapetus"
+                    ],
+                    "answer": "Titan",
+                    "explanation": "Titan, Saturn's largest moon, has a thick atmosphere and surface lakes of liquid methane and ethane."
+                },
+                {
+                    "question": "Which planet is tilted on its side, with an axial tilt of about 98 degrees?",
+                    "options": [
+                        "Uranus",
+                        "Neptune",
+                        "Saturn",
+                        "Jupiter"
+                    ],
+                    "answer": "Uranus",
+                    "explanation": "Uranus has an extreme axial tilt of about 98 degrees, causing it to essentially rotate on its side."
+                },
+                {
+                    "question": "What is the asteroid belt primarily located between?",
+                    "options": [
+                        "Mars and Jupiter",
+                        "Earth and Mars",
+                        "Jupiter and Saturn",
+                        "Venus and Earth"
+                    ],
+                    "answer": "Mars and Jupiter",
+                    "explanation": "The main asteroid belt lies between the orbits of Mars and Jupiter."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which planet's atmosphere contains storms, including a giant storm called the Great Dark Spot, observed by Voyager 2?",
+                    "options": [
+                        "Neptune",
+                        "Uranus",
+                        "Jupiter",
+                        "Saturn"
+                    ],
+                    "answer": "Neptune",
+                    "explanation": "Neptune's Great Dark Spot was a massive storm observed by Voyager 2 in 1989, similar to Jupiter's Great Red Spot."
+                },
+                {
+                    "question": "Which Jovian moon is considered one of the most promising places to search for extraterrestrial life due to its subsurface ocean?",
+                    "options": [
+                        "Europa",
+                        "Io",
+                        "Ganymede",
+                        "Callisto"
+                    ],
+                    "answer": "Europa",
+                    "explanation": "Europa, a moon of Jupiter, has a subsurface ocean beneath its icy crust, making it a prime candidate for extraterrestrial life."
+                },
+                {
+                    "question": "What is the name of the phenomenon where Earth, the Sun, and the Moon align, causing the Moon to pass through Earth's shadow?",
+                    "options": [
+                        "Lunar eclipse",
+                        "Solar eclipse",
+                        "Equinox",
+                        "Solstice"
+                    ],
+                    "answer": "Lunar eclipse",
+                    "explanation": "A lunar eclipse occurs when Earth passes between the Sun and Moon, casting its shadow on the Moon."
+                },
+                {
+                    "question": "Which dwarf planet, the largest object in the asteroid belt, was visited by NASA's Dawn spacecraft?",
+                    "options": [
+                        "Ceres",
+                        "Pluto",
+                        "Eris",
+                        "Makemake"
+                    ],
+                    "answer": "Ceres",
+                    "explanation": "Ceres, the largest object in the asteroid belt, was studied up close by NASA's Dawn spacecraft."
+                },
+                {
+                    "question": "Which planet's magnetic field is tilted nearly 60 degrees from its rotational axis, an unusually large offset?",
+                    "options": [
+                        "Uranus",
+                        "Earth",
+                        "Jupiter",
+                        "Mars"
+                    ],
+                    "answer": "Uranus",
+                    "explanation": "Uranus has an unusually large offset between its magnetic field and rotational axis, around 60 degrees."
+                },
+                {
+                    "question": "Which icy outer solar system region, beyond Neptune, is home to many dwarf planets including Pluto and Eris?",
+                    "options": [
+                        "Kuiper Belt",
+                        "Asteroid belt",
+                        "Oort Cloud",
+                        "Heliosphere"
+                    ],
+                    "answer": "Kuiper Belt",
+                    "explanation": "The Kuiper Belt is a region of icy bodies beyond Neptune's orbit, home to Pluto, Eris, and many other dwarf planets."
+                }
+            ]
+        }
+    },
+    "Stars and Galaxies": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What is the name of the galaxy that contains our solar system?",
+                    "options": [
+                        "The Milky Way",
+                        "Andromeda",
+                        "Triangulum",
+                        "Whirlpool Galaxy"
+                    ],
+                    "answer": "The Milky Way",
+                    "explanation": "Our solar system is located within the Milky Way galaxy."
+                },
+                {
+                    "question": "What do we call a massive explosion that occurs at the end of a star's life?",
+                    "options": [
+                        "Supernova",
+                        "Black hole",
+                        "Nebula",
+                        "Eclipse"
+                    ],
+                    "answer": "Supernova",
+                    "explanation": "A supernova is a powerful explosion that occurs when certain stars reach the end of their life cycle."
+                },
+                {
+                    "question": "What is the closest star to Earth (other than the Sun)?",
+                    "options": [
+                        "Proxima Centauri",
+                        "Sirius",
+                        "Betelgeuse",
+                        "Polaris"
+                    ],
+                    "answer": "Proxima Centauri",
+                    "explanation": "Proxima Centauri is the closest known star to the Sun, located about 4.24 light-years away."
+                },
+                {
+                    "question": "What is a giant cloud of gas and dust in space, often where stars are born, called?",
+                    "options": [
+                        "Nebula",
+                        "Galaxy",
+                        "Asteroid",
+                        "Comet"
+                    ],
+                    "answer": "Nebula",
+                    "explanation": "A nebula is a vast cloud of gas and dust in space, often a site of star formation."
+                },
+                {
+                    "question": "What is the term for a region of space where gravity is so strong that nothing, not even light, can escape?",
+                    "options": [
+                        "Black hole",
+                        "Nebula",
+                        "Supernova",
+                        "Wormhole"
+                    ],
+                    "answer": "Black hole",
+                    "explanation": "A black hole has gravity so intense that nothing, including light, can escape once past its event horizon."
+                },
+                {
+                    "question": "What do we call a star pattern that forms a recognizable shape in the sky, like Orion?",
+                    "options": [
+                        "Constellation",
+                        "Galaxy",
+                        "Nebula",
+                        "Asteroid"
+                    ],
+                    "answer": "Constellation",
+                    "explanation": "A constellation is a recognizable pattern of stars, such as Orion or the Big Dipper."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What type of galaxy is the Milky Way classified as, based on its shape?",
+                    "options": [
+                        "Spiral galaxy",
+                        "Elliptical galaxy",
+                        "Irregular galaxy",
+                        "Lenticular galaxy"
+                    ],
+                    "answer": "Spiral galaxy",
+                    "explanation": "The Milky Way is classified as a barred spiral galaxy due to its rotating spiral arm structure."
+                },
+                {
+                    "question": "What is the name of the nearest large galaxy to the Milky Way, visible to the naked eye?",
+                    "options": [
+                        "Andromeda Galaxy",
+                        "Triangulum Galaxy",
+                        "Sombrero Galaxy",
+                        "Whirlpool Galaxy"
+                    ],
+                    "answer": "Andromeda Galaxy",
+                    "explanation": "The Andromeda Galaxy is the nearest large galaxy to the Milky Way and is visible to the naked eye on a clear night."
+                },
+                {
+                    "question": "What is the term for the point in a black hole beyond which nothing can escape its gravity?",
+                    "options": [
+                        "Event horizon",
+                        "Singularity",
+                        "Accretion disk",
+                        "Photon sphere"
+                    ],
+                    "answer": "Event horizon",
+                    "explanation": "The event horizon is the boundary around a black hole beyond which escape becomes impossible."
+                },
+                {
+                    "question": "What term describes a star's death where it sheds its outer layers, leaving behind a glowing shell of gas, typical of medium-sized stars like our Sun?",
+                    "options": [
+                        "Planetary nebula",
+                        "Supernova",
+                        "Black hole",
+                        "Pulsar"
+                    ],
+                    "answer": "Planetary nebula",
+                    "explanation": "Stars like the Sun end their lives by shedding outer layers into a glowing planetary nebula, leaving a white dwarf core."
+                },
+                {
+                    "question": "What is the densely packed remnant of a massive star's core after a supernova, made almost entirely of neutrons?",
+                    "options": [
+                        "Neutron star",
+                        "White dwarf",
+                        "Red giant",
+                        "Brown dwarf"
+                    ],
+                    "answer": "Neutron star",
+                    "explanation": "A neutron star is an extremely dense remnant core left after a massive star's supernova explosion."
+                },
+                {
+                    "question": "What process powers the Sun and most stars, fusing hydrogen into helium?",
+                    "options": [
+                        "Nuclear fusion",
+                        "Nuclear fission",
+                        "Combustion",
+                        "Radioactive decay"
+                    ],
+                    "answer": "Nuclear fusion",
+                    "explanation": "Stars generate energy through nuclear fusion, primarily fusing hydrogen nuclei into helium in their cores."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What is the term for a rapidly rotating neutron star that emits beams of electromagnetic radiation, observed as regular pulses?",
+                    "options": [
+                        "Pulsar",
+                        "Quasar",
+                        "Magnetar",
+                        "Blazar"
+                    ],
+                    "answer": "Pulsar",
+                    "explanation": "A pulsar is a highly magnetized, rotating neutron star that emits beams of radiation detected as regular pulses."
+                },
+                {
+                    "question": "What is the term for an extremely luminous active galactic nucleus powered by a supermassive black hole consuming surrounding matter?",
+                    "options": [
+                        "Quasar",
+                        "Pulsar",
+                        "Nova",
+                        "Cepheid variable"
+                    ],
+                    "answer": "Quasar",
+                    "explanation": "Quasars are extremely bright objects powered by supermassive black holes actively accreting matter at galactic centers."
+                },
+                {
+                    "question": "What term describes the theoretical large-scale structure of voids and filaments formed by galaxy clusters across the universe?",
+                    "options": [
+                        "Cosmic web",
+                        "Local Group",
+                        "Great Attractor",
+                        "Observable universe"
+                    ],
+                    "answer": "Cosmic web",
+                    "explanation": "The cosmic web describes the large-scale filamentary structure of galaxy clusters and voids spanning the universe."
+                },
+                {
+                    "question": "Which type of variable star has a predictable relationship between its pulsation period and luminosity, making it useful for measuring cosmic distances?",
+                    "options": [
+                        "Cepheid variable",
+                        "Red giant",
+                        "White dwarf",
+                        "Brown dwarf"
+                    ],
+                    "answer": "Cepheid variable",
+                    "explanation": "Cepheid variables have a period-luminosity relationship that astronomers use as a 'standard candle' to measure distances to other galaxies."
+                },
+                {
+                    "question": "What is the term for a neutron star with an extraordinarily powerful magnetic field, trillions of times stronger than Earth's?",
+                    "options": [
+                        "Magnetar",
+                        "Pulsar",
+                        "Quasar",
+                        "Blazar"
+                    ],
+                    "answer": "Magnetar",
+                    "explanation": "A magnetar is a type of neutron star with an exceptionally powerful magnetic field, far stronger than typical neutron stars."
+                },
+                {
+                    "question": "What cosmological phenomenon, predicted by general relativity and observed by LIGO in 2015, results from merging black holes or neutron stars?",
+                    "options": [
+                        "Gravitational waves",
+                        "Cosmic microwave background",
+                        "Redshift",
+                        "Dark energy"
+                    ],
+                    "answer": "Gravitational waves",
+                    "explanation": "Gravitational waves, ripples in spacetime predicted by Einstein, were first directly detected by LIGO in 2015 from merging black holes."
+                }
+            ]
+        }
+    },
+    "Space Exploration": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "Who was the first human to walk on the Moon?",
+                    "options": [
+                        "Neil Armstrong",
+                        "Buzz Aldrin",
+                        "Yuri Gagarin",
+                        "John Glenn"
+                    ],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong became the first person to walk on the Moon during the Apollo 11 mission in 1969."
+                },
+                {
+                    "question": "Which space agency is the United States' primary space exploration organization?",
+                    "options": [
+                        "NASA",
+                        "ESA",
+                        "Roscosmos",
+                        "JAXA"
+                    ],
+                    "answer": "NASA",
+                    "explanation": "NASA (National Aeronautics and Space Administration) is the United States' main space agency."
+                },
+                {
+                    "question": "Who was the first human to travel into space?",
+                    "options": [
+                        "Yuri Gagarin",
+                        "Neil Armstrong",
+                        "Alan Shepard",
+                        "John Glenn"
+                    ],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Soviet cosmonaut Yuri Gagarin became the first human in space in 1961."
+                },
+                {
+                    "question": "What is the name of the reusable spacecraft program used by NASA from 1981 to 2011?",
+                    "options": [
+                        "Space Shuttle",
+                        "Apollo",
+                        "Gemini",
+                        "Mercury"
+                    ],
+                    "answer": "Space Shuttle",
+                    "explanation": "NASA's Space Shuttle program operated reusable spacecraft from 1981 until its retirement in 2011."
+                },
+                {
+                    "question": "What is the name of the large space station currently orbiting Earth, built through international cooperation?",
+                    "options": [
+                        "International Space Station",
+                        "Mir",
+                        "Skylab",
+                        "Tiangong"
+                    ],
+                    "answer": "International Space Station",
+                    "explanation": "The International Space Station (ISS) is a habitable space station in low Earth orbit, built through cooperation among multiple countries."
+                },
+                {
+                    "question": "Which company, founded by Elon Musk, develops and launches reusable rockets?",
+                    "options": [
+                        "SpaceX",
+                        "Blue Origin",
+                        "Boeing",
+                        "Lockheed Martin"
+                    ],
+                    "answer": "SpaceX",
+                    "explanation": "SpaceX, founded by Elon Musk, pioneered reusable rocket technology to reduce the cost of spaceflight."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "Which NASA mission program first landed astronauts on the Moon?",
+                    "options": [
+                        "Apollo program",
+                        "Gemini program",
+                        "Mercury program",
+                        "Artemis program"
+                    ],
+                    "answer": "Apollo program",
+                    "explanation": "The Apollo program achieved the first crewed Moon landings, beginning with Apollo 11 in 1969."
+                },
+                {
+                    "question": "What was the name of the first artificial satellite launched into orbit by the Soviet Union in 1957?",
+                    "options": [
+                        "Sputnik 1",
+                        "Vostok 1",
+                        "Mir",
+                        "Salyut 1"
+                    ],
+                    "answer": "Sputnik 1",
+                    "explanation": "Sputnik 1, launched by the Soviet Union in 1957, was the first artificial satellite to orbit Earth."
+                },
+                {
+                    "question": "Which rover, launched by NASA in 2020, landed on Mars in 2021 and carried the Ingenuity helicopter?",
+                    "options": [
+                        "Perseverance",
+                        "Curiosity",
+                        "Opportunity",
+                        "Sojourner"
+                    ],
+                    "answer": "Perseverance",
+                    "explanation": "The Perseverance rover landed on Mars in February 2021 and carried the Ingenuity helicopter, the first aircraft to fly on another planet."
+                },
+                {
+                    "question": "Which NASA telescope, launched in 1990, has provided iconic deep-space images for decades?",
+                    "options": [
+                        "Hubble Space Telescope",
+                        "James Webb Space Telescope",
+                        "Kepler Space Telescope",
+                        "Chandra X-ray Observatory"
+                    ],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope, launched in 1990, has captured many iconic images of deep space over its long mission."
+                },
+                {
+                    "question": "What is the name of NASA's program aiming to return astronauts to the Moon, including the first woman?",
+                    "options": [
+                        "Artemis program",
+                        "Apollo program",
+                        "Orion program",
+                        "Constellation program"
+                    ],
+                    "answer": "Artemis program",
+                    "explanation": "NASA's Artemis program aims to return humans to the Moon, including landing the first woman on the lunar surface."
+                },
+                {
+                    "question": "Which spacecraft became the first human-made object to leave the solar system and enter interstellar space?",
+                    "options": [
+                        "Voyager 1",
+                        "Voyager 2",
+                        "Pioneer 10",
+                        "New Horizons"
+                    ],
+                    "answer": "Voyager 1",
+                    "explanation": "Voyager 1, launched in 1977, became the first human-made object to cross into interstellar space in 2012."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "Which spacecraft was the first to successfully land on a comet's surface, in 2014?",
+                    "options": [
+                        "Philae (Rosetta mission)",
+                        "Voyager 2",
+                        "Cassini",
+                        "New Horizons"
+                    ],
+                    "answer": "Philae (Rosetta mission)",
+                    "explanation": "The Philae lander, part of the European Space Agency's Rosetta mission, became the first spacecraft to land on a comet in 2014."
+                },
+                {
+                    "question": "Which NASA mission was the first to perform a powered, controlled flight of an aircraft on another planet?",
+                    "options": [
+                        "Ingenuity helicopter (Mars)",
+                        "Voyager program",
+                        "Cassini-Huygens",
+                        "InSight lander"
+                    ],
+                    "answer": "Ingenuity helicopter (Mars)",
+                    "explanation": "The Ingenuity helicopter, deployed by the Perseverance rover, achieved the first powered flight on another planet in 2021."
+                },
+                {
+                    "question": "Which space probe was the first to orbit and later crash-land into Saturn's atmosphere after a 13-year mission, also delivering a probe to Titan?",
+                    "options": [
+                        "Cassini-Huygens",
+                        "Voyager 1",
+                        "Galileo",
+                        "New Horizons"
+                    ],
+                    "answer": "Cassini-Huygens",
+                    "explanation": "Cassini orbited Saturn for 13 years and deployed the Huygens probe to land on Titan before deliberately deorbiting into Saturn in 2017."
+                },
+                {
+                    "question": "Which space telescope, launched in 2021, observes primarily in infrared and is designed to study the earliest galaxies in the universe?",
+                    "options": [
+                        "James Webb Space Telescope",
+                        "Hubble Space Telescope",
+                        "Spitzer Space Telescope",
+                        "Kepler Space Telescope"
+                    ],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope, launched in 2021, observes primarily in infrared, allowing it to study the earliest galaxies formed after the Big Bang."
+                },
+                {
+                    "question": "Which Soviet space station was the first long-term inhabited space research station in low Earth orbit, operational from 1986 to 2001?",
+                    "options": [
+                        "Mir",
+                        "Salyut 1",
+                        "Skylab",
+                        "Tiangong-1"
+                    ],
+                    "answer": "Mir",
+                    "explanation": "Mir, operated by the Soviet Union and later Russia, was a long-term space station in orbit from 1986 to 2001."
+                },
+                {
+                    "question": "Which mission was the first to achieve a soft landing on an asteroid and return a sample to Earth, completed by JAXA?",
+                    "options": [
+                        "Hayabusa",
+                        "Rosetta",
+                        "OSIRIS-REx",
+                        "Deep Impact"
+                    ],
+                    "answer": "Hayabusa",
+                    "explanation": "Japan's Hayabusa mission was the first to land on an asteroid and successfully return a sample to Earth, in 2010."
+                }
+            ]
+        }
+    },
+    "Astrophysics Basics": {
+        "levels": {
+            "Easy": [
+                {
+                    "question": "What force keeps planets in orbit around the Sun?",
+                    "options": [
+                        "Gravity",
+                        "Magnetism",
+                        "Friction",
+                        "Inertia"
+                    ],
+                    "answer": "Gravity",
+                    "explanation": "Gravity is the force that keeps planets in orbit around the Sun."
+                },
+                {
+                    "question": "What is the name for the path a planet follows around the Sun?",
+                    "options": [
+                        "Orbit",
+                        "Trajectory",
+                        "Axis",
+                        "Rotation"
+                    ],
+                    "answer": "Orbit",
+                    "explanation": "An orbit is the curved path an object follows around another object due to gravity."
+                },
+                {
+                    "question": "What term describes one complete spin of a planet on its own axis?",
+                    "options": [
+                        "Rotation",
+                        "Revolution",
+                        "Orbit",
+                        "Eclipse"
+                    ],
+                    "answer": "Rotation",
+                    "explanation": "Rotation refers to a planet spinning on its own axis, which determines the length of its day."
+                },
+                {
+                    "question": "What is the unit astronomers use to measure distances within the solar system, based on the Earth-Sun distance?",
+                    "options": [
+                        "Astronomical unit",
+                        "Light-year",
+                        "Parsec",
+                        "Kilometer"
+                    ],
+                    "answer": "Astronomical unit",
+                    "explanation": "An astronomical unit (AU) is defined as the average distance between Earth and the Sun, about 150 million kilometers."
+                },
+                {
+                    "question": "What is the term for the unit of distance light travels in one year, used to measure vast distances in space?",
+                    "options": [
+                        "Light-year",
+                        "Astronomical unit",
+                        "Parsec",
+                        "Mile"
+                    ],
+                    "answer": "Light-year",
+                    "explanation": "A light-year is the distance light travels in one year, roughly 9.46 trillion kilometers."
+                },
+                {
+                    "question": "What term describes the layer of gases surrounding a planet?",
+                    "options": [
+                        "Atmosphere",
+                        "Exosphere",
+                        "Magnetosphere",
+                        "Ionosphere"
+                    ],
+                    "answer": "Atmosphere",
+                    "explanation": "The atmosphere is the layer of gases that surrounds a planet, held in place by gravity."
+                }
+            ],
+            "Medium": [
+                {
+                    "question": "What term describes the shifting of light toward longer wavelengths as an object moves away from an observer, evidence for the expanding universe?",
+                    "options": [
+                        "Redshift",
+                        "Blueshift",
+                        "Doppler cooling",
+                        "Photon decay"
+                    ],
+                    "answer": "Redshift",
+                    "explanation": "Redshift occurs when light from a receding object stretches to longer wavelengths, providing key evidence for cosmic expansion."
+                },
+                {
+                    "question": "What is the term for the leftover radiation from the early universe, detectable in all directions of the sky?",
+                    "options": [
+                        "Cosmic microwave background",
+                        "Solar wind",
+                        "Gamma-ray burst",
+                        "Hawking radiation"
+                    ],
+                    "answer": "Cosmic microwave background",
+                    "explanation": "The cosmic microwave background is the faint, leftover thermal radiation from shortly after the Big Bang."
+                },
+                {
+                    "question": "What term describes the theoretical, currently unobservable form of matter that makes up about 27% of the universe's mass-energy content?",
+                    "options": [
+                        "Dark matter",
+                        "Dark energy",
+                        "Antimatter",
+                        "Plasma"
+                    ],
+                    "answer": "Dark matter",
+                    "explanation": "Dark matter is a form of matter that does not emit light but whose gravitational effects can be observed, making up about 27% of the universe."
+                },
+                {
+                    "question": "What is the name of the leading scientific theory describing the origin and expansion of the universe from an extremely hot, dense initial state?",
+                    "options": [
+                        "Big Bang theory",
+                        "Steady State theory",
+                        "Multiverse theory",
+                        "Inflation theory"
+                    ],
+                    "answer": "Big Bang theory",
+                    "explanation": "The Big Bang theory describes the universe's origin from an extremely hot, dense state roughly 13.8 billion years ago."
+                },
+                {
+                    "question": "What term describes the mysterious force believed to be causing the accelerating expansion of the universe?",
+                    "options": [
+                        "Dark energy",
+                        "Dark matter",
+                        "Gravitational lensing",
+                        "Cosmic inflation"
+                    ],
+                    "answer": "Dark energy",
+                    "explanation": "Dark energy is the term for the unknown force driving the accelerating expansion of the universe, making up about 68% of its content."
+                },
+                {
+                    "question": "What term describes the bending of light around a massive object, such as a galaxy, due to its gravity?",
+                    "options": [
+                        "Gravitational lensing",
+                        "Redshift",
+                        "Refraction",
+                        "Diffraction"
+                    ],
+                    "answer": "Gravitational lensing",
+                    "explanation": "Gravitational lensing occurs when a massive object's gravity bends light from objects behind it, as predicted by general relativity."
+                }
+            ],
+            "Hard": [
+                {
+                    "question": "What term describes the rapid exponential expansion of the universe in a fraction of a second after the Big Bang?",
+                    "options": [
+                        "Cosmic inflation",
+                        "Cosmic expansion",
+                        "Big Crunch",
+                        "Recombination"
+                    ],
+                    "answer": "Cosmic inflation",
+                    "explanation": "Cosmic inflation describes a theorized period of extremely rapid expansion in the first fraction of a second after the Big Bang."
+                },
+                {
+                    "question": "What term describes theoretical radiation predicted to be emitted by black holes due to quantum effects near the event horizon, named after the physicist who proposed it?",
+                    "options": [
+                        "Hawking radiation",
+                        "Cherenkov radiation",
+                        "Synchrotron radiation",
+                        "Cosmic ray flux"
+                    ],
+                    "answer": "Hawking radiation",
+                    "explanation": "Hawking radiation is theoretical radiation predicted by Stephen Hawking, arising from quantum effects near a black hole's event horizon."
+                },
+                {
+                    "question": "What term describes the epoch roughly 380,000 years after the Big Bang when electrons and protons combined to form neutral hydrogen, allowing light to travel freely?",
+                    "options": [
+                        "Recombination",
+                        "Inflation",
+                        "Nucleosynthesis",
+                        "Reionization"
+                    ],
+                    "answer": "Recombination",
+                    "explanation": "Recombination occurred about 380,000 years after the Big Bang, when the universe cooled enough for neutral atoms to form, releasing the cosmic microwave background."
+                },
+                {
+                    "question": "What term describes the theoretical process by which light elements such as helium were formed minutes after the Big Bang?",
+                    "options": [
+                        "Big Bang nucleosynthesis",
+                        "Stellar nucleosynthesis",
+                        "Recombination",
+                        "Inflation"
+                    ],
+                    "answer": "Big Bang nucleosynthesis",
+                    "explanation": "Big Bang nucleosynthesis describes the formation of light elements like helium and lithium in the first few minutes after the Big Bang."
+                },
+                {
+                    "question": "What is the term for the theoretical boundary in spacetime beyond which a black hole's gravity prevents anything, including light, from escaping?",
+                    "options": [
+                        "Event horizon",
+                        "Singularity",
+                        "Photon sphere",
+                        "Ergosphere"
+                    ],
+                    "answer": "Event horizon",
+                    "explanation": "The event horizon is the boundary surrounding a black hole beyond which nothing, including light, can escape its gravitational pull."
+                },
+                {
+                    "question": "What term describes the hypothetical ultimate fate of the universe in which its expansion eventually reverses, leading everything to collapse back together?",
+                    "options": [
+                        "Big Crunch",
+                        "Big Rip",
+                        "Heat death",
+                        "Big Bounce"
+                    ],
+                    "answer": "Big Crunch",
+                    "explanation": "The Big Crunch is a hypothetical scenario where the universe's expansion reverses, eventually collapsing everything back into a singularity."
+                }
+            ]
+        }
+    }
+}
