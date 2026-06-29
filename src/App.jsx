@@ -8,10 +8,6 @@ export default function App() {
 
   return (
     <>
-      <div className="bg-blob blob-1" aria-hidden="true" />
-      <div className="bg-blob blob-2" aria-hidden="true" />
-      <div className="bg-blob blob-3" aria-hidden="true" />
-
       <h1 className="title">Choose a Quiz Category</h1>
 
       <CategoryGrid subjects={SUBJECTS} onSelect={setOpenSubject} />

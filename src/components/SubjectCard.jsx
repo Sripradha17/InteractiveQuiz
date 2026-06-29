@@ -40,9 +40,6 @@ export default function SubjectCard({ subject, onSelect }) {
       }}
     >
       <div className="card-visual">
-        {/* Blurred, zoomed copy fills the card edge-to-edge behind the real image,
-            so the photo itself is never cropped regardless of its original aspect ratio. */}
-        <div className="card-bg" style={{ backgroundImage: `url(${src})` }} />
         <img className="card-image" src={src} alt={subject} />
       </div>
       <div className="card-content">
