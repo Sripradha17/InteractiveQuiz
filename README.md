@@ -1,101 +1,53 @@
+# Interactive Quiz App
 
-# 🧠 Interactive Quiz App
+A colorful, animated React quiz app covering 12 subjects (Science, History, Geography, Literature, Math, Sports, Technology, Movies, Music, Art, Animals, and Space). Pick a subject, a category, and a difficulty, then answer timed multiple-choice questions. Correct streaks earn confetti, sound effects (synthesized in-browser, no audio files), and after every answer two illustrated bots chat about a fun fact related to the question.
 
-An engaging, dynamic, and educational web-based quiz application built using vanilla JavaScript, HTML, and CSS. This app allows users to select a subject, choose a category within that subject, pick a difficulty level, and answer a series of timed multiple-choice questions. Scores are tracked, and fun facts or explanations are displayed after each question.
+## Features
 
----
+- 12 subjects, each with several categories and difficulty levels (Easy/Medium/Hard, plus Very Hard for Math)
+- Animated, color-themed cards on the home screen, each with its own idle motion (spinning atom, bouncing ball, twinkling planet, etc.) - all drawn in CSS/SVG, no image files
+- Timed questions with an animated countdown bar
+- Streak tracking with a flame badge, and confetti bursts on hot streaks and strong finishes
+- Two animated bot characters that discuss a fun fact after every answer
+- Sound effects generated with the Web Audio API (click, correct, incorrect, fanfare) with a mute toggle that persists across visits
+- Animated progress dots and a counting-up score reveal at the end of each quiz
 
-## 🚀 Features
+## Tech stack
 
-- 🎯 **Multiple Subjects**: Quiz data is loaded per subject (e.g., `Math`, `Science`, etc.)
-- 📂 **Category Selection**: Subjects contain multiple categories (e.g., `Algebra`, `Geometry`, etc.)
-- 📊 **Difficulty Levels**: Each category includes multiple difficulty levels like Easy, Medium, Hard, and Very Hard.
-- ⏳ **Timed Questions**: Each question has a countdown timer based on its difficulty.
-- ✅ **Answer Feedback**: Instant feedback with correct answer and a fun fact or explanation.
-- 🏁 **Final Score Summary**: Score is displayed at the end of the quiz.
-- 🧼 **Clean UI**: Modal-based UI keeps the experience focused and distraction-free.
-- 🔁 **Retry Option**: Users can go back and reselect categories or levels after finishing a quiz.
+- React 18 + Vite
+- Plain CSS (no UI framework) - all animation is hand-written CSS keyframes
+- Quiz content lives in `questions/*.json` and is bundled at build time via Vite's native JSON imports (no `fetch()`, so nothing breaks under restrictive setups)
 
----
-
-## 📁 Project Structure
+## Project structure
 
 ```
 InteractiveQuiz/
-│
-├── main/interactiveQuiz.html    # Main HTML file
-├── main/styles.css              # Styling for the quiz UI
-├── main/script.js               # Core quiz logic
-├── questions/
-│   ├── Math.json                # Example quiz data file
-│   ├── Science.json             # Add more subjects as needed
-│   └── ...
-└── images/                      # GIFs for each category
+├── index.html                 # Vite entry point
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── components/
+│   │   ├── CategoryGrid.jsx
+│   │   ├── SubjectCard.jsx
+│   │   ├── QuizModal.jsx      # categories -> levels -> questions -> end
+│   │   ├── BotConversation.jsx
+│   │   ├── ProgressDots.jsx
+│   │   ├── AnimatedScore.jsx
+│   │   ├── Confetti.jsx
+│   │   └── icons/             # subject icons, feedback icons, bot avatars
+│   ├── hooks/
+│   │   └── useSound.js        # Web Audio API sound effects + mute toggle
+│   ├── data/
+│   │   └── quizData.js        # imports and aggregates questions/*.json
+│   └── styles/
+│       └── index.css
+├── questions/                  # one JSON file per subject - the source of truth for quiz content
+└── .github/workflows/deploy.yml
 ```
 
----
+## Quiz data format
 
-## 🛠️ How It Works
-
-### 1. Load a Subject
-
-The quiz starts when a subject button is clicked. It fetches the corresponding JSON file from the `/questions/` directory:
-
-```javascript
-fetch(\`../questions/\${subject}.json\`)
-```
-
----
-
-### 2. Choose a Category
-
-Each subject JSON is structured with categories (e.g., `Algebra`, `Geometry`), which the user selects next.
-
-```json
-{
-  "Algebra": {
-    "levels": {
-      "Easy": [...],
-      "Medium": [...],
-      "Hard": [...]
-    }
-  }
-}
-```
-
----
-
-### 3. Pick a Difficulty Level
-
-After selecting a category, the user picks a difficulty (Easy, Medium, Hard, Very Hard), which adjusts the question timer:
-
-```javascript
-if (level === "Easy") timeLimit = 20;
-else if (level === "Medium") timeLimit = 30;
-// ...
-```
-
----
-
-### 4. Answer Questions
-
-Questions are displayed one at a time with multiple-choice options. The timer counts down, and feedback is provided after answering:
-
-- ✅ Correct answer: green
-- ❌ Wrong answer: red
-- ⏰ Time’s up: feedback shown
-
-Fun facts or explanations are displayed if available.
-
----
-
-### 5. Quiz Completion
-
-At the end of the quiz, a summary modal shows the user’s final score and a button to return to the category selection.
-
----
-
-## 📦 Sample JSON Format
+Each file in `questions/` is one subject, structured as categories -> difficulty levels -> questions:
 
 ```json
 {
@@ -115,41 +67,29 @@ At the end of the quiz, a summary modal shows the user’s final score and a but
 }
 ```
 
----
+`answer` must exactly match one of the strings in `options`. Either `fun_fact` or `explanation` (or both) is used by the bot conversation feature after each answer.
 
-## 🧪 Live Demo
+## Getting started
 
-> *(Include link here if hosted online using GitHub Pages, Vercel, Netlify, etc.)*
+```bash
+npm install
+npm run dev      # local dev server with hot reload
+npm run build    # production build into dist/
+npm run preview  # serve the production build locally
+```
 
----
+After editing any file in `questions/`, just restart/reload - Vite picks up JSON changes automatically in dev, and `npm run build` re-bundles them for production.
 
-## 📋 To-Do / Future Enhancements
+## Deployment
 
-- [ ] Add user authentication
-- [ ] Store scores and progress
-- [ ] Leaderboards
-- [ ] Sound effects
-- [ ] Visual timer progress bar
-- [ ] Mobile responsiveness improvements
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the app and publishes `dist/` to GitHub Pages automatically. In the repo's Settings -> Pages, the build/deployment source must be set to "GitHub Actions" (not "Deploy from a branch") for this to take effect.
 
----
+`vite.config.js` sets `base: "/InteractiveQuiz/"` to match the GitHub Pages project URL (`https://sripradha17.github.io/InteractiveQuiz/`). Update this if the repo is renamed or moved to a custom domain.
 
-## 🧑‍💻 Getting Started
+## License
 
-1. **Clone this repo**
-2. Place your quiz JSON files in the `questions/` folder
-3. Open `main/interactiveQuiz.html` in your browser or use a local server (required for `fetch` to load the JSON files in some browsers)
-4. Start playing!
+MIT License - feel free to use, modify, and share.
 
----
+## Credits
 
-## 📄 License
-
-MIT License – feel free to use, modify, and share!
-
----
-
-## 🙌 Credits
-
-Developed by Sripradha Vittal Bhat  
-Icons and emojis via [EmojiCopy](https://emojicopy.com/)  
+Developed by Sripradha Vittal Bhat.
